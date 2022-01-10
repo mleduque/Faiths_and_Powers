@@ -5,597 +5,590 @@
 @18 = ~Ce composant a été déprécié~
 //
 @20  = ~Créer un système de sphères~
-@21  = ~FnP: le système de sphère original de Faiths & Powers~
-@22  = ~AD&D: un système de sphères PnP plus traditionnel~
-@23  = ~Custom: a player-supplied custom sphere system~
-@24  = ~None: no sphere system, just vanilla-style kits~
+@21  = ~FnP : le système de sphèress original de Faiths & Powers~
+@22  = ~AD&D : un système de sphères PnP plus traditionnel~
+@23  = ~Personnalisé : un système de sphères fourni par le joueur~
+@24  = ~Aucun : pas de système de sphères, seulement le kits de style originels~
 //
-@29  = ~Give Option to Cast Like Sorcerers (do not install if planning to use 5E casting)~
-@31  = ~Install Cleric kits~
-@33  = ~Install Druid kits~
-@35  = ~Install Paladin kits~
-@37  = ~Install Ranger kits~
-@75  = ~Alter priests' weapon usability and proficiency~
-@80  = ~Apply sphere system~
-@85  = ~Apply FnP kits to NPCs~
-@91  = ~Multiclass Druids~
-@92  = ~Multiclass Shamans~
-@95  = ~Multiclass Cleric kits (install AFTER all other kit mods!!)~
-@99  = ~Apply FnP multiclass kits to NPCs~
+@29  = ~Donner l'option de lancer les sorts comme les Ensorceleur (ne pas installer si l'utilisation du lancer 5E est prévue)~
+@31  = ~Installer les kits de clerc~
+@33  = ~Installer les kits de druide~
+@35  = ~Installer les kts de paladin~
+@37  = ~Installer les kits de rôdeur~
+@75  = ~Modifier l'utilisabilité des armes et les compétences d'armes des prêtres~
+@80  = ~Appliquer le système de sphères~
+@85  = ~Appliquer les kits de FnP aux PNJ~
+@91  = ~Druides multiclassés~
+@92  = ~Chamans multiclassés~
+@95  = ~Kits de clerc multiclassés (installer après les autres mods de kits !!)~
+@99  = ~Appliquer les kits multiclassés de FnP aux PNJ~
 //
 //
-@100  = ~Select an installation method below:~
-@101  = ~ALL the new kits, the kit selection dialogue, and the sphere system ('radical version')~
-@102  = ~install everything (as designated in settings.ini)~
-@103  = ~choose components individually~
-@105  = ~no new kits - JUST install the sphere system~
-@110  = ~Change item usability for priests~
-@121  = ~Choose how to learn and cast spells~
-@122  = ~Cast priest spells spontaneously~
-@123  = ~No change, cast priest spells normally~
-@124  = ~Cast priest spells spontaneously?~
-@125  = ~Confirmed, cast spontaneously.~
-@126  = ~Cast priest spells normally?~
-@127  = ~Confirmed, no change, cast spells normally.~
-@128  = ~Reconsider~
-@141  = ~Change known spell~
-@142  = ~Do not change any spells~
-@143  = ~Change this spell~
-@144  = ~Change a different spell~
+@100  = ~Choisir une des méthodes d'installation ci-dessous :~
+@101  = ~TOUS les nouveaux kits, le dialogue se sélection de kits et le système de sphères ("version radicale")~
+@102  = ~tout installer (comme décrit dans le fichier settings.ini)~
+@103  = ~choisir les composants individuellement~
+@105  = ~pas de nouveaux kits - installer JUSTE le système de sphères~
+@110  = ~Modifier l'utilisabilité des objets pour les prêtres~
+@121  = ~Choisir comment apprendre et lancer des sorts~
+@122  = ~Lancer les sorts de prêtre de façon spontanée~
+@123  = ~Pas de changement, les prêtre lancent les sorts normalement~
+@124  = ~Lancer les sorts de prêtre spontanément ?~
+@125  = ~Confirmé, lancer spontané.~
+@126  = ~Lancer les sorts de prêtre normalement ?~
+@127  = ~Confirmé, pas de changement, lancer de sorts normal.~
+@128  = ~Changer d'avis~
+@141  = ~Changer les sorts connus~
+@142  = ~Ne changer aucun sort~
+@143  = ~Changer ce sort~
+@144  = ~Changer un autre sort~
 //
-@200  = ~new and revised cleric kits~
+@200  = ~kits de clerc nouveaux et revisités~
 // 
 // INDEX:
 //
 // ... Cleric kits = 201-299
 //
-@201  = ~Add Cleric of Lathander~
-@202  = ~Add Cleric of Torm~
-@205  = ~Add Cleric of Tymora~
-@208  = ~Add Cleric of Helm~
-@209  = ~Add Cleric of Kelemvor~
-@210  = ~Add Cleric of Tempus~
-@212  = ~Add Cleric of Leira~
-@219  = ~Add Cleric of Loviatar~
-@224  = ~Add Cleric of Talos~
-@225  = ~Add Cleric of Cyric~
-@226  = ~Add Cleric of Umberlee~
+@201  = ~Ajouter le clerc de Lathandre~
+@202  = ~Ajouter le clerc de Torm~
+@205  = ~Ajouter le clerc de Tymora~
+@208  = ~Ajouter le clerc de Helm~
+@209  = ~Ajouter le clerc de Kelemvor~
+@210  = ~Ajouter le clerc de Tempus~
+@212  = ~Ajouter le clerc de Leïra~
+@219  = ~Ajouter le clerc de Loviatar~
+@224  = ~Ajouter le clerc de Talos~
+@225  = ~Ajouter le clerc de Cyric~
+@226  = ~Ajouter le clerc d'Umberlee~
 //
 // ... Priest kits = 301-350
 //
-@310  = ~Add Priest of Oghma~
-@314  = ~Add Priest of Ilmater~
-@315  = ~Add Priest of Deneir~
-@316  = ~Add Priest of Sune~
-@322  = ~Add Priest of Tempus~
-@325  = ~Add Priest of Azuth~
-@330  = ~Add Priest of Shar~
-@331  = ~Add Priest of Moander~
-@332  = ~Add Priest of Beshaba~
+@310  = ~Ajouter le prêtre de Oghma~
+@314  = ~Ajouter le prêtre de Ilmater~
+@315  = ~Ajouter le prêtre de Déneïr~
+@316  = ~Ajouter le prêtre de Sune~
+@322  = ~Ajouter le prêtre de Tempus~
+@325  = ~Ajouter le prêtre d'Azouth~
+@330  = ~Ajouter le prêtre de Shar~
+@331  = ~Ajouter le prêtre de Moander~
+@332  = ~Ajouter le prêtre de Beshaba~
 //
 // ... Demihuman kits = 351-399
 //
-@351  = ~Add Cleric of Corellon Larethian~
-@352  = ~Add Cleric of Sehanine Moonbow~
-@353  = ~Add Cleric of Erevan Ilesere~
-@354  = ~Add Cleric of Hanali Celanil~
-@371  = ~Add Cleric of Moradin~
-@372  = ~Add Cleric of Clangeddin~
-@373  = ~Add Cleric of Marthammor Duin~
-@381  = ~Add Cleric of Garl Glitterlode~
-@382  = ~Add Cleric of Baervan Wildwanderer~
-@383  = ~Add Cleric of Baravar Cloakshadow~
-@384  = ~Add Cleric of Gaerdal Ironhand~
-@385  = ~Add Cleric of Urdlen~
-@391  = ~Add Cleric of Yondalla~
-@392  = ~Add Cleric of Arvoreen~
-@393  = ~Add Cleric of Brandobaris~
+@351  = ~Ajouter le clerc de Corellon Larethian~
+@352  = ~Ajouter le clerc de Sehanine Archelune~
+@353  = ~Ajouter le clerc d'Erevan Ilesere~
+@354  = ~Ajouter le clerc de Hanali Celanil~
+@371  = ~Ajouter le clerc de Moradin~
+@372  = ~Ajouter le clerc de Clangeddin~
+@373  = ~Ajouter le clerc de Marthammor Duin~
+@381  = ~Ajouter le clerc de Garl Brilledor~
+@382  = ~Ajouter le clerc de Baervan Ermiterrant~
+@383  = ~Ajouter le clerc de Baravar Sombretoge~
+@384  = ~Ajouter le clerc de Gaerdal Maindefer~
+@385  = ~Ajouter le clerc d'Urdlen~
+@391  = ~Ajouter le clerc de Yondalla~
+@392  = ~Ajouter le clerc de Arvoreen~
+@393  = ~Ajouter le clerc de Brandobaris~
 //
 // ... Incarnate kits = 401-449
 //
+// seems unused, no idea of the source material if any
 @405  = ~Add Incarnate of Mystra~
 //
 // ... multiclass kits = 450-499
 //
-@451  = ~Add Fighter/Druid~
-@452  = ~Add Ranger/Druid~
-@453  = ~Add Druid/Thief~
-@454  = ~Add Druid/Mage~
-@455  = ~Add Sorcerer/Druid~
-@469  = ~Add Priest of Mask~
-@477  = ~Add Cleric of Brandobaris~
+@451  = ~Ajouter le Guerrier/Druide~
+@452  = ~Ajouter le Rôdeur/Druide~
+@453  = ~Ajouter le Druide/Voleur~
+@454  = ~Ajouter le Druide/Mage~
+@455  = ~Ajouter le Ensorceleur/Druide~
+@469  = ~Ajouter le Prêtre de Mask~
+@477  = ~Ajouter le Clerc de Brandobaris~
 //
-@499  = ~install multiclass kits~
+@499  = ~installer des kits multiclassés~
 //
-@700  = ~new and revised druid kits~
+@700  = ~kits de druide nouveaux et revisités~
 //
 // ... Mystic kits = 701-730
 //
-@701  = ~Add Nature Mystic~
-@702  = ~Add Beast Mystic~
-@703  = ~Add Earth Mystic~
-@704  = ~Add Water Mystic~
-@705  = ~Add Air Mystic~
-@706  = ~Add Fire Mystic~
-@707  = ~Add Light Mystic~
-@708  = ~Add Shadow Mystic~
-@711  = ~Add Fate Mystic~
+@701  = ~Ajouter le mystique de la Nature~
+@702  = ~Ajouter le mystique des bêtes~
+@703  = ~Ajouter le mystique de la terre~
+@704  = ~Ajouter le mystique de l'eau~
+@705  = ~Ajouter le mystique de l'air~
+@706  = ~Ajouter le mystique du feu~
+@707  = ~Ajouter le mystique de la lumière~
+@708  = ~Ajouter le mystique de l'ombre~
+@711  = ~Ajouter le mystique du destin~
 //
 // ... Druid kits = 731-760
 //
-@731  = ~Add Forest Druid~
-@732  = ~Add Mountain Druid~
-@733  = ~Add Jungle Druid~
-@734  = ~Add Desert Druid~
-@735  = ~Add Arctic Druid~
-@736  = ~Add Cave Druid~
+@731  = ~Ajouter le druide forestier~
+@732  = ~Ajouter le druide des montagnes~
+@733  = ~AJouter le druide de la jungle~
+@734  = ~Ajouter le druide du désert~
+@735  = ~Ajouter le druide arctique~
+@736  = ~Ajouter le druide des cavernes~
 //
 // ... Occultist kits = 761-780
 //
-@761  = ~Add Ur-Priest~
-@762  = ~Add Beast Lord~
-@763  = ~Add Elementalist~
-@765  = ~Add Chaos Priest~
+@761  = ~Ajouter le prêtre Ur~
+@762  = ~Ajouter le seigneur des bêtes~
+@763  = ~Ajouter l'élémentaliste~
+@765  = ~Ajouter le prêtre du chaos~
 //
 @800  = ~new and revised paladin kits~
 //
 // ... Champion kits = 801-830
 //
-@801  = ~Add Champion of Tyr~
-@802  = ~Add Champion of Kelemvor~
-@803  = ~Add Champion of Tempus~
-@804  = ~Add Champion of Bane~
-@805  = ~Add Champion of Helm~
-@806  = ~Add Champion of Talos~
-@807  = ~Add Champion of Moradin~
-@808  = ~Add Champion of Azuth~
-@809  = ~Add Champion of the Red Knight~
+@801  = ~Ajouter le champion de Tyr~
+@802  = ~Ajouter le champion de Kelemvor~
+@803  = ~Ajouter le champion de Tempus~
+@804  = ~Ajouter le champion de Bane~
+@805  = ~Ajouter le champion de Helm~
+@806  = ~Ajouter le champion de Talos~
+@807  = ~Ajouter le champion de Moradin~
+@808  = ~Ajouter le champion d'Azouth~
+@809  = ~Ajouter le champion de la Cavalière Rouge~
 //
 // ... Inquisitor kits = 831-860
 //
-@831  = ~Add Inquisitor of ~
+@831  = ~Ajouter l'inquisiteur de ~
 //
 // ... Zealot kits = 861-880
 //
-@862  = ~Add Zealot of Gruumsh~
-@863  = ~Add Zealot of Talos~
-@864  = ~Add Zealot of Kossuth~
-@865  = ~Add Zealot of Ilmater~
-@866  = ~Add Zealot of Garagos~
-@867  = ~Add Zealot of Corellon Larethian~
-@868  = ~Add Zealot of Sune~
-@869  = ~Add Zealot of Mystra~
-@870  = ~Add Zealot of Eilistraee~
+@862  = ~Ajouter le zélote de Gruumsh~
+@863  = ~Ajouter le zélote de Talos~
+@864  = ~Ajouter le zélote de Kossuth~
+@865  = ~Ajouter le zélote de Ilmater~
+@866  = ~Ajouter le zélote de Garagos~
+@867  = ~Ajouter le zélote de Corellon Larethian~
+@868  = ~Ajouter le zélote de Sune~
+@869  = ~Ajouter le zélote de Mystra~
+@870  = ~Ajouter le zélote de Eilistraee~
 //
 //
-@900  = ~new and revised ranger kits~
+@900  = ~kits de rôdeur nouveaux et revisités.~
 //
 // ... ranger kits = 901-929
 //
-@901  = ~Add Forest Ranger~
-@902  = ~Add Mountain Ranger~
-@903  = ~Add Jungle Ranger~
-@904  = ~Add Desert Ranger~
-@905  = ~Add Arctic Ranger~
+@901  = ~Ajouter le rôdeur forestier~
+@902  = ~Ajouter le rôdeur des montagnes~
+@903  = ~AJouter le rôdeur de la jungle~
+@904  = ~Ajouter le rôdeur du désert~
+@905  = ~Ajouter le rôdeur arctique~
 //
 // ... dervish kits = 931-949
 //
-@932  = ~Add Beast Master~
-@933  = ~Add Earth Dervish~
-@934  = ~Add Water Dervish~
-@935  = ~Add Air Dervish~
-@936  = ~Add Fire Dervish~
-@937  = ~Add Light Dervish~
-@938  = ~Add Shadow Dervish~
+@932  = ~Ajouter le maître des bêtes~
+@933  = ~Ajouter le derviche de la terre~
+@934  = ~Ajouter le derviche de l'eau~
+@935  = ~Ajouter le derviche de l'air~
+@936  = ~Ajouter le derviche du feu~
+@937  = ~Ajouter le derviche de la lumière~
+@938  = ~Ajouter le derviche de l'ombre~
 //
 // ... scout kits = 951-969
 //
-@953  = ~Add Mage Hunter~
-@954  = ~Add Barbarian Ranger~
-@955  = ~Add Elven Archer~
-@956  = ~Add Halfling Slinger~
+@953  = ~Ajouter le chasseur de mages~
+@954  = ~Ajouter le rôdeur barbare~
+@955  = ~Ajouter l'archer elfe~
+@956  = ~Ajouter le frondeur petite-personne~
 //
 // ... sphere stuff
 //
-@997  = ~Acid Arrow~
-@998  = ~Summon Slimes~
-@999  = ~Acid Sheath~
-@1000  = ~Spell Selection~
-@1001  = ~This ability allows you to learn new spells~
-@1002  = ~- Access to the spheres of:~
-@1003  = ~- Focus access to the sphere of~
-@1004  = ~- Major access to the spheres of: All,~
-@1005  = ~- Minor access to the spheres of:~
-@1006  = ~Advantages:~
-@1007  = ~Abilities:~
-@1008  = ~Disadvantages:~
-@1009  = ~Restrictions:~
+@997  = ~Flèche acide~
+@998  = ~Convocation de Limons~
+@999  = ~Enveloppe acide~
+@1000  = ~Sélection de sorts~
+@1001  = ~Cette capacité vous permet d'apprendre de nouveaux sorts~
+@1002  = ~- Accès aux sphères de :~
+@1003  = ~- Accès focalisé sur les sphères de :~
+@1004  = ~- Accès majeur aux sphères de : Tout,~
+@1005  = ~- Accès mineur aux sphères de :~
+@1006  = ~Avantages :~
+@1007  = ~Capacités :~
+@1008  = ~Inconvénients :~
+@1009  = ~Restrictions :~
 // ... cleric
-@1010  = ~Abilities:~
+@1010  = ~Capacités :~
 // ... paladin
-@1016  = ~Abilities:~
+@1016  = ~Capacités :~
 // ... ranger
-@1021  = ~Abilities:~
+@1021  = ~Capacités :~
 // ... druid
-@1025  = ~Abilities:~
+@1025  = ~Capacités :~
 //
-@1100  = ~Memorize spells~
-@1101  = ~After choosing a deity to follow, you will gain access to spells within the spheres of magic - the domains - available to that deity. Once you choose which spells to memorize, using this scroll will allow you to memorize them instantly, without needing to rest. This may only be done once. Beware, if you wait too long, the scroll may disappear.~
+@1100  = ~Mémoriser des sorts~
+@1101  = ~Après avoir choisi une divinité à servir, vous obtiendrez l'accès à des sorts dans les sphères de magie (les domaines) accessibles à cess divinité. Quand vous aurez choisi les sorts à mémoriser, ce parchemin vous permettra de les mémoriser instantanément, sans avoir besoin de vous reposer. Ceci ne peut être fait qu'une seule fois. Attention, si vous attendez trop longtemps, le parchemin peut disparaître.~
 //
 // ... strings for new kits
 //
 // ... clerics:
 //
-@10001 = ~priest~
-@10002 = ~Cleric~
-@10003 = ~CLERIC~
-@10005 = ~CLERIC: The basic Cleric is an adventuring priest who promotes the principles and philosophy dear to <PRO_HISHER> deity. Though <PRO_HESHE> is both protector and healer, <PRO_HESHE> is not purely defensive-when enemies threaten, the Cleric is well suited to challenge them on their own ground and destroy them.
+@10001 = ~prêtre~
+@10002 = ~Clerc~
+@10003 = ~CLERC~
+@10005 = ~CLERC : Le clerc est un prêtre générique (de toutes les mythologies) qui guide les besoins spirituels d'une communauté. Il est à la fois un protecteur et un guérisseur. Cependant, il n'est pas purement défensif. Lorsqu'une créature maléfique se fait menaçante, le clerc est parfaitement armé pour la rechercher sur son propre terrain et la détruire. Il en va de même pour un clerc maléfique.
 
-CLASS FEATURES:
+CAPACITÉS :
 
-- May wear helmets.
-- May wear up to Chain Mail armor.
-- Deity Selection: All clerics must select a deity.  Deity selection determines sphere access, granted powers, and other bonuses.
-- May become Proficient (one slot) with the short sword, Dagger, War Hammer, Club, Spear, Flail, Mace, Quarterstaff, Crossbow, Dart, Sling, or any fighting style.
-- May Turn Undead.
-- May cast priest spells, but is limited to universal spells until <PRO_HESHE> selects <PRO_HISHER> deity.
-- Hit Die: d8~
-@10011 = ~fighter / priest~
-@10012 = ~Fighter / Priest~
-@10013 = ~FIGHTER/PRIEST~
-@10014 = ~FIGHTER/CLERIC~
-@10015 = ~FIGHTER/PRIEST: This character can use the abilities of a Fighter and a Priest, though weapons are restricted to only those allowed by the Priest's ethos. They may Specialize in, but not Master, any weapon they can use.~
-@10021 = ~mage / priest~
-@10022 = ~Mage / Priest~
-@10023 = ~MAGE/PRIEST~
-@10024 = ~CLERIC/MAGE~
-@10025 = ~MAGE/PRIEST: This character can use the abilities of a Priest and a Mage, though weapons are restricted to only those allowed by the Priest's ethos, and Mage spells cannot be cast while wearing armor.
+- Peut porter des casques.
+- Peut porter des armures jusqu'à la cotte de mailles.
+- Sélection de divinité : tous les clercs doivent choisir une divinité. La divinité détermine l'accès aux sphères, les pouvoirs accordés et d'autres bonus.
+- Peut devenir initié (1 étoile) avec l'épée courte, la dague, le marteau de guerre, le gourdin, la lance, le fléau d'armes, la masse, le bâton, les arbalètes, les fléchettes, la fronde ou dans tous les styles de combats.
+- Peut repousser les morts-vivants.
+- Peut lancer des sorts divins,mais est limité aux sorts universels jusqu'à ce qu'une divinité soit choisie.
+- Dés de vie : d8~
+@10011 = ~guerrier / prêtre~
+@10012 = ~Guerrier / Prêtre~
+@10013 = ~GUERRIER/PRÊTRE~
+@10014 = ~GUERRIER/CLERC~
+@10015 = ~GUERRIER/PRÊTRE: Ce personnage peut utiliser les capacités d'un guerrier et d'un prêtre, mais l'usage des armes est limité à celles autorisées par l'éthique du prêtre. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.~
+@10021 = ~mage / prêtre~
+@10022 = ~Mage / Prêtre~
+@10023 = ~MAGE/PRÊTRE~
+@10024 = ~CLERC/MAGE~
+@10025 = ~MAGE/PRÊTRE: Ce personnage peut utiliser les capacités d'un mage et d'un prêtre. Il ne peut cependant pas jeter de sorts de mage s'il porte une armure.
 
-Gnomes can choose this multi-class, but become Cleric/Illusionists by default. Gnomes are the only race that can combine a specialist Mage class in a multi-class.~
-@10031 = ~thief / priest~
-@10032 = ~Thief / Priest~
-@10033 = ~THIEF/PRIEST~
-@10034 = ~CLERIC/THIEF~
-@10035 = ~THIEF/PRIEST: This character can use the abilities of a Priest and a Thief, though weapons are restricted to only those allowed by the Priest's ethos. Thieving skills cannot be used while wearing more than studded leather armor.~
-@10041 = ~ranger / priest~
-@10042 = ~Ranger / Priest~
-@10043 = ~RANGER/PRIEST~
-@10044 = ~CLERIC/RANGER~
-@10045 = ~RANGER/PRIEST: This character can use the abilities of a Priest and a Ranger, though weapons are restricted to only those allowed by the Priest's ethos. This character may Specialize in, but not Master, any weapon they can use.~
-@10051 = ~mystic warrior~
-@10052 = ~Mystic Warrior~
-@10053 = ~MYSTIC WARRIOR~
-@10054 = ~FIGHTER/DRUID~
-@10055 = ~MYSTIC WARRIOR: This character can use the abilities of a Fighter and a Mystic, though weapons and armor are restricted to only those allowed by the Mystic's ethos. This character may Specialize in, but not Master, any weapon they can use.~
-@10100 = ~CLERIC: The Cleric is an adventuring priest who promotes the principles and philosophy dear to <PRO_HISHER> deity. Though <PRO_HESHE> is both protector and healer, <PRO_HESHE> is not purely defensive-when enemies threaten, the Cleric is well suited to challenge them on their own ground and destroy them.
+Les gnomes peuvent choisir cette multi-classe, mais deviennent clercs/illusionnistes par défaut. Les gnomes sont la seule race à pouvoir associer une classe de mage spécialisé à une multi-classe.~
+@10031 = ~voleur / prêtre~
+@10032 = ~Voleur / Prêtre~
+@10033 = ~VOLEUR/PRÊTRE~
+@10034 = ~CLERC/VOLEUR~
+@10035 = ~VOLEUR/PRÊTRE : Ce personnage peut utiliser les capacités d'un voleur et d'un prêtre, mais son armement est limité à ce que permet l'éthique du prêtre. Il ne peut cependant pas utiliser ses compétences de voleur s'il porte une armure supérieure à la besantine.~
+@10041 = ~rôdeur / prêtre~
+@10042 = ~Rôdeur / Prêtre~
+@10043 = ~RÔDEUR/PRÊTRE~
+@10044 = ~CLERC/RÔDEUR~
+@10045 = ~RÔDEUR/PRÊTRE: Ce personnage peut utiliser les capacités d'un rôdeur et d'un clerc, mais l'usage des armes est limité à celles autorisées par l'éthique du prêtre. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.~
+@10051 = ~guerrier mystique~
+@10052 = ~Guerrier mystique~
+@10053 = ~GUERRIER MYSTIQUE~
+@10054 = ~GUERRIER/DRUIDE~
+@10055 = ~GUERRIER MYSTIQUE : Ce personnage peut utiliser les capacités d'un guerrier et d'un mystique, mais l'usage des armes est limité à celles autorisées par l'éthique du prêtre. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.~
+@10100 = ~CLERC : Le clerc est un prêtre aventurier qui promeut les principes et la philosophie de sa divinité. Il est à la fois un protecteur et un guérisseur. Cependant, il n'est pas purement défensif. Lorsqu'une créature maléfique se fait menaçante, le clerc est parfaitement armé pour la rechercher sur son propre terrain et la détruire. Il en va de même pour un clerc maléfique.
 
-CLASS FEATURES:
+CAPACITÉS :
 
-- May wear helmets.
-- May wear up to Chain Mail armor.
-- Deity Selection: All clerics must select a deity.  Deity selection determines sphere access, granted powers, and other bonuses.
-- May become Proficient (one slot) with the short sword, Dagger, War Hammer, Club, Spear, Flail, Mace, Quarterstaff, Crossbow, Dart, Sling, or any fighting style.
-- May Turn Undead.
-- May cast priest spells, but is limited to universal spells until <PRO_HESHE> selects <PRO_HISHER> deity.
-- Hit Die: d8~
-@10101 = ~incarnate~
-@10102 = ~Incarnate~
-@10103 = ~INCARNATE: Often called, "Chosen", Incarnates are 'natural' priests, with little or no connection to any church hierarchy. It is less true to say that they choose their deity than they are 'chosen' by a given deity (whether they like it or not) for their temperament, and natural connection to divine magic. Often peasants, they typically have few skills or other special training.
+- Peut porter des casques.
+- Peut porter des armures jusqu'à la cotte de mailles.
+- Sélection de divinité : tous les clercs doivent choisir une divinité. La divinité détermine l'accès aux sphères, les pouvoirs accordés et d'autres bonus.
+- Peut devenir initié (1 étoile) avec l'épée courte, la dague, le marteau de guerre, le gourdin, la lance, le fléau d'armes, la masse, le bâton, les arbalètes, les fléchettes, la fronde ou dans tous les styles de combats.
+- Peut repousser les morts-vivants.
+- Peut lancer des sorts divins,mais est limité aux sorts universels jusqu'à ce qu'une divinité soit choisie.
+- Dés de vie : d8~
 
-Advantages:
-- Divine Favor: Incarnates gain special unique abilities that are not available to other clerics, including specialized priests of the same deity.
 
-Disadvantages:
-- Is not proficient with armor, shields or helmets.~
+@10104 = ~prêtre~
+@10105 = ~Prêtre~
+@10106 = ~PRÊTRE : Aussi connus sous les noms d'« archivistes » ou encore de « cloîtrés », les prêtres sont des clercs particulièrement pieux et studieux qui s'aventurent rarement hors des murs de leurs abbayes. Par contre, quand il partent à l'aventure, leurs compétences et leur sorts sont très utiles, même s'ils n'ont pas l'entraînement au combat de la plupart des clercs.
 
-@10104 = ~priest~
-@10105 = ~Priest~
-@10106 = ~PRIEST: Also known as "Archivists" or "Cloisters", Priests are especially pious and studious clerics that rarely venture beyond abbey walls. However, when they do go adventuring, their skills and spells are quite useful, even if they lack combat training typical of most clerics.
+CAPACITÉS :
 
-CLASS FEATURES:
+- Serviteur dévoué : les prêtre obtiennent toujours plus de sorts supplémentaires que les autres clercs servant la même divinité parce qu'ils ont passé des années à cultiver leur connexion avec cette divinité par le biais de rites et de la méditation. Ils gagnent un sorts de plus par niveau de sorts.
+- Focalisation de sphère : les prêtres ont accès aux sorts plus tôt que les autres clercs. Ils ont accès aux sorts de la sphère favorite de leur divinité un niveau plus tôt.
 
-- Devoted Servant: Priests always get more bonus spells than other clerics of the same deity as the have spent years cultivating a connection with that deity through rigorous ritual and meditation. As such, they gain +1 spell per spell level.
-- Sphere Focus: Priests gain access to spells earlier than other priests.  They gain access to spells one level earlier to their deity's favored sphere.
+Inconvénients :
+- Ne peut porter que des armures de cuir.
+- Ne gagne que 1d6 points de vie par niveau.
 
-Disadvantages:
-- Can only wear leather armors
-- Gains only d6 HD per level.
-
-Restrictions:
+Restrictions :
 ~
-@10107 = ~Select Deity~
+@10107 = ~Choisir une divinité~
 
-@10108 = ~Select Lathander~
-@10109 = ~Select Another Deity~
-@10110 = ~Select Helm~
-@10111 = ~Select Tymora~
-@10112 = ~Select Leira~
-@10113 = ~Select Loviatar~
-@10114 = ~Exit~
-@10115 = ~Select Mystra~
-@10116 = ~Select Ilmater~
-@10117 = ~Select Mask~
-@10118 = ~Select Shar~
-@10119 = ~Select Talos~
-@20001 = ~ur-priest~
-@20002 = ~Ur-Priest~
-@20003 = ~UR-PRIEST: Ur-Priests are heretical practitioners that have found a way to wrest divine power from the gods with the use of ancient and forbidden rituals.  As might be expected, this behavior is frowned upon by the gods, and Ur-Priests have to keep their profession secret or risk persecution or worse.
+@10108 = ~Choisir Lathandre~
+@10109 = ~Choisir une autre divinité~
+@10110 = ~Choisir Helm~
+@10111 = ~Choisir Tymora~
+@10112 = ~Choisir Leïra~
+@10113 = ~Choisir Loviatar~
+@10114 = ~Quitter~
+@10115 = ~Choisir Mystra~
+@10116 = ~Choisir Ilmater~
+@10117 = ~Choisir Mask~
+@10118 = ~Choisir Shar~
+@10119 = ~Choisir Talos~
+@20001 = ~prêtre-ur~
+@20002 = ~Prêtre-ur~
+@20003 = ~PRÊTRE-UR: Les prêtres-ur sont des pratiquants hérétiques qui ont découvert un moyen d'arracher aux dieux des pouvoirs divins en utilisant des rituels anciens et interdits. Comme on pourrait s'y attendre, ce genre des comportement est vu d'un mauvais œil par les dieux, et les prêtres-ur doivent garder leur profession secrète pour éviter la persécution, ou même pire encore.
 
-Advantages:
-- Sphere Access: Very high access.  The Ur-Priest gains major access to all spheres except the life, benediction, plant, animal and light spheres.
-- Sap the Spirit: Ur-Priests can use the same techniques to drain living beings of their divine essence in much the same way they do so from the gods; though, of course, mortals do not have much of a divine essence, and so the benefits of this ability are limited.
-This ability can be used once per day at fifth level.  The Ur-Priest can use Sap the Spirit an additional time per day at levels 10, 15 and 20.
+Avantages :
+- Accès aux sphères : haut niveau d'accès. Le prêtre-ur aun accès majeur à toutes les sphères sauf les sphères de vie, bénédiction, plantes, animaux et lumière.
+- Miner l'esprit : les prêtres-ur peuvent utiliser les mêmes techniques pour vider les êtres vivants de leur essence divine comme ils le feraient aux dieux. Comme les mortels ont peut d'essence divine, les bénéfices sont limités. Cette capacité peut être utilisée une fois par jour au niveau 5. Le prêtre-ur gagne une utilisation supplémentaire aux niveaux 10, 15 et 20.
 
-SAP THE SPIRIT: This ability deals 1d4 magic damage to a living target per 4 levels of the Ur-Priest (2d4 at 5th level; maximum 6d4 at 20th level).
-Beginning at 5th level, if the Ur-Priest kills a target with this ability, <PRO_HESHE> casts priest spells at +1 level for 5 rounds.  
-At 10th level, if the Ur-Priest kills a target with this ability, <PRO_HESHE> also gains the benefits of the spell, Wondrous Recall.
+MINER L'ESPRIT : cette aptitude inflige 1d4 points de dégâts magiques à une cible vivante tous les 4 niveaux de prêtre-ur (2d4 au niveau 5, maximum 6d4 au niveau 20).
+À partir du niveau 5, si le prêtre-ur tue une cible avec ce pouvoir, il lance les sorts à un niveau +1 pendant 5 rounds.
+À partir du niveau 10, si le prêtre-ur tue une cible avec ce pouvoir, il obtient aussi les effets du sort Souvenir merveilleux.
 
-Disadvantages:
-- Cannot Turn Undead
-- The rituals tax the Ur-Priest, making them more vulnerable to the effects of disease and magic.  They gain a -2 penalty to save vs. death and spells.
+Inconvénients :
+- Ne peut repousser les morts-vivants.
+- Les rituels éprouvent le prêtre-ur, ce qui les rend plus vulnérables à la maladie et à la magie. Ils ont une pénalité de -2 aux jets de sauvegarde contre la mort et contre les sorts.
 
-Deity access: None, despises the gods.
+Accès aux divinités : aucun, méprise les dieux.
 
-Restrictions: Cannot be of a good or lawful alignment~
+Restrictions : Ne peut être d'alignement bon ou loyal~
 
-@20004 = ~Sap the Spirit~
-@20005 = ~Sap the Spirit
-This ability deals 1d4 magic damage to a living target per 4 levels of the Ur-Priest (2d4 at 5th level; maximum 6d4 at 20th level).
-Beginning at 5th level, if the Ur-Priest kills a target with this ability, <PRO_HESHE> casts priest spells at +1 level for 5 rounds.  
-At 10th level, if the Ur-Priest kills a target with this ability, <PRO_HESHE> also gains the benefits of the spell, Wondrous Recall.~
+@20004 = ~Miner l'esprit~
+@20005 = ~Miner l'esprit
+Cette aptitude inflige 1d4 points de dégâts magiques à une cible vivante tous les 4 niveaux de prêtre-ur (2d4 au niveau 5, maximum 6d4 au niveau 20).
+À partir du niveau 5, si le prêtre-ur tue une cible avec ce pouvoir, il lance les sorts à un niveau +1 pendant 5 rounds.
+À partir du niveau 10, si le prêtre-ur tue une cible avec ce pouvoir, il obtient aussi les effets du sort Souvenir merveilleux.~
 
-@20006 = ~+1 casting level~
+@20006 = ~niveau de lanceur +1~
 
-@20101 = ~dawnbringer of lathander~
-@20102 = ~Dawnbringer of Lathander~
-@20103 = ~DAWNBRINGER OF LATHANDER: Dawnbringers are the representatives of Lathander, a widely worshiped deity of birth, renewal, health, and the dawn. Dawnbringers are especially vigilant foes of the undead, which they see as a plague upon the living, corrupting the life that is the gift of Lathander. They look to cleanse the world with Lathander's light, eradicating any undead with its purifying rays.
+@20101 = ~semeur d'aube de Lathandre~
+@20102 = ~Semeur d'aube de Lathandre~
+@20103 = ~SEMEUR D'AUBE DE LATHANDRE : Les semeurs d'aube sont les représentants de Lathandre, une divinité de la naissance, du renouveau, de la santé et de l'aube vénérée presque partout. Les semeurs d'aube sont des ennemis particulièrement vigilants des morts-vivants, qu'ils voient comme un fléau pour les vivants qui corrompt la vie, cadeau de Lathandre. Ils œuvrent à nettoyer le monde avec la lumière de Lathandre, à éradiquer tous les morts-vivants avec ses rayons purificateurs.
 
-Advantages:
-- Turns undead as a cleric four levels higher than their current level.
-- Can cast Boon of Lathander as a special ability once per day. The Dawnbringer gains an additional use at levels 4, 8, 12, 16 and 20.
+Avantages :
+- Repousse les morts-vivants comme un clerc ayant quatre niveaux de plus que leur niveau actuel.
+- Peut lancer Bienfait de Lathandre comme capacité spéciale une fois par jour. Le semeur d'aube obtient une utilisation supplémentaire aux niveaux 4, 8, 12 et 20.
 
-BOON OF LATHANDER: This spell lasts 1 round per level of the caster. It gives the caster a +1 bonus to attack and damage rolls, a +1 bonus to all Saving Throws, and 1 extra attack per round. It also protects the caster from level drain.
+BIENFAIT DE LATHANDRE : Ce sort dure un round par niveau du lanceur. Il accorde au lanceur un bonus de +1 aux jets d'attaque de de dégât, un bonus de +1 à tous les jets de sauvegarde et une attaque supplémentaire par round. Il protège aussi le lanceur contre l'absorption de niveaux.
 
-- Can cast False Dawn as a special ability once per day at 9th level. The Dawnbringer gains an additional use at levels 20 and 30. The ability functions as the cleric spell of the same name.
+- Peut lancer Aube illusoire comme capacité spéciale une fois par jour à partir du niveau 9. Le semeur d'aube obtient une utilisation supplémentaire aux niveaux 20 et 30. Le pouvoir fonctionne comme le sort de clerc du même nom.
 
-Restrictions:
-- Alignment: Any good, or lawful neutral.
+Restrictions :
+- Doit être d'alignement bon ou loyal neutre.
 ~
-@20104 = ~Hold Undead
-(Necromancy)
 
-Range: 35 ft.
-Duration: 2 rounds/level
-Casting Time: 3
-Area of Effect: 1 creature and any enemies within 10 ft.
-Saving Throw: Neg.
+// probably unused
+@20104 = ~Immobilisation des morts-vivants
+(Nécromancie)
 
-This spell holds 1d4 undead creatures rigidly immobile and in place for 12 or more rounds. The effect is centered on the victim selected by the caster. Any enemies within 10 ft. of the target are also affected. Those who succeed on their Saving Throws are totally unaffected by the spell. Held creatures cannot move or speak, but they remain aware of events around them and can use abilities not requiring motion or speech. Being held does not prevent the worsening of the subject's condition due to wounds.
+Portée : 10,5 m
+Durée : 2 rounds par niveau
+Temps d'incantation : 3
+Zone d'effet : 1 créature et tout ennemi dans un rayon de 3 m
+Jet de sauvegarde : annule
+
+Ce sort immobilise 1d4 créatures mortes-vivantes pendant 12 rounds au moins. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi situé dans un rayon de 1 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas la dégradation de la santé due aux blessures.
 ~
-@20105 = ~False Dawn
-Range: 0
-Duration: 5 rounds
-Casting Time: 9
-Area of Effect: 30-ft. radius
-Saving Throw: None
+@20105 = ~Aube illusoire
+Portée : 0
+Durée : 5 rounds
+Temps d'incantation : 9
+Zone d'effet : rayon de 9 m
+Jet de sauvegarde : aucun
 
-False Dawn calls into existence a bright reddish light, as if a sunrise were occurring, within the area of effect. All undead creatures within the area suffer 6d6 points of fire damage and are blinded on the round after the false dawn appears. There is no Saving Throw.
+Ce sort génère une lumière rouge brillante dans la zone d'effet, comme si le soleil se levait. Tous les morts-vivants touchés subissent 6d6 points de dégâts de feu.et sont aveuglés dans le round qui suit cette Aube illusoire. Aucun jet de sauvegarde n'est possible.
 ~
-@20107  = ~Hold Undead~
-@20108  = ~False Dawn~
+@20107  = ~Immobilisation des morts-vivants~
+@20108  = ~Aube illusoire~
 @20106  = ~~
 //
 //    CLERIC OF TORM
 //
-@20201 = ~hand of torm~
-@20202 = ~Hand of Torm~
-@20203 = ~HAND OF TORM: Hands seek to emulate their deity Torm, who is known for his steadfast loyalty and dedication to all that is good.  While a great many of his worshipers are Champions (known as Paladins or Holy Champions of Torm), as Torm is the patron of Paladinhood, Hands are no less fierce and loyal to the cause of their god (if slightly less martial).
+@20201 = ~main de Torm~
+@20202 = ~Main de Torm~
+@20203 = ~MAIN DE TORM : les mains cherchent à imiter leur divinité, Torm, qui est réputé pour sa loyauté inébranlable et son dévouement au bien. Même si beaucoup de ses fidèles sont des champions (paladins ou champions sacrés de Torm) parce que Torm est le patron des paladins, les mains n'en sont pas moins féroces et loyaux à la cause de leu dieu (même s'ils sont un peu moins martiaux).
 
-Advantages:
-- Hands are special among clerics in that they gain focus in the protection sphere.
-- Hands can cast Command as a spell like ability once per day.  <PRO_HESHE> can use this ability an additional time at levels 5, 10, 15, and 20.
-- Hands are able to gain proficiency in any weapon or fighting style.  They can gain 2 pips in sword and shield fighting style.
-- At 3rd level, a hand can cast detect evil as a spell like ability, once per day.  They gain an additional use of this ability at levels 7, 10, 13, 16 and 19.
-- At 4th level, a hand can cast protection from evil as a spell like ability once per day.  They can use this ability an additional time at levels 8, 12, 16 and 20.
+Avantages :
+- Les mains sont particulières parmi les clercs parce qu'ils obtiennent la focalisation dans la sphère de protection.
+- Peut lancer Injonction comme un pouvoir magique une fois par jour. Obtiennent une utilisation supplémentaire aux niveaux 5, 10,15 et 20.
+- Peut être initié (1 étoile) dans toutes les armes et tous les styles de combat et spécialisés (2 étoiles) dans le style de combat épée et bouclier.
+- Au niveau 3, peut lancer Détection du mal comme un pouvoir magique une fois par jour. Obtient une utilisation supplémentaire aux niveaux 7, 10, 13, 16 et 19.
+- Au niveau 4, peut lancer Protection contre le mal comme un pouvoir magique une fois par jour. Obtient une utilisation supplémentaire aux niveaux8, 12, 16 et 20.
 
-Restrictions:
-- Alignment: Lawful good, lawful neutral, or neutral good only.
+Restrictions :
+- Alignement: doit être loyal bon, loyal neutre ou neutre bon.
 ~
 
-@20501  = ~luckrider of tymora~
-@20502  = ~Luckrider of Tymora~
-@20503  = ~LUCKRIDER OF TYMORA: Also known as Lady Luck, Tymora is the goddess of good fortune. The sect of her clerics known as Luckriders eat, drink, and sleep luck. Confident to the point of cockiness, they enter battle recklessly, throwing caution to the wind and trusting in fate. Considering how many adventurers perish despite crafting meticulous strategies and plans, this is not a ridiculous position.
- 
-Advantages:
-- Luckriders are innately lucky, receiving the effects of the Luck spell permanently.
-- May cast an area-of-effect "Tymora's Luck" spell innately once per day, and once more for each 5 levels of experience gained.
+@20501  = ~chevaucheur de fortune de Tymora~
+@20502  = ~Chevaucheur de fortune de Tymora~
+@20503  = ~CHEVAUCHEUR DE FORTUNE DE TYMORA : Connue sous le nom de Dame Fortune, Tymora est la déesse de la Chance. Les membres de sa secte de clerc connus sous l'appellation de chevaucheurs de fortune mangent, boivent et dorment en s'en remettant à la chance. Confiants au point d'en paraître impertinents, ils partent à la bataille de façon téméraire, abandonnant toute prudence et s'en remettent au destin. Étant donné le nombre d'aventuriers qui ont péri malgré leurs stratégies et leurs plans préparés soigneusement, ce n'est pas un point de vue ridicule.
 
-TYMORA'S LUCK: The allies of this spellcaster gain extraordinary luck for the next 1 turn, receiving a +1 bonus to their saving throws, attack rolls, and minimum damage/healing rolls as well as +5% to all thieving skills. Furthermore, damage dice for all effects outside a weapon's base damage is reduced by 1. Finally, spells that offer saving throws to enemies are more likely to be effective: a spell that usually offers a saving throw with no penalty will instead offer a saving throw with a -2 penalty.
+Avantages :
+- Les chevaucheurs de fortune sont chanceux de façon innés et sont de façon permanente sous l'effet du sort Chance.
+- Peut lancer un sort de zone « Fortune de Tymora » de façon innée une fois par jour, et une fois de plus tous les 5 niveaux d'expérience.
 
-Restrictions:
-- Alignment: may not Lawful or Evil.
+FORTUNE DE TYMORA : les allés du lanceur de sort obtiennent une chance extraordinaire pendant le tour suivant, avec un bonus de +1 à leurs jets de sauvegarde, jets d'attaque et au minimum de leurs jets de dégâts et de soins, ainsi qu'un bonus de +5 % aux compétences de voleurs. De plus, le dé de dégâts pour tous les effets à part le dégât debase d'une arme est réduit de 1. Enfin, les sorts qui accordent un jet de sauvegarde aux ennemis ont plus de chances d'être efficaces : un sort qui normalement accorde un jet de sauvegarde sans pénalité accordera à la place un jet avec une pénalité de -2.
+
+Restrictions :
+- Alignement: ne peut être ni loyal ni mauvais.
 ~
-@20504  = ~LUCKRIDER OF TYMORA: Also known as Lady Luck, Tymora is the goddess of good fortune. The sect of her clerics known as Luckriders eat, drink, and sleep luck. Confident to the point of cockiness, they enter battle recklessly, throwing caution to the wind and trusting in fate. Considering how many adventurers perish despite crafting meticulous strategies and plans, this is not a ridiculous position.
+@20504  = ~CHEVAUCHEUR DE FORTUNE DE TYMORA : Connue sous le nom de Dame Fortune, Tymora est la déesse de la Chance. Les membres de sa secte de clerc connus sous l'appellation de chevaucheurs de fortune mangent, boivent et dorment en s'en remettant à la chance. Confiants au point d'en paraître impertinents, ils partent à la bataille de façon téméraire, abandonnant toute prudence et s'en remettent au destin. Étant donné le nombre d'aventuriers qui ont péri malgré leurs stratégies et leurs plans préparés soigneusement, ce n'est pas un point de vue ridicule.
 ~
 @20505  = ~~
-@20511  = ~Luck~
-@20513  = ~Tymora's Luck~
-@20514  = ~Tymora's Luck
+@20511  = ~Chance~
+@20513  = ~Fortune de Tymora~
+@20514  = ~Fortune de Tymora
 
-The allies of this spellcaster gain extraordinary luck for the next 1 turn, receiving a +1 bonus to their saving throws, attack rolls, and minimum damage/healing rolls as well as +5% to all thieving skills. Furthermore, damage dice for all effects outside a weapon's base damage is reduced by 1. Finally, spells that offer saving throws to enemies are more likely to be effective: a spell that usually offers a saving throw with no penalty will instead offer a saving throw with a -2 penalty.
+Les allés du lanceur de sort obtiennent une chance extraordinaire pendant le tour suivant, avec un bonus de +1 à leurs jets de sauvegarde, jets d'attaque et au minimum de leurs jets de dégâts et de soins, ainsi qu'un bonus de +5 % aux compétences de voleurs. De plus, le dé de dégâts pour tous les effets à part le dégât debase d'une arme est réduit de 1. Enfin, les sorts qui accordent un jet de sauvegarde aux ennemis ont plus de chances d'être efficaces : un sort qui normalement accorde un jet de sauvegarde sans pénalité accordera à la place un jet avec une pénalité de -2.
 ~
 //
 // ... cleric of helm:
 //
-@20801 = ~watcher of helm~
-@20802 = ~Watcher of Helm~
-@20803 = ~WATCHER OF HELM: Like their deity, Watchers of Helm are stern, dedicated, and loyal, perhaps to a fault.  Helm teaches that the right path is not always obvious, but the surest way to the right path is through the execution of duty.  As such, watchers of helm strive to do what they must despite the consequences, to themselves or even to others.  While othes may suggest that this supposed 'dedication' is nothing more than a fetish, the watcher has no time for such nonsense. They do not have the idle time to question; it is their duty to be ever alert for possible threats to cosmic order.   
+@20801 = ~sentinelle de Helm~
+@20802 = ~Sentinelle de Helm~
+@20803 = ~SENTINELLE DE HELM : Comme leur divinité, les sentinelles sont austères, dévoués et loyaux, peut-être à l'excès. Heaume professe que la voie à suivre n'est pas toujours évidente, mais que la façon la plus sûre de suivre la bonne voie, c'est d'accomplir son devoir. C'est ainsi que les sentinelles se consacrent à leur mission quelles qu'en soient les conséquences pour eux ou pour les autres. Quand d'autres insinuent que ce prétendu dévouement n'est rien d'autre qu'une obsession, les sentinelles s'en moquent. Ils n'ont pas le loisir de douter. Il est de leur devoir de toujours être vigilants pour répondre à des menaces à l'ordre cosmique.
 
-Advantages:
-- Watchers automatically gain a proficiency point in bastard , Helm's favored weapon.  Fighter clerics do not get this bonus, but they are able to gain mastery with the bastard sword.
-- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
-- Can cast Helm's eye as a special ability once per day at 9th level.  The watcher gains an additional use at levels 11, 13, 15, 17 and 19. Helm's eye is equivalent to the wizard spell, wizard eye.
-- Can cast Seeking Sword as a special ability once per day.  The Watcher gains an additional use at levels 4, 8, 12, 16 and 20.
+Avantages :
+- Gagne automatiquement un point de compétence en épée bâtarde, l'arme favorite de Helm.
+Les guerriers clercs n'obtiennent pas ce bonus, mais ils peuvent atteindre la maîtrise avec l'épée bâtarde.
+- Conscience augmentée : bonus de +1 à la classe d'armure et de +2 aux jets de sauvegarde contre les souffles.
+- Peut lancer Œil de Helm en tant que pouvoir spécial une fois par jour à partir du niveau 9. La sentinelle gagne une utilisation supplémentaire aux niveaux 11,13,15, 17 et 19. Œil de Helm est équivalent au sort profane Œil de magicien.
+- Peut lancer Épée animée comme pouvoir spécial une fois par jour. La sentinelle gagne une utilisation supplémentaire aux niveau 4, 8, 12, 16 et 20.
 
-SEEKING SWORD: This spell creates a sword in the Cleric's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus, but no damage bonus. It deals 2d4 damage to any target it hits. The weapon sets the Cleric's number of attacks per round to 3 and lasts for 1 round per level. While it is equipped, the wielder cannot cast further spells.
+ÉPÉE ANIMÉE : Ce sort fait apparaître une épée dans la main du prêtre (ne peut être lâchée ni rangée). Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4, mais pas de dégâts bonus. Attaque 3 fois par round, inflige 2d4 points de dégâts et dure 1 round par niveau du prêtre. Tant que le prêtre l'a en main, il ne peut pas lancer le moindre sort.
 
-Restrictions:
-- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
+Inconvénients :
+- Doit être d'alignement loyal bon, loyal neutre, loyal mauvais ou neutre strict.
 ~
 @20805  = ~~
-@20806 = ~Helm's Eye~
-@20807 = ~Helm's Eye
+@20806 = ~Œil de Helm~
+@20807 = ~Œil de Helm
 
-Range: Visual range of the caster
-Duration: 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Portée : champ visuel du lanceur
+Durée : 1 round par niveau
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : aucun
 
-When this spell is employed, the priest creates an invisible sensory organ that sends him visual information. Helm's Eye can see with normal vision up to 60 ft. away in brightly lit areas, and can travel in any direction as long as the spell lasts. It has substance and a form that can be detected (by a Detect Invisibility spell, for instance). Solid barriers prevent the passage of Helm's Eye. The powers of the eye cannot be enhanced by other spells or items. The caster is subject to any gaze attack met by the eye. A successful Dispel Magic spell cast on the wizard or the eye ends the spell.
+Lorsque ce sort est employé, le prêtre crée un organe sensitif invisible qui lui renvoie des informations visuelles. L'œil de Helm permet une vue normale dans un rayon de 18 m dans les zones bien éclairées. L'œil peut se déplacer dans n'importe quelle direction pendant la durée du sort. Sa substance et sa forme peuvent être détectées (par un sort de détection de l'invisibilité, par exemple). Les obstacles solides bloquent le passage d'un œil de Helm. Les pouvoirs de l'œil ne peuvent pas être améliorés par un autre sort ou un objet. Le laceur est vulnérable à toute attaque du regard subie par l'œil. Pour mettre fin à ce sort, il faut réussir un sort de Dissipation de la magie sur le lanceur ou sur l'œil.
 ~
 //
 // ... cleric of KELEMVOR:
 //
-@20901 = ~doomguide of kelemvor~
-@20902 = ~Doomguide of Kelemvor~
-@20903 = ~DOOMGUIDE OF KELEMVOR: Kelemvor is the most recent god of death.  He has proven to be quite different from Mykrul, the former god of death.  In particular, while the latter encouraged the creation of undead monstrosities, Kelevmor charges his clergy to actively destroy undead, seeing their existance as an unnatural perversion of the order of life and death.  As such, his clergy have become particularly talented undead slayers.
+@20901 = ~garde mortuaire de Kelemvor~
+@20902 = ~Garde mortuaire Kelemvor~
+@20903 = ~GARDE MORTUAIRE DE KELEMVOR : Kelemvor est le plus récent dieu de la mort. Il s'est montré bien différent de Mykrul, le dieu de la mort qui l'a précédé. Plus précisément, alors que son prédécesseur encourageait la création de monstruosités mortes-vivantes, Kelemvor charge son clergé de leur recherche et leur destruction, leur existence étant vu comme une perversion contre nature de la vie et de la mort.Pour cette raison, son clergé produit de destructeurs de morts-vivants particulièrement talentueux.
 
-Advantages:
-- Doomguides turn undead at 4 levels higher than a cleric of their level.
-- +4 to saves against death
-- At 7th level, the doomguide is protected as if with the Death Ward spell.  
-- At 11th level, the doomguide is protected as if with the Negative Plane Protection spell.
+Avantages :
+- Les gardes mortuaires repoussent les morts-vivants comme s'ils avait 4 niveaux de plus de clerc.
+- Bonus de +4 aux jets de sauvegarde contre la mort.
+- Au niveau 7, le garde mortuaire obtient une protection identique au sort Protection contre la mort.
+- AU niveau 11, le garde mortuaire obtient une protection identique au sort Protection contre le Plan Négatif.
 
-Restrictions:
-- Alignment: May not be evil or chaotic.
+Inconvénients :
+- Ne peut être d'alignement mauvais ou chaotique.
 ~
 //
 // ... cleric of tempus:
 //
-@21001 = ~battleguard of tempus~
-@21002 = ~Battleguard of Tempus~
-@21003 = ~BATTLEGUARD OF TEMPUS:  Tempus, also known as the Lord of Battles or the Foehammer, is random in his favors, yet his chaotic nature favors all sides equally. Lord Tempus may be on an army's side one day and against them the next; such is the nature of war. Tempuran clergy can be found on both sides of a conflict, as none can ever truly know whom the war god will favor.
+@21001 = ~guerroyeur de Tempus~
+@21002 = ~Guerroyeur of Tempus~
+@21003 = ~GUERROYEUR DE TEMPUS : Tempus, aussi nommé Seigneur des batailles ou Marteleur d'ennemis, est arbitraire dans ses faveurs, et pourtant sa nature chaotique offre la même faveur aux adversaires. Une armée peut avoir sa préférence un jour et sa défaveur le lendemain. La guerre est ainsi faite. Les membres du clergé de Tempus peuvent être présent des deux côtés d'une bataille, car personne ne peut vraiment prévoir qui le Seigneur des batailles va favoriser.
 
-Advantages:
-- Battleguards can be proficient with any weapon
-- Battleguards gain a +1 bonus to damage with any melee weapon.
-- Incite Rage: Battleguards can incite a berserker rage beginning at level 5, and again at levels 10, 15 and 20.  This ability is like the berserkers enrage, except that <PRO_HESHE> can incite this rage in <PRO_HIMHER>self or in others.
+Avantages :
+- Peut être initié (A étoile) dans toutes les armes.
+- Bonus aux dégâts de +1 avec toute arme de corps à corps.
+- Incitation à la rage : les guerroyeurs peuvent provoquer une rage de berserker au niveau 5, avec un usage supplémentaire aux niveaux 10,15 et 20. Ce pouvoir est identique à la rage du berserker, si ce n'est que le guerroyeur peut provoquer la rage sur lui-même ou sur les autres.
 
-Restrictions:
-- Alignment: No alignment restrictions.
+Inconvénients :
+- pas de restriction d'alignement.
 ~
-@21004 = ~Incite Rage~
+@21004 = ~Incitation à la rage~
 @21005 = ~~
-@21006 = ~Incite Rage
+@21006 = ~Incitation à la rage
 
-The character can incite range in <PRO_HIMHER>self or another. While enraged, the character gains a bonus of +2 to <PRO_HISHER> attack and damage rolls as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains 15 temporary Hit Points, which are taken away at the end of the berserk spree (possibly knocking the character unconscious).
+Le personnage peut provoquer un état de rage sur lui-même ou une autre personne. Sous cet état, le personnage gagne un bonus de +2 aux jets d'attaque et de dégâts, ainsi qu'à la classe d'armure, et devient immunisé contre les charmes, la confusion, la peur, la débilité mentale, l'immobilisation, l'emprisonnement, le drain de niveau, le labyrinthe, l'étourdissement et le sommeil. Il gagne également 15 points de vie temporaires, qui sont retirés à la fin de la furie, pouvant rendre le personnage inconscient.
 
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.~
 //
-// ... cleric of leira:
+// ... cleric of Leïra:
 //
-@21201  = ~mistwalker of leira~
-@21202  = ~Mistwalker of Leira~
-@21203  = ~MISTWALKER OF LEIRA: Leira is the goddess of deception and illusion. She was supposedly slain under mysterious circumstances during the Avatar crisis, but at least one sect of her worshippers, the Mistwalkers, continue to receive divine power. Lies are their currency, illusion is their tool.
+@21201  = ~marcheur des brumes de Leïra~ // invented translation
+@21202  = ~Marcheur des brumes de Leïra~
+@21203  = ~MARCHEUR DES BRUMES DE LEÏRA : Leïra est la déesse de la duperie et de l’illusion. Il semblerait qu'elle ait péri dans des circonstances mystérieuses pendant la Crise des Avatars, mais au moins une secte de ses suivants, les marcheurs des brumes, continue à recevoir des pouvoirs divins. Les mensonges sont leur monnaie et l'illusion est leur outil.
  
-Advantages:
-- May use the "Leira's Double" ability once every 5 rounds. Often used in emergencies, this causes an illusionary double of the cleric to spring into existence. If the cleric is being attacked, the double will absorb the first blow that lands, and disappear. At 6th level two doubles are created, and at 12th level one of the two doubles can actually wander away from the cleric to distract enemies. Mistwalkers may use this ability once per turn.
+Avantages :
+- Peut utiliser "Double de Leïra" une fois tous les cinq rounds. Souvent utilisé dans les situations d'urgence, ce pouvoir crée un double illusoire de clerc. Si le clerc est attaqué, le double va absorber le premier coup réussi et disparaître. Au niveau 6, deu doubles sont créés et au niveau 12, l'un des deux clones peut même s'éloigner du clerc pour distraire les ennemis Les marcheurs des brumes peuvent utiliser ce pouvoir une fois par tour.
 
-Restrictions:
-- May not dual-class to fighter.
-- Alignment: may not be Lawful.
+Inconvénients :
+- Ne peut jumeler vers la classe de guerrier.
+- Ne peut être d'alignement loyal.
 ~
-@21204  = ~MISTWALKER OF LEIRA: Leira is the goddess of deception and illusion. She was supposedly slain under mysterious circumstances during the Avatar crisis, but at least one sect of her worshippers, the Mistwalkers, continue to receive divine power. Lies are their currency, illusion is their tool.~
+@21204  = ~MARCHEUR DES BRUMES DE LEÏRA : Leïra est la déesse de la duperie et de l’illusion. Il semblerait qu'elle ait péri dans des circonstances mystérieuses pendant la Crise des Avatars, mais au moins une secte de ses suivants, les marcheurs des brumes, continue à recevoir des pouvoirs divins. Les mensonges sont leur monnaie et l'illusion est leur outil.~
 @21205  = ~~
-@21211  = ~Leira's Double~
-@21212  = ~Leira's Double~
+@21211  = ~Double de Leïra~
+@21212  = ~Double de Leïra~
 //
 // ... cleric of loviatar:
 //
-@21901  = ~paingiver of loviatar~
-@21902  = ~Paingiver of Loviatar~
-@21903  = ~PAINGIVER OF LOVIATAR: Known as The Maiden of Pain and The Willing Whip, loviatar is the evil goddess of agony. She is often seen as a cold-hearted bully, calculating and despotic; she revels in inflicting physical and psychological suffering. Her priests, known simply as "Paingivers" find freedom and power in such pain, and they seek to spread that gospel to others... regardless whether their victims are actually seeking such enlightenment.
+@21901  = ~tortionnaire de Loviatar~
+@21902  = ~Tortionnaire de Loviatar~
+@21903  = ~TORTIONNAIRE DE LOVIATAR: Connue sous les noms de Vierge des Douleurs ou de Grande Flagellatrice, Loviatar est la déesse maléfique de l'agonie. Elle est souvent décrite comme un persécutrice sans cœur, calculatrice et despotique. Elle se complaît à infliger des souffrances physiques et morales. Ses prêtres, simplement nommés "tortionnaires", trouvent liberté et puissance dans la douleur et œuvrent à transmettre ce point de vue aux autres... que leurs victimes recherchent ou non ce genre d'exaltation.
 
-Advantages:
-- Can use the Pain Touch ability at will.
+Avantages :
+- Peut utiliser le pouvoir Toucher douloureux à volonté.
 
-PAIN TOUCH: When the priest of Lovitar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When she touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
-The penalties and damage occurs over an excruciating period of 10 rounds.
-Pain touch remains activated indefinitely, but the Paingiver may suppress it as needed.
+TOUCHER DOULOUREUX : Quand le prêtre de Loviatar active cette aptitude, son seul toucher inflige des vagues de douleur chez toute créature dotée d'un système nerveux. Quand elle touche une créature, elle doit réussir un jet de sauvegarde contre la mort ou souffrir d'une pénalité de -2 à leur dextérité et de -4 au TAC0 pendant qu'elle se tord d'agonie, et se verra infliger 1 point de dégât non-létal toutes les 12 secondes.
+Les pénalités et les dégâts continuent pendant la durée atrocement longue de 10 rounds.
+Le toucher douloureux reste activé sans limite de durée, mais le tortionnaire peut la réprimer si nécessaire.
 
-- At 3rd level, Paingivers can use Loviatar's Caress once per day.  <PRO_HESHE> can use this ability one more time at levels 6, 9, 12, 15 and 18.
+- Au niveau 3, les tortionnaires peuvent utiliser Caresse de Loviatar une fois par jour. Ils gagnent une utilisation supplémentaire aux niveaux 6, 9, 12,15 et 18.
 
-LOVIATAR'S CARESS:
+CARESSE DE LOVIATAR : Quand le clerc utilise ce pouvoir, ses mains deviennent les instruments de Loviatar pendant quatre rounds. Il peut frapper avec une précision extraordinaire avec ses mains (+10 aux jet d'attaque) et inflige +2 points de dégâts par niveau jusqu'à un maximum de +20 au niveau 10. Ce sort se cumule avec les autres attaques à mains nues, comme le Toucher douloureux du prêtre.
 
-When the cleric uses this ability, <PRO_HISHER> hands become instruments of Lovitar for four rounds.  <PRO_HESHE> can strike with uncanny accuracy with <PRO_HISHER> hands (+10 to hit) and <PRO_HESHE> inflicts an additional +2 points of damage per level to a maximum of +20 points at 10th level.  This spell stacks with other unarmed attacks, such as the priest's pain touch.
-
-Restrictions:
-- May not be Good.
+Inconvénients :
+- Ne peut être d'alignement bon.
 ~
 @21905  = ~~
-@21911  = ~Pain Touch~
-@21912  = ~Pain Touch
-Duration: Special
-Saving Throw: Poison/Death
+@21911  = ~Toucher douloureux~
+@21912  = ~Toucher douloureux
+Durée : Spéciale
+Jet de sauvegarde : Poison/Mort
 
-When the priest of Lovitar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When <PRO_HESHE> touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
-The penalties and damage occurs over an excruciating period of 10 rounds.
+Quand le prêtre de Loviatar active cette aptitude, son seul toucher inflige des vagues de douleur chez toute créature dotée d'un système nerveux. Quand elle touche une créature, elle doit réussir un jet de sauvegarde contre la mort ou souffrir d'une pénalité de -2 à leur dextérité et de -4 au TAC0 pendant qu'elle se tord d'agonie, et se verra infliger 1 point de dégât non-létal toutes les 12 secondes.
+Les pénalités et les dégâts continuent pendant la durée atrocement longue de 10 rounds.
 
-Paingivers have have this touch indefinitely, but they can suppress it as needed.
+Le toucher douloureux reste activé sans limite de durée, mais le tortionnaire peut la réprimer si nécessaire.
 ~
-@21913  = ~Writhing in Pain~
-@21914  = ~Loviatar's Caress~
-@21915  = ~Loviatar's Caress
+@21913  = ~Se tord de douleur~
+@21914  = ~Caresse de Loviatar~
+@21915  = ~Caresse de Loviatar
 
-When the cleric uses this ability, <PRO_HISHER> hands become instruments of Lovitar for four rounds.  <PRO_HESHE> can strike with uncanny accuracy with <PRO_HISHER> hands (+10 to hit) and <PRO_HESHE> inflicts an additional +2 points of damage per level to a maximum of +20 points at 10th level.  This spell stacks with other unarmed attacks, such as the priest's pain touch.~
-@21916  = ~Suppress Pain Touch~
+Quand le clerc utilise ce pouvoir, ses mains deviennent les instruments de Loviatar pendant quatre rounds. Il peut frapper avec une précision extraordinaire avec ses mains (+10 aux jet d'attaque) et inflige +2 points de dégâts par niveau jusqu'à un maximum de +20 au niveau 10. Ce sort se cumule avec les autres attaques à mains nues, comme le Toucher douloureux du prêtre.~
+@21916  = ~Réprimer Toucher douloureux~
 //
 // ... cleric of Talos:
 //
-@22401 = ~stormbringer of talos~
-@22402 = ~Stormbringer of Talos~
-@22403 = ~STORMBRINGER OF TALOS: Stormbringers are clerics of Talos, the Destroyer, the Raging One, the Stormstar, the Storm Lord.  Talos is the dark side of nature, the uncaring and destructive force that lies waiting to strike at any time.  Stormbringers strive to make all fear Talos by showing the destruction that he and all his servants can cause.  As examples to all, Stormbringers tend to indulge in acts of random or spiteful destruction as they travel and to make examples of all folk who stand up to them.
+@22401 = ~déclencheur de tempêtes de Talos~
+@22402 = ~Déclencheur de tempêtes de Talos~
+@22403 = ~DÉCLENCHEUR DE TEMPÊTES DE  TALOS : Les déclencheurs de tempêtes sont des clerc de Talos, le Destructeur, l'Enragé, l'Étoile des Tempêtes, Seigneur des Tempêtes. Talos représente le côté sombre de la nature, le force destructrice et insensible qui se fait oublier et frappe à tout instant. Les déclencheurs de tempêtes font en sorte que tous craignent Talos en faisant preuve de la destruction que lui et ses serviteurs peuvent apporter. En guise d'exemple pour tous, les déclencheurs de tempêtes ont tendance à se livrer, dans leurs voyages, à des exercices de destruction malveillante et arbitraire et à faire des exemples de ceux qui osent s'opposer à eux.
 
-Advantages:
-- Talos' Favor: Stormbringers are 50% resistant to electricity damage.
-- Can cast Storm Shield as a special ablity once per day.  The Stormbringer gains an additional use at levels 4, 8, 12, 16 and 20.
+Avantages :
+- Faveur de Talos : les déclencheurs de tempêtes on uen résistance de 50 % à l'électricité.
+- Peut lancer Bouclier des tempêtes comme pouvoir spécial une fois par jour. Le déclencheur de tempêtes gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
-STORM SHIELD: This spell lasts 1 round per level of the caster. It protects the caster completely from lightning, fire, cold, and normal missiles.
 
-- Can cast Lightning Bolt as a special ability once per day at 9th level.  The stormbringer gains an additional use at levels 20 and 30.  The abilty functions as the wizard spell of the same name.
+BOUCLIER DES TEMPÊTES : Ce sort dure 1 round par niveau du lanceur. Il le protège contre l'électricité, le feu, le froid et les projectiles normaux.
 
-Restrictions:
-- Alignment: any evil or chaotic neutral
+- Peut lancer Éclair comme pouvoir spécial une fois par jour à partir du niveau 9. Le déclencheur de tempêtes gagne une utilisation supplémentaire aux niveaux 20 et 30. Le pouvoir fonctionne comme le sort profane du même nom.
+
+Inconvénients :
+- Alignement : tout mauvais ou chaotique neutre.
 ~
 @22405  = ~~
-@22406 = ~Lightning Bolt
-(Evocation)
+@22406 = ~Éclair
+(Évocation)
 
-Level: 3
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 3
-Area of Effect: Path of bolt
-Saving Throw: 1/2
-
-Upon casting this spell, the cleric releases a powerful stroke of energy that inflicts 1d6 points of electrical damage per level of the spellcaster to each creature within its area of effect (maximum damage of 10d6). A successful Save vs. Spell reduces this damage to half (round fractions down). When the lightning bolt intersects with a wall, it will rebound until it reaches its full length - hitting the same enemy multiple times, or even members of the caster's own party.~
+Niveau : 3
+Portée : portée visuelle du lanceur
+Durée : instantanée
+Temps d'incantation : 3
+Zone d'effet : spéciale
+Jet de sauvegarde : divise par deux
+En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau du lanceur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.- touchant le même ennemi plusieurs fois, ou parfois les membres du groupe du lanceur.~
 
 //
 // ... cleric of Cyric:
 //
-@22501 = ~sworn of cyric~
-@22502 = ~Sworn of Cyric~
-@22503 = ~THE SWORN OF CYRIC: The sworn of Cyric do what they can to appease their mad, fickle god.  In the meantime, they try to take what they can, when they can, before being smited either by their god, or one of their many victims.  
+@22501 = ~féal de Cyric~
+@22502 = ~Féal de Cyric~
+@22503 = ~FÉAL DE CYRIC : Les féaux de Cyric font de leur mieux pour apaiser leur dieu fou et capricieux. Ce faisant, ils en profitent pour prendre tout ce qu'ils peuvent, à chaque fois qu'ils peuvent, avant d'être châtiés soit par leur dieu, soit par l'une de leurs nombreuses victimes.
 
-Advantages:
-- +1 to save vs. Illusion spells
-- Sworn are completely fearless.  As such, they are not affected either by magical fear or moral failure.
-- At 5th level, the Sworn can cast Confusion as the 4th level wizard spell once per day.  They can cast this spell an additional time per day at levels 10, 15 and 20.
-- At 10th level, the Sworn can cast Feeblemind once per day as the wizard spell.  They gain an additional use of this ability at 20th and 30th level.
+Avantages :
+- Bonus de +1 aux jets de sauvegarde contre les sorts d'illusion.
+- Les féaux sont dénués de peur. Ils ne sont affectés ni par les terreurs magiques ni par les échecs de moral.
+- Au niveau 5, peut lancer Confusion, comme le sort profane de 4ème niveau, une fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 10, 15 et 20.
+- u niveau 10, peut lancer Débilité mentale, comme le sort profane, une fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 10 et 30.
 
-Restrictions:
-- Alignment: any evil or chaotic neutral
+Inconvénients :
+- Alignement: tout alignement mauvais ou chaotique neutre.
 ~
 //
 // ... cleric of Umberlee:
@@ -638,7 +631,7 @@ When this spell is cast, the caster is enabled to read the aura of a target crea
 //
 // ... priest of ilmater:
 //
-@31401  = ~painbearer of ilmater~
+@31401  = ~noble martyr d'Ilmater~
 @31402  = ~Painbearer of Ilmater~
 @31403  = ~PAINBEARER OF ILMATER:  Ilmater offers succor and calming words to those who are in pain, oppressed, or in great need.  He is the willing sufferer, the one who takes the place of another to bear their burden and take their pain.  Painbearers are often itinerant, traveling the land looking to assuage suffering wherever it may exist. They stick to their cause if they believe it is right, whatever the pain and peril, and strive to stand up to all tyrants.
 
@@ -662,12 +655,12 @@ The priest instills courage in the spell's recipients, raising their morale to i
 When the priest casts this spell, <PRO_HESHE> doubles the hit points of any creature that <PRO_HESHE> touches (including <PRO_HIMHER>self). In addition, the recipient of the spell gains a +2 to all saves.  The spell lasts for one turn.
 ~
 //
-// ... priest of deneir:
+// ... priest of Déneïr:
 //
 
-@31501  = ~glyphscribe of deneir~
-@31502  = ~Glyphscribe of Deneir~
-@31503  = ~GLYPHSCRIBE OF DENEIR:  Deneir is the patron of artists, scribes and cartographers.  He values the written word, and the information that that word carries, and so do his priests.
+@31501  = ~scribe des glyphes de Déneïr~
+@31502  = ~Glyphscribe of Déneïr~
+@31503  = ~GLYPHSCRIBE OF DÉNÉÏR :  Déneïr is the patron of artists, scribes and cartographers.  He values the written word, and the information that that word carries, and so do his priests.
 
 Advantages:
 - Glyphscribes are immune to all symbol spells, and the glyph of warding spell.
@@ -705,7 +698,7 @@ If the caster harms, or attempts to harm, the charmed person by some overt actio
 //
 // ... Broken Blades of Tempus
 //
-@32201 = ~broken blade of tempus~
+@32201 = ~lame brisée de Tempus~
 @32202 = ~Broken Blade of Tempus~
 @32203 = ~BROKEN BLADE OF TEMPUS:  Broken Blades honor Tempus by treating those wounded in battle.  Unlike Battleguards and Glorybloods, who are most frequently found on the front lines, it is more common to find a Broken Blades at the rear, treating and protecting the wounded.  Broken Blades are particulary millitant for priests, often weilding battle axes, and will be found defending any of Tempus's holy sites.
 
@@ -735,9 +728,9 @@ Multiple chants are not cumulative.
 //
 // ... priest of mystra:
 //
-@32401  = ~weavekeeper of mystra~
-@32402  = ~Weavekeeper of Mystra~
-@32403  = ~WEAVEKEEPR OF MYSTRA: Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. All wielders of magic and seekers after arcane lore are welcome in the service of Mystra. One sect of Mystra's clerics, known as Weavekeepers, is focused on investigating and controlling sources of powerful magic which, in the wrong hands, might harm the reputation and perception of magic use.
+@32401  = ~gardien de la toile de Mystra~
+@32402  = ~Gardien de la toile de Mystra~
+@32403  = ~GARDIEN DE LA TOILE DE MYSTRA : Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. All wielders of magic and seekers after arcane lore are welcome in the service of Mystra. One sect of Mystra's clerics, known as Weavekeepers, is focused on investigating and controlling sources of powerful magic which, in the wrong hands, might harm the reputation and perception of magic use.
 
 Advantages:
 - Weavekeepers have a small amount of magic flowing through them constantly, regardless whether they have spells memorized. They may cast small cantrips from the various schools of magic at any time, without limit.
@@ -763,9 +756,9 @@ Restrictions:
 //
 // ... priest of azuth:
 //
-@32501  = ~magistrati of azuth~
-@32502  = ~Magistrati of Azuth~
-@32503  = ~MAGISTRATI OF AZUTH: Azuth is a lesser deity who assists Mystra, the Mother of Magic, in tending to 'the Weave' that enables all magic in Faerun to exist. Azuthan clergy tend to love magic for its own sake. They have a natural familiarity with and access to wizard spells. Specialty priests of Azuth are known as Magistrati.
+@32501  = ~magistrat d'Azouth~
+@32502  = ~Magistrat d'Azouth~
+@32503  = ~MAGISTRAT D'AZOUTH : Azuth is a lesser deity who assists Mystra, the Mother of Magic, in tending to 'the Weave' that enables all magic in Faerun to exist. Azuthan clergy tend to love magic for its own sake. They have a natural familiarity with and access to wizard spells. Specialty priests of Azuth are known as Magistrati.
 
 Advantages:
 - From 5th level, once per day, a Magistrati can concentrate and briefly increase <PRO_HISHER> ability to understand and identify the workings of magical items.
@@ -820,8 +813,8 @@ Restrictions:
 //
 // ... priest of besheba:
 //
-@33201 = ~doommaster of beshaba~
-@33202 = ~Doommaster of Beshaba~
+@33201 = ~fatalisateur de Beshaba~
+@33202 = ~Fatalisateur de Beshaba~
 @33203 = ~DOOM<PRO_MASTERMISTRESS> OF BESHABA:  Beshaba, the maid of misfortune, is the jealous goddess of ill-fate.  Not worshiped so much as feared, she demands tribute, or at least lip service, else she is likey to doom those that offend her to a life of failure.  Her priests work to ensure that she her ego is adequately sated.
 
 Advantages:
@@ -842,8 +835,8 @@ This abilty curses the target, causing them a penalty of -10 penalty to THAC0, s
 //
 // ... talon of malar 
 //
-@33401 = ~talon of malar~
-@33402 = ~Talon of malar~
+@33401 = ~serre de Malar~
+@33402 = ~Serre de Malar~
 @33403 = ~TALON OF MALAR: Malar, god of the savage wild, is not a popular god with many devoted followers. Like Umberlee, he is invoked usually to prevent his intercession (usually heralded by wild beasts) as opposed to beseeching it. Malarite clergy members preach the joys and the bountiful yields of the hunt and work to thwart the expansion of farms and settlements, so as to preserve as much wilderness as possible.
 
 Advantages:
@@ -865,9 +858,9 @@ With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that l
 //
 // ... hammer of moradin 
 //
-@37101  = ~sonnlinor of moradin~
-@37102  = ~Sonnlinor of Moradin~
-@37103  = ~SONNLINOR OF MORADIN: Sonnlinor are the specialty priests of Moradin, the Soul Forger, the chief deity or the dwarven pantheon.  A harsh but fair judge, he is strength and force of will embodied.  His priests strive to restore the dwarven races to strong numbers and a position of influence in Faerun.  They believe that wisdom is derived from life tempered with experience and that they have an important role to lead the stout folk in the traditional ways laid down by the Soul Forger. 
+@37101  = ~sonnlinor de Moradin~
+@37102  = ~Sonnlinor de Moradin~
+@37103  = ~SONNLINOR DE MORADIN : Sonnlinor are the specialty priests of Moradin, the Soul Forger, the chief deity or the dwarven pantheon.  A harsh but fair judge, he is strength and force of will embodied.  His priests strive to restore the dwarven races to strong numbers and a position of influence in Faerun.  They believe that wisdom is derived from life tempered with experience and that they have an important role to lead the stout folk in the traditional ways laid down by the Soul Forger. 
 
 Advantages: 
 - Sonnlinor are unparalleled in the use and maintenance of war hammers. They have a +2 bonus to hit when attacking with a war hammer, and any war hammer they wield is considered to be of +3 enchantment for purposes of what enemies it can strike.
@@ -885,9 +878,9 @@ Restrictions:
 //
 // ... alaghor of clangeddin 
 //
-@37201  = ~alaghor of clangeddin~
-@37202  = ~Alaghor of Clangeddin~
-@37203  = ~ALAGHOR OF CLANGEDDIN: Alaghors are an elite order of fighter/clerics devoted to the dwarven god of war, Clangeddin. They are powerful warriors as well as wise ministers, protecting dwarven communities from threats both physical and spiritual. 
+@37201  = ~alaghor de Clangeddin~
+@37202  = ~Alaghor de Clangeddin~
+@37203  = ~ALAGHOR DE CLANGEDDIN : Alaghors are an elite order of fighter/clerics devoted to the dwarven god of war, Clangeddin. They are powerful warriors as well as wise ministers, protecting dwarven communities from threats both physical and spiritual. 
 
 Advantages: 
 - Once per day, an Alaghor may use the Stout Resistance power, gaining 35% resistance to physical attacks.  The protection lasts for one round per two levels of experience.
@@ -909,9 +902,9 @@ A warrior's intimate knowledge of vital spots on opponents allows <PRO_HIMHER> t
 //
 // ... priest of marthammor:
 //
-@37301  = ~volamtar of marthammor~
-@37302  = ~Volamtar of Marthammor Duin~
-@37303  = ~VOLAMTAR OF MARTHAMMOR DUIN: Known as the Finder of Trails, Marthammor is the dwarven patron of exploration, adventurers, and expatriate dwarves traveling outside dwarven lands.  
+@37301  = ~volamtar de Marthammor~
+@37302  = ~Volamtar de Marthammor Duin~
+@37303  = ~VOLAMTAR DE MARTHAMMOR DUIN : Known as the Finder of Trails, Marthammor is the dwarven patron of exploration, adventurers, and expatriate dwarves traveling outside dwarven lands.  
 
 Advantages:
 - From 1st level, Volamtar can innately use the Tracking ability, similar to a Rangers. They can also observe nearby paths and lands, an effect similar to the Clairvoyance spell.
@@ -928,17 +921,20 @@ With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that l
 //
 // ... priest of haela:
 //
-@37401  = ~kaxanar of haela brightaxe~
-@37402  = ~Kaxanar of Haela Brightaxe~
-@37403  = ~KAXANAR OF HAELA BRIGHTAXE: fluff
+// seems used but not installable
+@37401  = ~kaxanar de Haela Hachebrillante~
+@37402  = ~Kaxanar de Haela Hachebrillante~
+@37403  = ~KAXANAR DE HAELA HACHEBRILLANTE: 
+[fluff...]
 
-Advantages:
-- Kaxanar can be proficient with any weapon.
-- Kaxanar gain a +1 bonus to damage with any melee weapon.
-- Incite Rage: Battleguards can incite a berserker rage beginning at level 5, and again at levels 10, 15 and 20.  This ability is like the berserkers enrage, except that <PRO_HESHE> can incite this rage in <PRO_HIMHER>self or in others.
+Avantages :
+- Peut être initié avec toutes les armes.
+- Bonus de +1 aux dégâts avec toute arme de corps à corps.
 
-Restrictions:
-- Alignment: may not be Lawful.
+- Incitation à la rage : les guerroyeurs peuvent provoquer une rage de berserker au niveau 5, avec un usage supplémentaire aux niveaux 10,15 et 20. Ce pouvoir est identique à la rage du berserker, si ce n'est que le guerroyeur peut provoquer la rage sur lui-même ou sur les autres.
+
+Inconvénients :
+- ne peut pas êtr ed'alignement loyal.
 ~
 @37323  = ~Tracking~
 @37334  = ~Tracking
@@ -5411,3 +5407,15 @@ This spell holds 1 hostile animal rigidly immobile if it fails to save vs. Spell
 
 Paralyzed creatures are helpless and cannot dodge or defend themselves from attacks. Being held does not prevent the worsening of the subject's condition due to wounds, disease, or poison.~
 
+//untranslated
+
+// seems unused
+@10101 = ~incarnate~
+@10102 = ~Incarnate~
+@10103 = ~INCARNATE: Often called, "Chosen", Incarnates are 'natural' priests, with little or no connection to any church hierarchy. It is less true to say that they choose their deity than they are 'chosen' by a given deity (whether they like it or not) for their temperament, and natural connection to divine magic. Often peasants, they typically have few skills or other special training.
+
+Advantages:
+- Divine Favor: Incarnates gain special unique abilities that are not available to other clerics, including specialized priests of the same deity.
+
+Disadvantages:
+- Is not proficient with armor, shields or helmets.~
