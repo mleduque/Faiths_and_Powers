@@ -295,7 +295,7 @@ Disadvantages:
 CLASS FEATURES:
 
 - Devoted Servant: Priests always get more bonus spells than other clerics of the same deity as the have spent years cultivating a connection with that deity through rigorous ritual and meditation. As such, they gain +1 spell per spell level.
-- Sphere Focus: Priests gain access to spells earlier than other priests.  They gain access to spells one level earlier to their deity's favored sphere.
+- Sphere Focus: Priests gain access to spells earlier than other clerics.  They gain access to spells one level earlier to their deity's favored sphere.
 
 Disadvantages:
 - Can only wear leather armors
@@ -413,7 +413,7 @@ Advantages:
 TYMORA'S LUCK: The allies of this spellcaster gain extraordinary luck for the next 1 turn, receiving a +1 bonus to their saving throws, attack rolls, and minimum damage/healing rolls as well as +5% to all thieving skills. Furthermore, damage dice for all effects outside a weapon's base damage is reduced by 1. Finally, spells that offer saving throws to enemies are more likely to be effective: a spell that usually offers a saving throw with no penalty will instead offer a saving throw with a -2 penalty.
 
 Restrictions:
-- Alignment: may not Lawful or Evil.
+- Alignment: may not be Lawful or Evil.
 ~
 @20504  = ~LUCKRIDER OF TYMORA: Also known as Lady Luck, Tymora is the goddess of good fortune. The sect of her clerics known as Luckriders eat, drink, and sleep luck. Confident to the point of cockiness, they enter battle recklessly, throwing caution to the wind and trusting in fate. Considering how many adventurers perish despite crafting meticulous strategies and plans, this is not a ridiculous position.
 ~
@@ -429,10 +429,10 @@ The allies of this spellcaster gain extraordinary luck for the next 1 turn, rece
 //
 @20801 = ~watcher of helm~
 @20802 = ~Watcher of Helm~
-@20803 = ~WATCHER OF HELM: Like their deity, Watchers of Helm are stern, dedicated, and loyal, perhaps to a fault.  Helm teaches that the right path is not always obvious, but the surest way to the right path is through the execution of duty.  As such, watchers of helm strive to do what they must despite the consequences, to themselves or even to others.  While othes may suggest that this supposed 'dedication' is nothing more than a fetish, the watcher has no time for such nonsense. They do not have the idle time to question; it is their duty to be ever alert for possible threats to cosmic order.   
+@20803 = ~WATCHER OF HELM: Like their deity, Watchers of Helm are stern, dedicated, and loyal, perhaps to a fault.  Helm teaches that the right path is not always obvious, but the surest way to the right path is through the execution of duty.  As such, watchers of helm strive to do what they must despite the consequences, to themselves or even to others.  While others may suggest that this supposed 'dedication' is nothing more than a fetish, the watcher has no time for such nonsense. They do not have the idle time to question; it is their duty to be ever alert for possible threats to cosmic order.   
 
 Advantages:
-- Watchers automatically gain a proficiency point in bastard , Helm's favored weapon.  Fighter clerics do not get this bonus, but they are able to gain mastery with the bastard sword.
+- Watchers automatically gain a proficiency point in bastard swords, Helm's favored weapon.  Fighter clerics do not get this bonus, but they are able to gain mastery with the bastard sword.
 - Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
 - Can cast Helm's eye as a special ability once per day at 9th level.  The watcher gains an additional use at levels 11, 13, 15, 17 and 19. Helm's eye is equivalent to the wizard spell, wizard eye.
 - Can cast Seeking Sword as a special ability once per day.  The Watcher gains an additional use at levels 4, 8, 12, 16 and 20.
@@ -452,14 +452,14 @@ Casting Time: 9
 Area of Effect: Special
 Saving Throw: None
 
-When this spell is employed, the priest creates an invisible sensory organ that sends him visual information. Helm's Eye can see with normal vision up to 60 ft. away in brightly lit areas, and can travel in any direction as long as the spell lasts. It has substance and a form that can be detected (by a Detect Invisibility spell, for instance). Solid barriers prevent the passage of Helm's Eye. The powers of the eye cannot be enhanced by other spells or items. The caster is subject to any gaze attack met by the eye. A successful Dispel Magic spell cast on the wizard or the eye ends the spell.
+When this spell is employed, the priest creates an invisible sensory organ that sends him visual information. Helm's Eye can see with normal vision up to 60 ft. away in brightly lit areas, and can travel in any direction as long as the spell lasts. It has substance and a form that can be detected (by a Detect Invisibility spell, for instance). Solid barriers prevent the passage of Helm's Eye. The powers of the eye cannot be enhanced by other spells or items. The caster is subject to any gaze attack met by the eye. A successful Dispel Magic spell cast on the caster or the eye ends the spell.
 ~
 //
 // ... cleric of KELEMVOR:
 //
 @20901 = ~doomguide of kelemvor~
 @20902 = ~Doomguide of Kelemvor~
-@20903 = ~DOOMGUIDE OF KELEMVOR: Kelemvor is the most recent god of death.  He has proven to be quite different from Mykrul, the former god of death.  In particular, while the latter encouraged the creation of undead monstrosities, Kelevmor charges his clergy to actively destroy undead, seeing their existance as an unnatural perversion of the order of life and death.  As such, his clergy have become particularly talented undead slayers.
+@20903 = ~DOOMGUIDE OF KELEMVOR: Kelemvor is the most recent god of death.  He has proven to be quite different from Mykrul, the former god of death.  In particular, while the latter encouraged the creation of undead monstrosities, Kelemvor charges his clergy to actively destroy undead, seeing their existence as an unnatural perversion of the order of life and death.  As such, his clergy have become particularly talented undead slayers.
 
 Advantages:
 - Doomguides turn undead at 4 levels higher than a cleric of their level.
@@ -505,7 +505,7 @@ Advantages:
 Restrictions:
 - May not dual-class to fighter.
 - Alignment: may not be Lawful.
-~
+~ //once per turn or five rounds?
 @21204  = ~MISTWALKER OF LEIRA: Leira is the goddess of deception and illusion. She was supposedly slain under mysterious circumstances during the Avatar crisis, but at least one sect of her worshippers, the Mistwalkers, continue to receive divine power. Lies are their currency, illusion is their tool.~
 @21205  = ~~
 @21211  = ~Leira's Double~
@@ -515,12 +515,12 @@ Restrictions:
 //
 @21901  = ~paingiver of loviatar~
 @21902  = ~Paingiver of Loviatar~
-@21903  = ~PAINGIVER OF LOVIATAR: Known as The Maiden of Pain and The Willing Whip, loviatar is the evil goddess of agony. She is often seen as a cold-hearted bully, calculating and despotic; she revels in inflicting physical and psychological suffering. Her priests, known simply as "Paingivers" find freedom and power in such pain, and they seek to spread that gospel to others... regardless whether their victims are actually seeking such enlightenment.
+@21903  = ~PAINGIVER OF LOVIATAR: Known as The Maiden of Pain and The Willing Whip, Loviatar is the evil goddess of agony. She is often seen as a cold-hearted bully, calculating and despotic; she revels in inflicting physical and psychological suffering. Her priests, known simply as "Paingivers" find freedom and power in such pain, and they seek to spread that gospel to others... regardless whether their victims are actually seeking such enlightenment.
 
 Advantages:
 - Can use the Pain Touch ability at will.
 
-PAIN TOUCH: When the priest of Lovitar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When she touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
+PAIN TOUCH: When the priest of Loviatar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When she touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
 The penalties and damage occurs over an excruciating period of 10 rounds.
 Pain touch remains activated indefinitely, but the Paingiver may suppress it as needed.
 
@@ -528,7 +528,7 @@ Pain touch remains activated indefinitely, but the Paingiver may suppress it as 
 
 LOVIATAR'S CARESS:
 
-When the cleric uses this ability, <PRO_HISHER> hands become instruments of Lovitar for four rounds.  <PRO_HESHE> can strike with uncanny accuracy with <PRO_HISHER> hands (+10 to hit) and <PRO_HESHE> inflicts an additional +2 points of damage per level to a maximum of +20 points at 10th level.  This spell stacks with other unarmed attacks, such as the priest's pain touch.
+When the cleric uses this ability, <PRO_HISHER> hands become instruments of Loviatar for four rounds.  <PRO_HESHE> can strike with uncanny accuracy with <PRO_HISHER> hands (+10 to hit) and <PRO_HESHE> inflicts an additional +2 points of damage per level to a maximum of +20 points at 10th level.  This spell stacks with other unarmed attacks, such as the priest's pain touch.
 
 Restrictions:
 - May not be Good.
@@ -539,7 +539,7 @@ Restrictions:
 Duration: Special
 Saving Throw: Poison/Death
 
-When the priest of Lovitar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When <PRO_HESHE> touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
+When the priest of Loviatar activates this ability, her mere touch creates waves of pain for any creature with a nervous system.  When <PRO_HESHE> touches any creature, they must save vs death or suffer a -2 penalty to their dexterity and -4 to thac0 as they writhe in agony and will suffer 1 point of non-lethal damage every 12 seconds.
 The penalties and damage occurs over an excruciating period of 10 rounds.
 
 Paingivers have have this touch indefinitely, but they can suppress it as needed.
@@ -737,7 +737,7 @@ Multiple chants are not cumulative.
 //
 @32401  = ~weavekeeper of mystra~
 @32402  = ~Weavekeeper of Mystra~
-@32403  = ~WEAVEKEEPR OF MYSTRA: Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. All wielders of magic and seekers after arcane lore are welcome in the service of Mystra. One sect of Mystra's clerics, known as Weavekeepers, is focused on investigating and controlling sources of powerful magic which, in the wrong hands, might harm the reputation and perception of magic use.
+@32403  = ~WEAVEKEEPER OF MYSTRA: Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. All wielders of magic and seekers after arcane lore are welcome in the service of Mystra. One sect of Mystra's clerics, known as Weavekeepers, is focused on investigating and controlling sources of powerful magic which, in the wrong hands, might harm the reputation and perception of magic use.
 
 Advantages:
 - Weavekeepers have a small amount of magic flowing through them constantly, regardless whether they have spells memorized. They may cast small cantrips from the various schools of magic at any time, without limit.
@@ -843,7 +843,7 @@ This abilty curses the target, causing them a penalty of -10 penalty to THAC0, s
 // ... talon of malar 
 //
 @33401 = ~talon of malar~
-@33402 = ~Talon of malar~
+@33402 = ~Talon of Malar~
 @33403 = ~TALON OF MALAR: Malar, god of the savage wild, is not a popular god with many devoted followers. Like Umberlee, he is invoked usually to prevent his intercession (usually heralded by wild beasts) as opposed to beseeching it. Malarite clergy members preach the joys and the bountiful yields of the hunt and work to thwart the expansion of farms and settlements, so as to preserve as much wilderness as possible.
 
 Advantages:
@@ -930,7 +930,9 @@ With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that l
 //
 @37401  = ~kaxanar of haela brightaxe~
 @37402  = ~Kaxanar of Haela Brightaxe~
-@37403  = ~KAXANAR OF HAELA BRIGHTAXE: fluff
+@37403  = ~KAXANAR OF HAELA BRIGHTAXE: 
+
+[fluff...]
 
 Advantages:
 - Kaxanar can be proficient with any weapon.
