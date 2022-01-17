@@ -5,7 +5,7 @@
 @18 = ~Ce composant a été déprécié~
 //
 @20  = ~Créer un système de sphères~
-@21  = ~FnP : le système de sphèress original de Faiths & Powers~
+@21  = ~FnP : le système de sphères original de Faiths & Powers~
 @22  = ~AD&D : un système de sphères PnP plus traditionnel~
 @23  = ~Personnalisé : un système de sphères fourni par le joueur~
 @24  = ~Aucun : pas de système de sphères, seulement le kits de style originels~
@@ -13,7 +13,7 @@
 @29  = ~Donner l'option de lancer les sorts comme les Ensorceleur (ne pas installer si l'utilisation du lancer 5E est prévue)~
 @31  = ~Installer les kits de clerc~
 @33  = ~Installer les kits de druide~
-@35  = ~Installer les kts de paladin~
+@35  = ~Installer les kits de paladin~
 @37  = ~Installer les kits de rôdeur~
 @75  = ~Modifier l'utilisabilité des armes et les compétences d'armes des prêtres~
 @80  = ~Appliquer le système de sphères~
@@ -59,14 +59,14 @@
 @219  = ~Ajouter le clerc de Loviatar~
 @224  = ~Ajouter le clerc de Talos~
 @225  = ~Ajouter le clerc de Cyric~
-@226  = ~Ajouter le clerc d'Umberlee~
+@226  = ~Ajouter le clerc d'Umberlie~
 //
 // ... Priest kits = 301-350
 //
 @310  = ~Ajouter le prêtre de Oghma~
 @314  = ~Ajouter le prêtre de Ilmater~
 @315  = ~Ajouter le prêtre de Déneïr~
-@316  = ~Ajouter le prêtre de Sune~
+@316  = ~Ajouter le prêtre de Sunie~
 @322  = ~Ajouter le prêtre de Tempus~
 @325  = ~Ajouter le prêtre d'Azouth~
 @330  = ~Ajouter le prêtre de Shar~
@@ -88,14 +88,9 @@
 @384  = ~Ajouter le clerc de Gaerdal Maindefer~
 @385  = ~Ajouter le clerc d'Urdlen~
 @391  = ~Ajouter le clerc de Yondalla~
-@392  = ~Ajouter le clerc de Arvoreen~
+@392  = ~Ajouter le clerc d'Arvoreen~
 @393  = ~Ajouter le clerc de Brandobaris~
-//
-// ... Incarnate kits = 401-449
-//
-// seems unused, no idea of the source material if any
-@405  = ~Add Incarnate of Mystra~
-//
+
 // ... multiclass kits = 450-499
 //
 @451  = ~Ajouter le Guerrier/Druide~
@@ -112,8 +107,8 @@
 //
 // ... Mystic kits = 701-730
 //
-@701  = ~Ajouter le mystique de la Nature~
-@702  = ~Ajouter le mystique des bêtes~
+@701  = ~Ajouter le mystique de la nature~
+@702  = ~Ajouter le mystique bestial~
 @703  = ~Ajouter le mystique de la terre~
 @704  = ~Ajouter le mystique de l'eau~
 @705  = ~Ajouter le mystique de l'air~
@@ -166,7 +161,7 @@
 @867  = ~Ajouter le zélote de Corellon Larethian~
 @868  = ~Ajouter le zélote de Sune~
 @869  = ~Ajouter le zélote de Mystra~
-@870  = ~Ajouter le zélote de Eilistraee~
+@870  = ~Ajouter le zélote d'Eilistraee~
 //
 //
 @900  = ~kits de rôdeur nouveaux et revisités.~
@@ -203,9 +198,10 @@
 @999  = ~Enveloppe acide~
 @1000  = ~Sélection de sorts~
 @1001  = ~Cette capacité vous permet d'apprendre de nouveaux sorts~
+// start unused
 @1002  = ~- Accès aux sphères de :~
 @1003  = ~- Accès focalisé sur les sphères de :~
-@1004  = ~- Accès majeur aux sphères de : Tout,~
+@1004  = ~- Accès majeur aux sphères de :~
 @1005  = ~- Accès mineur aux sphères de :~
 @1006  = ~Avantages :~
 @1007  = ~Capacités :~
@@ -219,7 +215,7 @@
 @1021  = ~Capacités :~
 // ... druid
 @1025  = ~Capacités :~
-//
+// end unused
 @1100  = ~Mémoriser des sorts~
 @1101  = ~Après avoir choisi une divinité à servir, vous obtiendrez l'accès à des sorts dans les sphères de magie (les domaines) accessibles à cess divinité. Quand vous aurez choisi les sorts à mémoriser, ce parchemin vous permettra de les mémoriser instantanément, sans avoir besoin de vous reposer. Ceci ne peut être fait qu'une seule fois. Attention, si vous attendez trop longtemps, le parchemin peut disparaître.~
 //
@@ -353,19 +349,6 @@ BIENFAIT DE LATHANDRE : Ce sort dure un round par niveau du lanceur. Il accorde
 Restrictions :
 - Doit être d'alignement bon ou loyal neutre.
 ~
-
-// probably unused
-@20104 = ~Immobilisation des morts-vivants
-(Nécromancie)
-
-Portée : 10,5 m
-Durée : 2 rounds par niveau
-Temps d'incantation : 3
-Zone d'effet : 1 créature et tout ennemi dans un rayon de 3 m
-Jet de sauvegarde : annule
-
-Ce sort immobilise 1d4 créatures mortes-vivantes pendant 12 rounds au moins. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi situé dans un rayon de 1 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas la dégradation de la santé due aux blessures.
-~
 @20105 = ~Aube illusoire
 Portée : 0
 Durée : 5 rounds
@@ -475,7 +458,7 @@ Inconvénients :
 Avantages :
 - Peut être initié (A étoile) dans toutes les armes.
 - Bonus aux dégâts de +1 avec toute arme de corps à corps.
-- Incitation à la rage : les guerroyeurs peuvent provoquer une rage de berserker au niveau 5, avec un usage supplémentaire aux niveaux 10,15 et 20. Ce pouvoir est identique à la rage du berserker, si ce n'est que le guerroyeur peut provoquer la rage sur lui-même ou sur les autres.
+- Incitation à la rage : les guerroyeurs peuvent provoquer une rage de berserker au niveau 5, avec un usage supplémentaire aux niveaux 10, 15 et 20. Ce pouvoir est identique à la rage du berserker, si ce n'est que le guerroyeur peut provoquer la rage sur lui-même ou sur les autres.
 
 Inconvénients :
 - pas de restriction d'alignement.
@@ -508,9 +491,9 @@ Inconvénients :
 //
 // ... cleric of loviatar:
 //
-@21901  = ~tortionnaire de Loviatar~
-@21902  = ~Tortionnaire de Loviatar~
-@21903  = ~TORTIONNAIRE DE LOVIATAR: Connue sous les noms de Vierge des Douleurs ou de Grande Flagellatrice, Loviatar est la déesse maléfique de l'agonie. Elle est souvent décrite comme un persécutrice sans cœur, calculatrice et despotique. Elle se complaît à infliger des souffrances physiques et morales. Ses prêtres, simplement nommés "tortionnaires", trouvent liberté et puissance dans la douleur et œuvrent à transmettre ce point de vue aux autres... que leurs victimes recherchent ou non ce genre d'exaltation.
+@21901  = ~souffrecœur de Loviatar~
+@21902  = ~Souffrecœur de Loviatar~
+@21903  = ~SOUFFRECŒUR DE LOVIATAR: Connue sous les noms de Vierge des Douleurs ou de Grande Flagellatrice, Loviatar est la déesse maléfique de l'agonie. Elle est souvent décrite comme un persécutrice sans cœur, calculatrice et despotique. Elle se complaît à infliger des souffrances physiques et morales. Ses prêtres, simplement nommés "souffrecœur", trouvent liberté et puissance dans la douleur et œuvrent à transmettre ce point de vue aux autres... que leurs victimes recherchent ou non ce genre d'exaltation.
 
 Avantages :
 - Peut utiliser le pouvoir Toucher douloureux à volonté.
@@ -519,7 +502,7 @@ TOUCHER DOULOUREUX : Quand le prêtre de Loviatar active cette aptitude, son se
 Les pénalités et les dégâts continuent pendant la durée atrocement longue de 10 rounds.
 Le toucher douloureux reste activé sans limite de durée, mais le tortionnaire peut la réprimer si nécessaire.
 
-- Au niveau 3, les tortionnaires peuvent utiliser Caresse de Loviatar une fois par jour. Ils gagnent une utilisation supplémentaire aux niveaux 6, 9, 12,15 et 18.
+- Au niveau 3, peut utiliser Caresse de Loviatar une fois par jour et gagne une utilisation supplémentaire aux niveaux 6, 9, 12,15 et 18.
 
 CARESSE DE LOVIATAR : Quand le clerc utilise ce pouvoir, ses mains deviennent les instruments de Loviatar pendant quatre rounds. Il peut frapper avec une précision extraordinaire avec ses mains (+10 aux jet d'attaque) et inflige +2 points de dégâts par niveau jusqu'à un maximum de +20 au niveau 10. Ce sort se cumule avec les autres attaques à mains nues, comme le Toucher douloureux du prêtre.
 
@@ -535,7 +518,7 @@ Jet de sauvegarde : Poison/Mort
 Quand le prêtre de Loviatar active cette aptitude, son seul toucher inflige des vagues de douleur chez toute créature dotée d'un système nerveux. Quand elle touche une créature, elle doit réussir un jet de sauvegarde contre la mort ou souffrir d'une pénalité de -2 à leur dextérité et de -4 au TAC0 pendant qu'elle se tord d'agonie, et se verra infliger 1 point de dégât non-létal toutes les 12 secondes.
 Les pénalités et les dégâts continuent pendant la durée atrocement longue de 10 rounds.
 
-Le toucher douloureux reste activé sans limite de durée, mais le tortionnaire peut la réprimer si nécessaire.
+Le toucher douloureux reste activé sans limite de durée, mais le souffrecœur peut la réprimer si nécessaire.
 ~
 @21913  = ~Se tord de douleur~
 @21914  = ~Caresse de Loviatar~
@@ -546,18 +529,17 @@ Quand le clerc utilise ce pouvoir, ses mains deviennent les instruments de Lovia
 //
 // ... cleric of Talos:
 //
-@22401 = ~déclencheur de tempêtes de Talos~
-@22402 = ~Déclencheur de tempêtes de Talos~
-@22403 = ~DÉCLENCHEUR DE TEMPÊTES DE  TALOS : Les déclencheurs de tempêtes sont des clerc de Talos, le Destructeur, l'Enragé, l'Étoile des Tempêtes, Seigneur des Tempêtes. Talos représente le côté sombre de la nature, le force destructrice et insensible qui se fait oublier et frappe à tout instant. Les déclencheurs de tempêtes font en sorte que tous craignent Talos en faisant preuve de la destruction que lui et ses serviteurs peuvent apporter. En guise d'exemple pour tous, les déclencheurs de tempêtes ont tendance à se livrer, dans leurs voyages, à des exercices de destruction malveillante et arbitraire et à faire des exemples de ceux qui osent s'opposer à eux.
+@22401 = ~héraut des tempêtes de Talos~
+@22402 = ~Héraut des tempêtes de Talos~
+@22403 = ~HÉRAUT DES TEMPÊTES DE TALOS : Les hérauts des tempêtes sont des clerc de Talos, le Destructeur, l'Enragé, l'Étoile des Tempêtes, Seigneur des Tempêtes. Talos représente le côté sombre de la nature, le force destructrice et insensible qui se fait oublier et frappe à tout instant. Les hérauts des tempêtes font en sorte que tous craignent Talos en faisant preuve de la destruction que lui et ses serviteurs peuvent apporter. En guise d'exemple pour tous, les hérauts des tempêtes ont tendance à se livrer, dans leurs voyages, à des exercices de destruction malveillante et arbitraire et à faire des exemples de ceux qui osent s'opposer à eux.
 
 Avantages :
-- Faveur de Talos : les déclencheurs de tempêtes on uen résistance de 50 % à l'électricité.
-- Peut lancer Bouclier des tempêtes comme pouvoir spécial une fois par jour. Le déclencheur de tempêtes gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
-
+- Faveur de Talos : les hérauts des tempêtes ont une résistance de 50 % à l'électricité.
+- Peut lancer Bouclier des tempêtes comme pouvoir spécial une fois par jour et gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
 BOUCLIER DES TEMPÊTES : Ce sort dure 1 round par niveau du lanceur. Il le protège contre l'électricité, le feu, le froid et les projectiles normaux.
 
-- Peut lancer Éclair comme pouvoir spécial une fois par jour à partir du niveau 9. Le déclencheur de tempêtes gagne une utilisation supplémentaire aux niveaux 20 et 30. Le pouvoir fonctionne comme le sort profane du même nom.
+- Peut lancer Éclair comme pouvoir spécial une fois par jour à partir du niveau 9 et gagne une utilisation supplémentaire aux niveaux 20 et 30. Le pouvoir fonctionne comme le sort profane du même nom.
 
 Inconvénients :
 - Alignement : tout mauvais ou chaotique neutre.
@@ -577,15 +559,15 @@ En lançant ce sort, le magicien libère une décharge électrique puissante qui
 //
 // ... cleric of Cyric:
 //
-@22501 = ~féal de Cyric~
-@22502 = ~Féal de Cyric~
-@22503 = ~FÉAL DE CYRIC : Les féaux de Cyric font de leur mieux pour apaiser leur dieu fou et capricieux. Ce faisant, ils en profitent pour prendre tout ce qu'ils peuvent, à chaque fois qu'ils peuvent, avant d'être châtiés soit par leur dieu, soit par l'une de leurs nombreuses victimes.
+@22501 = ~partisan de Cyric~
+@22502 = ~Partisan de Cyric~
+@22503 = ~PARTISAN DE CYRIC : Les partisans de Cyric font de leur mieux pour apaiser leur dieu fou et capricieux. Ce faisant, ils en profitent pour prendre tout ce qu'ils peuvent, à chaque fois qu'ils peuvent, avant d'être châtiés soit par leur dieu, soit par l'une de leurs nombreuses victimes.
 
 Avantages :
 - Bonus de +1 aux jets de sauvegarde contre les sorts d'illusion.
-- Les féaux sont dénués de peur. Ils ne sont affectés ni par les terreurs magiques ni par les échecs de moral.
+- Les partisans sont dénués de peur. Ils ne sont affectés ni par les terreurs magiques ni par les échecs de moral.
 - Au niveau 5, peut lancer Confusion, comme le sort profane de 4ème niveau, une fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 10, 15 et 20.
-- u niveau 10, peut lancer Débilité mentale, comme le sort profane, une fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 10 et 30.
+- Au niveau 10, peut lancer Débilité mentale, comme le sort profane, une fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 10 et 30.
 
 Inconvénients :
 - Alignement: tout alignement mauvais ou chaotique neutre.
@@ -593,331 +575,334 @@ Inconvénients :
 //
 // ... cleric of Umberlee:
 //
-@22601 = ~waverservant of umberlee~
-@22602 = ~Waveservant of Umberlee~
-@22603 = ~WAVESERVANT OF UMBERLEE: Umberlee is a fickle goddess who claims the sea as her sole domain.  Like many evil gods, she is more often feared than revered, though there are notable exceptions.  Umberlee has something of an...affection for lost souls, and so she has been known to take them under her wing from time to time.  
+@22601 = ~serviteur de la vague d'Umberlie~
+@22602 = ~serviteur de la vague d'Umberlie~
+@22603 = ~serviteur de la vague D'UMBERLIE : Umberlie est une déesse capricieuse qui prétend détenir la mer comme son domaine, à elle et à elle seule. Comme beaucoup de divinités maléfiques, elle est plus crainte qu'adorée, même si on peut trouver des exceptions éminentes. Umberlie a comme une affection pour les âmes perdues et est réputée pour les prendre sous son aile de temps à autre.
 
-Advantages:
-- Mistress of the Waves: Unlike most clerics, waveservants have focus access in the elemental water sphere.
-- Can cast Smashing Wave as the cleric spell as a special ability once per day.  The Waveservant can use this ability an additional time per day at levels 4, 8, 12, 16 and 20.
+Avantages :
+- Maîtresse des vagues : à la différence de beaucoup de clercs, les serviteurs des vagues ont un accès focus à la sphère élémentaire de l'eau.
+- Peut lancer Vague destructrice, le sort de clerc, comme pouvoir spécial une fois par jour. Le serviteur de la vague obtient une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
-Disadvantages: 
-- The Waveservant cannot turn undead.
-Restrictions:
-- Alignment: any evil or chaotic neutral
+Inconvénients :
+- Ne peut repousser les morts-vivants.
+Restriction :
+- Alignement mauvais ou chaotique neutre.
 ~
 //
 // ... priest of oghma:
 //
 
-@31001  = ~seeker of oghma~
-@31002  = ~Seeker of Oghma~
-@31003  = ~SEEKER OF OGHMA:  Oghma is a greater god of knowledge, sagecraft, learning, and wisdom. He is venerated by those seeking information - particularly lost or hidden information. When a Seeker demonstrates solid service or true loyalty in Oghma's cause, <PRO_HESHE> is bestowed with the title of Loremaster. This is a great honor; while outsiders may perceive the god of sages as belonging in dusty libraries, the fact is that many Oghmanite priests are of an adventuresome bent.
+@31001  = ~chercheur d'oghma~
+@31002  = ~Chercheur d'Oghma~
+@31003  = ~CHERCHEUR D'OGHMA : Oghma est une divinité majeure de la connaissance, de la sagesse,et de l'apprentissage. Il est adoré par ceux à la recherche d'information, plus particulièrement perdue ou cachée. Quand un chercheur se montre utile ou loyal à la cause d'Oghma, on lui accorde le titre le maître du savoir. C'est un grand honneur. Même si le dieu des sages semblent limité aux bibliothèques poussiéreuse à ceux qui ne font pas partie de leur groupe, beaucoup de prêtre d'Oghma ont une attirance pour l'aventure.
 
-Advantages:
-- Once per day, a Seeker can concentrate and briefly increase <PRO_HISHER> ability to understand and identify the workings of magical items.
-- From 3rd level, a Seeker can innately cast Know Opponent, making it easier for <PRO_HIMHER>self and <PRO_HISHER> allies to strike the target creature.
-- From 9th level, a Seeker can innately cast Feeblemind.
-- Seekers can understand and use scrolls and wands normally restricted to wizards.
+Avantages :
+- Une fois par jour, peut se concentrer et augmenter brièvement sa capacité à comprendre et identifier le fonctionnement des objets magiques.
+- À partir du niveau 3, peut lancer Connaissance de l'adversaire de façon innée, ce qui rend le fait de frapper la cible plus facile pour lui-même et ses alliés.
+- À partir du niveau 9, peut lancer Débilité mentale de façon innée.
+- Les chercheurs peuvent comprendre et utiliser les parchemins et les baguettes normalement restreints aux magiciens.
 
-Restrictions:
-- Alignment: May not be Evil
+Restrictions :
+- ne peut être d'alignement mauvais.
 ~
-@31011  = ~Know Opponent~
-@31012  = ~Know Opponent
+@31011  = ~Connaissance de l'adversaire~
+// copied from SR
+@31012  = ~Connaissance de l'adversaire
 
-When this spell is cast, the caster is enabled to read the aura of a target creature, and determine that creature's strengths and weaknesses. For the duration of the spell, the target's physical resistances are lowered by 10% and all attacks against the target creature are made with a +2 bonus to the attack roll. Certain magical devices negate the power of the Know Opponent spell, and the spell has no effect on creatures who don't emanate auras, such as constructs. Magic resistance does not affect this spell.
+Lorsque ce sort est lancé, les yeux du jeteur de sorts rayonnent d'énergie magique, lui permettant de lire l'aura d'une créature, et ainsi découvrir ses forces et ses faiblesses. Pendant toute la durée du sort, la résistance physique de la cible est réduite de 10 % et tous les jets d'attaques contre cette cible reçoivent un bonus de +2. Certains dispositifs magiques annulent les effets d'une Connaissance de l'Adversaire. De plus, ce sort n'a aucun effet contre les créatures ne dégageant pas d'aura, comme les créatures artificielles. La résistance magique de la cible est ignorée.
 ~
 //
 // ... priest of ilmater:
 //
 @31401  = ~noble martyr d'Ilmater~
-@31402  = ~Painbearer of Ilmater~
-@31403  = ~PAINBEARER OF ILMATER:  Ilmater offers succor and calming words to those who are in pain, oppressed, or in great need.  He is the willing sufferer, the one who takes the place of another to bear their burden and take their pain.  Painbearers are often itinerant, traveling the land looking to assuage suffering wherever it may exist. They stick to their cause if they believe it is right, whatever the pain and peril, and strive to stand up to all tyrants.
+@31402  = ~Noble martyr d'Ilmater~
+@31403  = ~NOBLE MARTYR D'ILMATER : Ilmater accorde assistance et mots de réconfort à ceux qui souffrent, aux opprimés ou dans le besoin. Il est celui qui souffre de son plein gré, celui qui prend la place des autres et supporte leur fardeau et leurs douleurs. Les nobles martyrs sont souvent itinérants, parcourant les territoires pour soulager mes souffrance partout où ils la trouvent. Ils s'accrochent à leur cause quand ils la savent juste, ignorant l'épreuve et le danger, et s"acharnent à s'opposer à toutes les tyrannies.
 
-Advantages:
-- Can cast remove fear at will.
-- +4 to saves against death
-- Painbearers gain a 20% resistance to cold and fire damage
-- At 3rd level, the priest of Ilmater can use Endurance of Ilmater once per day as a special ability. <PRO_HESHE> can use this ability an additional time at levels 7, 10, 13, 16 and 19.
+Avantages :
+- Peut lancer Apaisement à volonté.
+- Bonus de +4 aux jets de sauvegarde contre la mort.
+- Résistance de 20 % aux dégâts de froid et de feu.
+- Au niveau 3, peut lancer Endurance d'Ilmater une fois par jour comme pouvoir spécial. Il obtient une utilisation supplémentaire aux niveaux 7, 10, 13, 16 et 19.
 
-ENDURANCE OF ILMATER: When the priest casts this spell, <PRO_HESHE> doubles the hit points of any creature that <PRO_HESHE> touches (including <PRO_HIMHER>self). In addition, the recipient of the spell gains a +2 to all saves.  This ability lasts for 1 turn.
+ENDURANCE D'ILMATER : Quand le prêtre lance ce sort, il double le nombre de points de vie de la créature qu'il touche (lui inclus). De plus, la cible du sort obtient un bonus de +2 à tous les jets de sauvegarde. Ce pouvoir dure un tour.
 
-Restrictions:
-- Alignment: May not be Evil
+Restrictions :
+- Ne peut être d'alignement mauvais
 ~
 @31405  = ~~
-@31411  = ~Remove Fear~
-@31412  = ~Remove Fear
-The priest instills courage in the spell's recipients, raising their morale to its highest. The recipients' morale will gradually reset to normal as the spell's duration runs out. If the recipients are affected by magical fear, this is negated.~
-@31413  = ~Endurance of Ilmater~
-@31414  = ~Endurance of Ilmater
-When the priest casts this spell, <PRO_HESHE> doubles the hit points of any creature that <PRO_HESHE> touches (including <PRO_HIMHER>self). In addition, the recipient of the spell gains a +2 to all saves.  The spell lasts for one turn.
+@31411  = ~Apaisement~
+@31412  = ~Apaisement
+Le prêtre insuffle du courage au bénéficiaire du sort et élève son moral à son plus haut niveau. Au fur et à mesure que la durée du sort s'écoule, le moral de la cible revient à son niveau normal. Si la cible est affectée par une terreur magique, cette peur s'annule.~
+@31413  = ~Endurance d'Ilmater~
+@31414  = ~Endurance d'Ilmater
+Quand le prêtre lance ce sort, il double le nombre de points de vie de la créature qu'il touche (lui inclus). De plus, la cible du sort obtient un bonus de +2 à tous les jets de sauvegarde. Ce pouvoir dure un tour.
 ~
 //
-// ... priest of Déneïr:
+// ... priest of Deneir:
 //
 
-@31501  = ~scribe des glyphes de Déneïr~
-@31502  = ~Glyphscribe of Déneïr~
-@31503  = ~GLYPHSCRIBE OF DÉNÉÏR :  Déneïr is the patron of artists, scribes and cartographers.  He values the written word, and the information that that word carries, and so do his priests.
+@31501  = ~maître des glyphes de Déneïr~
+@31502  = ~Maître des glyphes Déneïr~
+@31503  = ~MAÎTRE DES GLYPHES DE DÉNÉÏR : Déneïr est le dieu patron des artistes, des scribes et des cartographes. Il attache de l'importance à l'écrit et à l'information portée par les mots. Ses prêtres font de même.
 
-Advantages:
-- Glyphscribes are immune to all symbol spells, and the glyph of warding spell.
-- Glyphscribes can cast find trap once per day as a special ability.  They can use this ability an additional time at levels 3, 6, 9, 12, 15 and 18.  This ability functions as the cleric spell of the same name.
-- At 5th level, Glyphscribes can cast glyph of warding as a special ability once per day.  They can use this ability an additional time per day at levels 10, 15, and 20.  This ability functions as the cleric spell of the same name.  
-- At 11th level, Glyphscribes can cast dispel magic as a special ability once per day.  They can use this ability an additional time per day at levels 16, and 20.  This ability functions as the spell of the same name.
-- Glyphscribes can cast all symbol spells at their normal level, regardless of sphere.
+Avantages :
+- Immunisé contre les sorts de symbole et contre le sort Glyphe de garde.
+- Peut lancer Détection des pièges une fois par jour comme pouvoir spécial. Obtient une utilisation supplémentaire aux niveaux 3, 6, 9, 12, 15 et 18. Ce pouvoir fonctionne comme le sort de clerc du même nom.
+- À partir du niveau 5, peut lancer Glyphe de garde comme pouvoir spécial, une fois par jour. Obtient une utilisation supplémentaire aux niveaux 10, 15 et 20. Ce pouvoir fonctionne comme le sort de clerc du même nom.
+-À partir du niveau 11, peut lancer Dissipation de la magie comme pouvoir spécial, une fois par jour. Obtient une utilisation supplémentaire aux niveaux 16 et 20. Ce pouvoir fonctionne comme le sort du même nom.
+- Les maîtres des glyphes peuvent lancer tous les sorts de symbole à leur niveau normal, sans tenir compte de la sphère.
 
-Restrictions:
-- Alignment: May not be Evil
+Inconvénients :
+- ne peut être d'alignement mauvais.
 ~
 //
 // ... priest of sune:
 //
-@31601  = ~heartwarder of sune~
-@31602  = ~Heartwarder of Sune~
-@31603  = ~HEARTWARDER OF SUNE:  Sune teaches that external beauty ultimately reflects ones internal worth.  Thus, her followers strive to preserve beauty, both in themselves and in others, whether those othere be individuals or objects, such as works of art.
+// using same translation as divine remix
+@31601  = ~garde du cœur de Sunie~
+@31602  = ~Garde du cœur de Sunie~
+@31603  = ~GARDE DU CŒUR DE SUNIE : Sunie enseigne que la beauté extérieure reflète en fin de compte la valeur propre de la personne. Par conséquent, ses adeptes s'efforcent de préserver la beauté, la leur, celle des autres et celles des objets comme les œuvres d'art.
 
-Advantages:
-- Heartwarders are especially resistant to the influence of mind altering magic.  They recieve a +2 bonus to their save vs. spell.
-- Heartwarders may charm person as a special ability once per day.  This ability is especially potent, and opponents suffer a -2 to their save.  Otherwise, this ability functions as the wizard spell of the same name.  The Heartwarder can use this ability an additional time per day at levels 3, 6, 9, 12, 15, 18 and 20.  
-- Heartwarders may cast emotion: Hope as a special ability once per day at level 5.  The heartwarder can use this ability an additional time at levels 10, 15 and 20.  This spell functions as the wizard spell of the same name.  
-- At 11th level, the Heartwarder gains a permenant +1 bonus to charisma.
+Avantages :
+- Les gardes du cœur sont particulièrement résistants à la magie affectant l'esprit. Ils reçoivent un bonus de +2 aux jets de sauvegarde contre ces sorts.
+- Peut utiliser Charme personne comme pouvoir spécial une fois par jour. Ce pouvoir est particulièrement puissant, les adversaires se voient imposer un malus de -2 à leur jet de sauvegarde. C'est la seule différence avec le sort profane du même nom. Le garde du cœur gagne une utilisation supplémentaire aux niveaux 3, 6, 9, 12, 15 et 20.
+- À partir du niveau 5, peut lancer Émotion : espoir comme pouvoir spécial une fois par jour. Obtient une utilisation supplémentaire aux niveaux 10, 15 et 20. Ce pouvoir fonctionne comme le sort profane du même nom.
+- À partir du niveau 11, le garde du cœur obtient un bonus permanent de +1 au charisme.
 
-Restrictions:
-- Alignment: May not be Lawful or Evil
+Inconvénient :
+- ne peut être d'alignement loyal ni mauvais.
 ~
-@31606 = ~Charm Person
+@31606 = ~Charme personne
 
-This spell affects any single person it is cast upon. The term person includes any bipedal human, demihuman, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level Fighter could be charmed, but an ogre could not. The person receives a Save vs. Spell -2 to avoid the effect.
+Ce sort affecte tout individu auquel il est lancé. Il peut s'agir de tout humain, demi-homme ou humanoïde bipède de taille inférieure ou égale à celle d'un homme (lutin, dryade, nain, elfe, gnoll, gnome, gobelin, demi-elfe, petite-personne, demi-orque, hobgobelin, humain, kobold, homme-lézard, nixe, orque, pixie, esprit-follet, troglodyte, etc.) Ainsi, un guerrier du 10e niveau pourra être charmé, mais pas un ogre.
 
-If the spell recipient fails <PRO_HISHER> Save vs. Spell, <PRO_HESHE> regards the caster as a trusted friend and ally to be heeded and protected. The caster can give <PRO_HIMHER> orders, and the charmed individual will carry them out as quickly as possible.
+La personne ciblée peut annuler l'effet en réussissant un jet de sauvegarde contre les sorts avec un malus de -2. Si elle échoue, elle considère le lanceur comme un véritable ami qu'elle doit protéger. Le lanceur peut lui donner des ordres auxquels elle obéira le plus vite possible.
 
-If the caster harms, or attempts to harm, the charmed person by some overt action, or if Dispel Magic is successfully cast upon the charmed person, the charm spell is broken. If two or more charm effects simultaneously affect a creature, the most recent charm takes precedence. Note that the subject has full memory of the events that took place while <PRO_HESHE> was charmed. Also note that you cannot have a charmed creature leave the area where <PRO_HESHE> was charmed.~
+Si le lanceur nuit ou essaie de nuire à la personne sous le charme par une action non déguisée, ou si un sort de Dissipation de la magie est lancé avec succès sur la personne sous le charme, le charme est rompu. Si plusieurs effets de charmes affectent simultanément une créature, le charme le plus récent prend le dessus. Notez que le sujet se souvient parfaitement des événements qui ont eu lieu lorsqu'il était sous le charme. Notez aussi que la créature ne peut pas quitter la zone dans laquelle elle a été charmée.~
 //
 // ... Broken Blades of Tempus
 //
 @32201 = ~lame brisée de Tempus~
-@32202 = ~Broken Blade of Tempus~
-@32203 = ~BROKEN BLADE OF TEMPUS:  Broken Blades honor Tempus by treating those wounded in battle.  Unlike Battleguards and Glorybloods, who are most frequently found on the front lines, it is more common to find a Broken Blades at the rear, treating and protecting the wounded.  Broken Blades are particulary millitant for priests, often weilding battle axes, and will be found defending any of Tempus's holy sites.
+@32202 = ~Lame brisée de Tempus~
+@32203 = ~LAME BRISÉE DE TEMPUS : Les lames brisées honorent Tempus en soignant les blessés pendant les batailles. À la différence des guerroyeurs et des sangs glorieux, qui sont le plus fréquemment sur la ligne de front, on voit plutôt les lames brisées à l'arrière, soignant et protégeant les blessé&s. Les lames brisées sont particulièrement martiaux pour des prêtres, souvent armés de haches, et prompts à défendre les sites consacrés à Tempus.
 
-Advantages:
-- Broken Blades automatically gain proficiency with the axe.  
-- Can cast Chant as a spell like ability one time per day but with a casting time of 1 at first level.  The Battleguard gains an additional use every 5 levels.
+Avantages :
+- Les lames brisées sont automatiquement initiées (1 étoile) avec les haches.
+- Peut lancer Cantique comme pouvoir spécial une fois par jour, mais avec une temps d'incantation de 1, dès le premier niveau. Obtient une utilisation supplémentaire tous les 5 niveaux.
 
-Restrictions:
-- Alignment: No alignment restrictions
+Inconvénients :
+- pas de restriction d'alignement.
 ~
 @32205  = ~~
-@32206 = ~Chant
-(Conjuration/Summoning)
+@32206 = ~Cantique
+(Conjuration/Convocation)
 
-Level: 2
-Sphere: Combat 
-Range: 0 
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: 30-ft. radius
-Saving Throw: None
+Niveau : 2
+Sphère : combat
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 1
+Zone d'effet : rayon de 9 m
+Jet de sauvegarde : aucun
 
-By means of the Chant spell, the priest brings special favor upon <PRO_HISHER>self and <PRO_HISHER> party and causes harm to <PRO_HISHER> enemies. When the Chant spell is completed, all the priest's allies within the area of effect gain a +1 bonus to attack rolls, minimum damage/healing rolls, and Saving Throws. Furthermore, damage dice for all effects outside a weaponâs base damage is reduced by 1. For example, a 6d6 fireball will do 6d5 damage, and an arrow of fire that deals 1d6+2 piercing plus 1d6 fire damage will deal 1d6+2 piercing plus 1d5 fire damage instead. The priest's enemies suffer the opposite effects.
+Avec le sort de cantique, le prêtre attire une faveur spéciale sur lui-même et sur son groupe, et inflige des dégâts à ses ennemis. Lorsque l'incantation est achevée, tous les jets d'attaque et de dégâts, ainsi que les jets de sauvegarde effectués par les amis du prêtre situés dans la zone d'effet, reçoivent un bonus de +1, alors que les ennemis du prêtre écopent d'un malus de -1. Par exemple, une boule de feu 6d6 infligera 6d5, et une flèche de feu infligeant 1d6 dégâts perçants et 1d2 dégâts de feu infligera 1d6 dégâts perçants plus 1 dégât de feu à la place.
 
-Multiple chants are not cumulative.
+Les cantiques multiples ne sont pas cumulatifs.
 ~
 //
 // ... priest of mystra:
 //
-@32401  = ~gardien de la toile de Mystra~
-@32402  = ~Gardien de la toile de Mystra~
-@32403  = ~GARDIEN DE LA TOILE DE MYSTRA : Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. All wielders of magic and seekers after arcane lore are welcome in the service of Mystra. One sect of Mystra's clerics, known as Weavekeepers, is focused on investigating and controlling sources of powerful magic which, in the wrong hands, might harm the reputation and perception of magic use.
+@32401  = ~gardien de la Toile de Mystra~
+@32402  = ~Gardien de la Toile de Mystra~
+@32403  = ~GARDIEN DE LA TOILE DE MYSTRA : Mystra est surnommée Mère de la Magie ou Notre Dame des Sorts. Elle est chargée de générer et d'entretenir la Toile, ce conduit qui permet aux jeteurs de sorts d'accéder à l'énergie magique du multivers. Tous ceux qui manipulent la magie et ceux qui recherche la connaissance profane sont les bienvenus au service de Mystra. Une secte de clercs de Mystra, les gardiens de la Toile, de dédie à enquêter sur et contrôler les sources de magies puissantes qui,placées entre les mauvaises mains, pourrait ternir la réputation et la perception de ceux qui usent de la magie.
 
-Advantages:
-- Weavekeepers have a small amount of magic flowing through them constantly, regardless whether they have spells memorized. They may cast small cantrips from the various schools of magic at any time, without limit.
-- From 3rd level, Weavekeepers can cast spells slightly faster than most priests, gaining a 1-point reduction in casting speed.
-- From 5th level, once per day, Weavekeepers can cast an innate form of Dispel Magic which is as effective as that of an Inquisitor.
-- Weavekeepers can use scrolls and wands normally restricted to wizards.
-- Weavekeepers are unaffected by wild magic and dead magic fields.
+Avantages :
+- Les gardiens de la Toile ont toujours une petite quantité de magie qui les parcourt, qu'ils aient ou non des sorts mémorisés. Ils peuvent lancer des petites tours de magie de toutes les écoles à tout instant, sans limitations.
+- À partir du niveau 3, peut lancer des sorts un peu plus vite que les autres prêtres et gagnent une réduction de 1 point de temps d'incantation.
+- À partir du niveau 5, une fois par jour, peut lancer une forme innée de Dissipation de la magie qui est aussi efficace que celle d'un inquisiteur.
+- Peut utiliser les parchemins et baguettes normalement réservés aux magiciens.
+- Les gardiens de la Toile ne sont pas affectés par les zones de magie sauvage ou les zones de magie morte.
 
-Restrictions:
-- May not dual-class.
+Restrictions :
+- Ne peut effectuer de jumelage de classe.
 ~
 @32411  = ~~
-@32413  = ~Magic Wand~
-@32414  = ~A Magic Wand may be used as a ranged weapon, casting a Magic Bolt at an enemy once per round, which does 1d4+1 magic damage. (Note, while doing so the wizard will be at a tactical disadvantage against nearby attackers using melee weapons.) Alternatively, the wizard can use the wand to cast one of the following cantrips:
-- Deflective Shell: blocks one 1st- through 3rd level spell targeting the wizard. The Shell last 3 rounds.
-- Conjure Rabbit: conjures a small rodent near the wizard, which lasts for 3 rounds.
-- Glimpse: gives the wizard a brief (2-second) look at another area of the map.
-- Drowse: the target will fall asleep for 1 round on a failed save vs. Spells.
-- Bedazzle: the target suffers a -1 penalty to thac0 and AC for 1 round; on a failed save vs. Breath, the penalties are doubled and last for 2 rounds, and the target is blinded for the first round.
-- Stiffen Bones: the target suffers from painful stiffness, suffering a -1 penalty to thac0 and damage for 1 round; on a failed save vs. Death, the penalties are doubled and last for 2 rounds, and the target is Slowed for the first round.
-- Earthen Grasp: the target will be entangled, unable to move, for 2 rounds on a failed save vs. Petrification.~
-@32415  = ~Rabbit~
+@32413  = ~Baguette magique~
+@32414  = ~Une baguette magique peut être utilisée comme arme à distance pour lancer un Carreau magique sur un ennemi une fois par round et lui infliger 1d4+1 point de dégâts (Remarque : quand il l'utilise ainsi, le magicien a un désavantage tactique contre les ennemis proches avec des armes de mêlée). Le magicien peut aussi utiliser la baguette pour lancer l'un des  tours de magie suivants :
+- Coquille de déflexion : bloque un sort de niveau 1 à 3 qui cible le magicien. La coquille dure 3 rounds.
+- Convocation de lapin : convoque un petit lapin à côté du magicien, qui reste pendant 3 rounds.
+- Coup d'œil : permet brièvement (pendant 2 secondes) au magicien de voir une autre partie de la carte.
+- Somnolence : la cible s'endort pendant 1 rounds si elle échoue à un jet de sauvegarde contre les sorts.
+- Illumination : la cible subit un malus de 1 point au TAC0 et à la classe d'armure pendant 1 round. Si elle échoue à un jet de sauvegarde contre les souffles, les pénalités sont doublées, durent 2 rounds et la cible est aveuglée le premier round.
+- Raidissement des os : la cible souffre de raideurs douloureuses. Elle subit une pénalité de 1 point au TAC0 et aux dégâts pendant un round. Si elle échoue à un jet de sauvegarde contre la mort, les pénalités sont doublées, durent deux rounds et la cible est ralentie pendant le premier round.
+- Poigne terreuse: la cible est enchevêtrée, incapable de se déplacer pendant 2 rounds si elle échoue à un jet de sauvegarde contre la pétrification.~
+@32415  = ~Lapin~
 //
 // ... priest of azuth:
 //
 @32501  = ~magistrat d'Azouth~
 @32502  = ~Magistrat d'Azouth~
-@32503  = ~MAGISTRAT D'AZOUTH : Azuth is a lesser deity who assists Mystra, the Mother of Magic, in tending to 'the Weave' that enables all magic in Faerun to exist. Azuthan clergy tend to love magic for its own sake. They have a natural familiarity with and access to wizard spells. Specialty priests of Azuth are known as Magistrati.
+@32503  = ~MAGISTRAT D'AZOUTH : Azouth est une divinité mineure qui aide Mystra, la Mère de la magie, à entretenir la Toile qui permet à toute la magie de Féérune d'exister. Le clergé d'Azouth a tendance à aimer la magie en elle-même. Ils sont familiers avec les sorts de magie profane et y ont accès  Les prêtes dédiés à Azouth sont nommés magistrats.
 
-Advantages:
-- From 5th level, once per day, a Magistrati can concentrate and briefly increase <PRO_HISHER> ability to understand and identify the workings of magical items.
-- Magistrati can use scrolls and wands normally restricted to wizards.
+Avantages :
+- À partir du niveau 5, une fois par jour, peut se concentrer et améliorer brièvement sa capacité à comprendre et identifier le fonctionnement des objets magiques.
+- Peut utiliser les parchemins et baguettes normalement réservés aux magiciens.
 
-Restrictions:
-- May not be Evil.
-- May not dual-class.
+Restrictions :
+- Ne peut être d'alignement mauvais.
+- Ne peut effectuer de jumelage de classe.
 ~
-@32505  = ~Legend Lore~
-@32506  = ~Legend Lore
+@32505  = ~Connaissance des légendes~
+@32506  = ~Connaissance des légendes
 
-School: Divination
-Duration: 3 rounds
-Casting Time: 2
+École : Divination
+Durée : 3 rounds
+Temps d'incantation : 2
 
-The caster of this spell gains a temporary insight into the history and nature of one or more magical objects in <PRO_HISHER> inventory.~
+Le lanceur obtient une vision temporaire de l'histoire et de la nature d'un ou plusieurs objets magiques dans son inventaire..~
 //
 // ... priest of shar:
 //
-@33001  = ~darkcloak of shar~
-@33002  = ~Darkcloak of Shar~
-@33003  = ~DARKCLOAK OF SHAR: Shar is known as the Mistress of the Night. She is the goddess of darkness, presiding over caverns, dungeons, forgetfulness, loss, night, and secrets. The Darkcloaks are an unusual sect, who use Shar's influence to give care and comfort to those who are lost or emotionally damaged. While some other followers of Shar spurn these priests for failing to be militant enough, Darkcloaks still possess powerful abilities to strive against their enemies.
- 
-Advantages:
-- May cast Power Word: Sleep once per day at level 1 once per day.  The Darkcloak can use this ability an additinal time at levels 3, 6, 9, 12, 15, and 18.  This ability functions as the spell of the same name.  
-- May cast Blur once per day at level 5.  The Darkcloak can use this ability an additional time per day at levels 10, 15, and 20.  This ability functions as the spell of the same name. 
-- May cast Phantom Blade once per day at level 9.  The Darkcloak can use this ability at levels 20 and 30.  This ability functions as the spell of the same name.  
-- May cast Power Word: Blindness once per day at level 13. The Darkcloak can use this ability an additional time at level 20.  This ability functions as the spell of the same name. 
+// using same translation as divine remix
+@33001  = ~manteau sombre de Shar~ // not same wording as DR: darkcloack vs nightcloak
+@33002  = ~Manteau sombre de Shar~
+@33003  = ~MANTEAU SOMBRE DE SHAR : Shar est surnommée Maîtresse de la nuit. Elle est la déesse de l'obscurité et préside sur les cavernes, les donjons, l'oubli, le malheur, la nuit et les secrets. Les manteaux de la nuit forment une secte peu conventionnelle. Ils usent de l'influence de Shar pour offrir soins et réconfort à ceux qui sont perdus ou souffrent psychologiquement. Même quand d'autres serviteurs de Shar les méprisent pour leur manque de militantisme, les manteaux de la nuit sont tout de même suffisamment puissant pour s'opposer à leurs ennemis.
 
-Restrictions:
-- May not dual-class to fighter.
-- Alignment: may not be Chaotic or Good
+Avantages :
+- Peut lancer Mot de pouvoir: sommeil une fois par jour au niveau 1. Le manteau sombre peut utiliser ce pouvoir une fois de plus chaque jour aux niveaux 3, 6, 9, 12, 15 et 18. Ce pouvoir fonctionne comme le sort du même nom.
+- Peut lancer Flou une fois par jour au niveau 5. Le manteau sombre peut utiliser ce pouvoir une fois de plus chaque jour aux niveaux 10, 15 et 20. Ce pouvoir fonctionne comme le sort du même nom.
+- Peut lancer Lame fantôme une fois par jour au niveau 9. Le manteau sombre peut utiliser ce pouvoir une fois de plus chaque jour aux niveaux 20 et 30. Ce pouvoir fonctionne comme le sort du même nom.
+- Peut lancer Mot de pouvoir : cécité une fois par jour au niveau 13. Le manteau sombre peut utiliser ce pouvoir une fois de plus chaque jour au niveau 20. Ce pouvoir fonctionne comme le sort du même nom.
+
+Restrictions :
+- Ne peut effectuer de jumelage vers la classe de guerrier.
+- ne peut être d'alignement chaotique ou bon.
 ~
-@33004  = ~DARKCLOAK OF SHAR: Shar is known as the Mistress of the Night. She is the goddess of darkness, presiding over caverns, darkness, dungeons, forgetfulness, loss, night, and secrets. The Darkcloaks are an unusual sect, who use Shar's influence to give care and comfort to those who are lost or emotionally damaged. While some other followers of Shar spurn these priests for failing to be militant enough, Darkcloaks still possess powerful abilities to strive against their enemies.~
+@33004  = ~MANTEAU SOMBRE DE SHAR : Shar est surnommée Maîtresse de la nuit. Elle est la déesse de l'obscurité et préside sur les cavernes, les donjons, l'oubli, le malheur, la nuit et les secrets. Les manteaux de la nuit forment une secte peu conventionnelle. Ils usent de l'influence de Shar pour offrir soins et réconfort à ceux qui sont perdus ou souffrent psychologiquement. Même quand d'autres serviteurs de Shar les méprisent pour leur manque de militantisme, les manteaux de la nuit sont tout de même suffisamment puissant pour s'opposer à leurs ennemis.~
 @33005  = ~~
 //
 // ... priest of moander:
 //
-@33101 = ~minion of moander~
-@33102 = ~Minion of Moander~
-@33103 = ~MINION OF MOANDER:  Moander, is thought to be dead.  However, cults dedicated to the lord of rot continue to exist.  Minions of the darkbringer seek to spread rot and decay wherever they go.
+@33101 = ~enfant de moander~
+@33102 = ~Enfant de Moander~
+@33103 = ~ENFANT DE MOANDER : On pense que Moander est mort. Malgré tout, les cultes dédiés au dieu de la putréfaction existent toujours. Les enfants du Semeur de ténèbres cherchent à répandre la pourriture et la décomposition partout où ils vont.
 
-Advantages:
--  Minions are immune to the assassin vines and entangle spells.  
--  Minions can cast entangle as the spell once per day.  <PRO_HESHE> can cast the spell an additional time at levels 4, 8, 12, 16 and 20.  
--  At 11th level, the Minion can cast assassin vines once per day.  <PRO_HESHE> can cast the spell an additional time per day at levels 20 and 30.
+Avantages :
+- Les sbires sont immunisés contre les sorts Liane assassine et Enchevêtrement.
+- Peut lancer Enchevêtrement une fois par jour et gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
+- Au niveau 11, peut lancer Liane assassine uen fois par jour et gagne une utilisation supplémentaire aux niveaux 20 et 30.
 
-Restrictions:
-- Alignment: Any evil or chaotic neutral
+Restrictions :
+- doit être d'alignement mauvais ou chaotique neutre.
 ~
 //
-// ... priest of besheba:
+// ... priest of beshaba:
 //
 @33201 = ~fatalisateur de Beshaba~
 @33202 = ~Fatalisateur de Beshaba~
-@33203 = ~DOOM<PRO_MASTERMISTRESS> OF BESHABA:  Beshaba, the maid of misfortune, is the jealous goddess of ill-fate.  Not worshiped so much as feared, she demands tribute, or at least lip service, else she is likey to doom those that offend her to a life of failure.  Her priests work to ensure that she her ego is adequately sated.
+@33203 = ~FATALISATEUR DE BESHABA :  Beshaba, la vierge de l'infortune, est la jalouse déesse de la malchance. Moins adorée que crainte, elle exige qu'on lui rende hommage, au moins en façade, et serait prompte à condamner ceux qui l'offenseraient à une vie d'échecs. Ses prêtres font en sorte que son égo soit satisfait.
 
-Advantages:
--  Doommasters can cast a special version of the doom spell at will.  It can be used once, and only once, on a given opponent.
--  Doommasters gain a +1 bonus to all saves.
--  At 7th level, the doommaster can cast misfire as a special ability once per day.  Misfire works as the spell of the same name.  The doommaster can use this abilty an additional time per day at levels 10, 13, 16 and 19.
--  At 10th level, the doommaster can cast misfortune. <PRO_HESHE> can use this abilty one additional time at levels 15, and 20.
+Avantages :
+- Peut lancer une version spéciale du sort Fatalité à volonté. Il peut utilisé une seule fois sur chaque adversaire.
+- Bonus de +1 à tous les jets de sauvegarde.
+- À partir du niveau 7, peut lancer Échec au tir comme pouvoir spécial une fois par jour. Ce pouvoir fonctionne comme le sort du même nom. Le fatalisateur obtient une utilisation supplémentaire chaque jour aux niveaux 10, 13, 16 et 19.
+- À partir du niveau 10, peut lancer Malchance et gagne une utilisation supplémentaire chaque jour aux niveaux 15 et 20.
 
-MISFORTUNE: This abilty curses the target, causing them a penalty of -10 penalty to THAC0, saves and AC for one round/level if they fail a save vs. spell.
+MALCHANCE : Ce pouvoir maudit la cible, qui subit une pénalité de -10 au TAC0, aux jets de sauvegarde et à la classe d'armure pour un round par niveau si elle échoue à un jet de sauvegarde contre les sorts.
 
-Restrictions:
-- Alignment: Any evil or chaotic neutral
+Restrictions :
+- alignement : tout alignement mauvais ou chaotique neutre.
 ~
-@33206 = ~Misfortune~
-@33207 = ~Misfortune
-This abilty curses the target, causing them a penalty of -10 penalty to THAC0, saves and AC for one round/level if they fail a save vs. spell.
+@33206 = ~Malchance~
+@33207 = ~Malchance
+Ce pouvoir maudit la cible, qui subit une pénalité de -10 au TAC0, aux jets de sauvegarde et à la classe d'armure pour un round par niveau si elle échoue à un jet de sauvegarde contre les sorts.
 ~
 //
 // ... talon of malar 
 //
-@33401 = ~serre de Malar~
-@33402 = ~Serre de Malar~
-@33403 = ~TALON OF MALAR: Malar, god of the savage wild, is not a popular god with many devoted followers. Like Umberlee, he is invoked usually to prevent his intercession (usually heralded by wild beasts) as opposed to beseeching it. Malarite clergy members preach the joys and the bountiful yields of the hunt and work to thwart the expansion of farms and settlements, so as to preserve as much wilderness as possible.
+@33401 = ~griffe de Malar~
+@33402 = ~Griffe de Malar~
+@33403 = ~GRIFFE DE MALAR : Malar, le dieu du monde sauvage, n'est pas une divinité populaire possédant beaucoup d'adorateurs. Comme pour Umberlie, on l'invoque principalement pour éviter son intervention (en général accompagné de bêtes sauvages) plutôt que pour le supplier. Les membres du clergé malarite prêchent la joie et les fruits abondants de la chasse, et œuvrent pour empêcher l'expansion des fermes et la colonisation pour préserver le plus de nature sauvage possible.
 
-Advantages:
-- Talons may cast "Claws of malar" as an innate ability, at will. 20% of all attacks with the Claws of Malar cause infection upon a failed save vs. Death, weakening the target and causing a 10% chance of spell failure.
-- Talons may use the Tracking ability at will.
-- Whenever a Talon casts an Animal Summoning spell, the creatures so summoned automatically benefit from application of the Animal Growth spell (2-point bonus to hit, damage, armor class and saving throws, and a 50% increase in hit points).
-- At 7th level, Talons may cast the spell Blood Rage once per day as an innate ability.
-- At 11th level, Talons may cast Blood Rage twice per day as an innate ability.
+Avantages :
+- Peut lancer Griffes de Malar comme pouvoir inné à volonté. 20 % des attaques avec Griffes de Malar provoquent une infection sur un échec de jet de sauvegarde contre la mort, affaiblissant ainsi la cible et provoquant un risque d'échec des sorts de 10 %.
+- Peut utiliser la compétence Pistage à volonté.
+- Quand une griffe de Malar lance un sort de convocation d'animaux, les créatures invoquées bénéficient automatiquement des effets du sort Croissance animale (bonus de 2 points aux jets d'attaque, de dégâts, à la classe d'armure et aux jets de sauvegarde, ainsi qu'un gain de 50% des points de vie).
+- À partir du niveau 7, peut lancer le sort Rage sanguinaire une fois par jour comme pouvoir inné.
+- À partir du niveau 11, peut lancer le sort Rage sanguinaire deux fois par jour comme pouvoir inné.
 
-Restrictions:
-- May not be Lawful or Good.
+Restrictions :
+- Ne peut être d'alignement ni loyal ni bon.
 ~
-@33411  = ~Claws of Malar~
-@33412  = ~Dispel Claws~
-@33413  = ~Tracking~
-@33414  = ~Tracking
+@33411  = ~Griffes de Malar~
+@33412  = ~Dissipation des griffes~
+@33413  = ~Pistage~
+@33414  = ~Pistage
 
-With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that live within them, a Talon of Malar can use the Tracking ability to give <PRO_HIMHER>self a general idea of what creatures are in an area and which direction they are. Red arrows at the edge of the screen will point in the general direction of the creatures in the area.~
+Grâce à son intime connaissance des milieux naturels et des créatures qui y vivent, la griffe de Malar peut utiliser cette faculté pour avoir une idée générale des créatures présentes dans une zone donnée, ainsi que de leur direction. Des flèches rouges indiquent à l'écran la direction générale des créatures de la zone..~
 //
 // ... hammer of moradin 
 //
 @37101  = ~sonnlinor de Moradin~
 @37102  = ~Sonnlinor de Moradin~
-@37103  = ~SONNLINOR DE MORADIN : Sonnlinor are the specialty priests of Moradin, the Soul Forger, the chief deity or the dwarven pantheon.  A harsh but fair judge, he is strength and force of will embodied.  His priests strive to restore the dwarven races to strong numbers and a position of influence in Faerun.  They believe that wisdom is derived from life tempered with experience and that they have an important role to lead the stout folk in the traditional ways laid down by the Soul Forger. 
+@37103  = ~SONNLINOR DE MORADIN : Les sonnlinor sont les prêtres spécifiques à Moradin, le Forgeur d'âmes, le dieu suprême du panthéon nain. Sévère mais juste, il incarne la force et la volonté. Ses prêtres s'efforcent à faire revenir les races naines à une population nombreuse et une plus grande influence dans les affaires de Féérune. Il pensent que la sagesse se trouve dans une vie forgée par l'expérience et qu'ils ont un rôle important à jouer en menant le peuple robuste vers les coutumes traditionnelles dictées par le Forgeur d'âmes.
 
-Advantages: 
-- Sonnlinor are unparalleled in the use and maintenance of war hammers. They have a +2 bonus to hit when attacking with a war hammer, and any war hammer they wield is considered to be of +3 enchantment for purposes of what enemies it can strike.
-- From 1st level, Sonnlinor may cast an innate form of the Command spell once per day.
-- From 3rd level, Sonnlinor may cast an innate form of the Chant spells once per day.
-- From 5th level, Sonnlinor may create a Spiritual Hammer of Moradin once every five turns. This weapon of magical force does 1d4+1 blunt damage and 1d4 magic damage to foes, and has a chance to briefly Hold any undead struck by it. The damage and expertise with which the hammer is wielded increases as the Sonnlinor gains experience. The hammer remains in existence for ten rounds.
-- From 7th level, Sonnlinor may innately cast Command twice per day.
+Avantages :
+- Les Sonnlinor sont sans égaux pour l'utilisation et l'entretien des marteaux de guerre. Ils bénéficient d'un bonus de +2 aux jets d'attaque quand ils utilisent un marteau de guerre et tout marteau de guerre qu'il manient sont considérés comme disposant d'un enchantement de +3 pour décider de quels ennemis ils peuvent blesser.
+- À partir du niveau 1, peut lancer une forme innée du sort Injonction une fois par jour.
+- À partir du niveau 2, peut lancer une forme innée du sort Cantique une fois par jour.
+- À partir du niveau 5, peut créer un Marteau spirituel de Moradin une fois tous les cinq tours. Cette arme constitué de force magique inflige 1d4+1 points de dégâts contondants et 1d4 points de dégâts magiques et a une chance d'immobiliser brièvement tout mort-vivant qu'il touche. Les dégâts et le degré d'expertise avec lequel le marteau est manié augmente quand le Sonnlinor gagne de l'expérience. Le marteau existe pendant dix rounds.
+- À partir du niveau 7, peut lancer Injonction deux fois par jour.
 
-Restrictions:
-- Must be a dwarf.
-- May not be evil or chaotic.
+Restrictions :
+- Doit être un nain
+- Ne peut être d'alignement mauvais ou chaotique.
 ~
-@37113  = ~Hammer of Moradin~
-@37114  = ~This weapon of magical force does d4+1 blunt damage and d4 magic damage to foes, and has a chance to briefly Hold undead struck by it. It is wielded as if the bearer is specialized (2 stars) in its use.  These values increase as the caster rises in level.~
+@37113  = ~Marteau de Moradin~
+@37114  = ~Cette arme constitué de force magique inflige 1d4+1 points de dégâts contondants et 1d4 points de dégâts magiques et a une chance d'immobiliser brièvement tout mort-vivant qu'il touche. Les dégâts et le degré d'expertise avec lequel le marteau est manié augmente quand le lanceur gagne de l'expérience.~
 //
 // ... alaghor of clangeddin 
 //
 @37201  = ~alaghor de Clangeddin~
 @37202  = ~Alaghor de Clangeddin~
-@37203  = ~ALAGHOR DE CLANGEDDIN : Alaghors are an elite order of fighter/clerics devoted to the dwarven god of war, Clangeddin. They are powerful warriors as well as wise ministers, protecting dwarven communities from threats both physical and spiritual. 
+@37203  = ~ALAGHOR DE CLANGEDDIN : Les alaghors forment un ordre de guerriers/clercs d'élite dévoués au dieu nain de la guerre, Clangeddin. Ce sont des guerriers valeureux et aussi de sages prêtres qui protègent des communautés naines des dangers, qu'ils soient physiques ou spirituels.
 
-Advantages: 
-- Once per day, an Alaghor may use the Stout Resistance power, gaining 35% resistance to physical attacks.  The protection lasts for one round per two levels of experience.
-- From 5th level, an Alaghor may cast an innate form of Draw Upon Holy Might once per day.
-- From 9th level, an Alaghor may use the Critical Strike ability once per day. Upon activating this ability, every attack roll in the next round will result in a natural 20, causing a critical hit.
+Avantages :
+- Peut utiliser Robuste résistance une fois par jour, qui leur confère 35 % de résistance aux attaques physiques. La protection dure un round tous les deux niveaux.
+- À partir du niveau 5, peut lancer une forme innée de Puiser dans la puissance divine une fois par jour.
+- À partir du niveau 9, peut utiliser Coup critique une fois par jour. Quand il utilise cette compétence, toutes les attaques du round suivant seront des 20 naturels, déclenchant un coup critique.
 
-Restrictions:
-- Must be a dwarf.
-- May not be evil or chaotic.
+Restrictions :
+- Doit être un nain.
+- Ne peut être d'alignements mauvais ou chaotique.
 ~
-@37211  = ~Stout Resistance~
-@37212  = ~Calling upon hidden reserves of strength during times of danger, a Hammer of Moradin can use this ability to gain 35% resistance to all forms of physical damage. The effect lasts for 5 rounds.~
+@37211  = ~Robuste résistance~
+@37212  = ~En faisant appel à des réserves cachées de force dans les moments de péril, un alaghor de Clangeddin peut utiliser ce pouvoir pour gagner 35 % de résistance à toutes les formes de dégât physique. Cet effet dure 5 rounds.~
 @37213  = ~~
 @37214  = ~~
-@37215  = ~Critical Strike~
-@37216  = ~Critical Strike
+@37215  = ~Coup critique~
+@37216  = ~Coup critique
 
-A warrior's intimate knowledge of vital spots on opponents allows <PRO_HIMHER> to, once per day, concentrate all of the attacks in one round to strike a vital area every time. With this ability, every attack roll made in the next round is a natural 20, resulting in a critical hit.~
+Les connaissances étendues en anatomie d'un combattant de haut niveau lui permettent, une fois par jour, de concentrer toutes ses attaques d'un round sur un point vital de l'adversaire. Ainsi, toute attaque portée dans ce round est considérée comme un 20 naturel et donc un coup critique.~
 //
 // ... priest of marthammor:
 //
 @37301  = ~volamtar de Marthammor~
 @37302  = ~Volamtar de Marthammor Duin~
-@37303  = ~VOLAMTAR DE MARTHAMMOR DUIN : Known as the Finder of Trails, Marthammor is the dwarven patron of exploration, adventurers, and expatriate dwarves traveling outside dwarven lands.  
+@37303  = ~VOLAMTAR DE MARTHAMMOR DUIN : Connu sous le surnom de Trouveur de pistes, Marthammor est le dieu nain de l'exploration, de l'aventure et des nains expatriés loin des territoires nains.
 
-Advantages:
-- From 1st level, Volamtar can innately use the Tracking ability, similar to a Rangers. They can also observe nearby paths and lands, an effect similar to the Clairvoyance spell.
-- From 3rd level, Volamtar can innately cast Free Action once per day.
-- From 5th Level, Volamtar may innately cast Haste once per day.
+Avantages :
+- À partir du niveau 1, peut utiliser Pistage, comme la compétence de rôdeur du même nom. Ils peuvent aussi scruter les chemins et terres alentour, avec un effet similaire au sort Clairvoyance.
+- À partir du niveau 3, peut utiliser Action libre de façon innée une fois par jour.
+- À partir du niveau 5, peut utiliser Hâte de façon innée une fois par jour.
 
-Restrictions:
-- Alignment: may not be Evil.
+Restrictions :
+- ne peut êtr d'alignement mauvais.
 ~
-@37323  = ~Tracking~
-@37334  = ~Tracking
+@37323  = ~Pistage~
+@37334  = ~Pistage
 
-With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that live within them, a Volamtar of Marthammor Duin can use the Tracking ability to give <PRO_HIMHER>self a general idea of what creatures are in an area and which direction they are. Red arrows at the edge of the screen will point in the general direction of the creatures in the area.~
+Grâce à son intime connaissance des milieux naturels et des créatures qui y vivent, un volamtar peut utiliser cette faculté pour avoir une idée générale des créatures présentes dans une zone donnée, ainsi que de leur direction. Des flèches rouges indiquent à l'écran la direction générale des créatures de la zone.~
 //
 // ... priest of haela:
 //
@@ -934,908 +919,696 @@ Avantages :
 - Incitation à la rage : les guerroyeurs peuvent provoquer une rage de berserker au niveau 5, avec un usage supplémentaire aux niveaux 10,15 et 20. Ce pouvoir est identique à la rage du berserker, si ce n'est que le guerroyeur peut provoquer la rage sur lui-même ou sur les autres.
 
 Inconvénients :
-- ne peut pas êtr ed'alignement loyal.
+- ne peut pas être d'alignement loyal.
 ~
-@37323  = ~Tracking~
-@37334  = ~Tracking
-
-With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that live within them, a Volamtar of Marthammor Duin can use the Tracking ability to give <PRO_HIMHER>self a general idea of what creatures are in an area and which direction they are. Red arrows at the edge of the screen will point in the general direction of the creatures in the area.~
 //
 // ... priest of baravar:
 //
-@38201  = ~hoodwinker of baravar~
-@38202  = ~Hoodwinker of Baravar Cloakshadow~
-@38203  = ~HOODWINKER OF BARAVAR CLOAKSHADOW: Baravar Cloakshadow, the Sly One, is the gnomish deity of deception and illusions. Clerics of Baravar are known as Hoodwinkers and tend to be the sneakiest of gnomes, who serve their communities by instructing them in disguise and camoflage.
+@38201  = ~écornifleur de baravar~
+@38202  = ~Écornifleur de Baravar Sombretoge~
+@38203  = ~ÉCORNIFLEUR DE BARAVAR SOMBRETOGE : Baravar Sombretoge, le Rusé, est la divinité gnome de la tromperie et des illusions. Les clercs de  Baravar sont nommés écornifleurs et tendent à être les plus parmi gnomes les plus futés, et servent leurs communautés en les instruisant, grimés et camouflés.
 
-Advantages:
-- Hoodwinkers can innately cast Mirror Image once per day.
-- From 4th level, Hoodwinkers can innately cast Improved Invisibility once per day.
-- May use the Shadowstep ability at 6th level. The Hoodwinker gains an additional use at levels 12 and 18.
+Avantages :
+- Peut lancer Image miroir une fois par jour de façon innée.
+_ À partir du niveau 4, peut lancer Invisibilité majeure une fois par jour de façon innée.
+- À partir du niveau 6, peut utiliser Pas de l'ombre une fois par jour et gagne une utilisation supplémentaire aux niveaux 12 et 18.
 
-SHADOWSTEP: The character steps into the Shadow Plane and may move for 7 seconds while others are frozen in time. The caster cannot attack or cast spells while in the Shadow Plane.
+PAS DEL'OMBRE : Permet d'entrer dans le Plan des Ombres et de s'y déplacer pendant 7 secondes, tandis que le temps est figé pour tout le reste du monde. Dans cet état, le Maître des Ombres ne peut ni attaquer, ni lancer de sorts.
 
-- From 9th level, Hoodwinkers can invoke wild and confusing images in the minds of <PRO_HISHER> enemies, mimicking the effect of the Confusion spell.
+- À partir du niveau 9, peut invoquer des images folles et déroutantes dans l'sprit de ses ennemis, mimant les effets du sort Confusion.
 
-Restrictions:
-- Alignment: may not be Lawful.
+Restrictions :
+- ne peut être d'alignement loyal.
 ~
-@38204  = ~CLOAKED ONE OF BARAVAR: ~
-
-@38211  = ~Baravar's Double~
-@38212  = ~Baravar's Double: Often used in emergencies, this causes an illusionary double of the cleric to spring into existence. If the cleric is being attacked, the double will absorb the first blow that lands, and disappear. At 6th level two doubles are created, and at 12th level one of the two doubles can actually wander away from the cleric to distract enemies. Hoodwinkers may use this ability once per turn.~
 //
 // ... priest of baervan:
 //
-@38301 = ~fastpaws of baervan~ 
-@38302 = ~Fastpaws of Baervan~ 
-@38303 = ~FASTPAWS OF BAERVAN WILDWANDERER: Usually found far afield from urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures - especially raccoons!
+@38301 = ~pattes rapides de Baervan~
+@38302 = ~Pattes Rapides de Baervan~
+@38303 = ~PATTES RAPIDES DE BAERVAN ERMITERRANT : Trouvés le plus souvent loin des zones urbaines, les serviteurs de Baervan Ermiterrant cherchent à protéger la nature des créatures maléfiques. Ils ont une affinité particulière pour les plantes et créatures des forêts... surtout les ratons-laveurs !
 
-Advantages:
-- May summon a spirit animal ally for protection once per day. This being is similar to a bear, and increases in power at 3rd, 5th, 7th, and 10th levels.
-- Any time a Fastpaws casts Animal Summoning, the summoned animals are affected by the Magic Fang spell, enabling their natural attacks to strike beings which can only be struck by enchanted weapons.
-- From 3rd level, Fastpaws can innately cast Sanctuary once per day.
-- At 5th level, Fastpaws become immune to all sources of Grease, Entangle, and Web effects.
-- From 7th level, Fastpaws can cast Sanctuary twice per day.
+Avantages :
+- Peut convoquer un animal spirituel comme allié pour sa protection uen fois par jour. Cet esprit est semblable à un ours et sa puissance augmente aux niveaux 5, 7 et 10.
+- Chaque fois qu'un pattes rapides lance un sort de convocation d'animaux, les animaux convoqués sont sous l'effet du sort Croc magique, ce qui permet à leurs attaques naturelles de blesser les ennemis qui ne peuvent l'être que par des armes magiques.
+- À partir du niveau 3, peut lancer Sanctuaire de façon innée.
+- À partir du nivea 5, est immunisé contre les effets de Graisse, Enchevêtrement et Toile d'araignée.
+- À partir du niveau 7, peut lancer Sanctuaire deux fois par jour.
 
-Restrictions:
-- Race restricted to gnome.
-- Alignment restricted to good.
+Restrictions :
+- doit être de race gnome.
+- doit être d'alignement bon.
 ~
-@38304 = ~FASTPAWS OF BAERVAN WILDWANDERER: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
+@38304 = ~PATTES RAPIDES DE BAERVAN ERMITERRANT : Trouvés le plus souvent loin des zones urbaines, les serviteurs de Baervan Ermiterrant cherchent à protéger la nature des créatures maléfiques. Ils ont une affinité particulière pour les plantes et créatures des forêts... surtout les ratons-laveurs.
 ~
-//
-// ... cleric of baervan:
-//
-@22301 = ~fastpaws of baervan~ //Lower Case Kit Name: No Divine Remix
-@22302 = ~Fastpaws of Baervan~ //Mixed Case Kit Name: No Divine Remix
-@22303 = ~PRIEST OF BAERVAN: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
-
-Advantages:
-- May cast Call Woodland Beings once per day every 5 levels of the caster (starts at 1st level with one use).
-- May cast Naturewalk once per day every 10 levels of the caster (starts at 1st level with one use).
-
-NATUREWALK: This spell grants one person protection from ground and nature based movement impairing effects such as webs, entangling, and grease. This spell lasts 1 round per level of the caster.
-
-Restrictions:
-- Race restricted to gnome.
-- Alignment restricted to good.
-~
-@22304 = ~PRIEST OF BAERVAN: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
-~
-@22305  = ~~
-@22311 = ~Naturewalk~
-@22312 = ~Naturewalk
-This spell grants one person protection from ground and nature based movement impairing effects such as webs, entangling, and grease. This spell lasts 1 round per level of the caster.~
 //
 // ... priest of urdlen:
 //
-@38501  = ~bloodstalker of urdlen~
-@38502  = ~Bloodstalker of Urdlen~
-@38503  = ~BLOODSTALKER OF URDLEN: Urdlen's priests wage an unending war on communities of the Forgotten Folk, particularly the clergies of the other gnome gods. When not hunting other creatures, members of the priesthood work to steal, deface, or destroy objects of value, particularly gems and works of art. They share their lord's love for evil pranks, especially those directed against other gnomes. Priests must satisfy Urdlen first, so that he does not come for them, but then they may do what they want. Bloodstalkers believe that existence is a cosmic joke before death comes via Urdlen's claws. Sharing the cruel ironies and harsh humor of existence with others is only kind, for it helps to toughen them for what is coming in the end.
+@38501  = ~chasseur de sang d'Urdlen~
+@38502  = ~Chasseur de sang d'Urdlen~
+@38503  = ~CHASSEUR DE SANG D'URDLEN : Les prêtres d'Urdlen mènent une guerre sans fin contre le peuple oublié, et tout spécialement contre les clergés des autres dieux gnomes. Quand ils ne chassent pas d'autres créatures, les prêtres s'acharnent à voler, vandaliser ou détruire des objets de valeur comme les pierres précieuses ou les œuvres d'art. Ils partagent la passion de leur dieu pour les mauvais tours, surtout ceux qui ciblent les autre gnomes. Les prêtres doivent avant tout satisfaire Urdlen pour ne pas qu'il s'en prenne à eux, mais une fois cette formalité accomplie, ils peuvent faire ce que bon leur chante.Les chasseurs de sang pensent que leur existence est une plaisanterie cosmique.qui dure jusqu'à ce que la griffe d'Urdlen vienne leur donner la mort. Faire partager aux autres l'ironie cruelle et l'humour rude de l'existence est une forme de compassion, en ce sens que cela aide à les endurcir contre ce qui vient tout à la fin.
 
-Advantages:
-- From 1st level, Bloodstalkers may cast Stinking Cloud as an innate ability once per day.
-- From 3rd level, Bloodstalkers may cast Blindness as an innate ability once per day.
-- From 6th level, Bloodstalkers may cast Skull Trap as an innate ability once per day.
-- From 10th level, Bloodstalkers may cast Cloudkill as an innate ability once per day.
+Avantages :
+- À partir du niveau 1, peut lancer Nuage puant une fois par jour de façon innée.
+- À partir du niveau 3, peut lancer Cécité une fois par jour de façon innée.
+- À partir du niveau 6, peut lancer Piège à crânes une fois par jour de façon innée.
+- À partir du niveau 10, peut lancer Nuage mortel une fois par jour de façon innée.
 
-Restrictions:
-- Alignment: may not be Good.
+Restrictions :
+- ne peut être d'alignement bon.
 ~
 //
 // ... priest of yondalla:
 //
-@39101  = ~horn guard of yondalla~
-@39102  = ~Horn Guard of Yondalla~
-@39103  = ~HORN GUARD OF YONDALLA: Yondalla is the leader of the halfling pantheon, protector and provider for both the deities in her fold and the halfling race in general.  She represents life, creativity, fertility, community.  Her priests generally play important roles in halfling affairs; they officiate over weddings, births, funerals, and other civil ceremonies, and trusted advisors to community leaders.  In times of crisis and when under attack, they generally hang back, supporting the defenders in front of them and establishing the last line of defense for the weak and helpless.
+@39101  = ~Garde de la corne de Yondalla~
+@39102  = ~Garde de la corne de Yondalla~
+@39103  = ~GARDE DE LA CORNE DE YONDALLA : Yondalla est le chef du panthéon des petites-gens, protectrice.et pourvoyeuse aussi bien des divinités que du peuple petites-gens en général. Elle la vie, la créativité, la fertilité, la communauté. Ses prêtres jouent en général des rôles importants dans les affaires des petites-gens : ils officient aux mariages, naissances, funérailles et autres cérémonies civiles et sont des conseillers fiables pour les dirigeants des communautés. En temps de crise et pendant les attaques, ils restent en général en retrait et supportent les défenseurs en première ligne devant eux, établissant ainsi la dernière ligne de défense pour les faibles et les sans défense.
 
-Advantages:
-- From 1st level, a Horn Guard can cast an innate version of the Shield spell; unlike the normal version, this may be cast upon others, not just <PRO_HIMHER>self.
-- At 5th level, Horn Guards become permanently immune to fear and morale failure.
-- From 7th level, a Horn Guard can innately cast Defensive Harmony once per day.
-- At 9th level, Horn Guards become permanently immune to effects and spells that cause level drain.
+Avantages :
+- À partir du niveau 1, peut lancer une version innée du sort Bouclier : à la différence de la version habituelle, ce pouvoir peut être lancé sur les autres et pas seulement sur soi.
+- À partir du niveau 5, devient immunisé de façon permanent contre la terreur et les échecs de moral.
+- À partir du niveau 7, peut lancer Harmonie défensive de façon innée une fois par jour.
+- À partir du niveau 9, devient immunisé de façon permanente contre les effets et les sorts qui infligent des absorptions de niveau.
 
-Restrictions:
-- Alignment: neutral and/or good
+Restrictions :
+- doit être d'alignement neutre et/ou bon
 ~
 //
 // ... priest of arvoreen:
 //
-@39201  = ~defender of arvoreen~
-@39202  = ~Defender of Arvoreen~
-@39203  = ~DEFENDER OF ARVOREEN: Arvoreen represents the military might of the halfling race.  His followers general focus on reaction and defense.  They cultivate tactical skills, supporting fighting prowess with stealth and guerilla maneuvering, advanced signalling systems, and the use of traps and wards to control enemy movement.
+@39201  = ~défenseur d'Arvoreen~
+@39202  = ~Défenseur d'Arvoreen~
+@39203  = ~DÉFENSEUR D'ARVOREEN : Arvoreen représente la force militaire de la race petite-gens. Ses adeptes se concentrent en général sur la réaction et la défense. Ils cultivent les compétences tactiques, appuyant le talent guerrier avec la discrétion, les manœuvres de guerilla, des systèmes sophistiqués de.communication et l'usage des pièges et des protections magiques pour contrôler les mouvements des ennemis.
 
-Advantages:
-- From 1st level, a Defender can increase <PRO_HISHER> Strength to 18/00 (or higher, if it is 18 already) once per day.
-- From 5th level, a Defender can heal with touch, similar to the Lay On Hands Power of paladins.
-- From 9th level, a Defender can use a personal version of the Haste spell, increasing movement and physical attacks per round for one round/level.
+Avantages :
+- À partir du niveau 1, peut augmenter sa force jusqu'à 18/00 (ou plus, si elle est déjà à 18) une fois par jour.
+- À partir du niveau 5, peut guérir par contact, de façon similaire à l'Imposition des mains des paladins.
+- À partir du niveau 9, peut utiliser une version personnelle du sort Hâte pour augmenter sa mobilité et le nombre d'attaques physiques par round pendant un round par niveau.
 
-Restrictions:
-- Alignment: 
+Restrictions :
+- Alignment
 ~
-@39211  = ~Defender's Strength~
-@39212  = ~Defender's Strength
+@39211  = ~Force du défenseur~
+@39212  = ~Force du défenseur
 
-When necessary, a Defender can draw upon a great well of strength for brief periods of time. Using this ability sets <PRO_HISHER> Strength to 18/00, plus a +2 THAC0 bonus to all attacks. If the Defender's Strength is already 18 or higher, it increases by one point, to  a maximum of 25. Such might cannot be sustained indefinitely, alas; the effect lasts for 3 turns.~
-@39213  = ~Swiftness of Action~
-@39214  = ~Swiftness of Action
+En cas de besoin, un défenseur peut puiser dans une profonde source de force pendant une courte durée. Cette aptitude fixe sa force à 18/00, en y ajoutant un bonus de +2 au TAC0 de toutes les attaques. Si la force du défenseur est déjà à 18 ou plus, elle est augmentée de 1 point, jusqu'à un maximum de 25. Tant de puissance ne peut hélas être maintenue bien longtemps. L'effet dure 3 tours.~
+@39213  = ~Rapidité d'action~
+@39214  = ~Rapidité d'action
 
-When circumstances demand it, a Defender can move at incredible speeds for brief periods of time. Using this ability, <PRO_HESHE> resembles nothing so much as a body imbued with a Haste spell; <PRO_HESHE> can run twice her normal distance in the same amount of time and receives an additional attack in each round of combat. Such a pace cannot be maintained indefinitely, however; the effect lasts for 3 rounds + 1 round per level.~
+En cas de besoin, un défenseur, un défenseur peut se déplacer à des vitesses incroyables pendant une courte durée. Sous l'effet de ce pouvoir, il semble sous l'effet du sort de Hâte ; il peut se déplacer deux fois plus loin que la distance normale sur la même durée et reçoit une attaque supplémentaire chaque round de combat. Une telle rpidité ne peut hélas être maintenue bien longtemps. L'effet dure 3 rounds + 1 round/niveau.~
 //
 // ... incarnate of mystra 
 //
-@40501  = ~arcane soul~
-@40502  = ~Arcane Soul~
-@40503  = ~INCARNATE OF MYSTRA: yadda yadda.
+@40501  = ~âme profane~
+@40502  = ~Âme profane~
+@40503  = ~INCARNATION DE MYSTRA: yadda yadda.
 
-Advantages:
-- Cast like a sorcerer, etc.
+Avantages :
+- lance les sorts comme un ensorceleur, etc.
 
-Restrictions:
-- Progresses as a sorcerer in hit points and thac0
-- May not use divine magic
+Restrictions :
+- Ses points de vie et son TAC0 progresse comme ceux d'un ensorceleur.
+- Ne peut utiliser de magie divine.
 ~
 //
 // ... multiclass druids
 //
-@45101  = ~fighter/druid~
-@45102  = ~Fighter/Druid~
-@45103  = ~DRUID: The Druid serves the cause of nature and neutrality; the wilderness is <PRO_HISHER> community, and <PRO_HESHE> uses <PRO_HISHER> special powers to protect it and to preserve balance in the world.
+@45101  = ~guerrier/druide~
+@45102  = ~Guerrier/Druide~
+@45103  = ~DRUIDE : Le druide sert la cause de la nature et de la neutralité ; La nature sauvage est sa communauté. Il utilise ses pouvoirs spéciaux pour la protéger et préserver l'équilibre du monde.
 
-ABILITIES:
-- May cast druidic spells.
-- 7th level: May Shapeshift into a wolf, black bear, or brown bear once per day.
-- 15th level: Becomes immune to poison.
-- 18th level: Gains 10% resistance to cold, fire, electricity, and acid; gains a further 10% resistance at levels 21 and 24.
+CAPACITÉS :
+- Peut lancer des sorts divins.
+- Au niveau 7, il peut changer de forme en loup, en ours noir ou en ours brun une fois par jour.
+- Au niveau 15, il devient immunisé contre le poison.
+- Au niveau 18, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 21 et 24.
 
-RESTRICTIONS:
-- May only wear non-metallic armor.
-- May only equip bucklers and non-metallic shields.
-- May only use the following weapons: scimitar, dagger, club, spear, quarterstaff, dart, sling.
-- May only become Proficient (one slot) in any weapon class.
-- May only become Proficient (one slot) in any fighting style.
-- Alignment restricted to true neutral.
+RESTRICTIONS :
+- Ne peut porter que des armures non-métalliques.
+- Ne peut équiper que des targes et des boucliers non-métalliques.
+- Ne peut utiliser que les armes suivantes : cimeterre, dague, gourdin, lance, bâton, fléchette et fronde.
+- Ne peut être que compétent (une étoile) dans le maniement des armes.
+- Ne peut être que compétent (une étoile) dans les styles de combat.
+- Doit être d'alignement neutre strict.
 ~
-@45201  = ~druid/ranger~
-@45202  = ~Druid/Ranger~
-@45301  = ~druid/thief~
-@45302  = ~Druid/Thief~
-@45401  = ~druid/mage~
-@45402  = ~Druid/Mage~
-@45501  = ~sorcerer/druid~
-@45502  = ~Sorcerer/Druid~
-@45601  = ~druid/monk~
-@45602  = ~Druid/Monk~
-@74100  = ~Fighter/Druid~
-@74300  = ~Druid/Mage~
-@74500  = ~Druid/Ranger~
-@74700  = ~Druid/Thief~
-@74101  = ~druid~
-@74102  = ~Druid~
-@74103  = ~DRUID: Most druids reside in the regions where soil is nutritious, plant life is abundant and animals thrive.  These regions are in many ways the epitome of harmonious ecosystems, and druids often charge themselves with nurturing and defending them.  Tall forests are a paradise in many ways: they provide shade from the sun, food and homes for animals and people, and wood for tools.  Forests are incessantly under threat of being torn down and subjugated by careless humans and demihumans. Forest druids therefore often live with a constant low-grade paranoia, which informs the stereotype of druids being hostile to civilization.
+@45201  = ~druide/rôdeur~
+@45202  = ~Druide/Rôdeur~
+@45301  = ~druid/voleur~
+@45302  = ~Druide/Voleur~
+@45401  = ~druide/mage~
+@45402  = ~Druide/Mage~
+@45501  = ~ensorceleur/druide~
+@45502  = ~ensorceleur/Druide~
+@45601  = ~druide/moine~
+@45602  = ~Druide/Moine~
+// start - unused
+@74100  = ~Guerrier/Druide~
+@74300  = ~Druide/Mage~
+@74500  = ~Druide/Rôdeur~
+@74700  = ~Druide/Voleur~
+@74101  = ~druide~
+@74102  = ~Druide~
+// end - unused
+// 74103 also unused
+@74103  = ~DRUIDE: La plupart des druides résident en des lieux où le sol est riche, la végétation abondante et les animaux s'épanouissent. Ces régions sont l'incarnation même de ce qu'est un écosystème harmonieux et les druides se vouent souvent à les cultiver et les protéger. Pour bien des raisons, les hautes forêts sont un paradis. Elles offrent ombrage, nourriture et habitat aux animaux et aux personnes, ainsi que le bois pour les outils. Les forêt sont perpétuellement menacés de destruction ou d'appropriation par des humains ou demi-humains négligents. Les druides des forêts sont donc souvent touchés par une forme atténuée de paranoïa qui nourrit le stéréotype du druide hostile à la civilisation.
 
-Advantages:
-- At 1st level, may summon a Spirit Bear. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 3rd level, may shapeshift into the form of a wolf or a ferret at will.
-- At 5th level, may shapeshift into the form of a black bear.
-- At 7th level, may shapeshift into the form of a python or a mountain lion.
-- At 9th level, may shapeshift into a larger dire wolf instead of a wolf.
-- At 9th level, the druid become immune to poison.
-- At 11th level, may shapeshift into a larger grizzly bear instead of a black bear.
-- At 13th level, may shapeshift into a large wyvern.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- Au niveau 1, peut convoquer un ours spirituel. Le nombre de dés de vie de l'animal spirituel augmente pour égaler le niveau du druide aux niveaux 3, 5, 7 et 10.
+- Au niveau 3, il peut changer de forme en loup ou en furet à volonté.
+- Au niveau 5, il peut changer de forme en ours brun.
+- Au niveau 7, il peut changer de forme en python ou en lion des montagnes.
+- Au niveau 9, il peut changer de forme en loup noir, plus grand, à la place du loup.
+- Au niveau 9, il devient immunisé contre le poison.
+- Au niveau 11, il peut changer de forme en grizzly, plus grand, à la place de l'ours brun.
+- Au niveau 13, il peut changer de forme en grande wiverne.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-WOLF: in wolf form the druid can detect hidden enemies. He can attack 1.5 times per round for 2d4 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
+LOUP : sous forme de loup, le druide peut détecter les ennemis dissimulés. Il peut attaquer 1 fois et demi par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
-FERRET: in ferret form the druid is hidden from view for up to two rounds. <PRO_HESHE> can use this to escape enemies or move undetected, and can attack once per round for 1d2 piercing damage.
+FURET : sous forme de furet, le druide est caché pour deux rounds au plus. Il peut en profiter pour s'enfuir ou se déplacer furtivement, et peut attaquer deux fois par round, infligeant 1d2 points de dégâts perforants.
 
-BLACK BEAR: in black bear form, the druid has 19 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage.
+OURS BRUN : sous forme d'ours brun, le druide a une force de 19 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants.
 
-PYTHON: in snake form, the druid can attack with a bite that causes 1d3 damage and poisons the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can attempt to constrict around an opponent, briefly paralyzing them if they fail a saving throw.
+PYTHON : sous forme de serpent, le druide peut utiliser une morsure qui inflige 1d3 points de dégâts et empoisonne la cible, avec un effet semblable à l'Arme empoisonnée de l'assassin. De plus, le druide peut essayer d'enserrer un adversaire,ce qui les paralyse un court instant s'il échoue à un jet de sauvegarde.
 
-MOUNTAIN LION: in mountain lion form, the druid can attack twice per round for 2d4 slashing damage. Successful attacks can knock the target to the ground if they fail a saving throw. 
+LION DES MONTAGNES : sous forme de lion des montagnes, le druide attaque deux fois par round avec 2d4 points de dégâts tranchants. Les attaques réussies peuvent projeter la cible au sol si elle échoue à un jet de sauvegarde.
 
-DIRE WOLF: in dire wolf form the druid has 19 STR. He can attack 1.5 times per round for 2d6 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
+LOUP NOIR : sous forme de loup noir, le druide  a une force de 19. Il peut attaquer 1 fois et demi par round en infligeant 2d6 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
-GRIZZLY BEAR: in grizzly bear form, the druid has 20 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage and, if the target fails a saving throw, and additional 2d4 crushing damage.
+GRIZZLY : sous forme de grizzly, le druide  a une force de 20 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants et,si la cible échoue à un jet de sauvegarde, 2d4 points de dégâts contondants supplémentaires.
 
-WYVERN: in wyvern form the druid can fly over ground-based obstacles like Entangle and Web spells. <PRO_HISHER> powerful claws can rake victims for 2d6 damage and <PRO_HISHER> attacks can poison the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can create a powerful gust of wind that acts like a smaller version of a dragon's "Wing Buffet" ability.~
+WIVERNE : sous forme de wiverne, le druide peut survoler les obstacles au sol comme les sorts d'Enchevêtrement et de Toile d'araignée. Ses griffes puissantes peuvent déchirer leurs victimes et infliger 2d6 points de dégâts et ses attaquent peuvent empoisonner la cible, avec des effets semblables à l'Arme empoisonnée des assassins. De plus, le druide peut générer une puissante bourrasque qui se comporte comme une version diminuée du Coup d'ailes des dragons.~
 //
 // ... abjurist of mystra 
 //
-@46401  = ~abjurist of mystra~
-@46402  = ~Abjurist of Mystra~
-@46403  = ~ABJURIST OF MYSTRA: Mystra is known as the Lady of Spells and the Mother of Magic. She tends to the Weave, which enables mortals to cast spells. One sect of Mystra's clerics, known as Abjurists, can channel the Weave into protective shields, making them excellent spell duelists.
+@46401  = ~abjuriste de Mystra~//neologisme pour différencier avec abjurateur ?
+@46402  = ~Abjuriste de Mystra~
+@46403  = ~ABJURISTE DE MYSTRA : Mystra est surnommée Mère de la Magie ou Notre Dame des Sorts. Elle est chargée de générer et d'entretenir la Toile, ce conduit qui permet aux jeteurs de sorts d'accéder à l'énergie magique du multivers. Une des sectes des clercs de Mystra, les abjuristes, peut canaliser la Toile sous forme de boucliers protecteurs, ce qui fait d'eux d'excellents duellistes magiques.
 
-Advantages:
-- When an Abjurist casts Spell Deflection, Spell Turning, or Spell Trap spells, <PRO_HESHE> automatically gets the benefit of a Spell Shield as well. Every Abjurist automatically has these spells in <PRO_HISHER> wizard spellbook.
-- One With the Weave: Abjurists can cast spells slightly more easily than most priests, gaining a -1 bonus to casting time.
+Avantages :
+- Quand un abjuriste lance un sort de Déviation de sorts, de Renvoi de sorts ou de Piège à sorts, il bénéficie automatiquement d'un bouclier de sorts en supplément. Tout abjuriste dispose automatiquement de ces sorts dans son livre de sorts de mage.
+- Faire un avec la Toile : les abjuristes peuvent lancer les sorts avec un peu plus de facilité que la plupart des prêtres, ce qui se traduit par un bonus de -1 au temps d'incantation.
 
-Restrictions:
-- Alignment: May not be Evil.
+Restrictions :
+- ne peut être d'alignement mauvais.
 ~
 //
 // ... monitor of azuth 
 //
-@46501  = ~monitor of azuth~
-@46502  = ~Monitor of Azuth~
-@46503  = ~MONITOR OF AZUTH: Azuth is a lesser deity who assists Mystra, the Mother of Magic, in tending to 'the Weave' that enables all magic in Faerun to exist. Monitors, followers of Azuth, are magical enforcers, policing misuse of the Weave by evile practitioners and empowered to challenge even the mightiest spellcasters.
+@46501  = ~surveillant d'Azouth~
+@46502  = ~Surveillant d'Azouth~
+@46503  = ~SURVEILLANT D'AZOUTH : Azouth est une divinité mineure qui aide Mystra, la Mère de la magie, à entretenir la Toile qui permet à toute la magie de Féérune d'exister. Les surveillants, adeptes d'Azouth, sont les agents de police magique qui contrôlent le mauvais usage de la magie par des pratiquants maléfiques, et sont habilités à défier même les lanceurs de sorts les plus accomplis.
 
-Advantages:
-- Monitors gain a bonus to their effective caster level, making them as effective as single-class spellcasterscasters with equivalent experience (+1 caster level per 5 levels).
-- One With the Weave: Monitors can cast spells slightly more easily than most priests, gaining a -1 bonus to casting time.
+Avantages :
+- Les surveillants bénéficient d'un bonus à leur niveau effectif de lanceur de sorts, ce qui les rend aussi efficaces que des lanceurs de sorts monoclassés avec une expérience équivalente (+1 niveau de lanceur tous les 5 niveaux).
+- Faire un avec la Toile : les surveillants peuvent lancer les sorts avec un peu plus de facilité que la plupart des prêtres, ce qui se traduit par un bonus de -1 au temps d'incantation.
 
-Restrictions:
-- Alignment: May not be Evil.
+Restrictions :
+- ne peut être d'alignement mauvais.
 ~
-@46504  = ~MONITOR OF AZUTH: ~
-//
-// ... spellbender 
-//
-@46601  = ~spellbender~
-@46602  = ~Spellbender~
-@46603  = ~SPELLBENDER: The goddess Mystra rules all magic, and mandates that spellcasters must formulate known spells, and must memorize the patterns of those spells in order to successfully release them. But as with any system, the are gaps and shortcuts that may be used to circumvent the rules. Sorcerers are born with the ability to shape magic directly, though only into a limited number of effects; and wild mages shape spells without discipline, achieving powerful results at the risk of disastrous side-effects. Spellbenders make a science of mapping the ways to bypass Mystra's restrictions. Practicing as generalist clerics as well as studying arcane wizardry, they learn to manipulate the intersection of those two areas of magic.
-
-Advantages:
-- May use the 'Arcane Weaving' ability in place of memorizing priest spells. This ability allows the Spellbender to spontaneously cast one of several wizard spells of one level lower than the sacrificed priest spell.
-- May use the 'Divine Weaving' ability in place of memorizing wizard spells. This ability allows the Spellbender to spontaneously cast one of several priest spells of one level lower than the sacrificed wizard spell.
-
-Restrictions:
-- None.
-~
-@46605  = ~Arcane Weaving I~
-@46606  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Spook
-- Shield
-- Reflected Image
-- Grease
-- Sleep
-- Chromatic Orb
-- Burning Hands
-- Magic Missile~
-@46607  = ~Arcane Weaving II~
-@46608  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Vocalize
-- Blur
-- Invisibility
-- Horror
-- Web
-- Glitterdust
-- Acid Arrow
-- Knock~
-@46609  = ~Arcane Weaving III~
-@46610  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Dispel Magic
-- Detect Illusion
-- Ghost Armor
-- Protection from Missiles
-- Haste
-- Dire Charm
-- Lightning Bolt
-- Fireball~
-@46611  = ~Arcane Weaving IV~
-@46612  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Minor Globe
-- Stoneskin
-- Polymorph Self
-- Improved Invisibility
-- Secret Word
-- Greater Malison
-- Confusion
-- Ice Storm~
-@46613  = ~Arcane Weaving V~
-@46614  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Oracle
-- Shadow Door
-- Minor Turning
-- Phantom Blade
-- Domination
-- Breach
-- Hold Monster
-- Cloudkill~
-@46615  = ~Arcane Weaving VI~
-@46616  = ~Arcane Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Globe of Invulnerability
-- Spell Deflection
-- Protection from Energy
-- Mislead
-- Tenser's Transformation
-- Pierce Magic
-- Improved Haste
-- Chain Lightning~
-@46617  = ~Divine Weaving I~
-@46618  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Light Wounds
-- Bless
-- Remove Fear
-- Protection from Evil
-- Armor of Faith
-- Sanctuary
-- Command
-- Magic Stone~
-@46619  = ~Divine Weaving II~
-@46620  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Find Traps
-- Chant
-- Resist Fire and Cold
-- Slow Poison
-- Draw Upon Holy Might
-- Silence
-- Hold Person
-- Spiritual Hammer~
-@46621  = ~Divine Weaving III~
-@46622  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Medium Wounds
-- Remove Curse
-- Cure Disease
-- Remove Paralysis
-- Dispel Magic
-- Invisibility Purge
-- Strength of One
-- Holy Smite~
-@46623  = ~Divine Weaving IV~
-@46624  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Serious Wounds
-- Lesser Restoration
-- Protection from Evil 10' Radius
-- Defensive Harmony
-- Death Ward
-- Protection from Lightning
-- Free Action
-- Holy Power~
-@46625  = ~Divine Weaving V~
-@46626  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Critical Wounds
-- Mass Cure
-- Chaotic Commands
-- Magic Resistance
-- Righteous Magic
-- Greater Command
-- Repulse Undead
-- Flame Strike~
-@46627  = ~Divine Weaving VI~
-@46628  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Heal
-- Wondrous Recall
-- Aerial Servant
-- Physical mirror
-- Blade Barrier
-- Sol's Searing Orb
-- False Dawn
-- Bolt of Glory~
+@46504  = ~SURVEILLANT D'AZOUTH : Azouth est une divinité mineure qui aide Mystra, la Mère de la magie, à entretenir la Toile qui permet à toute la magie de Féérune d'exister. Les surveillants, adeptes d'Azouth, sont les agents de police magique qui contrôlent le mauvais usage de la magie par des pratiquants maléfiques, et sont habilités à défier même les lanceurs de sorts les plus accomplis.~
 //
 // ... cleric/thief of mask:
 //
-@46901  = ~nightrunner of mask~
-@46902  = ~Nightrunner of Mask~
-@46903  = ~NIGHTRUNNER OF MASK: Mask is the god of shadow and intrigue. His goals are always hidden, and his actions are motivated by many layers of schemes and plans. His sect of Nightrunners includes both priests and cleric/thieves who travel the land advancing Mask's agenda.
+@46901  = ~coureur de la nuit de Mask~
+@46902  = ~coureur de la nuit de Mask~
+@46903  = ~COUREUR DE LA NUIT DE MASK : Mask est le dieu des ombres et de l'intrigue. Ses buts sont toujours cachés et ses actes sont toujours motivés par de multiples couches de complots et de plans. Sa secte de coureurs de la nuit accueille à la fois des prêtres et des clercs/voleurs, qui parcourent le monde en faisant avancer les plans de Mask.
 
-Advantages:
-- May create a Shadow Eye, an invisible floating eye through which the Nightrunner can scout distant locations.  The Nightrunner gains an extra use of this ability at levels, 6, 12, and 18.
-- From 4th level, Nightrunners can suddenly disappear from sight via a magical Shadow Door.  The nightrunner gains an extra use of this ability at levels 10 and 16.
-- At 8th level, Nightrunners gain the ability to conjure a creature of pure shadow to fight on their behalf. They gains an extra use of this ability at levels 14 and 20.
+Avantages :
+- Peut créer un Œil d'ombre, un œil flottant invisible, au travers duquel le coureur de la nuit peut explorer des endroits distants. Le coureur de la nuit obtient une utilisation supplémentaire aux niveaux 6, 12 et 18.
+- À partir du niveau 4, peut disparaître soudainement de la vue de tous grâce à une Porte d'ombre magique. Le coureur de la nuit obtient une utilisation supplémentaire aux niveaux 10 et 16.
+- À partir du niveau 8, le coureur de la nuit obtient la faculté d'invoquer une créature d'ombre pour combattre pour lui. Il gagne une utilisation supplémentaire aux niveaux 14 et 20.
 
-Restrictions:
-- Alignment: may not Lawful or Good.
+Restrictions :
+- ne peut être d'alignement loyal ou bon.
 ~
-@46904  = ~NIGHTRUNNER OF MASK: Mask is the god of shadow and intrigue. His goals are always hidden, and his actions are motivated by many layers of schemes and plans. His sect of Nightrunners includes both priests and cleric/thieves who travel the land advancing Mask's agenda.~
+@46904  = ~COUREUR DE LA NUIT DE MASK : Mask est le dieu des ombres et de l'intrigue. Ses buts sont toujours cachés et ses actes sont toujours motivés par de multiples couches de complots et de plans. Sa secte de coureurs de la nuit accueille à la fois des prêtres et des clercs/voleurs, qui parcourent le monde en faisant avancer les plans de Mask.~
 @46905  = ~~
-@46911  = ~Shadow Eye~
-@46912  = ~The Nightrunner creates an shadowy sensory organ that can move away and sends back visual information to the Nightrunner's mind. The Shadow Eye eye can see with normal vision up to 60 feet away in brightly lit areas, and travel in any direction as long as the spell lasts.~
-@46913  = ~Shadow Door~
-@46914  = ~By means of this spell, the Nightrunner creates the illusion of a door and steps through it, becoming totally invisible for the spell duration. Opponents within 5 feet of the caster must save vs. spell at -4 or be fooled into following the caster through the door, becoming trapped in an extradimensional room for up to 4 rounds.~
-@46915  = ~Summon Shadow~
-@46916  = ~This spell summons a shadow, an undead monster which will serve the Nightrunner under any conditions.~
-@46917  = ~Shadow~
+@46911  = ~Œil d'ombre~
+@46912  = ~Le coureur de la nuit crée un organe sensoriel constitué d'ombre qui peut s'éloigner et envoyer des informations visuelles vers l'esprit du lanceur. L'Œil d'ombre voit en vision normale jusqu'à 18 mètres dans les zones éclairées et peut se déplacer dans toutes les directions tant que dure le sort.~
+@46913  = ~Porte d'ombre~
+@46914  = ~Grâce à ce sort, le coureur de la nuit créé l'illusion d'une porte. Il donne également l'impression de franchir cette « porte » et de disparaître, devenant totalement invisible pour la durée du sort. Les adversaires à moins de 1,5 m du lanceur doivent réussir un jet de sauvegarde avec un malus de -4 sous peine d'être dupés et amenés à suivre le lanceur au travers de la porte, se retrouvant piégé dans une pièce extra-dimensionnelle pendant au plus 4 rounds.~
+@46915  = ~Convocation d'ombre~
+@46916  = ~Ce sort convoque une ombre, un monstre mort-vivant qui obéira au coureur de la nuit dans n'importe quelles circonstances.~
+@46917  = ~Ombre~
 //
 // ... cleric/thief of brandobaris:
 //
-@47701  = ~misadventurer of brandobaris~
-@47702  = ~Misadventurer of Brandobaris~
-@47703  = ~MISADVENTURER OF BRANDOBARIS: Generally portrayed as a friendly rascal, Brandobaris is the halfling embodiment of adventure and mischief. Fond of novel risks and challenges, he pairs a tendency to fall into trouble with an uncanny knack for escaping it in daring and dramatic ways. His priests spend a substantial portion of their time cultivating roguish talents.
+@47701  = ~mésaventurier de brandobaris~
+@47702  = ~Mésaventurier de Brandobaris~
+@47703  = ~MÉSAVENTURIER DE BRANDOBARIS : Généralement décrit comme une canaille amicale, Brandobaris est la personification de l'aventure et la fripouillerie pour les petites-personnes. Adorant les risques et défis inédits, il associe une tendance à se mettre dans le pétrin avec un talent troublant pour s'en sortir.de façon audacieuse et dramatique. Ses prêtres consacrent une partie substantielle de leur temps à cultiver leurs compétences roublardes.
 
-Advantages:
-- Blessing of Tymora: due to Brandobaris' close friendship with Tymora, Misadventurers have a permanent +1 bonus to Luck.
-- From 3rd level, Misadventurers can innately cast Silence 15' once per day.
-- From 5th level, Misadventurers can innately cast Invisibility once per day.
-- Misadventurers have an uncanny knack for avoiding capture and bondage. From 7th level, they have a 60% chance to avoid any spells or effects involving Hold, Stun, Web, Entanglement, and Slow.
+Avantages :
+- Bénédiction de Tymora : grâce à l'amitié entre brandobaris et Tymora, les mésaventuriers bénéficient d'un bonus de +1 à la chance.
+- À partir du niveau 3n peut lancer Silence sur 5 mètres de façon innée une fois par jour
+- À partir du niveau 5, peut lancer Invisibilité une fois par jour.
+- Les mésaventuriers ont talent troublant pour éviter la capture et l'entrave. À partir du niveau 7, ils ont 60 % de chances d'éviter tout sort ou effet d'immobilisation, d'étourdissement, de toile, d'enchevêtrement ou de lenteur.
 
-Restrictions:
-- Alignment: 
+Restrictions :
+- Alignement: 
 ~
 //
 // ... woodscout of mielikki 
 //
-@49101  = ~woodscout of mielikki~
-@49102  = ~Woodscout of Mielikki~
-@49103  = ~WOODSCOUT of MIELIKKI: the Lady of the Forest, Mielikki, helps humanoids commune with the spirits of nature, teaching them to survive in harsh climes. While her ally Silvanus teaches druid to mold nature, Mielikki's Woodscouts train as rangers to live in simple harmony with nature. Woodscouts enjoy the company of civilized beings; they are often found exploring with adventuring parties, striving against unnatural threats while instructing their companions in how to respect nature.
+@49101  = ~éclaireur des bois de Maïlikki~
+@49102  = ~Éclaireur des bois de Maïlikki~
+@49103  = ~ÉCLAIREUR DES BOIS DE MAÏLIKKI : La Dame de la forêt, Maïlikki, aide les humanoïdes à communier avec les esprits de la nature et  leur apprend à survivre sous des cieux rigoureux. Tandis que son allié Silvanus apprend aux druides à façonner la nature, les éclaireurs des bois de Maïlikki se forment comme rôdeur à vivre en simplicité, en harmonie avec la nature. Les éclaireurs des bois apprécient la compagnie des êtres civilisés. On les trouve souvent explorant avec des groupes d'aventuriers, affrontant des menaces contre nature tout en enseignant à leurs compagnons comment respecter la nature.
 
-Advantages:
-- Woodscouts combine the abilities of a ranger and cleric simultaneously.
-- Woodscouts may reach Mastery (+++) with longbows or shortbows
+Avantages :
+- les éclaireurs des bois combinent les facultés d'un rôdeur et d'un druide.
+- les éclaireurs des bois peuvent atteindre la maîtrise (3 étoiles) avec les arcs longs et les arcs courts.
 
-Restrictions:
-- Alignment: must be Good.
+Restrictions :
+- doit êtr ed'alignement bon.
 ~
-@49104  = ~WOODSCOUT of MIELIKKI: the Lady of the Forest, Mielikki, helps humanoids commune with the spirits of nature, teaching them to survive in harsh climes. While her ally Silvanus teaches druid to mold nature, Mielikki's Woodscouts train as rangers to live in simple harmony with nature. Woodscouts enjoy the company of civilized beings; they are often found exploring with adventuring parties, striving against unnatural threats while instructing their companions in how to respect nature.~
+@49104  = ~ÉCLAIREUR DES BOIS DE MAÏLIKKI : La Dame de la forêt, Maïlikki, aide les humanoïdes à communier avec les esprits de la nature et  leur apprend à survivre sous des cieux rigoureux. Tandis que son allié Silvanus apprend aux druides à façonner la nature, les éclaireurs des bois de Maïlikki se forment comme rôdeur à vivre en simplicité, en harmonie avec la nature. Les éclaireurs des bois apprécient la compagnie des êtres civilisés. On les trouve souvent explorant avec des groupes d'aventuriers, affrontant des menaces contre nature tout en enseignant à leurs compagnons comment respecter la nature.~
 //
 // ... windrider of shaundakul 
 //
-@49201  = ~windrider of shaundakul~
-@49202  = ~Windrider of Shaundakul~
-@49203  = ~WINDRIDER OF SHAUNDAKUL: A minor deity of travel and exploration, Shaundakul was popular during the heyday of Myth Drannor. Most of his followers are now based in the forests of Cormanthor near the old Elven Court, but they are particularly susceptible to wanderlust, so Windriders may be found singly in almost any locale in the Realms. All of his clergy are also rangers, using outdoor survival skills to aid themselves and others as they travel.
+@49201  = ~chevaucheur de vent de Shaundakul~
+@49202  = ~Chevaucheur de vent de Shaundakul~
+@49203  = ~CHEVAUCHEUR DE VENT DE SHAUNDAKUL : Divinité mineure des voyages et de l'exploration, Shaundakul était populaire pendant les jours de gloire de Myth Drannor. La plupart de ses adorateurs est désormais basée dans les forêts de de Cormanthor, près de l'ancienne Cour elfique, mais ils sont particulièrement susceptibles à l'appel du voyage, aussi les chevaucheurs de vent peuvent se rencontrer, séparément, presque partout dans les Royaumes. Tous les membres de son clergé sont aussi des rôdeurs, faisant appel à leur compétences de survie en milieu naturel pour eux-mêmes et pour les autres.
 
-Advantages:
-- When in the Cormanthor Forest, Windriders in need of aid may send a silent distress call. All rangers within 50 miles will instantly know of the Windrider's need and precise location.
-- Once per day per five levels of experience, may Wind Walk, blinking from one location to another almost instantaneously.
+Advantages :
+-Quand ils se trouvent dans la forêt de Cormanthor, les chevaucheurs de vent en difficulté peuvent envoyer un signal de détresse silencieux. Tous les rôdeurs à moins de 80 kilomètres auront instantanément connaissance de la situation du chevaucheur de vent et de sa localisation précise.
+- Une fois par jour tous les cinq niveaux d'expérience, peut utiliser Marcher sur le vent, clignotant d'un endroit à un autre presque instantanément.
 
-Restrictions:
-- Alignment: must be Good.
+Restrictions :
+- doit être d'alignement bon.
 ~
-@49204  = ~WINDRIDER OF SHAUNDAKUL: A minor deity of travel and exploration, Shaundakul was popular during the heyday of Myth Drannor. Most of his followers are now based in the forests of Cormanthor near the old Elven Court, but they are particularly susceptible to wanderlust, so Windriders may be found singly in almost any locale in the Realms. All of his clergy are also rangers, using outdoor survival skills to aid themselves and others as they travel.
+@49204  = ~CHEVAUCHEUR DE VENT DE SHAUNDAKUL : Divinité mineure des voyages et de l'exploration, Shaundakul était populaire pendant les jours de gloire de Myth Drannor. La plupart de ses adorateurs est désormais basée dans les forêts de de Cormanthor, près de l'ancienne Cour elfique, mais ils sont particulièrement susceptibles à l'appel du voyage, aussi les chevaucheurs de vent peuvent se rencontrer, séparément, presque partout dans les Royaumes. Tous les membres de son clergé sont aussi des rôdeurs, faisant appel à leur compétences de survie en milieu naturel pour eux-mêmes et pour les autres.
 ~
-@49211  = ~Wind Walk~
-@49212  = ~Wind Walk
+@49211  = ~Marcher sur le vent~
+@49212  = ~Marcher sur le vent
 
-The Windrider alters the substance of their body to a cloudlike vapor and then summons a magical wind to rapidly blow their intangible form where they wish to go.~
-//
-// ... spells for sphere system: 2nd+3rd digits = sphere # 
-//
-@49301 = ~watcher of helm~
-@49302 = ~Watcher of Helm~
-@49303 = ~WATCHER OF HELM: Followers of the lawful neutral god of watchers and protectors are warriors in their own right and are often seen as defenders of the innocent.
-
-Advantages:
-- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
-- Can cast Helm's eye as a special ability once per day at 9th level.  The watcher gains an additional use at levels 11, 13, 15, 17 and 19. Helm's eye is equivalent to the wizard spell, wizard eye.
-- Can cast Seeking Sword as a special ablity once per day.  The Watcher gains an additional use at levels 4, 8, 12, 16 and 20.
-
-SEEKING SWORD: This spell creates a sword in the Cleric's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus, but no damage bonus. It deals 2d4 damage to any target it hits. The weapon sets the Cleric's number of attacks per round to 3 and lasts for 1 round per level. While it is equipped, the wielder cannot cast further spells.
-
-Restrictions:
-- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
-~
+Le chevaucheurs de vent modifie la substance de leur corps, qui prend prend la consistance d'un nuage de vapeur puis invoque un vent magique qui emporte rapidement leur forme intangible à l'endroit qu'ils choisissent.~
 //
 // multi shamans
 //
-@49501  = ~shaman/monk~
-@49502  = ~Shaman/Monk~
-@49503  = ~SHAMAN/MONK: Shamans forge a divine connection with the natural world, similar to the way Druids commune with nature, but Shamans are more spiritual than primal. They directly tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, and shape these energies to obey their will. Nowhere is this more evident than in their ability to summon powerful spirits as guardians and defenders. A being of two worlds, Shamans value balance over dominance. Very rarely, a Shaman will devote time to cultivating other skills - in this case, those of a thief.
+@49501  = ~chaman/moine~ // if monastic orders is installed - not sure if it's different from sham/thief
+@49502  = ~Chaman/Moine~
+@49503  = ~CHAMAN/MOiNE : Les Chamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les chamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les Chamans privilégient l'équilibre à la domination. Rare sont les chaman qui consacreront du temps pour développer d'autres compétences, dans ce cas précis, celles d'un moine.
 
-Advantages: 
-- 
+Avantages :
+- ...
+
+Restrictions:
+- ...
+~
+@49601  = ~rôdeur/chaman~
+@49602  = ~Rôdeur/Chaman~
+@49603  = ~RÔDEUR/CHAMAN : Les Chamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les chamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les Chamans privilégient l'équilibre à la domination. Rare sont les chaman qui consacreront du temps pour développer d'autres compétences, dans ce cas précis, celles d'un rôdeur.
+
+Advantages :
+- ...
+
+Restrictions :
+- doit être d'alignement neutre bon.
+~
+@49701  = ~chaman/voleur~
+@49702  = ~Chaman/voleur~
+@49703  = ~CHAMAN/VOLEUR : Les Chamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les chamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les Chamans privilégient l'équilibre à la domination. Rare sont les chaman qui consacreront du temps pour développer d'autres compétences, dans ce cas précis, celles d'un voleur.
+
+Avantages :
+-...
 
 Restrictions: 
-- Alignment: must be Neutral
+- doit être d'alignement neutre
 ~
-@49601  = ~ranger/shaman~
-@49602  = ~Ranger/Shaman~
-@49603  = ~Ranger/SHAMAN: Shamans forge a divine connection with the natural world, similar to the way Druids commune with nature, but Shamans are more spiritual than primal. They directly tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, and shape these energies to obey their will. Nowhere is this more evident than in their ability to summon powerful spirits as guardians and defenders. A being of two worlds, Shamans value balance over dominance. Very rarely, a Shaman will devote time to cultivating other skills - in this case, those of a ranger.
+@49801  = ~chaman/mage~
+@49802  = ~Chaman/Mage~
+@49803  = ~CHAMAN/MAGE : Les Chamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les chamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les Chamans privilégient l'équilibre à la domination. Rare sont les chaman qui consacreront du temps pour développer d'autres compétences, dans ce cas précis, celles d'un mage.
 
-Advantages: 
-- 
+Avantages :
+- ..
 
-Restrictions: 
-- Alignment: must be Neutral
+Restrictions :
+- doit être d'alignement neutre.
 ~
-@49701  = ~shaman/thief~
-@49702  = ~Shaman/thief~
-@49703  = ~SHAMAN/THIEF: Shamans forge a divine connection with the natural world, similar to the way Druids commune with nature, but Shamans are more spiritual than primal. They directly tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, and shape these energies to obey their will. Nowhere is this more evident than in their ability to summon powerful spirits as guardians and defenders. A being of two worlds, Shamans value balance over dominance. Very rarely, a Shaman will devote time to cultivating other skills - in this case, those of a thief.
+@49901  = ~chaman barbare~
+@49902  = ~Chaman barbare~
+@49903  = ~CHAMAN BARBARE : Les Chamans forgent une connexion divine avec le monde naturel, semblable à la voie empruntée par les druides avec la nature, mais les chamans sont plus spirituels que primitifs. Ils puisent directement dans les énergies qui circulent à travers la terre et l'air, à travers les plantes et les animaux, et même à travers les morts, et ils façonnent ces énergies afin qu'elles obéissent à leur volonté. Leur capacité à convoquer des esprits puissants comme gardiens et défenseurs en est un parfait exemple. Partagés entre les deux mondes, les Chamans privilégient l'équilibre à la domination. Rare sont les chaman qui consacreront du temps pour développer d'autres compétences, dans ce cas précis, celles d'un guerrier.
 
-Advantages: 
-- 
+Avantages :
+- ...
 
-Restrictions: 
-- Alignment: must be Neutral
+Restrictions :
+- doit être d'alignement neutre.
 ~
-@49801  = ~shaman/mage~
-@49802  = ~Shaman/Mage~
-@49803  = ~SHAMAN/MAGE: Shamans forge a divine connection with the natural world, similar to the way Druids commune with nature, but Shamans are more spiritual than primal. They directly tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, and shape these energies to obey their will. Nowhere is this more evident than in their ability to summon powerful spirits as guardians and defenders. A being of two worlds, Shamans value balance over dominance. Very rarely, a Shaman will devote time to cultivating other skills - in this case, those of a wizard.
+@49911  = ~Connaissance des sorts divins~
+@49912  = ~Connaissance des sorts divins
 
-Advantages: 
-- 
+Cette aptitude vous permet de choisir vos sorts de prêtre connus pour chaque niveau de sort.~
+@49913  = ~Connaissance des sorts profanes~
+@49914  = ~Connaissance des sorts profanes
 
-Restrictions: 
-- Alignment: must be Neutral
-~
-@49901  = ~barbarian shaman~
-@49902  = ~Barbarian Shaman~
-@49903  = ~BARBARIAN SHAMAN: Shamans forge a divine connection with the natural world, similar to the way Druids commune with nature, but Shamans are more spiritual than primal. They directly tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, and shape these energies to obey their will. Nowhere is this more evident than in their ability to summon powerful spirits as guardians and defenders. A being of two worlds, Shamans value balance over dominance. Very rarely, a Shaman will devote time to cultivating other skills - in this case, those of a warrior.
 
-Advantages: 
-- 
+Cette aptitude vous permet de choisir vos sorts de mage connus pour chaque niveau de sort.~
+@49915  = ~Connaissance de sorts~
+@49916  = ~Connaissance de sorts
 
-Restrictions: 
-- Alignment: must be Neutral
-~
-@49911  = ~Divine Spell Knowledge~
-@49912  = ~Divine Spell Knowledge
+Cette aptitude vous permet de choisir vos sorts connus pour chaque niveau de sort..~
+@49917  = ~Choisir le style de lancer de sorts divins~
+@49918  = ~Choisir le style de lancer de sorts divins
 
-This ability allows you to select your priest spells known for each spell level.~
-@49913  = ~Arcane Spell Knowledge~
-@49914  = ~Arcane Spell Knowledge
-
-This ability allows you to select your wizard spells known for each spell level.~
-@49915  = ~Spell Knowledge~
-@49916  = ~Spell Knowledge
-
-This ability allows you to select your spells known for each spell level.~
-@49917  = ~Choose divine spellcasting style~
-@49918  = ~Choose divine spellcasting style
-
-This ability allows you to choose whether to learn and cast spells intuitively, like a sorcerer/shaman, or by the normal mechanism.~
-@49921  = ~Shamanic Dance~
-@49922  = ~Shamanic Dance: ~
-@49923  = ~Stop Shamanic Dance~
-@49924  = ~Detect Illusions~
-@49925  = ~Detect Illusions: ~
-@49926  = ~Stop detecting illusions~
-@49950  = ~Initialize Shamanic spell learning~
+Cette aptitude vous permet de choisir d'apprendre et de lancer les sorts intuitivement, comme un ensorceleur/chaman, ou par le mécanisme normal.~
+@49921  = ~Danse chamanique~
+@49922  = ~Danse chamanique: ~
+@49923  = ~Arrêter la danse chamanique~
+@49924  = ~Détection des illusions~
+@49925  = ~Détection des illusions: ~
+@49926  = ~Arrêter la détection des illusions~
+@49950  = ~Initialisation de l'apprentissage des sorts chamanique~
 
 //
 // ... mystics:
 //
-@70001  = ~druid~
-@70002  = ~Druid~
-@70003  = ~DRUIDS: Druids form a spiritual connection with an aspect of the natural world, and channel energy through that connection to create magical effects. This art has been practiced in some fashion since the dawn of time, some say since before there were religions or deities. Most druids are organized in ordered hierarchies in which to teach and practice their abilities. 
+@70001  = ~druide~
+@70002  = ~Druide~
+@70003  = ~DRUIDES : es druides forment une connexion spirituelle avec un aspect du monde naturel et canalisent de l'énergie au travaers de cette connexion pour créer des effets magiques. Cet art a été pratiqué sous une forme ou une autre depuis l'aube des temps et, selon certains, depuis avant l'apparition des religions et des divinités. La plupart des druides sont organisés en hiérachies dans lesquelles on enseigne leurs savoir-faire et on s'y entraîne.
 
-MYSTICS are a wild and independent sort of druid. They tend to remove themelves to remote places, in which they focus on meditating and connecting to one of the fundamental elements of the Prime Material Plane: earth, air, water, fire, light or darkness. The magic that flows through them is raw and powerful, but their ability to shape it is limited to effects closely related to their area of focus. Some people say Mystics are blessed by Mystra, as practitioners of the purest form of magic. The goddess herself has not given a comment on such claims.
+Les MYSTIQUES sont des druides sauvages et indépendants. Ils tendent à se retirer d'eux-mêmes en des lieux éloignés, dans lesquels ils se concentrent sur la méditation et la connexion avec un des éléments fondamentaux des plans intérieurs : la terre, l'air, l'eau, le feu, la lumière ou les ténèbres. La magie qui circule au travers d'eux est brute et puissante, mais leur capacité à la modeler est limitée aux effets liés à leur centre d'intérêt. Certainsdisent que les mystiques sont bénis de Mystra en tant que pratiquants de la forme la plus pure de magie. La déesse elle-même n'a pas offert de commentaires à ce sujet.
 
-OCCULTISTS learn to tap magical power of the universe in exotic, nontraditional ways. Through study and (often) unnatural experiments, they can learn to harness the boiling energies of the inner planes, or infernal powers from the outer planes, or the wild, animal nature seething inside every man and woman. Some have even learned to steal magical energy from the deities themselves - calling into question whether those beings are truly omnipotent.
+Les OCCULTISTES apprennent à puiser le pouvoir magique de l'univers de façon exotique et non conventionnelle. Grâce à leurs études et (souvent) d'expériences contre natures, ils peuvent apprendre à exploiter les énergies ardentes des plans intérieurs, ou les pouvoirs infernaux des plans extérieurs, ou la nature sauvage et animal qui bouillonne à l'intérieur de chaque homme ou femme. Certains ont même appris à voler l'énergie magique des divinités elles-mêmes, ce qui interroge sur la réalité de l'omnipotence de ces dernières.
 
-CLASS FEATURES:
+CAPACITÉS :
+- Ne peut porter que des armures non-métalliques.
+- Ne peut équiper que des targes et des boucliers non-métalliques.
+- Ne peut être que compétent (une étoile) dans le maniement des armes.
+- Ne peut être que compétent (une étoile) dans les styles de combat.
+- Dés de vie : d8
 
-– May only wear non-metallic armor.
-– May only equip bucklers and non-metallic shields.
-– May only become Proficient (one slot) in any weapon class.
-– May only become Proficient (one slot) in any fighting style.
-– Hit Die: d8
-
-Prime Requisites For Dual-Classing: Wisdom, Charisma 
+Caractéristiques requises pour le jumelage : Sagesse, Charisme.
 ~
-@70004  = ~MYSTIC: fluff about archetype/class, and choose a kit~
-@70021  = ~druid~ 
-@70022  = ~Druid~
-@70023  = ~DRUID: fluff about archetype/class, and choose a kit~
-@70031  = ~occultist~ 
-@70032  = ~Occultist~
-@70033  = ~OCCULTIST: fluff about archetype/class, and choose a kit~
+@70004  = ~MYSTIQUE : blabla sur l'archétype/classe, et choix de kit.~
+@70021  = ~druide~
+@70022  = ~Druide~
+@70023  = ~DRUIDE : blabla sur l'archétype/classe, et choix de kit.~
+@70031  = ~occultiste~
+@70032  = ~Occultiste~
+@70033  = ~OCCULTISTE : blabla sur l'archétype/classe, et choix de kit.~
 //
 // ... nature mystic:
 //
-@70101  = ~nature mystic~
-@70102  = ~Nature Mystic~
-@70103  = ~NATURE MYSTIC: The Nature Mystic taps the inherent energies of life that exists wherever there are thriving ecosystems of plants and animals. Once, these were the most common kind of mystic in human communities. Now, practitioners of this magic are very rare now, having been supplanted by the ordered ranks of Druids under the supervision of Sylvanus. Most Druids now consider Nature Mystics to be heretics, practicing a dangerous and less refined version of their art. Druids nevertheless respect the source of these Mystics' power, and in the rare case they cross paths, grudgingly allow Mystics to participate in their magic rituals.
+@70101  = ~mystique de la nature~
+@70102  = ~Mystique de la nature~
+@70103  = ~MYSTIQUE DE LA NATURE : Un mystique de la nature puise dans les énergies inhérentes à la vie des écosystèmes où prospèrent plantes et animaux. Ils furent autrefois les mystiques les plus courants dans les communautés humaines. De nos jours, ils sont très peu nombreux, supplantés par les membres des congrégations de druides supervisés par Sylvanus. La plupart des druides considèrent désormais les mystiques de la nature comme des hérétiques qui pratiquent une version dangereuse et moins perfectionnée de leur art. Les druides respectent cependant la source du pouvoir de ces mystiques et, dans les rares occasions où leurs chemins se croisent, acceptent à contrecœur qu'il se joignent à leurs rituels magiques.
 
-Advantages:
-- May cast one extra spell per level
-- Casts spells as if one level of experience higher
-- Immune to poison and disease
-- May cast a short, single-target Entanglement spell at will. This keeps the target from moving for one round and, on a failed save vs. Breath, Holds the target still and causes 1d4 points of piercing damage.
-- 15% of all melee hits Entangle the target as described above
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- Immunisé contre le poison et la maladie.
+- Peut lancer une version de courte durée et affectant une seule cible du sort Enchevêtrement à volonté. Ce sort empêche la cible de se déplacer pendant un round et, si elle échoue à un jet de sauvegarde contre les souffles, immobilise la cible et inflige 1d4 points de dégâts perforants.
+- 15 % des attaques de mêlée réussies enchevêtre la cible comme décrit ci-dessus.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- Must be Neutral
+Restrictions :
+- Doit être d'alignement neutre.
 ~
-@70104  = ~NATURE MYSTIC: The Nature Mystic taps the inherent energies of life that exists wherever there are thriving ecosystems of plants and animals. Once, these were the most common kind of mystic in human communities. Now, practitioners of this magic are very rare now, having been supplanted by the ordered ranks of Druids under the supervision of Sylvanus. Most Druids now consider Nature Mystics to be heretics, practicing a dangerous and less refined version of their art. Druids nevertheless respect the source of these Mystics' power, and in the rare case they cross paths, grudgingly allow Mystics to participate in their magic rituals.~
+@70104  = ~MYSTIQUE DE LA NATURE : Un mystique de la nature puise dans les énergies inhérentes à la vie des écosystèmes où prospèrent plantes et animaux. Ils furent autrefois les mystiques les plus courants dans les communautés humaines. De nos jours, ils sont très peu nombreux, supplantés par les membres des congrégations de druides supervisés par Sylvanus. La plupart des druides considèrent désormais les mystiques de la nature comme des hérétiques qui pratiquent une version dangereuse et moins perfectionnée de leur art. Les druides respectent cependant la source du pouvoir de ces mystiques et, dans les rares occasions où leurs chemins se croisent, acceptent à contrecœur qu'il se joignent à leurs rituels magiques.~
 @70105  = ~~
-@70111  = ~Entangle target~
-@70112  = ~Entangle target~
+@70111  = ~Enchevêtre la cible~
+@70112  = ~Enchevêtre la cible~
 //
 // ... beast mystic:
 //
-@70201  = ~beast mystic~
-@70202  = ~Beast Mystic~
-@70203  = ~BEAST MYSTIC: these individuals long ago split from the more typical Nature Mystics to focus on the raw power of the predatory nature of the animal kingdom. Beast Mystics are completely in tune with the inner bestial nature that resides deep within even the most civilized races. They can tap that deep instinct to change their bodies into more savage forms, and they can summon and control other predatory animals more easily than other Mystics and Druids.
+@70201  = ~mystique bestial~
+@70202  = ~Mystique bestial~
+@70203  = ~MYSTIQUE BESTIAL : ces gens ont divergé il y a longtemps des mystiques de la nature plus traditionnels pour se concentrer sur la puissance brute de la nature prédatrice du royaume animal. Les mystiques bestiaux sont complètement en accord avec la nature bestiale intérieure qui réside même à l'intérieur des races les plus civilisées. Ils peuvent puiser dans ces instincts profonds pour altérer leurs corps, vers des formes plus sauvages et peuvent convoquer et contrôler d'autres animaux prédateurs plus facilement que d'autres mystiques ou druides.
 
-Advantages:
-- May cast "Beast Claw" as an innate ability, at will.
-- 20% of all Beast Claw attacks cause infection upon a failed save vs. Death, weakening the target and causing a 10% chance of spell failure.
-- At 6th level, may shapeshift into a hybrid werewolf form once per day. This form increases in power to that of a greater werewolf at 12th level, and a werewolf lord at 15th level.
-- Casts spells as if one level of experience higher
-- May allocate 2 points (++) to Single-Weapon Style.
+Avantages :
+- Peut lancer Griffe de le bête comme pouvoir inné à volonté.
+- 20 % des attaques Griffe de la bête provoque une infection sur un échec à un jet de sauvegarde contre la mort, affaiblissant la cible et infligeant un risque d'échec des sorts de 10 %.
+- À partir du niveau 6, peut se transformer en forme de loup-garou hybride uen fois par jour. Cette forme s'améliore en forme de loup-garou majeur au niveau 12, puis en seigneur lou-garou au niveau 15.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- Peut attribuer 2 points (++) aux styles de combat à une arme
 
-Restrictions:
-- May not be Lawful
+Restrictions :
+- Ne peut être d'alignement loyal
 ~
-@70204  = ~BEAST MYSTIC: these individuals long ago split from the more typical Nature Mystics to focus on the raw power of the predatory nature of the animal kingdom. Beast Mystics are completely in tune with the inner bestial nature that resides deep within even the most civilized races. They can tap that deep instinct to change their bodies into more savage forms, and they can summon and control other predatory animals more easily than other Mytics and Druids.~
+@70204  = ~MYSTIQUE BESTIAL : ces gens ont divergé il y a longtemps des mystiques de la nature plus traditionnels pour se concentrer sur la puissance brute de la nature prédatrice du royaume animal. Les mystiques bestiaux sont complètement en accord avec la nature bestiale intérieure qui réside même à l'intérieur des races les plus civilisées. Ils peuvent puiser dans ces instincts profonds pour altérer leurs corps, vers des formes plus sauvages et peuvent convoquer et contrôler d'autres animaux prédateurs plus facilement que d'autres mystiques ou druides..~
 @70205  = ~~
-@70211  = ~Beast Claw~
-@70212  = ~Dispel Claws~
-@70213  = ~Shapeshift: werewolf~
-@70214  = ~Shapeshift: natural form~
-@70215  = ~werewolf claw~
-@70216  = ~werewolf~
-@70217  = ~greater werewolf~
-@70218  = ~werewolf lord~
+@70211  = ~Griffe de la bête~
+@70212  = ~Dissipation des griffes~
+@70213  = ~Changement de forme en loup-garou~
+@70214  = ~Changement de forme en forme naturelle~
+@70215  = ~griffe de loup-garou~
+@70216  = ~loup-garou~
+@70217  = ~loup-garou majeur~
+@70218  = ~seigneur loup-garou~
 //
 // ... earth mystic:
 //
-@70301  = ~earth mystic~
-@70302  = ~Earth Mystic~
-@70303  = ~EARTH MYSTIC: these individuals form deep bonds with the earth beneath us, becoming one with the powerful stone and nourishing soil. Over time their bodies adopt some of the hardy characteristics of rock, helping them resist blunt impacts and landing blows with stunning power.
+@70301  = ~mystique de la terre~
+@70302  = ~Mystique de la terre~
+@70303  = ~MYSTIQUE DE LA TERRE : Ces gens forment un lien étroit avec la terre sous nos pieds et ne font qu'un avec le roc puissant et le sol nourricier. Avec le temps, leur corps adopte certains des caractéristiques rustiques de la pierre, ce qui les aide à absorber les impacts et à porter des coups avec une force renversante.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- 2% crushing damage resistance per level, up to a maximum of 40% at 20th level.
-- 25% of all melee hits Stun the target for 1-2 seconds upon a failed save vs. Petrify.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- 2 % de résistance aux dégâts contondants par niveau, jusqu'à un maximum de 40 % au niveau 20.
+- 25 % des coups réussis en mêlée étourdissent la cible pour 1 à 2 secondes sur un échec à un jet de sauvegarde contre la pétrification.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- May not be Chaotic
+Restrictions :
+- Ne peut être d'alignement chaotique.
 ~
-@70304  = ~EARTH MYSTIC: the earth that forms planetary bodies is one of the most fundamental forces in the multiverse; without it, there is nowhere life could flourish. Earth Mystics form deep bonds with the powerful stone of tall mountains and the nourishing soil of low valleys. Over time their bodies adopt some of the hardy characteristics of rock, helping them resist blunt impacts and landing blows with stunning power.~
+@70304  = ~MYSTIQUE DE LA TERRE : Ces gens forment un lien étroit avec la terre sous nos pieds et ne font qu'un avec le roc puissant et le sol nourricier. Avec le temps, leur corps adopte certains des caractéristiques rustiques de la pierre, ce qui les aide à absorber les impacts et à porter des coups avec une force renversante.~
 @70305  = ~~
-@70311  = ~crushing damage resistance~
+@70311  = ~résistance aux dégâts contondants~
 //
 // ... water mystic:
 //
-@70401  = ~water mystic~
-@70402  = ~Water Mystic~
-@70403  = ~WATER MYSTIC: water is implacable. It flows throughout the world, it moves mountains at the polar caps, it seeps into the deepest crevasses, and it infuses the bodies of every plant and animal. It is truly the foundation of life, and Water Mystics learn to direct its ebbs and flows. They understand that water cannot be contained or controlled, only influenced. This wisdom grants them the ability to resist the worst ravages of water-based harm, and to use liquid and ice attacks against their enemies to devastating effect.
+@70401  = ~mystique de l'eau~
+@70402  = ~Mystique de l'eau~
+@70403  = ~WATER MYSTIC: L'eau est implacable. Elle s'écoule partout dans le monde, elle déplace des montagnes sous les calotte glaciaires, s'infiltre dans les crevasses les plus profondes et imprègne les plantes et les animaux. C'est vraiment la fondation de la vie et les mystiques de l'eau apprennent à en diriger  le flux et reflux. Ils ont compris que l'eau ne peut être contenue ou contrôlée, mais seulement influencée. Cette sagesse leur permet de résister aux pires ravages causés par l'eau et à utiliser des attaques dévastatrices basées sur les liquides et la glace contre leurs ennemis.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- 2% acid and cold damage resistance per level, up to a maximum of 40% at 20th level.
-- 25% of all melee hits cause 1d3 points of acid damage.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- 2 % de résistance aux dégâts d'acide et de froid par niveau, jusqu'à un maximum de 40 % au niveau 20.
+- 25 % des coups réussis en mêlée infligent 1d3 points de dégât d'acide.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- May not be Lawful
+Restrictions :
+- Ne peut être d'alignement loyal.
 ~
-@70404  = ~WATER MYSTIC: water is implacable. It flows throughout the world, it moves mountains at the polar caps, it seeps into the deepest crevasses, and it infuses the bodies of every plant and animal. It is truly the foundation of life, and Water Mystics learn to direct its ebbs and flows. They understand that water cannot be contained or controlled, only influenced. This wisdom grants them the ability to resist the worst ravages of water-based harm, and to use liquid and ice attacks against their enemies to devastating effect.~
+@70404  = ~WATER MYSTIC: L'eau est implacable. Elle s'écoule partout dans le monde, elle déplace des montagnes sous les calotte glaciaires, s'infiltre dans les crevasses les plus profondes et imprègne les plantes et les animaux. C'est vraiment la fondation de la vie et les mystiques de l'eau apprennent à en diriger  le flux et reflux. Ils ont compris que l'eau ne peut être contenue ou contrôlée, mais seulement influencée. Cette sagesse leur permet de résister aux pires ravages causés par l'eau et à utiliser des attaques dévastatrices basées sur les liquides et la glace contre leurs ennemis.~
 @70405  = ~~
-@70411  = ~cold resistance~
-@70412  = ~acid resistance~
+@70411  = ~résistance au froid~
+@70412  = ~résistance à l'acide~
 //
 // ... air mystic:
 //
-@70501  = ~air mystic~
-@70502  = ~Air Mystic~
-@70503  = ~AIR MYSTIC: the wind suffuses the breath of every creature. It can whip up into savage storms, or be sweet and warm. It carries water in clouds and rain to fertilize the earth, and some say it also carries secrets long forgotten by sages. Air Mystics adapt to the capricious nature of the wind, emulating its ability to quickly vary between immense gusts and healing breezes. They also learn to control the way air currents can build up static charges and electrical currents.
+@70501  = ~mystique de l'air~
+@70502  = ~Mystique de l'air~
+@70503  = ~MYSTIQUE DE l'AIR : le vent imprègne le souffle de chaque créature. Il peut se déchaîner en tempêtes sauvages ou être doux et chaud. Il transporte l'eau dans les nuages et la pluie pour rendre la terre fertile. Certains prétendent aussi qu'il transporte des secrets oubliés depuis longtemps, même par les sages. Les mystiques de l'air s'adaptent à la nature capricieuse du vent et imitent sa capacité à passer des bourrasques aux brises réconfortantes. Ils apprennent aussi à contrôler l'accumulation de charges statiques et électriques par les courants d'air.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- 2% electric damage resistance per level, up to a maximum of 40% at 20th level.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- 2 % de résistance aux dégâts d'électricité par niveau, jusqu'à un maximum de 40 % au niveau 20.
+- Immunisé contre les sorts nuisibles basés sur les nuages.
 - Immunity to harmful cloud-based spells.
-- 25% of all melee hits cause 1d3 points of electricity damage.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+- 25 % des coups réussis en mêlée infligent 1d3 points de dégât d'électricité .
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- May not be Lawful
+Restrictions :
+- Ne peut être d'alignement loyal.
 ~
-@70504  = ~AIR MYSTIC: the wind suffuses the breath of every creature. It can whip up into savage storms, or be sweet and warm. It carries water in clouds and rain to fertilize the earth, and some say it also carries secrets long forgotten by sages. Air Mystics adapt to the capricious nature of the wind, emulating its ability to quickly vary between immense gusts and healing breezes. They also learn to control the way air currents can build up static charges and electrical currents.~
+@70504  = ~MYSTIQUE DE l'AIR : le vent imprègne le souffle de chaque créature. Il peut se déchaîner en tempêtes sauvages ou être doux et chaud. Il transporte l'eau dans les nuages et la pluie pour rendre la terre fertile. Certains prétendent aussi qu'il transporte des secrets oubliés depuis longtemps, même par les sages. Les mystiques de l'air s'adaptent à la nature capricieuse du vent et imitent sa capacité à passer des bourrasques aux brises réconfortantes. Ils apprennent aussi à contrôler l'accumulation de charges statiques et électriques par les courants d'air.
+~
 @70505  = ~~
-@70511  = ~electricity resistance~
-@70512  = ~cloud effect immunity~
+@70511  = ~résistance à l'électricité~
+@70512  = ~immunité aux effets de nuage~
 //
 // ... fire mystic:
 //
-@70601  = ~fire mystic~
-@70602  = ~Fire Mystic~
-@70603  = ~FIRE MYSTIC: fire is the destructive force that threatens all of the other elements - consuming air, boiling water, and scorching earth. But the wise know that fire rejuvenates as well, releasing energy locked away for ages to help new life grow. Fire Mystics embrace this duality, the importance of both creation and destruction... but many other people feel threatened by it. Most view Fire Mystics with distrust.
+@70601  = ~mystique du feu~
+@70602  = ~Mystique du feu~
+@70603  = ~MYSTIQUE DU FEU : Le feu est la force destructrice qui menace tous les autres éléments, consumant l'air, faisant bouillir l'eau et brûlant la terre.Lais le sage sait que le feu rajeunit aussi et libérant l'énergie emprisonnée depuis un éternité pour aider la vie nouvelle à s'épanouir. Les mystiques du feu s'approprient cette dualité, l'importance aussi bien de la destruction que de la création... mais beaucoup y voient une menace et la plupart se méfient des mystiques du feu.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- 2% fire damage resistance per level, up to a maximum of 40% at 20th level.
-- 25% of all melee hits cause 1d4 points of fire damage.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- 2 % de résistance aux dégâts de feu par niveau, jusqu'à un maximum de 40 % au niveau 20.
+- 25 % des coups réussis en mêlée infligent 1d4 points de dégât d'électricité .
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- May not be Lawful
+Restrictions :
+- Ne peut être d'alignement loyal.
 ~
-@70604  = ~FIRE MYSTIC: fire is the destructive force that threatens all of the other elements - removing air, boiling water, and scorching earth. But the wise know that fire rejuvenates as well, releasing energy locked away for ages to help new life grow. Fire Mystics embrace this duality, the importance of creation and destruction; but many other people feel threatened by it. Most view Fire Mystics with fear and distrust.~
+@70604  = ~MYSTIQUE DU FEU : Le feu est la force destructrice qui menace tous les autres éléments, consumant l'air, faisant bouillir l'eau et brûlant la terre.Lais le sage sait que le feu rajeunit aussi et libérant l'énergie emprisonnée depuis un éternité pour aider la vie nouvelle à s'épanouir. Les mystiques du feu s'approprient cette dualité, l'importance aussi bien de la destruction que de la création... mais beaucoup y voient une menace et la plupart se méfient des mystiques du feu.~
 @70605  = ~~
-@70611  = ~fire resistance~
+@70611  = ~résistance au feu~
 //
 // ... light mystic:
 //
-@70701  = ~light mystic~
-@70702  = ~Light Mystic~
-@70703  = ~LIGHT MYSTIC: light is an essential ingredient of life, and essential to the survival of most animals, who operate largely by sense of sight. Light can nourish plants and illuminate truths, but it can also parch throats and create mirages and illusions. Light Mystics spend most of their time meditating under the burning sun in deserts or beaches, or similar environments. They are often potent allies of Desert Druids. With some regularity, however, they succumb to wanderlust and travel to other locales to bring aid to those suffering in darkness.
+@70701  = ~mystique de la lumière~
+@70702  = ~Mystique de la lumière~
+@70703  = ~MYSTIQUE DE LA LUMIÈRE : la lumière est un ingrédient essentiel à la vie et aussi à la survie de la plupart des animaux, qui agissent en grande partie grâce au sens de la vue. La lumière nourrit les plante et éclaire les vérités, mais elle peut aussi dessécher les gorges ou créer des mirages et des illusions. Les mystiques de la lumière passent l'essentiel de leur temps à méditer sous le soleil brûlant des déserts, des plages ou autres environnements similaires. Ils sont souvent de puissants alliés des druides du désert. Cependant, ils sont régulièrement pris de soif de voyage et apportent leur aide, ailleurs, à ceux qui souffrent dans les ténèbres.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- Immune to blindness, and may dispel low-level illusions (up to 3rd level) 3 times per day.
-- 40% of all melee hits cause the target to be bathed in Faerie Fire for 3 rounds, resulting in a -2 penalty to AC.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- Immunisé contre la cécité et peut dissiper les illusions de niveau inférieur ou égal à trois, 3 fois par jour.
+- 40 % des coups réussis en mêlée entourent la cible de Lueur Féerique pendant 3 rounds, qui inflige une pénalité de 62 à la classe d'armure.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- May not be Evil
+Restrictions :
+- ne peut être d'alignement mauvais
 ~
-@70704  = ~LIGHT MYSTIC: light is an essential ingredient of life, and essential to the survival of most animals, who operate largely by sense of sight. Light can nourish plants and illuminate truths, but it can also parch throats and create mirages and illusions. Light Mystics spend most of their time meditating under the burning sun in deserts or beaches, or similar environments. They are often potent allies of Desert Druids. With some regularity, however, they succumb to wanderlust and travel to other locales to bring aid to those suffering in darkness.~
+@70704  = ~MYSTIQUE DE LA LUMIÈRE : la lumière est un ingrédient essentiel à la vie et aussi à la survie de la plupart des animaux, qui agissent en grande partie grâce au sens de la vue. La lumière nourrit les plante et éclaire les vérités, mais elle peut aussi dessécher les gorges ou créer des mirages et des illusions. Les mystiques de la lumière passent l'essentiel de leur temps à méditer sous le soleil brûlant des déserts, des plages ou autres environnements similaires. Ils sont souvent de puissants alliés des druides du désert. Cependant, ils sont régulièrement pris de soif de voyage et apportent leur aide, ailleurs, à ceux qui souffrent dans les ténèbres.~
 @70705  = ~~
-@70711  = ~blindness immunity~
+@70711  = ~immunité à la cécité~
 //
 // ... shadow mystic:
 //
-@70801  = ~shadow mystic~
-@70802  = ~Shadow Mystic~
-@70803  = ~SHADOW MYSTIC: wherever something is illuminated, Shadow always lurks behind. And the brighter the light, the deeper is the corresponding darkness. Shadow Mystics understand that this is simply the nature of the universe. Shadows are not necessarily malevolent... but they do touch a primal area of fear in the minds of all animals. How this force is harnessed depends on the practitioner; some use shadows to cool and soothe, while others blind and terrify their enemies.
+@70801  = ~mystique de l'ombre~
+@70802  = ~Mystique de l'ombre~
+@70803  = ~MYSTIQUE DE L'OMBRE : Derrière toute chose éclairée, une ombre se tapit. Et plus forte est la lumière, plus profonde est l'ombre. Les mystiques de l'ombre ont compris qu'il s'agit simplement de la nature de l'univers. les ombres ne sont pas nécessairement malveillantes... mais elles touchent à une zone de peur primaire chez tous les animaux. la manière dont cette force est exploitée dépend de celui qui l'utilise. Certains utilisent les ombres pour rafraîchir et apaiser, tandis que d'autres aveuglent et terrifient leurs ennemis.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- Immune to blindness.
-- 25% of all melee hits Blind the target for 5 seconds upon a failed save vs. Breath.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- Immunisé contre la cécité.
+- 25 % des coups réussis en mêlée aveuglent la cible pour 5 secondes sur un échec à un jet de sauvegarde contre les souffles.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- Must be Neutral
+Restrictions :
+- Doit être d'alignement neutre.
 ~
-@70804  = ~SHADOW MYSTIC: wherever something is illuminated, Shadow always lurks behind. And the brighter the light, the deeper is the corresponding darkness. Shadow Mystics understand that this is simply the nature of the universe. Shadows are not necessarily malevolent... but they do touch a primal area of fear in the minds of all animals. How this force is harnessed depends on the practitioner; some use shadows to cool and soothe, while others blind and terrify their enemies.~
+@70804  = ~MYSTIQUE DE L'OMBRE : Derrière toute chose éclairée, une ombre se tapit. Et plus forte est la lumière, plus profonde est l'ombre. Les mystiques de l'ombre ont compris qu'il s'agit simplement de la nature de l'univers. les ombres ne sont pas nécessairement malveillantes... mais elles touchent à une zone de peur primaire chez tous les animaux. la manière dont cette force est exploitée dépend de celui qui l'utilise. Certains utilisent les ombres pour rafraîchir et apaiser, tandis que d'autres aveuglent et terrifient leurs ennemis.~
 @70805  = ~~
 //
 // ... fate mystic:
 //
-@71101  = ~fate mystic~
-@71102  = ~Fate Mystic~
-@71103  = ~FATE MYSTIC: fate is a very subtle force that runs throughout the multiverse. Everyone has a fate, from the lowliest insect to the most powerful deity. No one can escape their fate, but free-willed beings may direct its course. Recognition and understanding of this is what most cultures call "wisdom," but even they fail to understand just how magical and powerful an act it can be to exercise decisional control over oneself and one's environment. Fate Mystics are among the few who do not take this for granted. They are in tune with the themselves, their histories and their futures, and can use that to great tactical advantage.
+@71101  = ~mystique du destin~
+@71102  = ~Mystique du destin~
+@71103  = ~MYSTIQUE DU DESTIN : Le destin est une force extrêmement ténue qui s'écoule dans tout le multivers. Toute créature a un destin, du plus petit insecte jusqu'à la plus puissante divinité. Nul ne peut échapper à son destin,mais les êtres dotés de libre arbitre peuvent l'orienter. La prise de conscience et la compréhension de cette vérité est ce que la plupart des cultures nomment sagesse, mais même celles-ci ne comprennent pas à quel point une prise de décision sur soi-même et son environnement représente un acte magique et puissant. Les mystiques du destin sont parmi les rares qui ne considèrent pas ceci comme acquis. Ils sont en accord avec eux-même, avec leur histoire et leur futur et peuvent en tirer un avantage tactique important.
 
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- Immune to backstabs.
-- 1 point AC bonus every 10 levels.
-- May cast Contingency as an innate ability.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Lance les sorts come s'il avait un niveau d'expérience de plus.
+- Immunisé contre les attaques sournoises.
+- Bonus de 1 point à la classe d'armure tous les 10 niveaux.
+- Peut lancer Contingence comme pouvoir inné.
+- Peut attribuer 2 points (++) aux styles de combat à une arme et à deux mains, et 3 points (+++) au style de combat à deux armes.
 
-Restrictions:
-- Must be Neutral
-- May not dual-class
+Restrictions :
+- Doit être d'alignement neutre.
+- Ne peut effectuer de jumelage de classe.
 ~
-@71104  = ~FATE MYSTIC: fate is a very subtle force that runs throughout the multiverse. Everyone has a fate, from the lowliest insect to the most powerful deity. No one can escape their fate, but free-willed beings may direct its course. Recognition and understanding of this is what most cultures call "wisdom," but even they fail to understand just how magical and powerful an act it can be to exercise decisional control over oneself and one's environment. Fate Mystics are among the few who do not take this for granted. They are in tune with the themselves, their histories and their futures, and can use that to great tactical advantage.~
+@71104  = ~MYSTIQUE DU DESTIN : Le destin est une force extrêmement ténue qui s'écoule dans tout le multivers. Toute créature a un destin, du plus petit insecte jusqu'à la plus puissante divinité. Nul ne peut échapper à son destin,mais les êtres dotés de libre arbitre peuvent l'orienter. La prise de conscience et la compréhension de cette vérité est ce que la plupart des cultures nomment sagesse, mais même celles-ci ne comprennent pas à quel point une prise de décision sur soi-même et son environnement représente un acte magique et puissant. Les mystiques du destin sont parmi les rares qui ne considèrent pas ceci comme acquis. Ils sont en accord avec eux-même, avec leur histoire et leur futur et peuvent en tirer un avantage tactique important.~
 @71105  = ~~
-@71111  = ~backstab immunity~
-@71112  = ~armor class bonus~
-@71113  = ~Contingency~
-@71114  = ~Contingency
+@71111  = ~immunité aux attaques sournoises~
+@71112  = ~bonus à la classe d'armure~
+@71113  = ~Contingence~
+@71114  = ~Contingence
 
-Upon using this ability, the Mystic is allowed to choose a spell from his repertoire of known spells. One spell level every 3 levels of the caster is allowed (rounded up), up to 7th-level spells at 19th level. Once the spell is chosen, the caster can choose a condition of some kind from the list provided, such as "an enemy being sighted." Once this starting condition is satisfied, the spell that was chosen will be cast. This requires no action by the wizard, but happens automatically and instantaneously.~
+Ce sort permet au lanceur de choisir un sort parmi ceux qu'il connaît (un niveau de sort par 3 niveaux du lanceur, soit un sort de 7e niveau au maximum pour un magicien de niveau 19). Ensuite, le magicien spécifie une condition parmi les options fournies. Cette condition peut aller d'être repéré par un ennemi à atteindre 10 % de ses points de vie. Quand cette condition sera remplie, le sort sera automatiquement et instantanément lancé, sans requérir d'action de la part du lanceur.~
 //
 // ... druid shapeshifting:
 //
-@73001  = ~Shapeshift: natural form~
-@73003  = ~Shapeshift: ferret~
-@73004  = ~Shift into the form of a ferret.~
-@73009  = ~Shapeshift: wolf~
-@73010  = ~Shift into the form of a wolf~
-@73011  = ~Shapeshift: dire wolf~
-@73012  = ~Shift into the form of a dire wolf~
-@73013  = ~Shapeshift: winter wolf~
-@73014  = ~Shift into the form of a winter wolf~
-@73015  = ~Shapeshift: dread wolf~
-@73016  = ~Shift into the form of a dread wolf~
-@73017  = ~Shapeshift: vampire wolf~
-@73018  = ~Shift into the form of a vampire wolf~
-@73019  = ~Shapeshift: shadow wolf~
-@73020  = ~Shift into the form of a shadow wolf~
-@73023  = ~Shapeshift: black bear~
-@73024  = ~Shift into the form of a black bear~
-@73025  = ~Shapeshift: grizzly bear~
-@73026  = ~Shift into the form of a grizzly bear~
-@73027  = ~Shapeshift: polar bear~
-@73028  = ~Shift into the form of a polar bear~
-@73031  = ~Shapeshift: mountain lion~
-@73032  = ~Shift into the form of a mountain lion~
-@73033  = ~Shapeshift: panther~
-@73034  = ~Shift into the form of a panther~
-@73039  = ~Shapeshift: yeti~
-@73040  = ~Shift into the form of a yeti~
-@73041  = ~Shapeshift: python~
-@73042  = ~Shift into the form of a python~
-@73045  = ~Shapeshift: wyvern~
-@73046  = ~Shift into the form of a large wyvern~
-@73051  = ~Shapeshift: giant spider~
-@73052  = ~Shift into the form of a giant spider~
-@73053  = ~Shapeshift: sword spider~
-@73054  = ~Shift into the form of a sword spider~
-@73061  = ~Shapeshift: boring beetle~
-@73062  = ~Shift into the form of a boring beetle~
-@73063  = ~Shapeshift: fire beetle~
-@73064  = ~Shift into the form of a fire beetle~
-@73065  = ~Shapeshift: bombardier beetle~
-@73066  = ~Shift into the form of bombardier beetle~
-@73067  = ~Shapeshift: rhinocerous beetle~
-@73068  = ~Shift into the form of a rhinocerous beetle~
-@73071  = ~Shapeshift: carrion crawler~
-@73072  = ~Shift into the form of a carrion crawler~
-@73073  = ~Shapeshift: remorhaz~
-@73074  = ~Shift into the form of a remorhaz~
+@73001  = ~Métamorphose en forme naturelle~
+@73003  = ~Métamorphose en furet~
+@73004  = ~Se transformer en furet.~
+@73009  = ~Métamorphose en loup~
+@73010  = ~Se transformer en loup~
+@73011  = ~Métamorphose en loup noir~
+@73012  = ~Se transformer en loup noir~
+@73013  = ~Métamorphose en loup ds glaces~
+@73014  = ~Se transformer en loup des glaces~
+@73015  = ~Métamorphose en loup effrayant~
+@73016  = ~Se transformer en loup effrayant~
+@73017  = ~Métamorphose en loup vampirique~
+@73018  = ~Se transformer en loup vampirique~
+@73019  = ~Métamorphose en loup de l'ombre~
+@73020  = ~Se transformer en loup de l'ombre~
+@73023  = ~Métamorphose en ours noir~
+@73024  = ~SSe transformer en ours noir~
+@73025  = ~Métamorphose en grizzly~
+@73026  = ~Se transformer en grizzly~
+@73027  = ~Métamorphose en ours polaire~
+@73028  = ~SSe transformer en ours polaire~
+@73031  = ~Métamorphose en lion des montagnes~
+@73032  = ~SSe transformer en lion des montagnes~
+@73033  = ~Métamorphose en panthère~
+@73034  = ~Se transformer en panthère~
+@73039  = ~Métamorphose en yéti~
+@73040  = ~Se transformer en  yeti~
+@73041  = ~Métamorphose en python~
+@73042  = ~Se transformer en  python~
+@73045  = ~Métamorphose en wiverne~
+@73046  = ~Se transformer en grande wiverne~
+@73051  = ~Métamorphose en araignée géante~
+@73052  = ~Se transformer en araignée géante~
+@73053  = ~Métamorphose en araignée-sabre~
+@73054  = ~Se transformer en araignée-sabre~
+@73061  = ~Métamorphose en scarabée scolyte~
+@73062  = ~Se transformer en scarabée scolyte~
+@73063  = ~Métamorphose en scarabée de feu~
+@73064  = ~SSe transformer en scarabée de feu~
+@73065  = ~Métamorphose en scarabée bombardier~
+@73066  = ~Se transformer en scarabée bombardier~
+@73067  = ~Métamorphose en scarabée rhinocéros~
+@73068  = ~Se transformer en scarabée rhinocéros~
+@73071  = ~Métamorphose en ver charognard~
+@73072  = ~Se transformer en ver charognard~
+@73073  = ~Métamorphose en remorhaz~
+@73074  = ~Se transformer en  remorhaz~
 //
 // ... druids:
 //
-@73101  = ~forest druid~
-@73102  = ~Forest Druid~
-@73103  = ~DRUID: Most druids reside in the regions where soil is nutritious, plant life is abundant and animals thrive.  These regions are in many ways the epitome of harmonious ecosystems, and druids often charge themselves with nurturing and defending them.  Tall forests are a paradise in many ways: they provide shade from the sun, food and homes for animals and people, and wood for tools.  Forests are incessantly under threat of being torn down and subjugated by careless humans and demihumans. Forest druids therefore often live with a constant low-grade paranoia, which informs the stereotype of druids being hostile to civilization.
+@73101  = ~druide des forêts~
+@73102  = ~Druide des forêts~
+@73103  = ~DRUIDE DES FORÊTS: La plupart des druides résident en des lieux où le sol est riche, la végétation abondante et les animaux s'épanouissent. Ces régions sont l'incarnation même de ce qu'est un écosystème harmonieux et les druides se vouent souvent à les cultiver et les protéger. Pour bien des raisons, les hautes forêts sont un paradis. Elles offrent ombrage, nourriture et habitat aux animaux et aux personnes, ainsi que le bois pour les outils. Les forêt sont perpétuellement menacés de destruction ou d'appropriation par des humains ou demi-humains négligents. Les druides des forêts sont donc souvent touchés par une forme atténuée de paranoïa qui nourrit le stéréotype du druide hostile à la civilisation.
 
-Advantages:
-- At 1st level, may summon a Spirit Bear. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 3rd level, may shapeshift into the form of a wolf or a ferret at will.
-- At 5th level, may shapeshift into the form of a black bear.
-- At 7th level, may shapeshift into the form of a python or a mountain lion.
-- At 9th level, may shapeshift into a larger dire wolf instead of a wolf.
-- At 9th level, the druid become immune to poison.
-- At 11th level, may shapeshift into a larger grizzly bear instead of a black bear.
-- At 13th level, may shapeshift into a large wyvern.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- Au niveau 1, peut convoquer un ours spirituel. Le nombre de dés de vie de l'animal spirituel augmente pour égaler le niveau du druide aux niveaux 3, 5, 7 et 10.
+- Au niveau 3, il peut changer de forme en loup ou en furet à volonté.
+- Au niveau 5, il peut changer de forme en ours brun.
+- Au niveau 7, il peut changer de forme en python ou en lion des montagnes.
+- Au niveau 9, il peut changer de forme en loup noir, plus grand, à la place du loup.
+- Au niveau 9, il devient immunisé contre le poison.
+- Au niveau 11, il peut changer de forme en grizzly, plus grand, à la place de l'ours brun.
+- Au niveau 13, il peut changer de forme en grande wiverne.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-WOLF: in wolf form the druid can detect hidden enemies. He can attack 1.5 times per round for 2d4 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
+LOUP : sous forme de loup, le druide peut détecter les ennemis dissimulés. Il peut attaquer 1 fois et demi par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
-FERRET: in ferret form the druid is hidden from view for up to two rounds. <PRO_HESHE> can use this to escape enemies or move undetected, and can attack once per round for 1d2 piercing damage.
+FURET : sous forme de furet, le druide est caché pour deux rounds au plus. Il peut en profiter pour s'enfuir ou se déplacer furtivement, et peut attaquer deux fois par round, infligeant 1d2 points de dégâts perforants.
 
-BLACK BEAR: in black bear form, the druid has 19 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage.
+OURS BRUN : sous forme d'ours brun, le druide a une force de 19 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants.
 
-PYTHON: in snake form, the druid can attack with a bite that causes 1d3 damage and poisons the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can attempt to constrict around an opponent, briefly paralyzing them if they fail a saving throw.
+PYTHON : sous forme de serpent, le druide peut utiliser une morsure qui inflige 1d3 points de dégâts et empoisonne la cible, avec un effet semblable à l'Arme empoisonnée de l'assassin. De plus, le druide peut essayer d'enserrer un adversaire,ce qui les paralyse un court instant s'il échoue à un jet de sauvegarde.
 
-MOUNTAIN LION: in mountain lion form, the druid can attack twice per round for 2d4 slashing damage. Successful attacks can knock the target to the ground if they fail a saving throw. 
+LION DES MONTAGNES : sous forme de lion des montagnes, le druide attaque deux fois par round avec 2d4 points de dégâts tranchants. Les attaques réussies peuvent projeter la cible au sol si elle échoue à un jet de sauvegarde.
 
-DIRE WOLF: in dire wolf form the druid has 19 STR. He can attack 1.5 times per round for 2d6 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
+LOUP NOIR : sous forme de loup noir, le druide  a une force de 19. Il peut attaquer 1 fois et demi par round en infligeant 2d6 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
-GRIZZLY BEAR: in grizzly bear form, the druid has 20 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage and, if the target fails a saving throw, and additional 2d4 crushing damage.
+GRIZZLY : sous forme de grizzly, le druide  a une force de 20 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants et,si la cible échoue à un jet de sauvegarde, 2d4 points de dégâts contondants supplémentaires.
 
-WYVERN: in wyvern form the druid can fly over ground-based obstacles like Entangle and Web spells. <PRO_HISHER> powerful claws can rake victims for 2d6 damage and <PRO_HISHER> attacks can poison the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can create a powerful gust of wind that acts like a smaller version of a dragon's "Wing Buffet" ability.
-~
-@73104  = ~FOREST DRUID: Most druids reside in the regions where soil is nutritious, plant life is abundant and animals thrive.  These regions are in many ways the epitome of harmonious ecosystems, and druids often charge themselves with nurturing and defending them.  Tall forests are a paradise in many ways: they provide shade from the sun, food and homes for animals and people, and wood for tools.  Forests are incessantly under threat of being torn down and subjugated by careless humans and demihumans. Forest druids therefore often live with a constant low-grade paranoia, which informs the stereotype of druids being hostile to civilization.~
+WIVERNE : sous forme de wiverne, le druide peut survoler les obstacles au sol comme les sorts d'Enchevêtrement et de Toile d'araignée. Ses griffes puissantes peuvent déchirer leurs victimes et infliger 2d6 points de dégâts et ses attaquent peuvent empoisonner la cible, avec des effets semblables à l'Arme empoisonnée des assassins. De plus, le druide peut générer une puissante bourrasque qui se comporte comme une version diminuée du Coup d'ailes des dragons.~
+@73104  = ~DRUIDE DES FORÊTS: La plupart des druides résident en des lieux où le sol est riche, la végétation abondante et les animaux s'épanouissent. Ces régions sont l'incarnation même de ce qu'est un écosystème harmonieux et les druides se vouent souvent à les cultiver et les protéger. Pour bien des raisons, les hautes forêts sont un paradis. Elles offrent ombrage, nourriture et habitat aux animaux et aux personnes, ainsi que le bois pour les outils. Les forêt sont perpétuellement menacés de destruction ou d'appropriation par des humains ou demi-humains négligents. Les druides des forêts sont donc souvent touchés par une forme atténuée de paranoïa qui nourrit le stéréotype du druide hostile à la civilisation.~
 @73105  = ~~
-@73111  = ~Druid Shapechange~
-@73112  = ~Shapechange into various animal forms~
-@73113  = ~Shapechange: Wolf~
-@73114  = ~Shapechange into wolf form~
-@73115  = ~Shapechange: Dire Wolf~
-@73116  = ~Shapechange into dire wolf form~
-@73117  = ~Shapechange: Ferret~
-@73118  = ~Shapechange into ferret form~
-@73119  = ~Shapechange: Black Bear~
-@73120  = ~Shapechange into black bear form~
-@73121  = ~Shapechange: Shambling Mound~
-@73122  = ~Shapechange into a powerful shambling mound~
+@73111  = ~Changement de forme de druide~
+@73112  = ~Change de forme vers plusieurs formes animales~
 //
 // ... totemic druid:
 //
-@73201  = ~totemic druid~
-@73202  = ~Totemic Druid~
-@73203  = ~TOTEMIC DRUID: This druid is similar in many ways to a traditional one. However, a Totemic Druid does not learn to change their shape into that of animals. Rather, they <PRO_HESHE> manifests <PRO_HISHER> connection to the animal world as an external force, able to call upon more Spirit Animals to aid <PRO_HIMHER>, and do so more often.
+@73201  = ~druide totémique~
+@73202  = ~Druide totémique~
+@73203  = ~DRUIDE TOTÉMIQUE : Ce druide est semblable de bien des façons à un druide traditionnel. Cependant, un druide totémique n'apprend pas à changer de forme pour celle d'un animal. Au lieu de cela, ils manifestent leur connexion avec le monde animal comme une force externe, capable d'appeler plus d'esprits animaux et de le faire plus souvent.
 
-Advantages:
-- At 1st level, may use the Summon Spirit Animal ability once per day. Gains an additional use every 3 levels thereafter.
-- At 9th level, the druid becomes immune to poison.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- Peut utiliser « Convocation d'esprit animal » une fois par jour, puis une fois supplémentaire tous les 3 niveaux.
+- Au niveau 9, il devient immunisé contre le poison.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-SUMMON SPIRIT ANIMAL: The Totemic Druid can summon any of several spirit animals (spirit bear, spirit wolf, spirit lion, or spirit snake) to aid <PRO_HIMHER> for 6 turns. The spirit animal has 1 HD at level 1, 3 HD at level 3, 5 HD at level 5, 7 HD at level 7, and 10 HD at level 10.
+CONVOCATION D'ESPRIT ANIMAL : Le druide totémique peut invoquer un esprit animal (ours, loup, lion ou serpent) pour l'aider pendant 6 tours. L'esprit animal a 1 DV au niveau 1, 3 DV au niveau 3, 5 DV au niveau 5, 7 DV au niveau 7 et 10 DV au niveau 10.
 
-Disadvantages:
-- Cannot shapeshift.
+Inconvénients :
+- Ne peut pas se transformer.
 ~
 //
 // ... avenger => hivekeeper:
@@ -2049,23 +1822,6 @@ The damage types relating to each element are as follows:
 @76316  = ~Control Elemental~
 @76317  = ~Control Elemental
 The targeted elemental creature is under the control of the elementalist for 3 turns.  No save is allowed.~
-
-//
-// ... chaos priest:
-//
-@76501  = ~chaos priest~
-@76502  = ~Chaos Priest~
-@76503  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages. Scholars debate whether their magic is granted by a manipulative deity, or whether they have possibly hit upon some deep structural secret of the multiverse. Whatever the truth, most people view these Occultists with fear and wariness.
-
-Advantages:
-- A Chaos Priest's spellcasting is affected by wild magic. With every spell cast, there is a chance for a Wild Surge to occur.
-- Chaos Priests may cast Wild Magic spells, including Reckless Dweomer and Chaos Shield.
-
-Restrictions:
-- Must be Chaotic
-~
-@76504  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages.~
-
 
 //
 // ... Pally--> Champion:
@@ -5409,6 +5165,12 @@ Paralyzed creatures are helpless and cannot dodge or defend themselves from atta
 
 //untranslated
 
+//
+// ... Incarnate kits = 401-449
+//
+// seems unused, no idea of the source material if any
+@405  = ~Add Incarnate of Mystra~
+//
 // seems unused
 @10101 = ~incarnate~
 @10102 = ~Incarnate~
@@ -5419,3 +5181,291 @@ Advantages:
 
 Disadvantages:
 - Is not proficient with armor, shields or helmets.~
+// probably unused  - only used in commented out code
+@20104 = ~Immobilisation des morts-vivants
+(Nécromancie)
+
+Portée : 10,5 m
+Durée : 2 rounds par niveau
+Temps d'incantation : 3
+Zone d'effet : 1 créature et tout ennemi dans un rayon de 3 m
+Jet de sauvegarde : annule
+
+Ce sort immobilise 1d4 créatures mortes-vivantes pendant 12 rounds au moins. Ses effets sont centrés sur la victime choisie par le lanceur. Tout ennemi situé dans un rayon de 1 mètre autour de la cible est également affecté. Ceux qui réussissent leur jet de sauvegarde échappent totalement aux effets du sort. Les créatures ainsi immobilisées ne peuvent ni bouger ni parler, mais restent conscientes de ce qui se passe autour d'elles et peuvent continuer à utiliser toutes les capacités ne nécessitant ni la parole, ni un déplacement quelconque. L'immobilisation n'empêche pas la dégradation de la santé due aux blessures.
+~
+//
+// ... spells for sphere system: 2nd+3rd digits = sphere # 
+//
+// unused
+@49301 = ~watcher of helm~
+@49302 = ~Watcher of Helm~
+@49303 = ~WATCHER OF HELM: Followers of the lawful neutral god of watchers and protectors are warriors in their own right and are often seen as defenders of the innocent.
+
+Advantages:
+- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
+- Can cast Helm's eye as a special ability once per day at 9th level.  The watcher gains an additional use at levels 11, 13, 15, 17 and 19. Helm's eye is equivalent to the wizard spell, wizard eye.
+- Can cast Seeking Sword as a special ablity once per day.  The Watcher gains an additional use at levels 4, 8, 12, 16 and 20.
+
+SEEKING SWORD: This spell creates a sword in the Cleric's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus, but no damage bonus. It deals 2d4 damage to any target it hits. The weapon sets the Cleric's number of attacks per round to 3 and lasts for 1 round per level. While it is equipped, the wielder cannot cast further spells.
+
+Restrictions:
+- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
+~
+// 38204 38211 and  38212 probably unused - only used in commented out code
+@38204  = ~VOILÉ DE BARAVAR: ~
+
+@38211  = ~Double de Baravar~
+@38212  = ~Double de Baravar : Ce pouvoir, souvent utilisé dans les cas d'urgence, crée un double illusoire du clerc. Si le clerc est attaqué, le double absorbera le premier coup qui l'atteint et disparaîtra. Au niveau 6, deux doubles sont créés et, au niveau 12, un des clones peut s'écarter du clerc pour distraire les ennemis. Les écornifleurs peuvent utiliser ce pouvoir une fois par tour~
+//
+// ... cleric of baervan:
+//
+// apparently unused
+@22301 = ~pattes rapides de baervan~ //Lower Case Kit Name: No Divine Remix
+@22302 = ~Pattes rapides de Baervan~ //Mixed Case Kit Name: No Divine Remix
+@22303 = ~PRÊTRE DE BAERVAN: Trouvés le plus souvent loin des zones urbaines, les serviteurs de Baervan Ermiterrant cherchent à protéger la nature des créatures maléfiques. Ils ont une affinité particulière pour les plantes et créatures des forêts, comme les ratons-laveurs.
+
+Avantages :
+- Peut lancer Appel de créatures des bois une fois par jour tous les 5 niveaux de lanceur (commence au niveau 1 avec une utilisation).
+- Peut lancer Promenade en nature une fois par jour tous les 10 niveaux de lanceur(commence au niveau 1 avec une utilisation).
+
+Promenade en nature : Ce sort accorde à une personne une protection contre les effets liés au sol ou à la nature qui dégradent la mobilité, comme les toiles, enchevêtrements et la graisse. Ce sort dure 1 round par niveau du lanceur.
+
+Restrictions :
+- doit être gnome.
+- doit être d'alignement bon.
+~
+@22304 = ~PRÊTRE DE BAERVAN: Trouvés le plus souvent loin des zones urbaines, les serviteurs de Baervan Ermiterrant cherchent à protéger la nature des créatures maléfiques. Ils ont une affinité particulière pour les plantes et créatures des forêts, comme les ratons-laveurs.
+~
+@22305  = ~~
+@22311 = ~Promenade en nature~
+@22312 = ~Promenade en nature
+Ce sort accorde à une personne une protection contre les effets liés au sol ou à la nature qui dégradent la mobilité, comme les toiles, enchevêtrements et la graisse. Ce sort dure 1 round par niveau du lanceur.~
+//
+// ... spellbender 
+//
+// seems unused
+@46601  = ~courbesort~ // invented
+@46602  = ~Courbesort~
+@46603  = ~COURBESORT : La déesse Mystra gouverne toute la magie et ordonne que les lanceurs de sorts lancent des sorts auparavant connus et doivent mémoriser les motifs de ces sorts pour être en mesure de les délivrer avec succès. Mais comme dans tout système, il y a des lacunes et des raccourcis qui peuvent être utilisés pour contourner les règles. Les ensorceleurs naissent avec la faculté de modeler directement la magie, même si cen'est limité qu'à un petit nombre d'effets, tandis que les entropistes façonne les sorts sans discipline, obtenant des résultats puissants en prenant de risque d"effets secondaires désastreux. Les courbesorts, eux, font de la recherche des façons de contourner les restrictions de Mystra une science. Officiant comme clercs généralistes et étudiant en même temps la magie profane, ils apprennent à manipuler l'intersection de cesdeuxdomaines de magie.
+
+Avantages :
+- Peut utiliser la faculté de Tissage profane en remplacement de la mémorisation de sorts de prêtre. Cette faculté permet au courbesort de lancer spontanément un sort dans une sélection de sorts de mage d'un niveau inférieur au sort de prêtre sacrifié.
+- Peut utiliser la faculté de Tissage divin en remplacement de la mémorisation de sorts de mage. Cette faculté permet au courbesort de lancer spontanément un sort dans une sélection de sorts de prêtre d'un niveau inférieur au sort de mage sacrifié.
+
+Restrictions :
+Aucune
+~
+@46605  = ~Tissage profane I~
+@46606  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Hantise
+- Bouclier
+- Image réfléchie
+- Graisse
+- Sommeil
+- Orbe Chromatique
+- Mains ardentes
+- Projectile magique~
+@46607  = ~Tissage profane II~
+@46608  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Vocaliser
+- Flou
+- Invisibilité
+- Horreur
+- Toile d'araignée
+- Poussière scintillante
+- Flèche acide de Melf
+- Déblocage~
+@46609  = ~Tissage profane III~
+@46610  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Dissipation de la magie
+- Détection des illusions
+- Armure fantomatique
+- Prot. contre proj. non-magiques
+- Hâte
+- Charme néfaste
+- Éclair
+- Boule de feu~
+@46611  = ~Tissage profane IV~
+@46612  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Globe mineur d'invulnérabilité
+- Peau de pierre
+- Métamorphose
+- Invisibilité majeure
+- Mot secret
+- Grande malédiction
+- Confusion
+- Tempête glaciale~
+@46613  = ~Tissage profane V~
+@46614  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Oracle
+- Porte d'ombre
+- Renvoi de sorts mineur
+- Lame fantôme
+- Domination
+- Brèche
+- Immobilisation des monstres
+- Nuage mortel~
+@46615  = ~Tissage profane VI~
+@46616  = ~Tissage profane
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Globe d'invulnérabilité
+- Déviation de sorts
+- Protection contre l'énergie magique
+- Double Illusoire
+- Transformation de Tenser
+- Perce-magie
+- Hâte améliorée
+- Chaîne d'éclairs~
+@46617  = ~Tissage divin I~
+@46618  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Soin des blessures légères
+- Bénédiction
+- Apaisement
+- Protection contre le mal
+- Armure de la foi
+- Sanctuaire
+- Injonction
+- Pierre magique~
+@46619  = ~Tissage divin II~
+@46620  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Détection des pièges
+- Cantique
+- Résistance au feu/au froid
+- Ralentissement du poison
+- Puiser dans la puissance divine
+- Silence sur 5 mètres
+- Immobilisation des personnes
+- Marteau spirituel~
+@46621  = ~Tissage divin III~
+@46622  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Soins des blessures moyennes
+- Délivrance de la malédiction
+- Guérison des maladies
+- Délivrance de la paralysie
+- Dissipation de la magie
+- Elimination des invisibilités
+- Force d'un seul
+- Sainte Punition~
+@46623  = ~Tissage divin IV~
+@46624  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Soins des blessures graves
+- Restauration mineure
+- Protection contre le Mal, rayon de 3 m
+- Harmonie défensive
+- Protection contre la mort
+- Protection contre la foudre
+- Action libre
+- Puissance sacrée~
+@46625  = ~Tissage divin V~
+@46626  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Soins des blessures critiques
+- Guérison de masse
+- Ordres chaotiques
+- Résistance Magique
+- Magie des vertueux
+- Ordre majeur
+- Repousser les morts-vivants
+- Colonne de feu~
+@46627  = ~Tissage divin VI~
+@46628  = ~Tissage divin
+
+Cette faculté magique permettra au courbesort de lancer l'un des sorts suivants :
+- Guérison
+- Souvenir merveilleux
+- Serviteur aérien
+- Miroir physique
+- Barrière de lames
+- Orbe desséchant de Sol
+- Aube illusoire
+- Rayon divin~
+
+@73113  = ~Shapechange: Wolf~
+@73114  = ~Shapechange into wolf form~
+@73115  = ~Shapechange: Dire Wolf~
+@73116  = ~Shapechange into dire wolf form~
+@73117  = ~Shapechange: Ferret~
+@73118  = ~Shapechange into ferret form~
+@73119  = ~Shapechange: Black Bear~
+@73120  = ~Shapechange into black bear form~
+@73121  = ~Shapechange: Shambling Mound~
+@73122  = ~Shapechange into a powerful shambling mound~
+//
+// ... chaos priest:
+//
+@76501  = ~chaos priest~
+@76502  = ~Chaos Priest~
+@76503  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages. Scholars debate whether their magic is granted by a manipulative deity, or whether they have possibly hit upon some deep structural secret of the multiverse. Whatever the truth, most people view these Occultists with fear and wariness.
+
+Advantages:
+- A Chaos Priest's spellcasting is affected by wild magic. With every spell cast, there is a chance for a Wild Surge to occur.
+- Chaos Priests may cast Wild Magic spells, including Reckless Dweomer and Chaos Shield.
+
+Restrictions:
+- Must be Chaotic
+~
+@76504  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages.~
+
+//DIVINE SPELLS - unused in thisfile, but kept for when translating newpells.tra
+@1000000 = ~Interdiction~
+@1000001 = ~Interdiction
+(Enchantement/Charme)
+
+Niveau : 2
+Sphère : Charme
+Portée : champ visuel du lanceur
+Durée : 2 rounds
+Temps d'incantation : 1
+Zone d'effet : 1 créature
+Jet de Sauvegarde : spécial
+
+Ce sort permet au prêtre d'interdire à une autre créature de bouger en leur donnant l'ordre de s'arrêter. Une créature ayant reçu cet ordre va arrêter de faire ce qu'elle faisait et sera incapable de bouger si elle ne réussit pasun jet de sauvegarde contre les sorts. À la fin du second round,la créature retrouve l'usage de ses membres et peut se déplacer normalement.~
+
+@1000002 = ~Délivrance de la fatigue~
+@1000003 = ~Délivrance de la fatigue
+(Altération)
+
+Niveau : 1
+Sphère : Vigueur
+Portée : champ visuel du lanceur
+Durée : Instantanée
+Temps d'incantation : 1
+Zone d'effet : rayon de 9 m
+Jet de Sauvegarde : aucun
+
+Le prêtre supprime la fatigue du bénéficiair edu sort. La cible se sent revigorée et prête à continuer. Par contre, lle ne récupérera pas de sorts ou de points de vie comme après une nuit de repos complète.~ // prbably wrong about ht saving throw - but unused so...
+
+@1000004 = ~Apaisement des morts~
+@1000005 = ~Apaisement des morts
+(Altération)
+
+Niveau : 2
+Sphère : Mort
+Portée : champ visuel du lanceur
+Durée : 1 tour
+Temps d'incantation : 3
+Zone d'effet : 1 créature
+Jet de Sauvegarde : aucun
+
+En lançant ce sort, le prêtre ralentit un mort-vivant à portée du sort. Cet effet annule la Hâte mais n'a pas d'effet sur les créatures accélérées ou ralenties par un autre effet magique. Les créature ralenties souffrent de pénalités de 64 à l'attaque et à la classe d'armure. Pour rendre les choses plus compliquée, les créatures ont un malus de 64 pour le jet desauvegarde contre ce sort.
+~
