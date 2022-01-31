@@ -42,160 +42,7 @@
 @142  = ~Ne changer aucun sort~
 @143  = ~Changer ce sort~
 @144  = ~Changer un autre sort~
-//
-@200  = ~kits de clerc nouveaux et revisités~
-// 
-// INDEX:
-//
-// ... Cleric kits = 201-299
-//
-@201  = ~Ajouter le clerc de Lathandre~
-@202  = ~Ajouter le clerc de Torm~
-@205  = ~Ajouter le clerc de Tymora~
-@208  = ~Ajouter le clerc de Helm~
-@209  = ~Ajouter le clerc de Kelemvor~
-@210  = ~Ajouter le clerc de Tempus~
-@212  = ~Ajouter le clerc de Leïra~
-@219  = ~Ajouter le clerc de Loviatar~
-@224  = ~Ajouter le clerc de Talos~
-@225  = ~Ajouter le clerc de Cyric~
-@226  = ~Ajouter le clerc d'Umberlie~
-//
-// ... Priest kits = 301-350
-//
-@310  = ~Ajouter le prêtre de Oghma~
-@314  = ~Ajouter le prêtre de Ilmater~
-@315  = ~Ajouter le prêtre de Déneïr~
-@316  = ~Ajouter le prêtre de Sunie~
-@322  = ~Ajouter le prêtre de Tempus~
-@325  = ~Ajouter le prêtre d'Azouth~
-@330  = ~Ajouter le prêtre de Shar~
-@331  = ~Ajouter le prêtre de Moander~
-@332  = ~Ajouter le prêtre de Beshaba~
-//
-// ... Demihuman kits = 351-399
-//
-@351  = ~Ajouter le clerc de Corellon Larethian~
-@352  = ~Ajouter le clerc de Sehanine Archelune~
-@353  = ~Ajouter le clerc d'Erevan Ilesere~
-@354  = ~Ajouter le clerc de Hanali Celanil~
-@371  = ~Ajouter le clerc de Moradin~
-@372  = ~Ajouter le clerc de Clangeddin~
-@373  = ~Ajouter le clerc de Marthammor Duin~
-@381  = ~Ajouter le clerc de Garl Brilledor~
-@382  = ~Ajouter le clerc de Baervan Ermiterrant~
-@383  = ~Ajouter le clerc de Baravar Sombretoge~
-@384  = ~Ajouter le clerc de Gaerdal Maindefer~
-@385  = ~Ajouter le clerc d'Urdlen~
-@391  = ~Ajouter le clerc de Yondalla~
-@392  = ~Ajouter le clerc d'Arvoreen~
-@393  = ~Ajouter le clerc de Brandobaris~
 
-// ... multiclass kits = 450-499
-//
-@451  = ~Ajouter le Guerrier/Druide~
-@452  = ~Ajouter le Rôdeur/Druide~
-@453  = ~Ajouter le Druide/Voleur~
-@454  = ~Ajouter le Druide/Mage~
-@455  = ~Ajouter le Ensorceleur/Druide~
-@469  = ~Ajouter le Prêtre de Mask~
-@477  = ~Ajouter le Clerc de Brandobaris~
-//
-@499  = ~installer des kits multiclassés~
-//
-@700  = ~kits de druide nouveaux et revisités~
-//
-// ... Mystic kits = 701-730
-//
-@701  = ~Ajouter le mystique de la nature~
-@702  = ~Ajouter le mystique bestial~
-@703  = ~Ajouter le mystique de la terre~
-@704  = ~Ajouter le mystique de l'eau~
-@705  = ~Ajouter le mystique de l'air~
-@706  = ~Ajouter le mystique du feu~
-@707  = ~Ajouter le mystique de la lumière~
-@708  = ~Ajouter le mystique de l'ombre~
-@711  = ~Ajouter le mystique du destin~
-//
-// ... Druid kits = 731-760
-//
-@731  = ~Ajouter le druide forestier~
-@732  = ~Ajouter le druide des montagnes~
-@733  = ~AJouter le druide de la jungle~
-@734  = ~Ajouter le druide du désert~
-@735  = ~Ajouter le druide arctique~
-@736  = ~Ajouter le druide des cavernes~
-//
-// ... Occultist kits = 761-780
-//
-@761  = ~Ajouter le prêtre Ur~
-@762  = ~Ajouter le seigneur des bêtes~
-@763  = ~Ajouter l'élémentaliste~
-@765  = ~Ajouter le prêtre du chaos~
-//
-@800  = ~new and revised paladin kits~
-//
-// ... Champion kits = 801-830
-//
-@801  = ~Ajouter le champion de Tyr~
-@802  = ~Ajouter le champion de Kelemvor~
-@803  = ~Ajouter le champion de Tempus~
-@804  = ~Ajouter le champion de Bane~
-@805  = ~Ajouter le champion de Helm~
-@806  = ~Ajouter le champion de Talos~
-@807  = ~Ajouter le champion de Moradin~
-@808  = ~Ajouter le champion d'Azouth~
-@809  = ~Ajouter le champion de la Cavalière Rouge~
-//
-// ... Inquisitor kits = 831-860
-//
-@831  = ~Ajouter l'inquisiteur de ~
-//
-// ... Zealot kits = 861-880
-//
-@862  = ~Ajouter le zélote de Gruumsh~
-@863  = ~Ajouter le zélote de Talos~
-@864  = ~Ajouter le zélote de Kossuth~
-@865  = ~Ajouter le zélote de Ilmater~
-@866  = ~Ajouter le zélote de Garagos~
-@867  = ~Ajouter le zélote de Corellon Larethian~
-@868  = ~Ajouter le zélote de Sune~
-@869  = ~Ajouter le zélote de Mystra~
-@870  = ~Ajouter le zélote d'Eilistraee~
-//
-//
-@900  = ~kits de rôdeur nouveaux et revisités.~
-//
-// ... ranger kits = 901-929
-//
-@901  = ~Ajouter le rôdeur forestier~
-@902  = ~Ajouter le rôdeur des montagnes~
-@903  = ~AJouter le rôdeur de la jungle~
-@904  = ~Ajouter le rôdeur du désert~
-@905  = ~Ajouter le rôdeur arctique~
-//
-// ... dervish kits = 931-949
-//
-@932  = ~Ajouter le maître des bêtes~
-@933  = ~Ajouter le derviche de la terre~
-@934  = ~Ajouter le derviche de l'eau~
-@935  = ~Ajouter le derviche de l'air~
-@936  = ~Ajouter le derviche du feu~
-@937  = ~Ajouter le derviche de la lumière~
-@938  = ~Ajouter le derviche de l'ombre~
-//
-// ... scout kits = 951-969
-//
-@953  = ~Ajouter le chasseur de mages~
-@954  = ~Ajouter le rôdeur barbare~
-@955  = ~Ajouter l'archer elfe~
-@956  = ~Ajouter le frondeur petite-personne~
-//
-// ... sphere stuff
-//
-@997  = ~Flèche acide~
-@998  = ~Convocation de Limons~
-@999  = ~Enveloppe acide~
 @1000  = ~Sélection de sorts~
 @1001  = ~Cette capacité vous permet d'apprendre de nouveaux sorts~
 // start unused
@@ -5163,7 +5010,7 @@ This spell holds 1 hostile animal rigidly immobile if it fails to save vs. Spell
 
 Paralyzed creatures are helpless and cannot dodge or defend themselves from attacks. Being held does not prevent the worsening of the subject's condition due to wounds, disease, or poison.~
 
-//untranslated
+//untranslated because not used
 
 //
 // ... Incarnate kits = 401-449
@@ -5469,3 +5316,158 @@ Jet de Sauvegarde : aucun
 
 En lançant ce sort, le prêtre ralentit un mort-vivant à portée du sort. Cet effet annule la Hâte mais n'a pas d'effet sur les créatures accélérées ou ralenties par un autre effet magique. Les créature ralenties souffrent de pénalités de 64 à l'attaque et à la classe d'armure. Pour rendre les choses plus compliquée, les créatures ont un malus de 64 pour le jet desauvegarde contre ce sort.
 ~
+//
+@200  = ~kits de clerc nouveaux et revisités~
+// 
+// INDEX:
+//
+// ... Cleric kits = 201-299
+//
+@201  = ~Ajouter le clerc de Lathandre~
+@202  = ~Ajouter le clerc de Torm~
+@205  = ~Ajouter le clerc de Tymora~
+@208  = ~Ajouter le clerc de Helm~
+@209  = ~Ajouter le clerc de Kelemvor~
+@210  = ~Ajouter le clerc de Tempus~
+@212  = ~Ajouter le clerc de Leïra~
+@219  = ~Ajouter le clerc de Loviatar~
+@224  = ~Ajouter le clerc de Talos~
+@225  = ~Ajouter le clerc de Cyric~
+@226  = ~Ajouter le clerc d'Umberlie~
+//
+// ... Priest kits = 301-350
+//
+@310  = ~Ajouter le prêtre de Oghma~
+@314  = ~Ajouter le prêtre de Ilmater~
+@315  = ~Ajouter le prêtre de Déneïr~
+@316  = ~Ajouter le prêtre de Sunie~
+@322  = ~Ajouter le prêtre de Tempus~
+@325  = ~Ajouter le prêtre d'Azouth~
+@330  = ~Ajouter le prêtre de Shar~
+@331  = ~Ajouter le prêtre de Moander~
+@332  = ~Ajouter le prêtre de Beshaba~
+//
+// ... Demihuman kits = 351-399
+//
+@351  = ~Ajouter le clerc de Corellon Larethian~
+@352  = ~Ajouter le clerc de Sehanine Archelune~
+@353  = ~Ajouter le clerc d'Erevan Ilesere~
+@354  = ~Ajouter le clerc de Hanali Celanil~
+@371  = ~Ajouter le clerc de Moradin~
+@372  = ~Ajouter le clerc de Clangeddin~
+@373  = ~Ajouter le clerc de Marthammor Duin~
+@381  = ~Ajouter le clerc de Garl Brilledor~
+@382  = ~Ajouter le clerc de Baervan Ermiterrant~
+@383  = ~Ajouter le clerc de Baravar Sombretoge~
+@384  = ~Ajouter le clerc de Gaerdal Maindefer~
+@385  = ~Ajouter le clerc d'Urdlen~
+@391  = ~Ajouter le clerc de Yondalla~
+@392  = ~Ajouter le clerc d'Arvoreen~
+@393  = ~Ajouter le clerc de Brandobaris~
+
+// ... multiclass kits = 450-499
+//
+@451  = ~Ajouter le Guerrier/Druide~
+@452  = ~Ajouter le Rôdeur/Druide~
+@453  = ~Ajouter le Druide/Voleur~
+@454  = ~Ajouter le Druide/Mage~
+@455  = ~Ajouter le Ensorceleur/Druide~
+@469  = ~Ajouter le Prêtre de Mask~
+@477  = ~Ajouter le Clerc de Brandobaris~
+//
+@499  = ~installer des kits multiclassés~
+
+//
+@700  = ~kits de druide nouveaux et revisités~
+//
+// ... Mystic kits = 701-730
+//
+@701  = ~Ajouter le mystique de la nature~
+@702  = ~Ajouter le mystique bestial~
+@703  = ~Ajouter le mystique de la terre~
+@704  = ~Ajouter le mystique de l'eau~
+@705  = ~Ajouter le mystique de l'air~
+@706  = ~Ajouter le mystique du feu~
+@707  = ~Ajouter le mystique de la lumière~
+@708  = ~Ajouter le mystique de l'ombre~
+@711  = ~Ajouter le mystique du destin~
+//
+// ... Druid kits = 731-760
+//
+@731  = ~Ajouter le druide forestier~
+@732  = ~Ajouter le druide des montagnes~
+@733  = ~AJouter le druide de la jungle~
+@734  = ~Ajouter le druide du désert~
+@735  = ~Ajouter le druide arctique~
+@736  = ~Ajouter le druide des cavernes~
+//
+// ... Occultist kits = 761-780
+//
+@761  = ~Ajouter le prêtre Ur~
+@762  = ~Ajouter le seigneur des bêtes~
+@763  = ~Ajouter l'élémentaliste~
+@765  = ~Ajouter le prêtre du chaos~
+//
+@800  = ~new and revised paladin kits~
+//
+// ... Champion kits = 801-830
+//
+@801  = ~Ajouter le champion de Tyr~
+@802  = ~Ajouter le champion de Kelemvor~
+@803  = ~Ajouter le champion de Tempus~
+@804  = ~Ajouter le champion de Bane~
+@805  = ~Ajouter le champion de Helm~
+@806  = ~Ajouter le champion de Talos~
+@807  = ~Ajouter le champion de Moradin~
+@808  = ~Ajouter le champion d'Azouth~
+@809  = ~Ajouter le champion de la Cavalière Rouge~
+//
+// ... Inquisitor kits = 831-860
+//
+@831  = ~Ajouter l'inquisiteur de ~
+//
+// ... Zealot kits = 861-880
+//
+@862  = ~Ajouter le zélote de Gruumsh~
+@863  = ~Ajouter le zélote de Talos~
+@864  = ~Ajouter le zélote de Kossuth~
+@865  = ~Ajouter le zélote de Ilmater~
+@866  = ~Ajouter le zélote de Garagos~
+@867  = ~Ajouter le zélote de Corellon Larethian~
+@868  = ~Ajouter le zélote de Sune~
+@869  = ~Ajouter le zélote de Mystra~
+@870  = ~Ajouter le zélote d'Eilistraee~
+//
+//
+@900  = ~kits de rôdeur nouveaux et revisités.~
+//
+// ... ranger kits = 901-929
+//
+@901  = ~Ajouter le rôdeur forestier~
+@902  = ~Ajouter le rôdeur des montagnes~
+@903  = ~AJouter le rôdeur de la jungle~
+@904  = ~Ajouter le rôdeur du désert~
+@905  = ~Ajouter le rôdeur arctique~
+//
+// ... dervish kits = 931-949
+//
+@932  = ~Ajouter le maître des bêtes~
+@933  = ~Ajouter le derviche de la terre~
+@934  = ~Ajouter le derviche de l'eau~
+@935  = ~Ajouter le derviche de l'air~
+@936  = ~Ajouter le derviche du feu~
+@937  = ~Ajouter le derviche de la lumière~
+@938  = ~Ajouter le derviche de l'ombre~
+//
+// ... scout kits = 951-969
+//
+@953  = ~Ajouter le chasseur de mages~
+@954  = ~Ajouter le rôdeur barbare~
+@955  = ~Ajouter l'archer elfe~
+@956  = ~Ajouter le frondeur petite-personne~
+//
+// ... sphere stuff
+//
+@997  = ~Flèche acide~
+@998  = ~Convocation de Limons~
+@999  = ~Enveloppe acide~
