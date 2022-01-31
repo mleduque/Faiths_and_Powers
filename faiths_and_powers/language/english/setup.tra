@@ -1769,8 +1769,8 @@ Upon using this ability, the Mystic is allowed to choose a spell from his repert
 @73064  = ~Shift into the form of a fire beetle~
 @73065  = ~Shapeshift: bombardier beetle~
 @73066  = ~Shift into the form of bombardier beetle~
-@73067  = ~Shapeshift: rhinocerous beetle~
-@73068  = ~Shift into the form of a rhinocerous beetle~
+@73067  = ~Shapeshift: rhinoceros beetle~
+@73068  = ~Shift into the form of a rhinoceros beetle~
 @73071  = ~Shapeshift: carrion crawler~
 @73072  = ~Shift into the form of a carrion crawler~
 @73073  = ~Shapeshift: remorhaz~
@@ -1855,7 +1855,7 @@ Advantages:
 - At 9th level, may shapeshift into a sword spider.
 - At 9th level, the druid becomes immune to poison.
 - At 11th level, may shapeshift into a carrion crawler.
-- At 13th level, may shapeshift into a rhinocerous beetle.
+- At 13th level, may shapeshift into a rhinoceros beetle.
 - At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
 
 BORING BEETLE: in this form the druid can make a powerful piercing attack once per round for 2d6+2 piercing damage. The beetle's hard shell gives the druid a 3-point armor class bonus against missile weapons, and 50% resistance to physical damage generally.
@@ -1870,7 +1870,7 @@ SWORD SPIDER: in this form, the druid can move extremely fast and attack 4 times
 
 CARRION CRAWLER: in this form the druid can attack twice per round for 2d4 piercing damage. Successful attacks have a 50% chance to paralyze the victim for several rounds if they fail a saving throw vs. poison.
 
-RHINOCEROUS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> can attack twice per round with incredibly powerful pincers, for 3d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
+RHINOCEROS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> can attack twice per round with incredibly powerful pincers, for 3d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
 ~
 @73411  = ~Sumon Spirit Spider~
 @73412  = ~~
@@ -1903,8 +1903,8 @@ Saving Throw: None
 
 With this spell, the caster can summon 3d2 spiders to assail <PRO_HISHER> enemies. The spiders are normal, natural creatures, if large for their species. Inbdividually, they would little threat to any but the most feeble target. But their bites deliver a painful and damaging poison, and in large numbers they could be dangerous for an unprepared foe.
 ~
-@73425  = ~Summon Rhinocerous Beetle~
-@73426  = ~Summon Rhinocerous Beetle
+@73425  = ~Summon Rhinoceros Beetle~
+@73426  = ~Summon Rhinoceros Beetle
 (Conjuration)
 
 Level: 7
