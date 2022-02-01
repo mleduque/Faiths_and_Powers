@@ -1413,25 +1413,25 @@ Ce sort permet au lanceur de choisir un sort parmi ceux qu'il connaît (un nivea
 Avantages :
 - Au niveau 1, peut convoquer un ours spirituel. Le nombre de dés de vie de l'animal spirituel augmente pour égaler le niveau du druide aux niveaux 3, 5, 7 et 10.
 - Au niveau 3, il peut changer de forme en loup ou en furet à volonté.
-- Au niveau 5, il peut changer de forme en ours brun.
+- Au niveau 5, il peut changer de forme en ours noir.
 - Au niveau 7, il peut changer de forme en python ou en lion des montagnes.
 - Au niveau 9, il peut changer de forme en loup noir, plus grand, à la place du loup.
 - Au niveau 9, il devient immunisé contre le poison.
-- Au niveau 11, il peut changer de forme en grizzly, plus grand, à la place de l'ours brun.
+- Au niveau 11, il peut changer de forme en grizzly, plus grand, à la place de l'ours noir.
 - Au niveau 13, il peut changer de forme en grande wiverne.
 - Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-LOUP : sous forme de loup, le druide peut détecter les ennemis dissimulés. Il peut attaquer 1 fois et demi par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
+LOUP : sous forme de loup, le druide peut détecter les ennemis dissimulés. Il peut attaquer 1,5 fois par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
 FURET : sous forme de furet, le druide est caché pour deux rounds au plus. Il peut en profiter pour s'enfuir ou se déplacer furtivement, et peut attaquer deux fois par round, infligeant 1d2 points de dégâts perforants.
 
-OURS BRUN : sous forme d'ours brun, le druide a une force de 19 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants.
+OURS NOIR : sous forme d'ours brun, le druide a une force de 19 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants.
 
 PYTHON : sous forme de serpent, le druide peut utiliser une morsure qui inflige 1d3 points de dégâts et empoisonne la cible, avec un effet semblable à l'Arme empoisonnée de l'assassin. De plus, le druide peut essayer d'enserrer un adversaire,ce qui les paralyse un court instant s'il échoue à un jet de sauvegarde.
 
 LION DES MONTAGNES : sous forme de lion des montagnes, le druide attaque deux fois par round avec 2d4 points de dégâts tranchants. Les attaques réussies peuvent projeter la cible au sol si elle échoue à un jet de sauvegarde.
 
-LOUP NOIR : sous forme de loup noir, le druide  a une force de 19. Il peut attaquer 1 fois et demi par round en infligeant 2d6 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
+LOUP NOIR : sous forme de loup noir, le druide  a une force de 19. Il peut attaquer 1,5 fois par round en infligeant 2d6 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
 GRIZZLY : sous forme de grizzly, le druide  a une force de 20 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants et,si la cible échoue à un jet de sauvegarde, 2d4 points de dégâts contondants supplémentaires.
 
@@ -1460,138 +1460,114 @@ Inconvénients :
 //
 // ... avenger => hivekeeper:
 //
-@73401  = ~hivekeeper~
-@73402  = ~Hivekeeper~
-@73403  = ~HIVEKEEPER: these druids maintain an interest in and affection for insectoid, arachnid, and similar animals. Such fauna play an integral role in the natural ecosystems which druids protect and revere, but they are often overlooked or even reviled by humanoids. Hivekeepers recognize and promote the productive capabilities of these animals; and they also learn utilize the potent natural weaponry that these animals have developed. Hivekeepers are often treated with some discomfort by others, and are therefore often loners. But no druids can deny their effectiveness when called up to oppose nature's enemies.
+@73401  = ~gardien de la ruche~
+@73402  = ~Gardien de la ruche~
+@73403  = ~GARDIEN DE LA RUCHE : Ces druides entretiennent eun intérêt et une affection pour les créatures insectoïdes, arachnides et autres animaux similaires. Cette faune joue un rôle fondamental  dans les écosystèmes qui les druides protègent et vénèrent, mais ils sont souvent négligés ou même méprisés par les humanoïdes. Les gardiens de la ruche reconnaissent et encouragent les capacités productives de ces animaux. Ils ont aussi appris à mettre à profit les armes naturelles puissantes apportées par leur évolution. Les gardiens de la ruche sont souvent provoquent souvent de la gêne chez les autres, aussi sont-ils souvent des solitaires. Mais aucun druide ne nie leur efficacité quand il on les appelle pour s'opposer aux ennemis de la nature.
 
-Advantages:
-- At 1st level, may summon a Spirit Spider. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 3rd level, may shapeshift into the form of a giant beetle at will.
-- At 5th level, may shapeshift into the form of a giant spider.
-- At 7th level, may shapeshift into the form of a giant fire beetle or an acidic bombardier beetle.
-- At 9th level, may shapeshift into a sword spider.
-- At 9th level, the druid becomes immune to poison.
-- At 11th level, may shapeshift into a carrion crawler.
-- At 13th level, may shapeshift into a rhinocerous beetle.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- À partir du niveau 1, peut convoquer une Araignée spirituelle. Le nombre de dés de vie de l'animal spirituel augmente aux niveau 3, 5, 7 et 10 pour égaler le niveau du druide.
+- À partir du niveau 3, peut changer de forme en scarabée géant à volonté.
+- À partir du niveau 5, peut changer de forme en araignée géante.
+- À partir du niveau 7, peut changer de forme en scarabée de feu géant ou en scarabée bombardier acide.
+- À partir du niveau 9, peut changer de forme en araignée-sabre.
+- À partir du niveau 9, est immunisé contre le poison.
+- À partir du niveau 11, peut changer de forme en ver charognard.
+- À partir du niveau 13, peut changer de forme en scarabée rhinocéros.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-BORING BEETLE: in this form the druid can make a powerful piercing attack once per round for 2d6+2 piercing damage. The beetle's hard shell gives the druid a 3-point armor class bonus against missile weapons, and 50% resistance to physical damage generally.
+SCARABÉE SCOLYTE ; sous cette forme, le druide peut exécuter une puissante attaque perforante une fois par round pour 2d6+2 points de dégâts perforants. La dure carapace du scarabée offre au druide un bonus à la classe d'armure de 3 points contre les attaques à projectiles et une résistance de 50 % aux dégâts physiques en général.
 
-GIANT SPIDER: in this form the druid can make 1.5 attacks per round for 1d8 piercing damage; when successful, these attacks deliver a poison with similar effects to the Assassin's "Poison Weapon" ability. The druid is immune to magical and nonmagical webs while in this form, and can deliver a lesser version of the "Web" spell at foes once per three rounds.
+ARAIGNÉE GÉANTE : sous cette forme, le druide dispose de 1,5 attaque par round et inflige 1d8 points de dégâts perforants. Une attaque réussie dépose un poison qui a un effet similaire à celui de la compétence Arme empoisonnée de l'assassin. Le druide est immunisé aus effets de toile, magiques ou non, et peut utiliser une version amoindrie du sort Toile d'araignée une fois tous les 3 rounds.
 
-FIRE BEETLE: in this form, the druid can make one pincer attack per round, for 2d4 piercing damage and and extra 2d4 fire damage. The druid has a 3-point armor class bonus against missile attacks, and 75% resistance to fire damage.
+SCARABÉE DE FEU : sous cette forme, le druide peut exécuter une attaque par round avec sa pince, qui inflige 2d4 points de dégâts perforants avec 2d4 points de dégâts de feu supplémentaires. Il gagne un bonus de 3 points à la classe d'armure contre les attaques à projectiles, ainsi que de 75 % de résistance aux dégâts de feu.
 
-BOMBARDIER BEETLE: in this form, the druid can make one pincer attack per round, for 2d4 piercing damage and and extra 2d4 acid damage. The druid has a 3-point armor class bonus against missile attacks, and 75% resistance to acid damage.
+SCARABÉE BOMBARDIER : sous cette forme, le druide peut exécuter une attaque par round avec sa pince, qui inflige 2d4 points de dégâts perforants avec 2d4 points de dégâts de'acide supplémentaires. Il gagne un bonus de 3 points à la classe d'armure contre les attaques à projectiles, ainsi que de 75 % de résistance aux dégâts d'acide.
 
-SWORD SPIDER: in this form, the druid can move extremely fast and attack 4 times per round for 2d4 slashing damage. The druid is immune to magical and nonmagical webs while in this form.
+ARAIGNÉE-SABRE : sous cette forme, le druide peut se déplacer très rapidement et attaquer 4 fois par round en infligeant 2d4 points de dégâts tranchants in this form, the druid can move extremely fast and attack 4 times per round for 2d4 slashing damage. Sous cette forme, le druide est immunisé aus effets de toile, magiques ou non.
 
-CARRION CRAWLER: in this form the druid can attack twice per round for 2d4 piercing damage. Successful attacks have a 50% chance to paralyze the victim for several rounds if they fail a saving throw vs. poison.
+VER CHAROGNARD : sous cette forme, le druide peut exécuter deux attaques par round,qui infligent 2d4 points de dégâts perforants. Les attaques réussies pnt 50 % de chances de paralyser la victime pour plusieurs rounds si elle échoue à un jet de sauvegarde contre le poison?
 
-RHINOCEROUS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> can attack twice per round with incredibly powerful pincers, for 3d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
+SCARABÉE RHINOCÉROS : sous cette forme, le druide voit sa force portée à 22. Il peut attaquer deux fois par round avec des pinces incroyablement puissantes, pour 3d6 points de dégâts perforants. Sa dur carapace accorde un bonus de 4 points à la classe d'armure contre les attaques tranchantes, contondantes et les attaques à projectiles, ainsi que 50 % de résistance aux dégâts physiques en général.
 ~
-@73411  = ~Sumon Spirit Spider~
+@73411  = ~Convocation d'araignée spirituelle~
 @73412  = ~~
-@73413  = ~Spirit Spider~
-@73421  = ~Beetle Swarm~
-@73422  = ~Beetle Swarm
+@73413  = ~Araignée spirituelle~
+@73421  = ~Nuée de scarabées~
+@73422  = ~Nuée de scarabées
 (Conjuration)
 
-Level: 2
-Sphere: Animal
-Range: 0
-Duration: 1 Turns
-Casting Time: 6
-Area of Effect: Caster
-Saving Throw: None
+Niveau : 2
+Sphère : Animale
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 6
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
-With this spell, the caster can summon 3d2 small beetles to come burrowing out of the earth and assail <PRO_HISHER> enemies. The beetles are normal, natural creatures, if large for their species. They are no real threat to any but the most feeble target. But being in a crowd, they can have the tendency to distract and harass.
+Le lanceur de sort peut convoquer 3d2 petits scarabées qui viennent creuser le sol et attaquer ses ennemis. Les scarabées sont des créatures ordinaires et naturelles, mais grandes pour leur espèce. Elle ne représentent pas une vraie menace à part pour les plus faibles adversaires. Mais comme elles viennent en nuée, elle peuvent avoir tendance à distraire et harceler.
 ~
-@73423  = ~Spider Swarm~
-@73424  = ~Spider Swarm
+@73423  = ~Nuée d'araignées~
+@73424  = ~Nuée d'araignées
 (Conjuration)
 
-Level: 3
-Sphere: Animal
-Range: 0
-Duration: 1 Turns
-Casting Time: 6
-Area of Effect: Caster
-Saving Throw: None
+Niveau : 3
+Sphère : Animale
+Portée : 0.
+Durée : 1 tour
+Temps d'incantation : 6
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
-With this spell, the caster can summon 3d2 spiders to assail <PRO_HISHER> enemies. The spiders are normal, natural creatures, if large for their species. Inbdividually, they would little threat to any but the most feeble target. But their bites deliver a painful and damaging poison, and in large numbers they could be dangerous for an unprepared foe.
+Le lanceur de sort peut convoquer 3d2 petites araignées pour attaquer ses ennemis. Les araignées sont des créatures ordinaires et naturelles, mais grandes pour leur espèce. Individuellement, elles ne représenteraient une menace que pour les adversaires les plus faibles, mais leur morsure porte un poison douloureux et néfaste et, en grand nombre, elles peuvent être dangereuses pour un ennemi non préparé.
 ~
-@73425  = ~Summon Rhinocerous Beetle~
-@73426  = ~Summon Rhinocerous Beetle
+@73425  = ~Convocation de scarabée rhinocéros~
+@73426  = ~Convocation de scarabée rhinocéros
 (Conjuration)
 
-Level: 7
-Sphere: Animal
-Range: 0
-Duration: 1 Turn
-Casting Time: 6
-Area of Effect: Caster
-Saving Throw: None
+Niveau : 7
+Sphère : Animale
+Portée : 0
+Dure : 1 tour
+Temps d'incantation : 6
+Zone d'effet : le lanceur
+Jet de sauvegarde : aucun
 
-With this spell, the caster can summon a massive rhino beetle to aid <PRO_HIMHER> in combat. The creature is large, incredibly strong, and has tough chitinous armored exterior. It is wholly loyal to the caster; it will use its girth to block enemies and its powerful bite attack to threaten them.
+Le lanceur de sort peut convoquer un scarabée rhinocéros massif pour l'aider au combat. Cette créature est imposante, extrêmement forte et a une carapace chitineuse robuste. Ele est totalement loyale au lanceur du sort et utilisera sa corpulence pour empêcher l'ennemi  de manœuvrer et sa puissante morsure pour les menacer.
 ~
 //
 // ... arctic druid:
 //
-@73501  = ~northern druid~
-@73502  = ~Northern Druid~
-@73503  = ~NORTHERN DRUID: Even in the frozen tundra and on windswept mountains, life persists. Arctic druids revel in the harsh but balanced wilds in which the cold is every creature's most dangerous predator. They revel in arctic storms and learn to manipulate the forces of water and air. Through seclusion and training, they learn the importance of perseverance and determination in the face of privation and seeming hopelessness, and harness the strengths of animals that develop such perserverance naturally. This makes northern druids quite dangerous foes to those who would offend nature in the frozen north.
+@73501  = ~druide nordique~
+@73502  = ~Druide nordique~
+@73503  = ~DRUIDE NORDIQUE : La vie s'accroche même à la toundra glacée où sur les montagnes balayées par le vent. Les druides arctiques se délectent dans la nature rude mais équilibrée où le froid est le plus grand prédateur de chaque créature. Ils se complaisent dans les tempêtes polaires et apprennent à manipuler les forces de l'eau et de l'air. Par l'isolement et l'entraînement, ils apprennent l'importance de la persévérance et de la détermination quand ils sont confrontés à la privation et la sensation de désespoir. Ils maîtrisent ainsi les forces des animaux qui on développé cette persévérance de façon naturelle. Cela fait des druides nordiques des ennemis redoutables pour quiconque offenserait la nature dans le nord glacé.
 
-Advantages:
-- At 1st level, may summon a Spirit Wolf. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 3rd level, may shapeshift into the form of a wolf at will.
-- At 5th level, may shapeshift into the form of a black bear or a giant beetle.
-- At 7th level, may shapeshift into the form of a yeti.
-- At 9th level, may shapeshift into a winter wolf instead of a wolf.
-- At 9th level, the druid become immune to poison.
-- At 11th level, may shapeshift into a polar bear instead of a black bear.
-- At 13th level, may shapeshift into a remorhaz.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- À partir du niveau 1, peut convoquer un Loup spirituel. Le nombre de dés de vie de l'animal spirituel augmente aux niveau 3, 5, 7 et 10 pour égaler le niveau du druide.
+- Au niveau 3, il peut changer de forme en loup à volonté.
+- Au niveau 5, il peut changer de forme en ours noir ou en scarabée géant.
+- Au niveau 7, il peut changer de forme en yéti.
+- Au niveau 9, il peut changer de forme en loup des glaces à la place du loup.
+- Au niveau 9, il devient immunisé contre le poison.
+- Au niveau 11, il peut changer de forme en ous polaire à la place de l'ours noir.
+- Au niveau 13, il peut changer de forme en remorhaz.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-WOLF: in this form the druid can detect hidden enemies. <PRO_HESHE> can attack 1.5 times per round for 2d4 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
+LOUP : sous forme de loup, le druide peut détecter les ennemis dissimulés. Il peut attaquer 1,5 fois par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet.
 
-BLACK BEAR: in this form, the druid has 19 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage.
+OURS NOIR : sous forme d'ours brun, le druide a une force de 19 et attaque deux fois par round avec des griffes qui infligent 2d6 points de dégâts tranchants.
 
-BORING BEETLE: in this form the druid can make a powerful piercing attack once per round for 2d6+2 piercing damage. The beetle's hard shell gives the druid a 3-point armor class bonus against missile weapons, and 50% resistance to physical damage generally.
+SCARABÉE SCOLYTE ; sous cette forme, le druide peut exécuter une puissante attaque perforante une fois par round pour 2d6+2 points de dégâts perforants. La dure carapace du scarabée offre au druide un bonus à la classe d'armure de 3 points contre les armes à projectiles et une résistance de 50 % aux dégâts physiques en général.
 
-YETI: in this form the druid has 19 strength. <PRO_HESHE> can attack twice per round with fists that cause 2d6 crushing damage.  Additionally, successful attacks can knock the target away from the druid on a failed saving throw.
+YÉTI : sous cette forme, la force du druide est portée à 19. Il peut attaquer deux fois par round avec ses poings, qui infligent 2d6 points de dégâts contondants. De plus, les attaques réussies peuvent projeter la cible au loin si elle échoue à un jet de sauvegarde.
 
-FIRE BEETLE: in this form, the druid can make one pincer attack per round, for 2d4 piercing damage and and extra 2d4 fire damage. The druid has a 3-point armor class bonus against missile attacks, and 75% resistance to fire damage.
+SCARABÉE DE FEU : sous cette forme, le druide peut exécuter une attaque par round avec sa pince, qui inflige 2d4 points de dégâts perforants avec 2d4 points de dégâts de feu supplémentaires. Il gagne un bonus de 3 points à la classe d'armure contre les attaques d'armes à projectiles, ainsi que de 75 % de résistance aux dégâts de feu.
 
-WINTER WOLF: in this form the druid can attack 1.5 times per round for 2d4 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this. Additionally, the druid gains the ability to use a ranged Ice Breath attack doing 6d4 cold damage (save for half).
+LOUP DES GLACES : sous cette forme, le druide peut attaquer 1,5 fois par round en infligeant 2d4 points de dégâts perforants. Les attaques réussies on une chance d'agripper la cible, ce qui la ralentit pour une courte durée. La cible peut faire un jet de sauvegarde pour éviter cet effet. De plus, le druide obtient la faculté d'utiliser une attaque à distance, Souffle glacé, qui inflige 6d4 points de dégâts de froid (avec un jet de sauvegarde pour demi-dégâts).
 
-POLAR BEAR: in this form, the druid has 21 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d8 slashing damage and, if the target fails a saving throw, and additional 2d4 crushing damage.
+OURS POLAIRE : sous cette forme, la force du druide est portée à 21. Il peut attaquer deux fois par round avec ses griffes, qui infligent 2d8 points de dégâts tranchants et, si la cible échoue à un jet de sauvegarde, 2d4 points supplémentaires de dégâts contondants.
 
-REMORHAZ: in this powerful form, the druid has 21 strength and 100% resistance to cold damage. <PRO_HESHE> can attack 3 times per round with powerful pincers, for 2d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
+REMORHAZ : sous cette forme, la force du druide est portée à 21 et sa résistance aux dégâts de froid à 100 %. Il peut attaquer 3 fois par round avec des puissantes pinces, qui infligent 2d6 points de dégâts perforants. Sa dure carapace lui offre un bonus de 4 points à la classe d'armure contre les dégâts tranchants, contondants et les attaques à projectiles, ainsi que 50 % de résistance aux dégâts physiques en général.
 ~
-//
-// ... shadow druid:
-//
-@73801  = ~shadow druid~
-@73802  = ~Shadow Druid~
-@73803  = ~SHADOW DRUID: Shadow druids are a militant sect of druids who believe that there is a long and endless struggle between civilization and nature and that their role is to even the odds for nature.  They have been known to use extreme methods and violence to drive away civilization, using the ferocious powers of nature they are capable of summoning.
-
-Advantages:
-- At 1st level, may summon a Shadow Wolf. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 5th level, may shapeshift into the form of a shadow wolf.
-- At 9th level, may shapeshift into a panther.
-- At 9th level, the druid becomes immune to poison.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
-
-SHADOW WOLF: in this form ...
-
-PANTHER: in this form ...
-
-Disadvantages:
-- No access to spells from the sphere of Light.
-~
-@73811  = ~Sumon Shadow Wolf~
-@73812  = ~~
-@73813  = ~Shadow Wolf~
 //
 // ... lost druid:
 //
@@ -5471,3 +5447,27 @@ En lançant ce sort, le prêtre ralentit un mort-vivant à portée du sort. Cet 
 @997  = ~Flèche acide~
 @998  = ~Convocation de Limons~
 @999  = ~Enveloppe acide~
+//
+// ... shadow druid:
+//
+@73801  = ~shadow druid~
+@73802  = ~Shadow Druid~
+@73803  = ~SHADOW DRUID: Shadow druids are a militant sect of druids who believe that there is a long and endless struggle between civilization and nature and that their role is to even the odds for nature.  They have been known to use extreme methods and violence to drive away civilization, using the ferocious powers of nature they are capable of summoning.
+
+Advantages:
+- At 1st level, may summon a Shadow Wolf. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
+- At 5th level, may shapeshift into the form of a shadow wolf.
+- At 9th level, may shapeshift into a panther.
+- At 9th level, the druid becomes immune to poison.
+- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+
+SHADOW WOLF: in this form ...
+
+PANTHER: in this form ...
+
+Disadvantages:
+- No access to spells from the sphere of Light.
+~
+@73811  = ~Sumon Shadow Wolf~
+@73812  = ~~
+@73813  = ~Shadow Wolf~

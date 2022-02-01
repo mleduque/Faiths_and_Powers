@@ -1872,7 +1872,7 @@ CARRION CRAWLER: in this form the druid can attack twice per round for 2d4 pierc
 
 RHINOCEROS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> can attack twice per round with incredibly powerful pincers, for 3d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
 ~
-@73411  = ~Sumon Spirit Spider~
+@73411  = ~Summon Spirit Spider~
 @73412  = ~~
 @73413  = ~Spirit Spider~
 @73421  = ~Beetle Swarm~
@@ -1882,7 +1882,7 @@ RHINOCEROS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> 
 Level: 2
 Sphere: Animal
 Range: 0
-Duration: 1 Turns
+Duration: 1 turn
 Casting Time: 6
 Area of Effect: Caster
 Saving Throw: None
@@ -1896,12 +1896,12 @@ With this spell, the caster can summon 3d2 small beetles to come burrowing out o
 Level: 3
 Sphere: Animal
 Range: 0
-Duration: 1 Turns
+Duration: 1 turn
 Casting Time: 6
 Area of Effect: Caster
 Saving Throw: None
 
-With this spell, the caster can summon 3d2 spiders to assail <PRO_HISHER> enemies. The spiders are normal, natural creatures, if large for their species. Inbdividually, they would little threat to any but the most feeble target. But their bites deliver a painful and damaging poison, and in large numbers they could be dangerous for an unprepared foe.
+With this spell, the caster can summon 3d2 spiders to assail <PRO_HISHER> enemies. The spiders are normal, natural creatures, if large for their species. Individually, they would represent little threat to any but the most feeble target. But their bites deliver a painful and damaging poison, and in large numbers they could be dangerous for an unprepared foe.
 ~
 @73425  = ~Summon Rhinoceros Beetle~
 @73426  = ~Summon Rhinoceros Beetle
@@ -1910,7 +1910,7 @@ With this spell, the caster can summon 3d2 spiders to assail <PRO_HISHER> enemie
 Level: 7
 Sphere: Animal
 Range: 0
-Duration: 1 Turn
+Duration: 1 turn
 Casting Time: 6
 Area of Effect: Caster
 Saving Throw: None
@@ -1972,7 +1972,7 @@ PANTHER: in this form ...
 Disadvantages:
 - No access to spells from the sphere of Light.
 ~
-@73811  = ~Sumon Shadow Wolf~
+@73811  = ~Summon Shadow Wolf~
 @73812  = ~~
 @73813  = ~Shadow Wolf~
 //
