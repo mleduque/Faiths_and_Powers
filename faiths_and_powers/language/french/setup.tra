@@ -531,7 +531,7 @@ Si le lanceur nuit ou essaie de nuire à la personne sous le charme par une acti
 //
 @32201 = ~lame brisée de Tempus~
 @32202 = ~Lame brisée de Tempus~
-@32203 = ~LAME BRISÉE DE TEMPUS : Les lames brisées honorent Tempus en soignant les blessés pendant les batailles. À la différence des guerroyeurs et des sangs glorieux, qui sont le plus fréquemment sur la ligne de front, on voit plutôt les lames brisées à l'arrière, soignant et protégeant les blessé&s. Les lames brisées sont particulièrement martiaux pour des prêtres, souvent armés de haches, et prompts à défendre les sites consacrés à Tempus.
+@32203 = ~LAME BRISÉE DE TEMPUS : Les lames brisées honorent Tempus en soignant les blessés pendant les batailles. À la différence des guerroyeurs et des sangs de gloire, qui sont le plus fréquemment sur la ligne de front, on voit plutôt les lames brisées à l'arrière, soignant et protégeant les blessé&s. Les lames brisées sont particulièrement martiaux pour des prêtres, souvent armés de haches, et prompts à défendre les sites consacrés à Tempus.
 
 Avantages :
 - Les lames brisées sont automatiquement initiées (1 étoile) avec les haches.
@@ -1183,11 +1183,11 @@ Restrictions :
 @70203  = ~MYSTIQUE BESTIAL : ces gens ont divergé il y a longtemps des mystiques de la nature plus traditionnels pour se concentrer sur la puissance brute de la nature prédatrice du royaume animal. Les mystiques bestiaux sont complètement en accord avec la nature bestiale intérieure qui réside même à l'intérieur des races les plus civilisées. Ils peuvent puiser dans ces instincts profonds pour altérer leurs corps, vers des formes plus sauvages et peuvent convoquer et contrôler d'autres animaux prédateurs plus facilement que d'autres mystiques ou druides.
 
 Avantages :
-- Peut lancer Griffe de le bête comme pouvoir inné à volonté.
+- Peut lancer Griffe de la bête comme pouvoir inné à volonté.
 - 20 % des attaques Griffe de la bête provoque une infection sur un échec à un jet de sauvegarde contre la mort, affaiblissant la cible et infligeant un risque d'échec des sorts de 10 %.
 - À partir du niveau 6, peut se transformer en forme de loup-garou hybride uen fois par jour. Cette forme s'améliore en forme de loup-garou majeur au niveau 12, puis en seigneur lou-garou au niveau 15.
 - Lance les sorts come s'il avait un niveau d'expérience de plus.
-- Peut attribuer 2 points (++) aux styles de combat à une arme
+- Peut attribuer 2 points (++) aux styles de combat à une arme.
 
 Restrictions :
 - Ne peut être d'alignement loyal
@@ -1571,353 +1571,316 @@ REMORHAZ : sous cette forme, la force du druide est portée à 21 et sa résist
 //
 // ... lost druid:
 //
-@73901  = ~lost druid~
-@73902  = ~Lost Druid~
-@73903  = ~LOST DRUID: Lost druids find that many other druids no longer consider them kin. Stricken by death in some traumatic way, these brooding individuals have a near-obsessive interest in the role of death in the cycles of life. They even take this as far as reanimating animal corpses and embracing necromantic magic in order to seek vengeance. This makes Lost Druids particularly dangerous, shunned by nearly everyone.
+@73901  = ~druide égaré~
+@73902  = ~Druide égaré~
+@73903  = ~DRUID ÉGARÉ : Les druides égarés découvrent que beaucoup d'autres druides ne les considèrent plus comme leurs pairs. Touchés par une mort qui les a traumatisés ces gens sombres sont obsédés par la place de la mort dans le cycle de la vie. Il vont jusqu'à ranimer des cadavres d'animaux et à adopter la magie nécromantique pour assouvir leur vengeance. C'est ce qui les rend particulièrement dangereux et les isole de presque tout le monde.
 
-Advantages:
-- At 1st level, may summon a Dread Wolf. This ability summons two dread wolves at 7th level, and three at 10th level.
-- At 5th level, may shapeshift into the form of a dread wolf.
-- At 9th level, may shapeshift into a vampiric wolf.
-- At 9th level, the druid becomes immune to level drain.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
+Avantages :
+- À partir du niveau 1, peut convoquer un Loup effrayant. Cette aptitude convoque deux loups  effrayants au niveau 7 et trois au niveau 10.
+- À partir du nivea 5, peut changer de forme en loup effrayant.
+- À partir du niveau 9, peut changer de forme en loup vampirique.
+- Au niveau 9, il devient immunisé contre l'absorption de niveau.
+- Au niveau 15, il gagne 10 % de résistance au feu, au froid, à l'électricité et à l'acide ; ces résistances sont majorées de 10 % supplémentaires aux niveaux 18 et 21.
 
-DREAD WOLF: in this form the druid can can attack 1.5 times per round for 2d4 piercing damage. Successful attacks can cause Disease in the target, sapping their Strength by 1 point if they fail a saving throw.  Additionally, the druid is 100% resistant to cold damage and 50% resistant to fire and electric damage.
+LOUP EFFRAYANT : sous cette forme, le druide attaque 1,5 fois par round pour 2d4 points de dégâts perforants. Les attaques réussies peuvent provoquer une maladie qui réduit la force de la victime de 1 point si elle échoue à un jet de sauvegarde. De plus, le druide a une résistance de 100 % contre les dégâts de froid e tde 50 % contre le feu et l'électricité.
 
-VAMPIRIC WOLF: in this form the druid can can attack 1.5 times per round for 2d6 piercing damage. Successful attacks drain the target of 2 points of Constitution if they fail a saving throw.  Additionally, the druid is 100% resistant to cold damage and 50% resistant to fire and electric damage.
+LOUP VAMPIRIQUE : sous cette forme, le druide attaque 1,5 fois par round pour 2d6 points de dégâts perforants. Les attaques réussies diminuent la constitution de la cible de 2 points si elle échoue à un jet de sauvegarde. De plus, le druide a une résistance de 100 % contre les dégâts de froid e tde 50 % contre le feu et l'électricité.
 
-Disadvantages:
-- No access to spells from the sphere of Life.
+Inconvénients :
+- Pas d'accès au sorts de la sphère de la Vie.
 ~
-@73911  = ~Summon Dread Wolf~
+@73911  = ~Convocation de loup effrayant~
 //
 // ... lycanthropic occultist:
 //
-@76201  = ~beast lord~
-@76202  = ~Beast Lord~
-@76203  = ~BEAST LORD: these individuals have come to understand that within even the most rational and civilized man or woman lies an animal driven by primal needs and desires. (Often, this understanding is developed from horrifying experiments performed on subjects who are very rarely willing.) Through the application of a serum derived from a strain of lycanthropy, the Beast Lord can call forth <PRO_HISHER> own bestial nature, causing <PRO_HISHER> very body to take on lupine qualities. This also gives the Beast Lord a deep insight into magic relating to summoning and controlling animals.
+@76201  = ~seigneur des bêtes~
+@76202  = ~Seigneur des bêtes~
+@76203  = ~SEIGNEUR DES BÊTES : Ces gens not pris conscience qu'au plus profond de chaque homme ou femme, aussi rationnels ou civilisés soient-ils, se tapit un animal guidé par ses besoins et désirs primaires (cette prise de conscience découle souvent d'expériences horrifiantes conduites sur des sujets rarement volontaires). Grâce à l'application d'un sérum dérivé d'une souche de lycanthropie, le seigneur des bêtes peut invoquer sa propre nature bestiale, amenant son propre corps à prendre des caractéristiques lupines. Le seigneur des bêtes y trouve aussi une compréhension profonde de la magie de convocation et de contrôle des animaux.
 
-Advantages:
-- May cast "Beast Claw" as an innate ability, at will.
-- 20% of all Beast Claw attacks cause infection upon a failed save vs. Death, weakening the target and causing a 10% chance of spell failure.
-- At 6th level, may shapeshift into a hybrid werewolf form once per day. This form increases in power to that of a greater werewolf at 12th level, and a werewolf lord at 18th level.
-- May allocate 2 points (++) to Single-Weapon Style.
+Avantages :
+- Peut lancer Griffe de la bête comme pouvoir inné à volonté.
+- 20 % des attaques Griffe de la bête provoque une infection sur un échec à un jet de sauvegarde contre la mort, affaiblissant la cible et infligeant un risque d'échec des sorts de 10 %.
+- À partir du niveau 6, peut se transformer en forme de loup-garou hybride uen fois par jour. Cette forme s'améliore en forme de loup-garou majeur au niveau 12, puis en seigneur lou-garou au niveau 18.
+- Peut attribuer 2 points (++) aux styles de combat à une arme.
 
-Restrictions:
-- May not be Lawful
+Restrictions :
+- Ne peut être d'alignement loyal
 ~
-@76204  = ~BEAST LORD: these individuals have come to understand that within even the most rational and civilized man or woman lies an animal driven by primal needs and desires. (Often, this understanding is developed from horrifying experiments performed on subjects who are very rarely willing.) Through the application of a serum derived from a strain of lycanthropy, the Beast Lord can all forth <PRO_HISHER> own bestial nature, causing <PRO_HISHER> very body to take on lupine qualities. This also gives the Beast Lord a deep insight into magic relating to summoning and controlling animals.
+@76204  = ~SEIGNEUR DES BÊTES : Ces gens not pris conscience qu'au plus profond de chaque homme ou femme, aussi rationnels ou civilisés soient-ils, se tapit un animal guidé par ses besoins et désirs primaires (cette prise de conscience découle souvent d'expériences horrifiantes conduites sur des sujets rarement volontaires). Grâce à l'application d'un sérum dérivé d'une souche de lycanthropie, le seigneur des bêtes peut invoquer sa propre nature bestiale, amenant son propre corps à prendre des caractéristiques lupines. Le seigneur des bêtes y trouve aussi une compréhension profonde de la magie de convocation et de contrôle des animaux.
 ~
 @76205  = ~~
-@76211  = ~Claws of Malar~
-@76212  = ~Dispel Claws~
-@76213  = ~Shapeshift: werewolf~
-@76214  = ~Shapeshift: natural form~
-@76215  = ~werewolf claw~
-@76216  = ~werewolf~
-@76217  = ~greater werewolf~
-@76218  = ~werewolf lord~
+@76211  = ~Griffes de Malar~
+@76212  = ~Dissiper les griffes~
+@76213  = ~Changement de forme en loup-garou~
+@76214  = ~Changement de forme en forme naturelle~
+@76215  = ~griffe de loup-garou~
+@76216  = ~loup-garou~
+@76217  = ~loup-garou majeur~
+@76218  = ~seigneur loup-garou~
 //
 // ... elementalist:
 //
-@76301  = ~elementalist~
-@76302  = ~Elementalist~
-@76303  = ~ELEMENTALIST: Elementalists study and derive power from the primal energies of the inner planes. They have a deeper understanding than most of how the basic elements combine and interact to form the complex materials and energies common in the Prime Material Plane. This allows them to tease them apart and focus their magic on just one element at a time, resulting in purer and more powerful effects relating to that element.
+@76301  = ~élémentaliste~
+@76302  = ~Élémentaliste~
+@76303  = ~ÉLÉMENTALISTE : les élémentalistes étudient les énergies primaires des plans intérieurs et y tirent leur pouvoir. Ils comprennent mieux que la plupart des gens comment les éléments de base se combinent et interagissent pour former les matériaux et énergies complexes du plan matériel primaire. Cela leur permet de les séparer et de concentrer leur magie sur un seul élément à chaque fois, avec pour résultat des effets plus purs et plus puissants pour cet élément.
 
-Advantages:
-- May cast one extra spell per level
-- May control any elemental, at will (control lasts 1 turn)
-- Once per day, may choose an "element of focus." This gives the Elementalist 15% resistance to damage from that element, and causes 15% extra damage from any spells using that damage type. These effects increase to 25% at 15th level, and 35% at 20th level.
+Avantages :
+- Peut lancer un sort de plus par niveau.
+- Peut contrôler toute créature élémentaire à volonté (le contrôle dure 1 tour).
+- Une fois par jour, peut choisir un focus élémentaire. L'élémentaliste obtient 15 % de résistance aux dégâts de cet élément et ses sorts qui utilisent ce type de dégât infligent 15 % de dégâts supplémentaires. Ce bonus augmente à 25 % au niveau 15 et à 35 % au niveau 20.
 
-The damage types relating to each element are as follows:
-- Air = lightning damage
-- Earth = crushing damage
-- Fire = fire damage 
-- Water = acid damage
+Les types de dégâts liés à un élément sont les suivants :
+- Air = dégâts d'électricité
+- Terre = dégâts contondants
+- Feu = dégâts de feu
+- Eau = dégâts d'acide
 ~
-@76304  = ~ELEMENTALIST: Elementalists study and derive power from the primal energies of the inner planes. They have a deeper understanding than most of how the basic elements combine and interact to form the complex materials and energies common in the Prime Material Plane. This allows them to tease them apart and focus their magic on just one element at a time, resulting in purer and more powerful effects relating to that element.~
+@76304  = ~ÉLÉMENTALISTE : les élémentalistes étudient les énergies primaires des plans intérieurs et y tirent leur pouvoir. Ils comprennent mieux que la plupart des gens comment les éléments de base se combinent et interagissent pour former les matériaux et énergies complexes du plan matériel primaire. Cela leur permet de les séparer et de concentrer leur magie sur un seul élément à chaque fois, avec pour résultat des effets plus purs et plus puissants pour cet élément.~
 @76305  = ~~
-@76311  = ~Elemental Focus~
-@76312  = ~Element: Air~
-@76313  = ~Element: Earth~
-@76314  = ~Element: Fire~
-@76315  = ~Element: Water~
-@76316  = ~Control Elemental~
-@76317  = ~Control Elemental
-The targeted elemental creature is under the control of the elementalist for 3 turns.  No save is allowed.~
+@76311  = ~Focus élémentaire~
+@76312  = ~Élément : Air~
+@76313  = ~Élément  Terre~
+@76314  = ~Élément  Feu~
+@76315  = ~Élément  Eau~
+@76316  = ~Contrôler un élémentaire~
+@76317  = ~Contrôler un élémentaire
+La créature élémentaire prise pour cible se retrouve sous le contrôle de l'élémentaliste pour 3 tours. Aucun jet de sauvegarde n'est permis.~
 
 //
 // ... Pally--> Champion:
 //
 @80001  = ~champion~
 @80002  = ~Champion~
-@80003  = ~CHAMPION: Like the Fighter, the Champion is a person of action and combat. However, the Champion lives for the ideals of their patron deity, and strives to be a living example of the tenants of the faith.
+@80003  = ~CHAMPION : Tout comme le guerrier, le paladin est un homme d'action et de combat. Cependant, il vit pour les idéaux de sa divinité et s'efforce d'être un exemple vivant des adeptes de sa foi.
 
-CLASS FEATURES:
+CAPACITÉS :
 
-- May wear helmets.
-- May wear any armor and use any weapon.
-- May not exceed Specialization (two slots) in any weapon class.
-- May achieve Specialization (two slots) in any fighting style and allocate three slots in Two-Weapon Style.
-- May Turn Undead as a Cleric two levels lower, starting at level 3.
-- May cast priest spells beginning at level 6.
-- May use SMITE once per day at level 1.  The Champion can use this abiltiy an additional time per day every 4 levels.
+- Peut porter des casques.
+- Peut porter n'importe quelle armure et utiliser toutes les armes.
+- Peut se spécialiser (deux étoiles) dans le maniement de n'importe quelle arme.
+- Peut se spécialiser (deux étoiles) dans n'importe quel style de combat, et allouer trois étoiles dans le style de combat à deux armes.
+- Peut repousser les morts-vivants comme un clerc possédant deux niveaux de moins, à partir du niveau 3.
+- Peut lancer quelques sorts divins à partir du niveau 6.
+- Peut lancer Châtiment une fois par jour au niveau 1. Le champion peut utiliser cette faculté une fois supplémentaire par jour tous les 4 niveaux.
 
-SMITE:  When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
-Typically, smite inflicts additional damage or effects on certain kinds of creatures depending on the Champion's patron deity
+CHÂTIMENT : Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+En général, châtiment inflige des dégâts ou des effets supplémentaires à certaines créatures en fonction de la divinité du champion.
 
-- Other abilities based on patron deity.
-- Hit Die: d10~
+- Autres aptitudes en fonction de la divinité du champion.
+- Dé de vie : d10~
 
-@80004  = ~Smite~
-@80005  = ~Smite
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
-Typically, smite inflicts additional damage or effects on certain kinds of creatures depending on the Champion's patron deity
+@80004  = ~Châtiment~
+@80005  = ~Châtiment
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+En général, châtiment inflige des dégâts ou des effets supplémentaires à certaines créatures en fonction de la divinité du champion.
 
-An opponent can only be affected by smite once per round.~
+Un adversaire ne peut subir les effets de châtiment qu'une fois par round.~
 
-@80006  = ~Greater Power Attack~
-@80007  = ~Greater Power Attack
-With the Greater Power Attack ability, the warrior gains the ability to strike a mighty blow, knocking an opponent back for a considerable distance and stunning the opponent for 1 round. All attacks made in the first round are critical hits. The ability lasts for 2 rounds.
+@80006  = ~Poing d'acier~ // there was a need to rename Smite/Poing d'acier in english to reserve it for "smite", but in french there was no problem to begin with
+@80007  = ~Poing d'acier
+Avec l'aptitude Attaque en puissance majeure, le combattant apprend à frapper à coups puissants, projetant l'adversaire loin en arrière et l'étourdissant pour 1 round. Toutes les attaques exécutées dans le premier round sont des coups critiques. Cette aptitude dure 2 rounds.
 
-Large creatures such as a dragons or giants will not be knocked back or stunned.
+Les créatures de grande tailles comme les dragons et les géants ne seront pas projetés en arrière ou étourdis.
 
-Requires: Power Attack, Critical Strike~
+Pré-requis : Attaque en puissance, Coup critique.~
 
-@80008  = ~zealot~
-@80009  = ~Zealot~
+@80008  = ~zélote~
+@80009  = ~Zélote~
 
-@80010  = ~ZEALOT: Zealots are such devotees to a particular god, without actually being an official part of the church heirarchy.  They consider this an advantage, however, as they hold themselves accountable only to their god, and so are less likely to lose sight of the grander scheme.
-Zealots often strike out on their own, infiltrating a rival church, and then unleashing the power of their god where their enemies expect it least.
+@80010  = ~ZÉLOTE : Les zélotes sont des fanatiques dévoués à un dieu spécifique sans faire partie de la hiérarchie officielle de son église. Ils voient cela comme un avantage, parce qu'ils ne rendent compte qu'à leur dieu et ainsi risquent moins de perdre de vue le but final.
+Les zélotes attaquent souvent seuls, infiltrant une église rivale et déchaînant les pouvoirs de leur dieu là et où leurs ennemis s'y attendent le moins.
 
-Advantages:
-- Moves 2 points faster than other characters
-- Zealots Hide in Shadows as Rangers of the same level
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Se déplace 2 point plus rapidement que les autres personnages.
+- Se cache dans les ombres comme les rôdeurs de même niveau.
+- Peut utiliser la faculté Frénésie uen fois par jour et gagne une utilisation supplémentaire aux niveaux 10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+Frénésie a des caractéristiques supplémentaires selon la divinité du zélote.
 
-Frenzy does not stack with haste or similar effects.
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.
+À la fin de la Frénésie, le personnage est essoufflé, et écope d'un malus de -2 au toucher, -2 aux dégâts et +2 à la Classe d'Armure.
 
-Disadvantages:
-- May only wear leather or studded leather armor.~
+Inconvénients :
+- Ne peut porter que des armures et cuir ou de cuir clouté.~
 
-@80011 = ~INQUISITOR: The Inquisitor has dedicated <PRO_HISHER> life to finding and eliminating infiltrators of <PRO_HISHER> faith; <PRO_HISHER> god has provided <PRO_HIMHER> with special abilities toward that end.
-
-Advantages:
-- May cast Dispel Magic once per day. Gains one use at level 1 and an additional use every 4 levels thereafter. The spell is cast at Speed Factor 1 and acts at twice the Inquisitor's character level. 
-- May cast True Sight once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
-
-Disadvantages:
-- May not turn undead.
-- May not use the Lay On Hands ability. 
-- May not cast priest spells.~
-
-@80012  = ~Frenzy~
+// probably unused
+@80012  = ~Frénésie~
 @80013  = ~Frenzy
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+Frénésie a des caractéristiques supplémentaires selon la divinité du zélote.
 
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+À la fin de la Frénésie, le personnage est essoufflé, et écope d'un malus de -2 au toucher, -2 aux dégâts et +2 à la Classe d'Armure.~
 
-@80014  = ~ZEALOT: Zealots are such devotees to a particular god, without actually being an official part of the church heirarchy.  They consider this an advantage, however, as they considering themselves beholden only to their god, and so do not lose sight of the grander scheme.
-Zealots often strike out on their own, infiltrating a rival church, and then unleashing the power of their god where their enemies expect it least.
+@80014  = ~ZÉLOTE : Les zélotes sont des fanatiques dévoués à un dieu spécifique sans faire partie de la hiérarchie officielle de son église. Ils voient cela comme un avantage, parce qu'ils ne rendent compte qu'à leur dieu et ainsi risquent moins de perdre de vue le but final.
+Les zélotes attaquent souvent seuls, infiltrant une église rivale et déchaînant les pouvoirs de leur dieu là et où leurs ennemis s'y attendent le moins.
 
-Advantages:
-- Moves 2 points faster than other characters
-- Zealots Hide in Shadows as Rangers of the same level
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Se déplace 2 point plus rapidement que les autres personnages.
+- Se cache dans les ombres comme les rôdeurs de même niveau.
+- Peut utiliser la faculté Frénésie uen fois par jour et gagne une utilisation supplémentaire aux niveaux 10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+Frénésie a des caractéristiques supplémentaires selon la divinité du zélote.
 
-Frenzy does not stack with haste or similar effects.
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.
+À la fin de la Frénésie, le personnage est essoufflé, et écope d'un malus de -2 au toucher, -2 aux dégâts et +2 à la Classe d'Armure.
 
-Restrictions:
-- May only wear leather or studded leather armor.
-- Alignment: Cannot be evil
+Inconvénients :
+- Ne peut porter que des armures et cuir ou de cuir clouté.
+- Ne peut être d'alignement mauvais.
 ~
 //CHAMPION KITS
 //Paladin of Tyr
-@80101  = ~paladin of tyr~
-@80102  = ~Paladin of Tyr~
-@80103  = ~PALADIN OF TYR: Paladins of Tyr are the quintessential champions of light.  They must hold themselves to a high standard, but in exchange for their dedication, they are empowered to destroy the enemies of light.  
+@80101  = ~paladin de Tyr~
+@80102  = ~Paladin de Tyr~
+@80103  = ~PALADIN DE TYR : Les paladins de Tyr sont la quintessence des champions de la lumière. Ils doivent se tenir à une éthique des plus rigoureuses mais, en échange de leur dévouement, ils ont le pouvoir de détruire les ennemis de la lumière.
 
-Advantages:
-- Smite Evil: As smite, but evil creatures must save vs. death or be stunned for 1 round
-- Protection from Evil.  At 2nd level, the Paladin of Tyr is always protected as per the protection from evil spell.
-- Protection from Evil 10': At 3rd level, and every three levels after that, the Paladin of Tyr can cast protection from Evil 10' as a cleric equal to <PRO_HISHER> paladin level. (up to a maximum of six times at level 18)
+Avantages :
+- Châtiment du mal : comme Châtiment, mais les créatures d'alignement mauvais doivent réussir un jet de sauvegarde contre la mort sous peine d'être étourdies pour 1 round.
+- Protection contre le mal : à partir du niveau 2, le paladin de Tyr est toujours sous la protection du sort Protection contre le mal.
+- Protection contre le mal sur 3 mètres : à partir du niveau 3, et tous les 3 niveaux par la suite, le paladin de Tyr peut lancer Protection contre le mal sur 3 mètres comme un clerc de son niveau de champion (jusqu'à 6 fois par jour au niveau 18).
 
-Restrictions:
-- Alignment: must be Lawful Good. 
-- The Paladin of Tyr must maintain a reputation of 8 or fall.~
+Restrictions :
+- Doit être d'alignement loyal bon.
+- Le paladin de Tyr doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.~
 
-@80104  = ~Smite Evil~
-@80105  = ~Smite Evil
+@80104  = ~Châtiment du mal~
+@80105  = ~Châtiment du mal
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-Additionally, evil creatures are stunned for 1 round if they do not save vs. death.  This save recieves a -1 penalty at levels 4, 10 and 18
+De plus, les créatures d'alignement mauvais doivent réussir un jet de sauvegarde contre la mort sous peine d'être étourdies pour 1 round. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
-An opponent can only be affected by smite evil once per round.~
-@80106  = ~cavalier of tyr~
-@80107  = ~Cavalier of Tyr~
+Un adversaire ne peut subir les effets de Châtiment du mal qu'une fois par round.~
+@80201  = ~chevalier de l'Ordre éternel~
+@80202  = ~Chevalier de l'Ordre éternel~
+@80203  = ~CHEVALIER DE L'ORDRE ÉTERNEL : Les morts-vivants sont un anathème pour Kelemvor. La mort est un élément naturel de la vie et les morts-vivant essaient d'échapper à ce cycle.  Ce sont des abominations auxquelles il doit être mis fin.
 
-@80108  = ~CAVALIER OF TYR: This class represents the most common picture of the knight: the chivalrous warrior who epitomizes honor, courage, and loyalty. The cavalier is specialized in battling "classical" evil monsters such as demons and dragons.
+Pour cela, Kelemvor créa les chevalier de l'Ordre éternel.
 
-Abilities: 
-- +3 bonus to hit and damage rolls against demons, devils, dragons and wyverns.
-- May cast Remove Fear 1 time per day per level.
-- Immune to charm, fear, poison, and morale failure.
-- 20% resistance to fire and acid.
+Avantages :
+- Châtiment destructeur : comme châtiment, mais inflige le double de dégâts contre les morts-vivants. De plus, les morts-vivants les plus faibles peuvent être immédiatement détruits s'ils échouent à un jet de sauvegarde contre la mort, comme avec la masse de destruction.
+- Immunisé contre l'immobilisation et les effets d'absorption de niveau.
+- Repousse les morts-vivants comme un prêtre de son niveau de champion à partir du niveau 3.
 
-Restrictions:
-- May not use ranged weapons (both missile and thrown).
+Restrictions :
+- Ne peut être d'alignement neutre mauvais ni chaotique mauvais.
 ~
-@80109  = ~undead hunter of tyr~
-@80110  = ~Undead Hunter of Tyr~
-@80111  = ~UNDEAD HUNTER OF TYR: This holy avenger has honed <PRO_HISHER> abilities toward the destruction of the undead and other unnatural creatures and is immune to many of their most devastating abilities.
+@80204  = ~Châtiment destructeur~
+@80205  = ~Châtiment destructeur
 
-Abilities: 
-- +3 bonus to hit and damage rolls against undead creatures.
-- Immune to hold and level drain.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-Restrictions:
-- May not use Lay On Hands ability.
-- May not use Cure Disease ability.
+De plus, les morts-vivants subissent le double de dégâts et les morts-vivant de moins de 15 dés de vie doivent réussir un jet de sauvegarde contre la mort sous peine d'être instantanément détruits. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
+
+Un adversaire ne peut subir les effets de Châtiment destructeur qu'une fois par round.~
+
+@80206  = ~moissonneur de Myrkul~
+@80207  = ~Moissonneur de Myrkul~
+@80208  = ~MOISSONNEUR DE MYRKUL : Même si ses prêtre apprécient dde créer des laquais morts-vivants, Myrkul ressent la nécessité de commanditer un contingent de destructeurs de morts-vivants. Après tout, il ne peut laisser penser que la non-vie est un moyen d'échapper à sa poigne glaciale. Et voici le moissonneur : des guerriers impies dotés des capacités propres à détruire les morts-vivants qui osent s'opposer à la volonté de Mykrul.
+
+Avantages :
+- Châtiment destructeur : comme châtiment, mais inflige le double de dégâts contre les morts-vivants. De plus, les morts-vivants les plus faibles peuvent être immédiatement détruits s'ils échouent à un jet de sauvegarde contre la mort, comme avec la masse de destruction.
+- Immunisé contre l'immobilisation et les effets d'absorption de niveau.
+- Repousse les morts-vivants comme un prêtre de son niveau de champion à partir du niveau 3.
+
+Restriction s:
+- Doit être d'alignement mauvais.
 ~
-@80201  = ~knight of eternal order~
-@80202  = ~Knight of Eternal Order~
-@80203  = ~KNIGHT OF ETERNAL ORDER: Undead creatures are anathema to Kelemvor.  Death is a natural part of life, and undead creatures try to escape that cycle.  They are abominations, and must be put to rest.
+@80301  = ~sang de gloire de Tempus~
+@80302  = ~Sang de gloire de Tempus~
+@80303  = ~SANG DE GLOIRE DE TEMPUS : Le seigneur des batailles a une affection particulière pour ses champions, qui sont toujours soutenus, quelle que soit la cause pour laquelle ils combattent.
 
-Thus, Kelemvor created the Knights of Eternal Order.
+Avantages :
+- Maîtrise : les sangs de gloire peuvent atteindre la maîtrise dans toute arme de mêlée.
+- Châtiment de l'ennemi : Le châtiment du sang de gloire blesse les ennemis de façon équitable, infligeant des dégâts doubles à tout ennemi qu'il frappe.
+- Les sang de gloire sont complètement insensibles à la peur. Ils ne sont affecté ni par la peur magique ni par l'échec de moral.
+- Peut entrer un état de rage de berserker, come celle du kit de guerrier, une fois par jour à partit du niveau 3 et gagne une utilisation supplémentaire aux niveaux 10, 15 et 20.
 
-Advantages:
-- Disrupting Smite: As smite, but does double damage to undead.  In addition, weaker undead can be destroyed outright if they fail a save vs. death, much like a mace of disruption.
-- Knights of Eternal Order are immune to hold and level drain effects.
-- Knights of Eternal Order turn undead as a priest of their champion level once they reach level 3.
+Inconvénients :
+- Ne peut repousser les morts-vivants.
 
-Restrictions:
-- Alignment: Cannot be Neutral Evil or Chaotic Evil.
+Restrictions :
+- pas de restriction d'alignement.
 ~
-@80204  = ~Disrupting Smite~
-@80205  = ~Disrupting Smite
+@80304  = ~Châtiment de l'ennemi~
+@80305  = ~Châtiment de l'ennemi
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-Additionally, undead creatures take double damage, and undead with fewer than 15 hit die must save vs. death or be instantly destroyed.  This save recieves a -1 penalty at levels 4, 10 and 18
+Un adversaire ne peut subir les effets de Châtiment de l'ennemi qu'une fois par round.~
 
-An opponent can only be affected by Disrupting Smite once per round.~
+@80401  = ~chevalier du Gantelet noir~
+@80402  = ~Chevalier du Gantelet noir~
+@80403  = ~CHEVALIER DU GANTELET NOIR : les chevaliers de Baine sont la quintessence du chevalier noir, une parodie grotesque de l'exemple éblouissant de ce qu'un chevalier devrait être. Ils répandent la terreur au nom de leur dieu et réduisent au silence tout ceux qui insinuent que Baine serait mort.
 
-@80206  = ~harvester of myrkul~
-@80207  = ~Harvester of Myrkul~
-@80208  = ~HARVESTER OF MYRKUL: While his priests are fond of creating undead minions, Myrkul still finds it necessary to sponsor a contingent of undead slayers.  After all, it shouldn't be thought that undeath can be an escape from Myrkul's icy grasp. Enter the Harvester: Unholy warriors empowered to destroy undead creatures that dare subvert Mykrul's will.  
+Avantages :
+- Châtiment d'effroi : le châtiment du chevalier du Gantelet noir inspire la terreur chez tout adversaire qui ne réussirait pa sun jet de sauvegarde contre la mort.
+- Les chevalier du Gantelet noir sont insensibles à la peur. Ou plutôt, ils ne craignent que la colère de Baine. Ils ne sont affecté ni par la peur magique ni par l'échec de moral.
 
-Advantages:
-- Disrupting Smite: As smite, but does double damage to undead.  In addition, weaker undead can be destroyed outright if they fail a save vs. death, much like a mace of disruption.
-- Harvesters of Myrkul are immune to hold and level drain effects.
-- Harvesters of Myrkul control undead as a priest of their champion level once they reach level 3.
-
-Restrictions:
-- Alignment: Any Evil
+Restrictions :
+- Doit être d'alignement mauvais ou loyal neutre.
 ~
-@80301  = ~gloryblood of tempus~
-@80302  = ~Gloryblood of Tempus~
-@80303  = ~GLORYBLOOD OF TEMPUS: The lord of battles has a special fondness for his champions, who are sponsored no matter what cause they fight for.
+@80404  = ~Châtiment d'effroi~
+@80405  = ~Châtiment d'effroi
 
-Advantages:
-- Mastery: Glorybloods can attain mastery in any melee weapon.
-- Smite Foe: The smite of the gloryblood hurts all enemies equally, inflicting double normal damage to any foe struck by it.
-- Glorybloods are completely fearless.  They are not affected either by magical fear nor moral failure.
-- Glorybloods can enter a berserker rage, as per the fighter kit, once per day beginning at 3rd level.  They gain an additional use of this ability at levels 10, 15, and 20.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-Disadvantages:
-- Glorybloods cannot turn undead.
+De plus al cible est frappée de terreur pour un round si elle ne réussit pas un jet de sauvegarde contre la mort. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
-Restrictions:
-- Alignment: any
+Un adversaire ne peut subir les effets de Châtiment d'effroi qu'une fois par round.~
+
+@80406  = ~CHEVALIER DU GANTELET NOIR : les chevaliers de Baine sont la quintessence du chevalier noir, une parodie grotesque de l'exemple éblouissant de ce qu'un chevalier devrait être. Ils répandent la terreur au nom de leur dieu et réduisent au silence tout ceux qui s'opposent au Seigneur des ténèbres.
+
+Avantages :
+- Châtiment d'effroi : le châtiment du chevalier du Gantelet noir inspire la terreur chez tout adversaire qui ne réussirait pa sun jet de sauvegarde contre la mort.
+- Les chevalier du Gantelet noir sont insensibles à la peur. Ou plutôt, ils ne craignent que la colère de Baine. Ils ne sont affecté ni par la peur magique ni par l'échec de moral.
+
+
+Restrictions :
+- Doit être d'alignement mauvais.
 ~
-@80304  = ~Smite Foe~
-@80305  = ~Smite Foe
+@80501 = ~chevalier vigilant~
+@80502 = ~Chevalier vigilant~
+@80503 = ~CHEVALIER VIGILANT : Les chevaliers vigilants sont les soldats d'élite de l'église de Heaum. Ils ont souvent envoyés sur les missions les plus difficiles pour leur église.
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 2d6 points of magic damage, (+2d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+Avantages :
+- Maîtrise : les chevaliers vigilants peuvent atteindre la maîtrise dans toute arme de mêlée.- Conscience augmentée : bonus de +1 à la classe d'armure et de +2 aux jets de sauvegarde contre les souffles.
+- Peut lancer Épée du vigile comme pouvoir spécial une fois par jour et gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
-An opponent can only be affected by Smite Foe once per round.~
+ÉPÉE DU VIGILE : Ce sort fait apparaître une épée dans la main du champion (ne peut être lâchée ni rangée) Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4. Elle inflige 2d4 points de dégâts et dure 1 round par niveau.
+L'épée du vigile est maniée comme une épée longue.
 
-@80401  = ~knight of the black gauntlet~
-@80402  = ~Knight of the Black Gauntlet~
-@80403  = ~KNIGHT OF THE BLACK GAUNTLET: Bane's knights are quintessential black knights, a twisted mockery of the shining example of what a knight should be.  They spread fear in the name of their god, and silence anybody that suggests that Bane is dead.
+Inconvénients :
+- Les chevaliers vigilants n'ont pas de capacité de châtiment spéciale.
 
-Advantages:
-- Smite of Dread: The smite of a Black Gauntlet instills fear in any opponent for one round if they do not save vs. death.
-- Knights of the Black Gauntlet are completely fearless.  Or rather, they fear only Bane's wrath.  As such, they are not affected either by magical fear nor moral failure.
-
-Restrictions:
-- Alignment: can be any Evil or Lawful Neutral
+Restrictions :
+- Doit être loyal bon, loyal neutre ou neutre strict.
 ~
-@80404  = ~Smite of Dread~
-@80405  = ~Smite of Dread
+@80504 = ~Épée du vigile~
+@80505 = ~Épée du vigile
+Ce sort fait apparaître une épée dans la main du champion (ne peut être lâchée ni rangée) Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4 et +4 points de dégâts magiques. Elle inflige 2d4 points de dégâts et dure 1 round par niveau. While it is equipped, the wielder cannot cast further spells.
+L'épée du vigile est maniée comme une épée longue.~
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+@80506 = ~CHEVALIER VIGILANT : Les chevaliers vigilants sont les soldats d'élite de l'église de Heaum. Ils ont souvent envoyés sur les missions les plus difficiles pour leur église.
 
-Additionally, creatures are struck with fear for 1 round if they do not save vs. death.  This save recieves a -1 penalty at levels 4, 10 and 18
+Avantages :
+- Maîtrise : les chevaliers vigilants peuvent atteindre la maîtrise dans toute arme de mêlée.- Conscience augmentée : bonus de +1 à la classe d'armure et de +2 aux jets de sauvegarde contre les souffles.
+- Peut lancer Épée du vigile comme pouvoir spécial une fois par jour et gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
-An opponent can only be affected by smite of dread once per round.~
+ÉPÉE DU VIGILE : Ce sort fait apparaître une épée dans la main du champion (ne peut être lâchée ni rangée) Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4. Elle inflige 2d4 points de dégâts et dure 1 round par niveau.
+L'épée du vigile est maniée comme une épée longue.
 
-@80406  = ~KNIGHT OF THE BLACK GAUNTLET: Bane's knights are quintessential black knights, a twisted mockery of the shining example of what a knight should be.  They spread fear in the name of their god, and silence anybody that dares to oppose the Dread Lord.
+Inconvénients :
+- Les chevaliers vigilants n'ont pas de capacité de châtiment spéciale.
 
-Advantages:
-- Smite of Dread: The smite of a Black Gauntlet instills fear in any opponent for one round if they do not save vs. death.
-- Knights of the Black Gauntlet are completely fearless.  Or rather, they fear only Bane's wrath.  As such, they are not affected either by magical fear nor moral failure.
-
-Restrictions:
-- Alignment: can be any Evil
-~
-@80501 = ~everwatch knight~
-@80502 = ~Everwatch Knight~
-@80503 = ~EVERWATCH KNIGHT: Everwatch knights act as the elite shock troops for the church of Helm.  Also, they are often sent on the most difficult missions for the church.  
-
-Advantages:
-- Mastery: Everwatch Knights can attain mastery in any melee weapon.
-- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs. breath
-- Can cast Everwatch Sword as a special ability once per day.  The Everwatch Knight gains an additional use at levels 4, 8, 12, 16 and 20.
-
-EVERWATCH SWORD: This spell creates a sword in the Champion's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus. It deals 2d4 damage to any target it hits. The spell lasts for 1 round per level.
-The Everwatch Sword is wielded as a longsword.
-
-Disadvantages:
-- Everwatch Knights do not have a special smite ability.
-
-Restrictions:
-- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
-~
-@80504 = ~Everwatch Sword~
-@80505 = ~Everwatch Sword
-This spell creates a sword in the Champion's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus, and does an additional 4 points of magic damage. It deals 2d4 damage to any target it hits. This ability lasts for 1 round per level. While it is equipped, the wielder cannot cast further spells.
-The Everwatch Sword is weilded as a longsword.~
-
-@80506 = ~EVERWATCH KNIGHT: Everwatch knights act as the elite shock troops for the church of Helm.  Also, they are often sent on the most difficult missions for the church.
-
-Advantages:
-- Mastery: Everwatch Knights can attain mastery in any melee weapon.
-- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
-- Can cast Everwatch Sword as a special ability once per day.  The Everwatch Knight gains an additional use at levels 4, 8, 12, 16 and 20.
-
-EVERWATCH SWORD: This spell creates a sword in the Champion's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus. It deals 2d4 damage to any target it hits. The spell lasts for 1 round per level.
-The Everwatch Sword is weilded as a longsword.
-
-Disadvantages:
-- Everwatch Knights do not have a special smite ability.
-
-Restrictions:
-- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
-- The Everwatch Knight of Helm must maintain a reputation of 8 or fall.
+Restrictions :
+- Doit être loyal bon, loyal neutre ou neutre strict.
+- Le chevalier vigilant doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
 ~
 @80601  = ~stormward of talos~
 @80602  = ~Stormward of Talos~
@@ -5471,3 +5434,41 @@ Disadvantages:
 @73811  = ~Sumon Shadow Wolf~
 @73812  = ~~
 @73813  = ~Shadow Wolf~
+
+@80011 = ~INQUISITOR: The Inquisitor has dedicated <PRO_HISHER> life to finding and eliminating infiltrators of <PRO_HISHER> faith; <PRO_HISHER> god has provided <PRO_HIMHER> with special abilities toward that end.
+
+Advantages:
+- May cast Dispel Magic once per day. Gains one use at level 1 and an additional use every 4 levels thereafter. The spell is cast at Speed Factor 1 and acts at twice the Inquisitor's character level. 
+- May cast True Sight once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+
+Disadvantages:
+- May not turn undead.
+- May not use the Lay On Hands ability. 
+- May not cast priest spells.~
+
+@80106  = ~cavalier of tyr~
+@80107  = ~Cavalier of Tyr~
+
+@80108  = ~CAVALIER OF TYR: This class represents the most common picture of the knight: the chivalrous warrior who epitomizes honor, courage, and loyalty. The cavalier is specialized in battling "classical" evil monsters such as demons and dragons.
+
+Abilities: 
+- +3 bonus to hit and damage rolls against demons, devils, dragons and wyverns.
+- May cast Remove Fear 1 time per day per level.
+- Immune to charm, fear, poison, and morale failure.
+- 20% resistance to fire and acid.
+
+Restrictions:
+- May not use ranged weapons (both missile and thrown).
+~
+@80109  = ~undead hunter of tyr~
+@80110  = ~Undead Hunter of Tyr~
+@80111  = ~UNDEAD HUNTER OF TYR: This holy avenger has honed <PRO_HISHER> abilities toward the destruction of the undead and other unnatural creatures and is immune to many of their most devastating abilities.
+
+Abilities: 
+- +3 bonus to hit and damage rolls against undead creatures.
+- Immune to hold and level drain.
+
+Restrictions:
+- May not use Lay On Hands ability.
+- May not use Cure Disease ability.
+~
