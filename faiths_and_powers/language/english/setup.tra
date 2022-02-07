@@ -2357,7 +2357,7 @@ Restrictions:
 @80604  = ~Storm Smite~
 @80605  = ~Storm Smite
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 2d6 points of electricty damage, (+2d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 2d6 points of electricity damage, (+2d6 points of damage at levels 4, 10 and 18) over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
 
 An opponent can only be affected by Storm Smite once per round.~
 
@@ -2395,7 +2395,7 @@ The hammer is enchanted as a +4 weapon and deals 1d6 points of blunt damage as w
 
 @80801  = ~inquisitor of azuth~
 @80802  = ~Inquisitor of Azuth~
-@80803  = ~INQUISITOR OF AZUTH: Inquisitors of Azuth feel that reason is the best way to approach magic, and that it may be examined and reduced to its component parts through study and meditation.  Unfortunately, not all practitioners of the art take such care or approach magical power with responsibility and that is where Inquistors of Azuth fit in.  This holy order of the Lord of Spells strive to curb the use of overly destructive magic that harms the Weave and provide martial might where it is needed to destroy threats to wizardry. 
+@80803  = ~INQUISITOR OF AZUTH: Inquisitors of Azuth feel that reason is the best way to approach magic, and that it may be examined and reduced to its component parts through study and meditation.  Unfortunately, not all practitioners of the art take such care or approach magical power with responsibility and that is where Inquisitors of Azuth fit in.  This holy order of the Lord of Spells strive to curb the use of overly destructive magic that harms the Weave and provide martial might where it is needed to destroy threats to wizardry. 
 
 Advantages:
 - Immune to Hold and Charm spells
@@ -2465,15 +2465,15 @@ Restrictions:
 @86205  = ~Sight of Gruumsh
 
 The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-The Eye of Gruumsh can pierce through illusions with their missing eye while in frenzy.  At first level, when entering a frenzy, the Eye detects any invisible creature as though they cast detect invisibility.  At 4th level, the eye is infused with the strength and fury of the Orchish race, gaining a +2 to strength while frenzied.  At 8th level, they gain the effects of truesight.
+The Eye of Gruumsh can pierce through illusions with their missing eye while in frenzy.  At first level, when entering a frenzy, the Eye detects any invisible creature as though they cast detect invisibility.  At 4th level, the eye is infused with the strength and fury of the Orcish race, gaining a +2 to strength while frenzied.  At 8th level, they gain the effects of truesight.
 
-Eye of Gruumsh does not stack with haste or similar effects
+Sight of Gruumsh does not stack with haste or similar effects
 
 After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
 
 @86301  = ~initiate of rust and worm~
 @86302  = ~Initiate of Rust and Worm~
-@86303  = ~INITIATE OF RUST AND WORM: Dedicated to destruction, intitiates are instinctively drawn to Talos, lord of destruction.
+@86303  = ~INITIATE OF RUST AND WORM: Dedicated to destruction, initiates are instinctively drawn to Talos, lord of destruction.
 
 Advantages:
 - May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
@@ -2564,8 +2564,7 @@ Advantages:
 - May use the Fury ability twice per day at first level.  The Children of Blood are unique in that they can enter their frenzy much more often than normal.
 At first level, they can use the ability twice per day.  They gain an additional use of this ability at levels 4, 10, 15 and 20.
 
-FURY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
 
 Frenzy does not stack with haste or similar effects
 
@@ -2578,7 +2577,7 @@ Restrictions:
 @86605  = ~Fury
 
 The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-In addition to the normal effects of frenzy, the Companion channels the spirit of Ilmater, and is able to accept tremendous punishment.  At 1st level, <PRO_HESHE> gains a +2 bonus to Strength and Constitution.  At 8th level, this bonus increases to +4.
+In addition to the normal effects of frenzy, the Child channels the bloodthirst of Garagos, and gains rtemendous strength and toughness.  At 1st level, <PRO_HESHE> gains a +2 bonus to Strength and Constitution.  At 8th level, this bonus increases to +4.
 
 Fury does not stack with haste or similar effects
 
@@ -2586,7 +2585,7 @@ After the effect ends, the character becomes winded, suffering a -2 penalty to A
 
 @86701  = ~vassal of the reverend one~
 @86702  = ~Vassal of the Reverend One~
-@86703  = ~VASSAL OF THE REVEREND ONE: Zealots of Corelion Larethian are steadfast defenders of elven values.  Often orphaned elves or half-elves, non-evil elves still feel the call to Corellon, often serving him in their own way as zealots.
+@86703  = ~VASSAL OF THE REVEREND ONE: Zealots of Corellon Larethian are steadfast defenders of elven values.  Often orphaned elves or half-elves, non-evil elves still feel the call to Corellon, often serving him in their own way as zealots.
 
 Advantages:
 - May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
@@ -2626,7 +2625,7 @@ Frenzy is further modified depending upon the patron deity of the zealot.
 
 Frenzy does not stack with haste or similar effects
 
-Passionate Resonance:  When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcomming the will of all enemies within 30'.
+Passionate Resonance:  When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcoming the will of all enemies within 30'.
 At 1st level, all enemies are affected by Charm Person if they fail a save vs. spell +2.  At 4th level, opponents are instead affected by Dire Charm.  At 8th level, they are Dominated if they fail their save.
 
 Restrictions:
@@ -2637,7 +2636,7 @@ Restrictions:
 @86805  = ~Passionate Resonance
 
 The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcomming the will of all enemies within 30'.  At 1st level, all enemies are affected by Charm Person if they fail a save vs. spell +2.  At 4th level, opponents are instead affected by Dire Charm.  At 8th level, they are Dominated if they fail their save.
+When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcoming the will of all enemies within 30'.  At 1st level, all enemies are affected by Charm Person if they fail a save vs. spell +2.  At 4th level, opponents are instead affected by Dire Charm.  At 8th level, they are Dominated if they fail their save.
 
 Passionate Resonance does not stack with haste or similar effects
 
