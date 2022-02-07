@@ -1663,7 +1663,7 @@ CAPACITÉS :
 - Peut lancer quelques sorts divins à partir du niveau 6.
 - Peut lancer Châtiment une fois par jour au niveau 1. Le champion peut utiliser cette faculté une fois supplémentaire par jour tous les 4 niveaux.
 
-CHÂTIMENT : Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+CHÂTIMENT : Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 En général, châtiment inflige des dégâts ou des effets supplémentaires à certaines créatures en fonction de la divinité du champion.
 
 - Autres aptitudes en fonction de la divinité du champion.
@@ -1671,7 +1671,7 @@ En général, châtiment inflige des dégâts ou des effets supplémentaires à 
 
 @80004  = ~Châtiment~
 @80005  = ~Châtiment
-Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 En général, châtiment inflige des dégâts ou des effets supplémentaires à certaines créatures en fonction de la divinité du champion.
 
 Un adversaire ne peut subir les effets de châtiment qu'une fois par round.~
@@ -1751,7 +1751,7 @@ Restrictions :
 @80104  = ~Châtiment du mal~
 @80105  = ~Châtiment du mal
 
-Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
 De plus, les créatures d'alignement mauvais doivent réussir un jet de sauvegarde contre la mort sous peine d'être étourdies pour 1 round. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
@@ -1773,7 +1773,7 @@ Restrictions :
 @80204  = ~Châtiment destructeur~
 @80205  = ~Châtiment destructeur
 
-Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
 De plus, les morts-vivants subissent le double de dégâts et les morts-vivant de moins de 15 dés de vie doivent réussir un jet de sauvegarde contre la mort sous peine d'être instantanément détruits. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
@@ -1810,7 +1810,7 @@ Restrictions :
 @80304  = ~Châtiment de l'ennemi~
 @80305  = ~Châtiment de l'ennemi
 
-Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
 Un adversaire ne peut subir les effets de Châtiment de l'ennemi qu'une fois par round.~
 
@@ -1828,9 +1828,9 @@ Restrictions :
 @80404  = ~Châtiment d'effroi~
 @80405  = ~Châtiment d'effroi
 
-Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 point des dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 1d6 points de dégâts de magie supplémentaires (+1d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-De plus al cible est frappée de terreur pour un round si elle ne réussit pas un jet de sauvegarde contre la mort. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
+De plus la cible est frappée de terreur pour un round si elle ne réussit pas un jet de sauvegarde contre la mort. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
 Un adversaire ne peut subir les effets de Châtiment d'effroi qu'une fois par round.~
 
@@ -1869,7 +1869,8 @@ L'épée du vigile est maniée comme une épée longue.~
 @80506 = ~CHEVALIER VIGILANT : Les chevaliers vigilants sont les soldats d'élite de l'église de Heaum. Ils ont souvent envoyés sur les missions les plus difficiles pour leur église.
 
 Avantages :
-- Maîtrise : les chevaliers vigilants peuvent atteindre la maîtrise dans toute arme de mêlée.- Conscience augmentée : bonus de +1 à la classe d'armure et de +2 aux jets de sauvegarde contre les souffles.
+- Maîtrise : les chevaliers vigilants peuvent atteindre la maîtrise dans toute arme de mêlée.
+- Conscience augmentée : bonus de +1 à la classe d'armure et de +2 aux jets de sauvegarde contre les souffles.
 - Peut lancer Épée du vigile comme pouvoir spécial une fois par jour et gagne une utilisation supplémentaire aux niveaux 4, 8, 12, 16 et 20.
 
 ÉPÉE DU VIGILE : Ce sort fait apparaître une épée dans la main du champion (ne peut être lâchée ni rangée) Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4. Elle inflige 2d4 points de dégâts et dure 1 round par niveau.
@@ -1882,407 +1883,415 @@ Restrictions :
 - Doit être loyal bon, loyal neutre ou neutre strict.
 - Le chevalier vigilant doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
 ~
-@80601  = ~stormward of talos~
-@80602  = ~Stormward of Talos~
-@80603  = ~STORMWARD OF TALOS: Stormwards are the elite guard of Talos.  They exist to spread destruction through the world, and thus, the fear of Talos.
+@80601  = ~gardien des tempêtes de Talos~
+@80602  = ~Gardien des tempêtes de Talos~
+@80603  = ~GARDIEN DES TEMPÊTES DE TALOS: Les gardiens des tempêtes forment la garde d'élite de  Talos. Ils n'existent que pour répandre la destruction partout dans le monde et, avec elle, la crainte de Talos.
 
-Advantages:
-- Storm Smite: The smite of a Stormward inflicts double electrical damage rather than magic damage.
-- Talos' Favor: Stormwards are 50% resistant to electricity damage.
+Avantages :
+- Châtiment de la tempête : inflige des dégâts double de type électrique plutôt que magique.
+- Faveur de Talos : résistance de 50 % aux dégâts électriques.
 
-Restrictions:
-- Alignment: Can only be Evil or Chaotic Neutral alignment
+Restrictions :
+- Doit être d'alignement mauvais ou chaotique neutre.
 ~
-@80604  = ~Storm Smite~
-@80605  = ~Storm Smite
+@80604  = ~Châtiment de la tempête~
+@80605  = ~Châtiment de la tempête
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 2d6 points of electricty damage, (+2d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 2d6 points de dégâts d'électricité supplémentaires (+2d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-An opponent can only be affected by Storm Smite once per round.~
+De plus la cible est frappée de terreur pour un round si elle ne réussit pas un jet de sauvegarde contre la mort. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
 
-@80606  = ~STORMWARD OF TALOS: Stormwards are the elite guard of Talos.  They exist to spread destruction through the world, and thus, the fear of Talos.
+Un adversaire ne peut subir les effets de Châtiment d'effroi qu'une fois par round.~
 
-Advantages:
-- Storm Smite: The smite of a Stormward inflects double electrical damage rather than magic damage.
-- Talos' Favor: Stormwards are 50% resistant to electricity damage.
+@80606  = ~GARDIEN DES TEMPÊTES DE TALOS: Les gardiens des tempêtes forment la garde d'élite de  Talos. Ils n'existent que pour répandre la destruction partout dans le monde et, avec elle, la crainte de Talos.
 
-Restrictions:
-- Alignment: Can only be Evil
+Avantages :
+- Châtiment de la tempête : inflige des dégâts double de type électrique plutôt que magique.
+- Faveur de Talos : résistance de 50 % aux dégâts électriques.
+
+Restrictions :
+- Doit être d'alignement mauvais
 ~
-@80701  = ~hammer of moradin~
-@80702  = ~Hammer of Moradin~
-@80703  = ~HAMMER OF MORADIN: Moradin is the chief deity or the dwarven pantheon; a harsh but fair judge, he is strength and force of will embodied. The Hammers of Moradin are a military order dedicated to the defense dwarven holdings and the carving out of new dwarven territories. 
+@80701  = ~marteau de Moradin~
+@80702  = ~Marteau de Moradin~
+@80703  = ~MARTEAU DE MORADIN : Moradin est le dieu gouvernant le panthéon nain, un juge sévère mais juste. Il incarne la force physique et la volonté. Les marteaux de Moradin sont un ordre militaire dédié à la défense des possessions naines et l'acquisition de nouveaux territoires.
 
-Advantages:
-- Forged Flesh: The Hammer of Moradin is tough in body and mind.  <PRO_HESHE> recieves a +2 bonus to AC and saves against magic.
-- Can cast Moradin's Hammer as a special ability once per day.  The Hammer gains an additional use at levels 4, 8, 12, 16 and 20.
+Avantages :
+- Chair forgée : le marteau de Moradin est robuste de corps et d'esprit. Il reçoit un bonus de +2 à la classe d'armure et aux jets de sauvegarde contre ma magie.
+- Peut lancer Marteau de Moradin comme pouvoir spécial une fois par jour et gagne une utilisation supplémentaire aux niveaux  4, 8, 12, 16 et 20.
 
-MORADIN'S HAMMER: This spell creates a hammer in the Champion's hand that cannot be dropped or unequipped. The hammer is enchanted as a +4 weapon and deals 1d6 points of blunt damage as well as 1d6 magic damage. 
+MARTEAU DE MORADIN : Ce sort fait apparaître un marteau dans la main du champion (ne peut être lâché ni rangé) Cette arme est enchantée comme une arme +4 et fournit un bonus TAC0 +4. Elle inflige 1d6 points de dégâts contondants et 1d6 points de dégâts magiques.
 
-The Moradin's Hammer is wielded as a warhammer.
+Le marteau de Moradin est manié comme un marteau de guerre.
 
-Disadvantages:
-- Hammers of Moradin do not have a special smite ability.
+Inconvénients :
+- Les marteaux de Moradin n'ont pas de capacité de châtiment spéciale.
 
-Restrictions:
-- Alignment: Lawful Good or Lawful Neutral only
-- The Hammer of Moradin must maintain a reputation of 8 or fall.
+Restrictions :
+- Doit être d'alignement loyal bon ou loyal neutre.
+- Le marteau de Moradin doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
 ~
-@80704  = ~Hammer of Moradin~
-@80705  = ~Hammer of Moradin
-The hammer is enchanted as a +4 weapon and deals 1d6 points of blunt damage as well as 1d6 magic damage.~
-
-@80801  = ~inquisitor of azuth~
-@80802  = ~Inquisitor of Azuth~
-@80803  = ~INQUISITOR OF AZUTH: Inquisitors of Azuth feel that reason is the best way to approach magic, and that it may be examined and reduced to its component parts through study and meditation.  Unfortunately, not all practitioners of the art take such care or approach magical power with responsibility and that is where Inquistors of Azuth fit in.  This holy order of the Lord of Spells strive to curb the use of overly destructive magic that harms the Weave and provide martial might where it is needed to destroy threats to wizardry. 
-
-Advantages:
-- Immune to Hold and Charm spells
-- Wizard's Bane: The Inquisitor's smite does double damage to wizards, and any wizards hit by the Inquisitor's smite are affected by an dispel magic effect of a caster level equal to twice the Inquisitor's class level.
-
-Disadvantages:
-- Inquisitors do not turn undead
-
-Restrictions:
-- Alignment: May not be evil, nor chaotic
-- The Inquisitor of Azuth must maintain a reputation of 8 or fall.
+@80704  = ~Marteau de Moradin~
+@80705  = ~Marteau de Moradin
+Cette arme est enchantée comme une arme +4 et inflige 1d6 points de dégâts contondants et 1d6 points de dégâts magiques.
 ~
-@80804  = ~Wizard's Bane~
-@80805  = ~Wizard's Bane
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+@80801  = ~inquisiteur d'Azouth~
+@80802  = ~Inquisiteur d'Azouth~
+@80803  = ~INQUISITOR OF AZUTH: Les inquisiteurs d'Azouth pensent que la meilleure façon d'approcher la magie, c'est par la raison et qu'on peut la réduire à ses composantes de base par son étude et la méditation. Malheureusement, tout ceux qui pratiquent cet art ne sont pas si précautionneux ni responsables, et c'est là que les inquisiteurs d'Azouth interviennent. Cet ordre sacré du Seigneur des sorts s'efforcent de limiter l'utilisation de magie excessivement destructrice qui endommage la Toile. Ils sont aussi la force militaire qui détruit les menaces qui pèsent sur la pratique de la magie profane.
 
-In addition, arcane spellcasters suffer double damage, and are affected by a double strength dispel magic.
+Avantages :
+- Immunisé contre les sorts d'immobilisation et de charme.
+- Fléau du mage : Le châtiment de l'inquisiteur inflige des dégâts doublés aux mages. De plus, tout mage touché par le châtiment de l'inquisiteur subit un effet de dissipation de la magie dont le niveau de lanceur est deux fois le niveau de l'inquisiteur.
 
-An opponent can only be affected by Wizard's Bane once per round.~
+Inconvénients :
+- Les inquisiteurs ne peuvent repousser les morts-vivants.
 
-@80901 = ~knight of the red falcon~
-@80902 = ~Knight of the Red Falcon~
-@80903 = ~KNIGHT OF THE RED FALCON: The Red Knight, or the Lady of Strategy, is the deity of strategy and tactics. Sponsored into godhood by Tempus, Her dogma dictates the use of careful tactics in battle to achieve the most favourable victories. During the Time of Troubles, Lady Kaitlin Tindall Bloodhawk became the avatar of the Red Knight and defended Tethyr from a horde of monsters. Bloodhawk is now head of the Order of the Red Falcon, a martial order that trains officers and others in tactics and military history. 
-
-Advantages:
-- Mastery: Knights of the Red Falcon can attain mastery in any melee weapon.
-- Clear Eyes: Knights gain a +2 bonus vs. Illusion spells.
-- Knight's Move: The smite of a Knight of the Red Falcon instills confusion in any opponent for one round if they do not save vs. spell.
-
-Disadvantages:
-- Knights of the Red Falcon do not have a special smite ability.
-
-Restrictions:
-- Alignment: Any non-chaotic.
+Restrictions :
+- Ne peut être d'alignement mauvais ni chaotique.
+- L'inquisiteur d'Azouth doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
 ~
-@80904  = ~Knight's Move~
-@80905  = ~Knight's Move
+@80804  = ~Fléau du mage~
+@80805  = ~Fléau du mage
 
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) levels over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 2d6 points de dégâts d'électricité supplémentaires (+2d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
 
-Additionally, creatures are affected by confusion for 1 round if they do not save vs. spell.  This save recieves a -1 penalty at levels 4, 10 and 18
+De plus les lanceurs de sorts profanes frappés subissent des dégâts doubles et sont affectés par une dissipation de la magie de puissance doublée.
 
-An opponent can only be affected by smite of dread once per round.~
+Un adversaire ne peut subir les effets de Châtiment d'effroi qu'une fois par round.~
+
+@80901 = ~chevalier du faucon rouge~
+@80902 = ~Chevalier du faucon rouge~
+// could not find any french material with translated names so made up some and kept others as is
+@80903 = ~CHEVALIER DU FAUCON ROUGE : La cavalière rouge, ou Dame de la stratégie, est la divinité des stratégies et des tactiques. Élevée à la divinité par Tempus, son dogme ordonne l'utilisation de tactiques réfléchies pour obtenir les victoires les plus favorables. Pendant le Temps des troubles, Dame Kaitlin Tindall Bloodhawk est devenue l'avatar de la Cavalière rouge et a défendu le Téthyr contre une horde de monstres. Bloodhawk dirige maintenant l'Ordre du faucon rouge, un ordre militaire qui forme les officiers, mais aussi d'autres personnes, à la tactique et à l'histoire militaire.
+
+Avantages :
+- Maîtrise : les chevalier du faucon rouge peuvent atteindre la maîtrise dans toute arme de mêlée.
+- Vision claire : bonus de +2 contre les sorts d'illusions.
+- Déplacement du cavalier : le châtiment dun chevalier du faucon rouge provoque de la confusion chez l'adversaire, qu'el qu'il soit, pendant 1 round s'il échoue à un jet de sauvegarde contre les sorts.
+
+Inconvénients :
+- Les chevaliers du faucon rouge n'ont pas de capacité de châtiment spéciale.
+
+Restrictions :
+- Ne peut être d'alignement chaotique.
+~
+@80904  = ~Déplacement du cavalier~
+@80905  = ~Déplacement du cavalier
+
+Quand le champion utilise cette faculté, ses attaques de mêlée infligent 2d6 points de dégâts d'électricité supplémentaires (+2d6 points de dégâts aux niveaux 4, 10 et 18) pendant les deux rounds suivants. Cette faculté dure un round supplémentaire aux niveaux 2, 8 et 14.
+
+De plus, les créatures sont affectées par la confusion pendant 1 round si elles échouent à un jet de sauvegarde contre les sorts. Ce jet de sauvegarde reçoit un malus de -1 points aux niveaux 4, 10 et 18.
+
+Un adversaire ne peut subir les effets de Châtiment d'effroi qu'une fois par round.~
 
 //ZEALOT KITS
 
-@86201  = ~eye of gruumsh~
-@86202  = ~Eye of Gruumsh~
-@86203  = ~EYE OF GRUUMSH: The eye of Gruumsh's devotion is such that they pluck out their eye in honor of their deity.  
+@86201  = ~œil de Gruumsh~
+@86202  = ~Œil de Gruumsh~
+@86203  = ~ŒIL DE GRUUMSH : La dévotion des yeux de Gruumsh est telle qu'ils s'arrachent un œil en honneur de leur divinité.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Frenzy does not stack with haste or similar effects
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Sight of Gruumsh: The Eye of Gruumsh can pierce through illusions with their missing eye while in frenzy.
-At first level, when entering a frenzy, the Eye detects any invisible creature as though they cast detect invisibility.  At 4th level, the eye is infused with the strength and fury of the Orchish race, gaining a +2 to strength while frenzied.  At 8th level, they gain the effects of truesight.
+Vision de Gruumsh: L'œil de Gruumsh peut dévoiler les illusions avec son œil manquant quand il entre en frénésie.
+Au premier niveau, en entrant en Frénésie, l'œil de Gruumsh détecte les créatures invisibles comme s'il pouvait lancer Détection de l'invisibilité. AU niveau 4, l'œil de Gruumsh est imprégné de la force et de la furie de la race orque et gagne +2 en force quand il est en Frénésie. Au nivea 8, ils obtiennent les effets de Vision véritable.
 
-Restrictions:
-- Alignment: Neutral Evil, Chaotic Evil, and Chaotic Neutral
-- Race: Half-Orc only
+Restrictions :
+- Doit être d'alignement neutre mauvais, chaotique mauvais ou chaotique neutre.
+- Race : le personnage doit être un demi-orque.
 ~
-@86204  = ~Sight of Gruumsh~
-@86205  = ~Sight of Gruumsh
+@86204  = ~Vision de Gruumsh~
+@86205  = ~Vision de Gruumsh
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-The Eye of Gruumsh can pierce through illusions with their missing eye while in frenzy.  At first level, when entering a frenzy, the Eye detects any invisible creature as though they cast detect invisibility.  At 4th level, the eye is infused with the strength and fury of the Orchish race, gaining a +2 to strength while frenzied.  At 8th level, they gain the effects of truesight.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+L'œil de Gruumsh peut dévoiler les illusions avec son œil manquant quand il entre en frénésie. Au premier niveau, en entrant en Frénésie, l'œil de Gruumsh détecte les créatures invisibles comme s'il pouvait lancer Détection de l'invisibilité. AU niveau 4, l'œil de Gruumsh est imprégné de la force et de la furie de la race orque et gagne +2 en force quand il est en Frénésie. Au nivea 8, ils obtiennent les effets de Vision véritable.
 
-Eye of Gruumsh does not stack with haste or similar effects
+Vision de Gruumsh n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.~
 
-@86301  = ~initiate of rust and worm~
-@86302  = ~Initiate of Rust and Worm~
-@86303  = ~INITIATE OF RUST AND WORM: Dedicated to destruction, intitiates are instinctively drawn to Talos, lord of destruction.
+@86301  = ~initié de la rouille et du ver~
+@86302  = ~Initié de la rouille et du ver~
+@86303  = ~INITIÉ DE LA ROUILLE ET DU VER : Dévoués à la destruction, ces initiés sont attirés instinctivement vers Talos, le Seigneur de la destruction.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Frenzy does not stack with haste or similar effects
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Eye of the Storm: Initiates channel electrical energy when they frenzy.
-In addition to the normal effects of frenzy, the Initiate channels the raw destructive power of the storm while in frenzy.  At 1st level, they can cast lightning bolt as an innate ability.  At 4th level, <PRO_HESHE> is immune to electricty and gains 50% resistance to fire.  At 8th level, <PRO_HISHER> body crackles with electrical energy.  Any opponent that hits <PRO_HIMHER> in melee suffers 1d8+2 electrical damage.
+Œil du cyclone : L'initié canalise de l'énergie électrique quand il est en Frénésie.
+En plus des effets normaux de la Frénésie, l'initiés canalise la puissance destructrice brute de la tempête. Au premier niveau, il peut lancer Éclair comme pouvoir inné. Au niveau 4, il est immunisé contre les dégâts électriques et obtient une résistance de 50 % aux dégâts de feu. Au niveau 8, son corps crépite d'énergie électrique et tout adversaire qui le touche en mêlée subit 1d8+2 points de dégâts électriques.
 
-Restrictions:
-- Alignment: Any Evil or Chaotic Neutral
+Restrictions :
+- Doit être d'alignement mauvais ou chaotique neutre.
 ~
-@86304  = ~Eye of the Storm~
-@86305  = ~Eye of the Storm
+@86304  = ~Œil du cyclone~
+@86305  = ~Œil du cyclone
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-The Initiate channels the raw destructive power of the storm while in frenzy.  At 1st level, they can cast lightning bolt as an innate ability.  At 4th level, <PRO_HESHE> is immune to electricty and gains 50% resistance to fire.  At 8th level, <PRO_HISHER> body crackles with electrical energy.  Any opponent that hits <PRO_HIMHER> in melee suffers 1d8+2 electrical damage.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+L'initié canalise de l'énergie électrique quand il est en Frénésie.
+En plus des effets normaux de la Frénésie, l'initié canalise la puissance destructrice brute de la tempête. Au premier niveau, il peut lancer Éclair comme pouvoir inné. Au niveau 4, il est immunisé contre les dégâts électriques et obtient une résistance de 50 % aux dégâts de feu. Au niveau 8, son corps crépite d'énergie électrique et tout adversaire qui le touche en mêlée subit 1d8+2 points de dégâts électriques.
 
-Eye of the Storm does not stack with haste or similar effects
+Œil du cyclone n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.~
 
-@86401  = ~disciple of the flame~
-@86402  = ~Disciple of the Flame~
-@86403  = ~DISCIPLE OF THE FLAME: Disciples are dedicated to Kossuth, the Firelord.  
+@86401  = ~disciple de la flamme~
+@86402  = ~Disciple de la flamme~
+@86403  = ~DISCIPLE DE LE FLAMME : Les disciples sont dévoués à Kossuth, the Seigneur des flammes.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Frenzy does not stack with haste or similar effects
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Burning Frenzy: Disciples channel the Elemental Plane of Fire when they frenzy.
-In addition to the normal effects of frenzy, the Disciple channels the raw power of fire while in frenzy.  At 1st level, they become immune to fire damage.  At 4th level, <PRO_HESHE> can cast Agannazar's Scorcher as an innate ability once per frenzy.  At 8th level, <PRO_HESHE> is under the effects of Fireshield (red) for the duration.
+Frénésie ardente : Le disciple de la flamme canalise le plan élémentaire du feu quand il est en frénésie.
+En plus des effets normaux de la Frénésie, le disciple canalise la puissance brute du feu. Au premier niveau, il est immunisé contre les dégâts de feu. Au niveau 4, peut lancer Incinérateur d'Agannazar comme pouvoir inné une fois par Frénésie. Au niveau 8, il est sous l'effet de Bouclier de feu (rouge) pour la durée de la frénésie.
 
-Restrictions:
-- Alignment: Any
+Restrictions :
+- Pas de restriction d'alignement.
 ~
-@86404  = ~Burning Frenzy~
-@86405  = ~Burning Frenzy
+@86404  = ~Frénésie ardente~
+@86405  = ~Frénésie ardente
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-In addition to the normal effects of frenzy, the Disciple channels the raw power of fire while in frenzy.  At 1st level, they become immune to fire damage.  At 4th level, <PRO_HESHE> can cast Agannazar's Scorcher as an innate ability once per frenzy.  At 8th level, <PRO_HESHE> is under the effects of Fireshield (red) for the duration.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+En plus des effets normaux de la Frénésie, le disciple canalise la puissance brute du feu. Au premier niveau, il est immunisé contre les dégâts de feu. Au niveau 4, peut lancer Incinérateur d'Agannazar comme pouvoir inné une fois par Frénésie. Au niveau 8, il est sous l'effet de Bouclier de feu (rouge) pour la durée de la frénésie.
 
-Burning Frenzy does not stack with haste or similar effects
+Frénésie ardente n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.~
 
-@86501  = ~acompnion of the noble heart~
-@86502  = ~Companion of the Noble Heart~
-@86503  = ~COMPANION OF THE NOBLE HEART: Zealots of Ilmater are steadfast defenders of the weak and vulnerable.  Drawn to Ilmater almost by instinct, they seek to eliminate suffering in the world, even at the expense of their own lives.
+@86501  = ~compagnon au cœur noble~
+@86502  = ~Compagnon au cœur noble~
+@86503  = ~COMPAGNON AU CŒUR NOBLE : Les zélotes d'Ilmater sont d'inébranlables défenseurs des faibles et des vulnérables. Attirés vers Ilmater comme par instinct, ils s'efforcent de faire disparaître du monde la souffrance, même au prix de leur propres vies.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Frenzy does not stack with haste or similar effects
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Martyr's Acceptance:  The Companions takes on the spirit of Ilmater, and is able to accept tremendous punishment.
-At 1st level, <PRO_HESHE> gains 20% damage reduction against all forms of physical damage.  At 4th level, they gain this same resistance against all forms of damage.  At 8th level, this resistance increases to 50%.
+Abnégation du Martyre : Le compagnon suit l'esprit d'Ilmater et est capable d'essuyer des corrections inimaginables.
+Au premier niveau, il gagne 20 % de réduction contre toutes les formes de dégâts physiques. Au niveau 4, il gagne la même résistance contre toutes les formes de dégâts. Au niveau 8, cette résistance augment à 50 %.
 
-Restrictions:
-- Alignment: Any good or Lawful Neutral
-- The Companion of the Noble Heart must maintain a reputation of 8 or fall.
+Restrictions :
+- Doit d'être d'alignement bon ou loyal neutre.
+- Le compagnon au cœur noble doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
 ~
-@86504  = ~Martyr's Acceptance~
-@86505  = ~Martyr's Acceptance
+@86504  = ~Abnégation du Martyre~
+@86505  = ~Abnégation du Martyre
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-In addition to the normal effects of frenzy, the Companion channels the spirit of Ilmater, and is able to accept tremendous punishment.  At 1st level, <PRO_HESHE> gains 20% damage reduction against all forms of physical damage.  At 4th level, they gain this same resistance against all forms of damage.  At 8th level, this resistance increases to 50%.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+En plus des effets normaux de la Frénésie, le compagnon canalise l'esprit d'Ilmater et est capable d'essuyer des corrections inimaginables. Au premier niveau, il gagne 20 % de réduction contre toutes les formes de dégâts physiques. Au niveau 4, il gagne la même résistance contre toutes les formes de dégâts. Au niveau 8, cette résistance augment à 50 %.
 
-Martyr's Acceptance does not stack with haste or similar effects
+Abnégation du Martyre n'est pas cumulable avec Hâte et autres effets similaires.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
-
-@86601  = ~child of blood~
-@86602  = ~Child of Blood~
-@86603  = ~CHILD OF BLOOD: Zealots of Garagos are fierce warriors, drawn to the frenzy of battle.  Too undiciplined even to serve under Tempus, they are prone to rush into battle against any opponent without a second thought or even much of a plan.  Needless to say, they often die young.
-
-Advantages:
-- May use the Fury ability twice per day at first level.  The Children of Blood are unique in that they can enter their frenzy much more often than normal.
-At first level, they can use the ability twice per day.  They gain an additional use of this ability at levels 4, 10, 15 and 20.
-
-FURY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects
-
-Fury:  At 1st level, <PRO_HESHE> gains a +2 bonus to Strength and Constitution while under the effects of Frenzy.  This ability does not increase in potency at level 4, but they gain an additional use at level 4.  The bonus increases to +4 at 8th level.
-
-Restrictions:
-- Alignment: Any chaotic, True Neutral or Neutral Evil
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.
 ~
-@86604  = ~Fury~
-@86605  = ~Fury
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-In addition to the normal effects of frenzy, the Companion channels the spirit of Ilmater, and is able to accept tremendous punishment.  At 1st level, <PRO_HESHE> gains a +2 bonus to Strength and Constitution.  At 8th level, this bonus increases to +4.
+@86601  = ~enfant du sang~
+@86602  = ~Enfant du sang~
+@86603  = ~ENFANT DU SANG : Les zélotes de Garagos sont de féroces guerriers attirés par la frénésie de la bataille. Trop indisciplinés pour servir même Tempus, ils sont enclins à se ruer vers la bataille, peu importe l'adversaire, sans hésitation, sans même préparer un plan. Inutile de préciser qu'ils meurent souvent jeunes.
 
-Fury does not stack with haste or similar effects
+Avantages :
+- Peut utiliser la capacité de Frénésie deux fois par jour. Les enfants du sang ont la spécificité de pouvoir entrer en Frénésie plus souvent que la normale.
+Au premier niveau, ils peuvent utiliser cette aptitude deux fois par jour. Ils obtiennent une utilisation supplémentaire aux niveaux 4, 10, 15 et 20.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-@86701  = ~vassal of the reverend one~
-@86702  = ~Vassal of the Reverend One~
-@86703  = ~VASSAL OF THE REVEREND ONE: Zealots of Corelion Larethian are steadfast defenders of elven values.  Often orphaned elves or half-elves, non-evil elves still feel the call to Corellon, often serving him in their own way as zealots.
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Furie :  Au premier niveau, bonus de +2 à la force et la constitution quand il est sous l'effet de Frénésie. Cette aptitude ne s'améliore pas au niveau 4, mais l'enfant du sang gagne une utilisation supplémentaire au niveau 4. Le bonus augmente à +4 au niveau 8.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects
-
-Corellon's Arrow:  Vassals are paragons of elven skill with blade and bow.
-At 1st level, <PRO_HESHE> gains the same bonuses with ranged weapons as with melee weapons (+2 to ranged THAC0).  Additionally, they gain a +2 to damage on both melee and ranged attacks.  At 4th level, They gain a +4 bonus to melee and ranged attacks and damage.  At 8th level, this bonus increase to +6.
-
-Restrictions:
-- Alignment: Any good or Lawful Neutral
-- The Vassal of the Reverend One must maintain a reputation of 8 or fall.
-- Race: Elf or Half-Elf only
+Restrictions :
+- Doit être d'alignement chaotique, neutre strict ou neutre mauvais.
 ~
-@86704  = ~Corellon's Arrow~
-@86705  = ~Corellon's Arrow
+@86604  = ~Furie~
+@86605  = ~Furie
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Vassals are paragons of elven skill with blade and bow.  At 1st level, <PRO_HESHE> gains the same bonuses with ranged weapons as with melee weapons (+2 to ranged THAC0).  Additionally, they gain a +2 to damage on both melee and ranged attacks.  At 4th level, They gain a +4 bonus to melee and ranged attacks and damage.  At 8th level, this bonus increase to +6.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Corellon's Arrow does not stack with haste or similar effects
+En plus des effets normaux de la Frénésie, l'enfant du sang canalise la soif de sang de Garagos et obtient une force et une endurance exceptionnelle. Au niveau 1, il gagne un bonus de +2 en force et en constitution. Au niveau 8, le nous passe à +4.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-@86801  = ~cherub of the ruby rose~
-@86802  = ~Cherub of the Ruby Rose~
-@86803  = ~CHERUB OF THE RUBY ROSE: Zealots dedicated to the service of Sune, cherubs of the ruby rose exude passion and fury.  
-
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
-
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects
-
-Passionate Resonance:  When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcomming the will of all enemies within 30'.
-At 1st level, all enemies are affected by Charm Person if they fail a save vs. spell +2.  At 4th level, opponents are instead affected by Dire Charm.  At 8th level, they are Dominated if they fail their save.
-
-Restrictions:
-- Alignment: Any Non-Evil
-- The Cherub of the Ruby Rose must maintain a reputation of 8 or fall.
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.
 ~
-@86804  = ~Passionate Resonance~
-@86805  = ~Passionate Resonance
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-When the Cherub enters frenzy, <PRO_HESHE> radiates the power of Sune, possibly overcomming the will of all enemies within 30'.  At 1st level, all enemies are affected by Charm Person if they fail a save vs. spell +2.  At 4th level, opponents are instead affected by Dire Charm.  At 8th level, they are Dominated if they fail their save.
+@86701  = ~vassal du révérend~ // no better idea for this...
+@86702  = ~Vassal du révérend~
+@86703  = ~VASSAL DU RÉVÉREND : Les zélotes de Corellon Larethian sont d'inébranlables défenseurs des valeurs elfes. Les elfes non mauvais, pour l'essentiel des orphelins elfes ou demi-elfes, sentent l'appel vers Corellon et le servent de leur manière propre comme zélotes.
 
-Passionate Resonance does not stack with haste or similar effects
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-@86901  = ~weaverager of mystra~
-@86902  = ~Weaverager of Mystra~
-@86903  = ~WEAVERAGER OF MYSTRA: Zealots dedicated to the service of Mystra, weaveragers seek out evil magic users and seek to bring about their downfall. 
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
 
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
+Flèche de Corellon : Le vassal est un paragon du talent des elfes avec la lame et l'arc.
+Au niveau 1, il obtient le même bonus avec les armes à distance qu'avec les armes de mêlée (+2 au TAC0 à distance). De plus, il reçoit un bonus de +2 aux dégâts de mêlée et à distance? AU nivea 4, ils gagnent un bonus de +4 à l'attaque et aux dégâts en mêlée et à distance? Au niveau 8, ce bonus augmente, à +6.
 
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects
-
-Weaverage:  Weaveragers are protected from magic while in frenzy.
-At 1st level, <PRO_HESHE> gains 20% magic resistance while in frenzy.  At 4th level, they gain 30% magic resistance.  At 8th level, they gain 40% magic resistance.
-
-Restrictions:
-- Alignment: Any non-evil
-- The Zealot of Mystra must maintain a reputation of 8 or fall.
+Restrictions :
+- Doit être d'alignement bon ou loyal neutre.
+- Le vassal du révérend doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
+- Race : le personnage doit être de race elfe ou demi-elfe.
 ~
-@86904  = ~Weaverage~
-@86905  = ~Weaverage
+@86704  = ~Flèche de Corellon~
+@86705  = ~Flèche de Corellon
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Zealots of Mystra are protected from magic while in frenzy.  At 1st level, <PRO_HESHE> gains 20% magic resistance while in frenzy.  At 4th level, they gain 30% magic resistance.  At 8th level, they gain 40% magic resistance.
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
 
-Weaverage does not stack with haste or similar effects
+Le vassal est un paragon du talent des elfes avec la lame et l'arc.
+Au niveau 1, il obtient le même bonus avec les armes à distance qu'avec les armes de mêlée (+2 au TAC0 à distance). De plus, il reçoit un bonus de +2 aux dégâts de mêlée et à distance? AU nivea 4, ils gagnent un bonus de +4 à l'attaque et aux dégâts en mêlée et à distance? Au niveau 8, ce bonus augmente, à +6.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+Flèche de Corellon n'est pas cumulable avec Hâte et autres effets similaire
 
-@87001  = ~darksong knight~
-@87002  = ~Darksong Knight~
-@87003  = ~DARKSONG KNIGHT: Eilistraee is the Drow goddess of beauty, song, dance, freedom, moonlight, swordwork, and hunting. Notably she is patroness and protector of those few dark elves who long to return to the surface and live at peace with other races.
-Darksong Knights are dedicated to spreading the ethos of Eilistraee, advancing her causes, and especially to slaying the yochlol, the demons who served as the handmaidens of Lolth. Almost universally female, they utilise a wild and complex dancing fighting style. 
-
-Advantages:
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
-
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects
-
-Bladedance:  Darksong Knights are a flurry of blades while in frenzy.
-The Darksong Knight gains an additional attack per melee while in frenzy.
-
-Restrictions:
-- Alignment: Any non-evil
-- The Darksong Knight must maintain a reputation of 8 or fall.
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.
 ~
-@87004  = ~Bladesong~
-@87005  = ~Bladesong
 
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains two additional attacks per round.
+@86801  = ~chérubin de la rose écarlate~
+@86802  = ~Chérubin de la rose écarlate~
+@86803  = ~CHÉRUBIN DE LA ROSE ÉCARLATE : Zélotes dévoués au service de Sunie, les chérubins de la rose écarlate transpirent la passion et la furie.
 
-Bladesong does not stack with haste or similar effects
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
 
-After the effect ends, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
+
+Résonance passionnée : Quand le chérubin entre en Frénésie, il irradie le pouvoir de Sunie et peut parfois surmonter la volonté de tous les ennemis à moins de 10 mètres.
+Au niveau 1, tous les ennemis sont affectés par Charme personne s'ils échouent à un jet de sauvegarde contre les sorts +2. Au niveau 4, les adversaires sont affectés par Charme néfaste à la place. Au nivea 8, ils sont dominés s'ils échouent au jet de sauvegarde.
+
+Restrictions :
+- Ne peut être d'alignement mauvais.
+- Le chérubin de la rose écarlate doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
+~
+@86804  = ~Résonance passionnée~
+@86805  = ~Résonance passionnée
+
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+Quand le chérubin entre en Frénésie, il irradie le pouvoir de Sunie et peut parfois surmonter la volonté de tous les ennemis à moins de 10 mètres. Au niveau 1, tous les ennemis sont affectés par Charme personne s'ils échouent à un jet de sauvegarde contre les sorts +2. Au niveau 4, les adversaires sont affectés par Charme néfaste à la place. Au nivea 8, ils sont dominés s'ils échouent au jet de sauvegarde.
+
+Résonance passionnée n'est pas cumulable avec Hâte et autres effets similaires.
+
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.
+~
+
+@86901  = ~enragé de la Toile de Mystra~
+@86902  = ~Enragé de la Toile de Mystra~
+@86903  = ~ENRAGÉ DE LA TOILE DE MYSTRA : Zélotes dévoués au service de Mystra, les enragés de la Toile poursuivent les lanceurs de sorts maléfiques et s'évertuent à précipiter leur chute.
+
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
+
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
+
+Rage de la Toile : L'enragé de la Toile est protégé contre la magie pendant qu'il est en Frénésie.
+Au niveau 1, il gagne 20 % de résistance à la magie pendant sa frénésie. Au niveau 4, la résistance passe à 30 %. Au niveau 8, ils ont 40 % de résistance à la magie.
+
+Restrictions :
+- Ne peut êtr ed'alignement mauvais.
+- Le zélote ede Mystra doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
+~
+@86904  = ~Rage de la Toile~
+@86905  = ~Rage de la Toile
+
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+L'enragé de la Toile est protégé contre la magie pendant qu'il est en Frénésie.
+Au niveau 1, il gagne 20 % de résistance à la magie pendant sa frénésie. Au niveau 4, la résistance passe à 30 %. Au niveau 8, ils ont 40 % de résistance à la magie.
+
+Rage de la Toile n'est pas cumulable avec Hâte et autres effets similaires.
+
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.
+~
+
+@87001  = ~chevalier sombrechant~
+@87002  = ~Chevalier sombrechant~
+@87003  = ~CHEVALIER SOMBRECHANT : Eilistraee est la déesse Drow de la beauté, du chant et de la danse, de la liberté, du clair de lune, de la maîtrise de l'épée et de la chasse. En particulier, elle es la déesse patronne et protectrice des quelques elfes noirs qui souhaitent retourner à la surface et vivre en paix avec les autres races.
+Les chevaliers sombrechant se vouent à répandre l'éthique d'Eilistraee, faisant progresser sa cause, et surtout à éradiquer les yochlols, les démons qui servent comme servantes de Lolth. Ce sont presque toujours des femmes et utilisent un style de combat dansé sauvage et complexe.
+
+Avantages :
+- Peut utiliser la capacité de Frénésie une fois par jour et gagne une utilisation supplémentaire aux niveaux  10, 15 et 20.
+
+FRÉNÉSIE : Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi une attaque par round supplémentaire.
+
+Frénésie n'est pas cumulable avec Hâte et autres effets similaires.
+
+Danse de lames : les chevaliers sombrechant sont un déluge de lames quand ils sont en Frénésie.
+Les chevalier sombrechant gagne une attaque supplémentaire par round quand il est en Frénésie.
+
+Restrictions :
+- Ne peut être d'alignement mauvais.
+- Le chevalier sombrechant doit maintenir une réputation de 8. Dans le cas contraire, il devient déchu.
+~
+@87004  = ~Danse de lames~
+@87005  = ~Danse de lames
+
+
+Le personnage devient frénétique pendant 1 tour. Dans cet état, il gagne un bonus de +2 aux jets d'attaque en mêlée, aux jets de sauvegarde et à la classe d'armure et est immunisé au charme, à la confusion, la peur, à Débilité mentale, à l'immobilisation, l'emprisonnement, à l'absorption de niveau, aux effets de labyrinthe, à l'étourdissement et à Sommeil. Il obtient aussi deux attaques par round supplémentaires.
+
+Danse de lames n'est pas cumulable avec Hâte et autres effets similaires.
+
+À la fin de l'effet, le personnage est essoufflé et subit un malus de -2 à la classe d'armure et aux jets de toucher et de dégâts.~
 //
 // ... champion of arvoreen:
 //
-@87701  = ~truesword of arvoreen~
-@87702  = ~Truesword of Arvoreen~
-@87703  = ~TRUESWORD OF ARVOREEN: Arvoreen the Defender, fiery guardian of the home, is the nearest thing to a halfling war god. He is a god of stern defense and aggressive watchfulness, who is always preparing for incursions into halfling lands and making ready to repulse hostile creatures at the first sign of trouble.
+@87701  = ~véritable épée d'Arvoreen~
+@87702  = ~Véritable épée d'Arvoreen~
+@87703  = ~VÉRITABLE ÉPÉE D'ARVOREEN : Arvoreen le défenseur, gardien féroce de du foyer, est ce qu'il y a de plus proche d'un dieu de la guerre pour les petites-personnes. C'est un dieu de défense austère et de vigilance agressive qui est toujours prêt pour les invasions des terres de la petite-gens et pour repousser les créatures hostiles au moindre signe de danger.
 
-Trueswords of Arvoreen are the protectors and defenders of halfling communities. They spend their days constructing defensive barriers, signaling systems, beacons, and traps, and reviewing defenses already in place.  While many Trueswords stay close to their communities, some will adventure to gain allies they can call on as well as magical weapons and defensive items of all kinds.
+Les véritables épées d'Arvoreen sont les protecteurs et les défenseurs des communautés petites-personnes. Ils passent leur temps à construire des barrières défensives, des systèmes de communication, des signaux et des pièges, et à inspecte les défenses déjà en place. Bien que beaucoup de véritables épées restent à proximité de leurs communautés, quelques uns vont partir à l'aventure pour chercher des alliés qu'ils peuvent appeler au secours ou des armes magiques et des objets défensifs de toutes sortes.
 
-Advantages:
-- Trueswords can use the Move Silently and Hide In Shadows abilities, as a ranger of the same level.
-- From 1st level, a Truesword can increase <PRO_HISHER> Strength to 18/00 (or higher, if it is 18 already) once per day.
-- From 5th level, a Truesword can heal with a touch, similar to the Lay On Hands Power of paladins.
-- From 9th level, a Truesword can use a personal version of the Haste spell, increasing movement and physical attacks per round for one round/level.
+Avantages :
+- Peut utiliser Déplacement silencieux et Se cacher dans l'ombre comme un rôdeur du même niveau.
+- À partir du niveau 1, peut augmenter sa force jusqu'à 18/00 (ou au-delà si elle est déjà à 18 ou plus) une fois par jour.
+- À partir du niveau 5, peut soigner par contact, comme le pouvoir d'Imposition des mains des paladins.
+- À partir du niveau 9, peut utiliser une version personnelle du sort Hâte, qui augmente la vitesse de déplacement et d'attaque pour un round par niveau.
 
-Restrictions:
-- Cannot Turn undead.
-- Alignment: Good and/or Neutral.
+Restrictions :
+- Ne peut repousser les morts-vivants.
+- Doit être d'alignement bon ou neutre.
 ~
-@87711  = ~Change Class~
-@87712  = ~Change Class
+@87711  = ~Changement de classe~
+@87712  = ~Changement de classe
 
-Use this scroll to change Mazzy to a Truesword - a Champion of Arvoreen.
+Utilisez ce parchemin pour changer la classe de Mazzy et qu'elle soit une véritable épée, un champion d'Arvoreen.
 
-TRUESWORD OF ARVOREEN: Arvoreen the Defender, fiery guardian of the home, is the nearest thing to a halfling war god. He is a god of stern defense and aggressive watchfulness, who is always preparing for incursions into halfling lands and making ready to repulse hostile creatures at the first sign of trouble.
+VÉRITABLE ÉPÉE D'ARVOREEN : Arvoreen le défenseur, gardien féroce de du foyer, est ce qu'il y a de plus proche d'un dieu de la guerre pour les petites-personnes. C'est un dieu de défense austère et de vigilance agressive qui est toujours prêt pour les invasions des terres de la petite-gens et pour repousser les créatures hostiles au moindre signe de danger.
 
-Trueswords of Arvoreen are the protectors and defenders of halfling communities. They spend their days constructing defensive barriers, signaling systems, beacons, and traps, and reviewing defenses already in place.  While many Trueswords stay close to their communities, some will adventure to gain allies they can call on as well as magical weapons and defensive items of all kinds.
+Les véritables épées d'Arvoreen sont les protecteurs et les défenseurs des communautés petites-personnes. Ils passent leur temps à construire des barrières défensives, des systèmes de communication, des signaux et des pièges, et à inspecte les défenses déjà en place. Bien que beaucoup de véritables épées restent à proximité de leurs communautés, quelques uns vont partir à l'aventure pour chercher des alliés qu'ils peuvent appeler au secours ou des armes magiques et des objets défensifs de toutes sortes.
 
-Advantages:
-- Trueswords can use the Move Silently and Hide In Shadows abilities, as a ranger of the same level.
-- From 1st level, a Truesword can increase <PRO_HISHER> Strength to 18/00 (or higher, if it is 18 already) once per day.
-- From 5th level, a Truesword can heal with a touch, similar to the Lay On Hands Power of paladins.
-- From 9th level, a Truesword can use a personal version of the Haste spell, increasing movement and physical attacks per round for one round/level.
 
-Restrictions:
-- Cannot Turn undead.
-- Alignment: Good and/or Neutral.
+Avantages :
+- Peut utiliser Déplacement silencieux et Se cacher dans l'ombre comme un rôdeur du même niveau.
+- À partir du niveau 1, peut augmenter sa force jusqu'à 18/00 (ou au-delà si elle est déjà à 18 ou plus) une fois par jour.
+- À partir du niveau 5, peut soigner par contact, comme le pouvoir d'Imposition des mains des paladins.
+- À partir du niveau 9, peut utiliser une version personnelle du sort Hâte, qui augmente la vitesse de déplacement et d'attaque pour un round par niveau.
+
+Restrictions :
+- Ne peut repousser les morts-vivants.
+- Doit être d'alignement bon ou neutre.
 ~
 
 //
 // ... rangers:
 //
-@90001  = ~ranger~
-@90002  = ~Ranger~
+@90001  = ~rôdeur~
+@90002  = ~Rôdeur~
 @90003  = ~RANGERS: The general term 'Ranger' includes several varieties of hardy warriors which share certain characteristics: they are strong fighters, and they are skilled in stealth and scouting. In battle, rangers favor quickness and skill over brute force. They often use light, single-handed weapons, and are adept and wielding a weapon in each hand simultaneously.
 
 SCOUTS are warriors who may not be particularly spiritual, but tend to share certain values and combat tactics with Rangers. They have very little magical abilities - generally only a couple spells connected to their particular abilities. Instead they develop skills through sheer determination, learning techniques and abilities that help them survive.
