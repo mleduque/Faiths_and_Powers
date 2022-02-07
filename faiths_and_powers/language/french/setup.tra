@@ -2292,23 +2292,15 @@ Restrictions :
 //
 @90001  = ~rôdeur~
 @90002  = ~Rôdeur~
-@90003  = ~RANGERS: The general term 'Ranger' includes several varieties of hardy warriors which share certain characteristics: they are strong fighters, and they are skilled in stealth and scouting. In battle, rangers favor quickness and skill over brute force. They often use light, single-handed weapons, and are adept and wielding a weapon in each hand simultaneously.
+@90003  = ~RÔDEURS : Le terme générique "rôdeur" inclut plusieurs catégories de combattants solides avec quelques caractéristiques communes : ce sont des guerriers puissants et ils sont doués en discrétion et est reconnaissance. Dans la bataille, les rôdeurs préfère la rapidité et la compétence à la force brute. Ils utilisent souvent des armes légères à une main et sont doués pour combattre une arme dans chaque main.
 
-SCOUTS are warriors who may not be particularly spiritual, but tend to share certain values and combat tactics with Rangers. They have very little magical abilities - generally only a couple spells connected to their particular abilities. Instead they develop skills through sheer determination, learning techniques and abilities that help them survive.
+les ÉCLAIREURS sont des combattants qui ne sont pas spécialement spirituels mais partagent certaines valeurs et tactiques de combat avec les rôdeurs. Ils ont très peu d'aptitude à la magie, en général quelques sorts liés à leurs capacités spéciales. Au lieu de ça, ils développent des compétences grâce à leur détermination et apprennent des techniques et facultés qui les aide à survive.
 
-"TRUE RANGERS" are masters of their local geography, learning skills that allow them to survive in the harsh wilderness where few others could. They have access to spheres of magic relating to the environment in which they specialize, similar to druids. Rangers are generally good-natured and protective of their fellow men, using their skills to support and provide for communities in wild frontiers.
+Les "VRAIS RÔDEURS" sont des maîtres de leur géographie locale et apprennent des compétences qui leur permettent de survivre dans la nature sauvage, là où peu pourraient le faire. Ils ont accès à des sphères de magie liées à l'environnement, de façon similaire aux druides. Les rôdeur sont généralement aimables et protecteurs envers leurs semblables et utilisent leurs talents pour aider et soutenir les communautés isolées.
 ~
-@90004  = ~RANGER: fluff about archetype/class, and choose a kit~
-@90011  = ~according to geography~
-@90012  = ~Each variant Ranger kit has combat bonuses (+2 to thac0 and damage) against a range of animals and monsters connected to their geographical or spiritual domain.~
-@90031  = ~dervish~
-@90032  = ~Dervish~
-@90033  = ~DERVISH: fluff about archetype/class, and choose a kit~
-@90041  = ~scout~
-@90042  = ~Scout~
-@90043  = ~SCOUT: fluff about archetype/class, and choose a kit~
-@90101  = ~forest ranger~
-@90102  = ~Forest ranger~
+
+@90101  = ~rôdeur des forêts~
+@90102  = ~Rôdeur des forêts~
 @90103  = ~FOREST RANGER: the most common, or at least commonly visible, type of ranger, forest rangers are knowledgeable woodsmen and able warriors. Fiercely protective by nature, they are often called upon to fulfill a dual role: sometimes guiding travelers through areas with hostile wildlife, and at other times protecting that very wildlife from those who would carelessly exploit Toril's resource-rich woodlands.
 
 Advantages:
@@ -2398,160 +2390,89 @@ Disadvantages:
 @93207  = ~Werewolf~
 @93208  = ~Wolfwere~
 @93209  = ~Greater Wolfwere~
-//
-@93301  = ~earth dervish~
-@93302  = ~Earth Dervish~
-@93303  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
 
-Advantages:
-- 2% crushing damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits Stun the target for 1-2 seconds upon a failed save vs. Death.
-
-Restrictions:
-- May not be Chaotic
-~
-@93304  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. ~
-//
-@93401  = ~water dervish~
-@93402  = ~Water Dervish~
-@93403  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% acid and cold damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits cause 1d3 points of acid damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93404  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93501  = ~air dervish~
-@93502  = ~Air Dervish~
-@93503  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% electric damage resistance per level, up to a maximum of 40% at 20th level.
-- Immunity to harmful cloud-based spells.
-- 20% of all melee hits cause 1d3 points of electricity damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93504  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93601  = ~fire dervish~
-@93602  = ~Fire Dervish~
-@93603  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% fire damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits cause 1d4 points of fire damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93604  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93701  = ~light dervish~
-@93702  = ~Light Dervish~
-@93703  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.
-
-Advantages:
-- Immune to blindness, and may dispel low-level illusions (up to 3rd level) 3 times per day.
-- 40% of all melee hits cause the target to be bathed in Faerie Fire for 3 rounds, resulting in a -2 penalty to AC.
-
-Restrictions:
-- May not be Evil
-~
-@93704  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
-//
-@93801  = ~shadow dervish~
-@93802  = ~Shadow Dervish~
-@93803  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks. 
-
-Advantages:
-- Immune to blindness.
-- 20% of all melee hits Blind the target for 5 seconds upon a failed save vs. Breath.
-
-Restrictions:
-- Must be Neutral
-~
-@93804  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
 //
 // ... scouts:
 //
-@95301  = ~mage hunter~
-@95302  = ~Mage Hunter~
-@95303  = ~MAGE HUNTER: These rangers participate in demanding rituals in order to gain access to magic abilities which help them in their campaign against all wizards who use their skills to defile nature.
+// identical to MnG mage hunter 3503-3504
+@95301  = ~chasseur de mages~
+@95302  = ~Chasseur de mages~
+// compared to MnG: saving bonus eveyry 5 levels instead of 4 levels + deflection+breach instead of spells lvl 1-3 + str & con malus instead of no charm animals
+@95303  = ~CHASSEUR DE MAGES : Ces rôdeurs prennent part à des rituels exigeants avec des druides justiciers pour obtenir des pouvoirs magiques qu'ils utilisent dans leur campagne contre les mages qui utilisent leurs talents pour souiller la nature.
 
-Advantages:
-- Mage Hunters have a +1 bonus to all saving throws. This bonus increases by one for each five levels gained after 1st level.
-- Each successful melee hit bestows a 40% chance of spell failure on the target for one round.
-- May use a special vocalization that can deafen anyone nearby and impose a 40% chance of spell failure upon a failed a saving throw vs. Petrification.
-- Can cast Minor Spell Deflection and Breach as innate abilities once per day at 1st level, and one additional time each five levels after that.
+Avantages :
+- Bonus de +1 aux jets de sauvegarde contre les sorts. Ce bonus augmente d'un point supplémentaire tous les cinq     niveaux jusqu'au niveau 20.
+- Toutes les attaques de mêlée réussies infligent un risque d'échec des sorts de 40 % à la cible pendant 1 round.
+- Peut utiliser un mode d'expression vocale qui peut assourdir les créatures à proximité et leur imposer un risque d'échec des sorts de 40 % en cas d'échec à un jet de sauvegarde contre la pétrification.
+- Peut lancer Déviation de sorts mineure et Brèche comme pouvoir innés une fois par jour au niveau 1 et gagne une utilisation supplémentaire tous les cinq niveaux par la suite.
 
-Restrictions:
-- Suffers a -1 penalty to Strength and Constitution.
+Restrictions :
+- Pénalité de -1 à la force et à la constitution.
 ~
-@95311  = ~Vocal Disruption~
-@95312  = ~Vocal Disruption
+// identical to MnG 3508 & 3509
+@95311  = ~Perturbation vocale~
+@95312  = ~Perturbation vocale
 
-Mage Hunters have learned to produce a coarse, groaning shout that is of a particular frequency that affects the inner ear of nearby spellcasters. Such spellcasters must make a saving throw vs. Petrification or be somewhat deafened and suffer a 40% chance of spell failure for 5 rounds. The effort involved in producing this sound is such that Mage Hunters cannot perform the feat very often before needing to rest their vocal cords.~
+Les chasseurs de mages ont appris à produire un cri râpeux et gémissant à une fréquence spécifique qui perturbe l'oreille interne des lanceurs de sorts à proximité. Ces lanceurs de sorts doivent réussir un jet de sauvegarde contre la pétrification sous peine d'être partiellement assourdis et souffrir d'un risque de 40 % d'échec des sorts pendant 5 rounds. L'effort pour produire ce son est tel que les chasseurs de mages ne peuvent réaliser cette prouesse que peu de fois avant de devoir mettre leurs cordes vocales au repos.~
 //
-@95401  = ~barbarian ranger~
-@95402  = ~Barbarian Ranger~
-@95403  = ~BARBARIAN RANGER: Among barbarian tribes there are hunters of great skill. Spending many days alone in the wild, stalking their prey, they are closer to nature than most men. They are not quite as hardy as their more aggressive brethren, and tend to be loners. Yet they bring uncommon skills to bear both in providing for, and in defending, their tribe.
+// idem Mng except cleric spell and critical immunity parts
+@95401  = ~rôdeur barbare~
+@95402  = ~Rôdeur barbare~
+@95403  = ~RÔDEUR BARBARE : Dans les tribus barbares, se trouvent des chasseurs talentueux. Plus proches de la nature que la plupart des autres, ils peuvent passer plusieurs jours à pourchasser leur proie, seuls dans la nature. Ils ne sont pas tout à fait aussi robustes que leurs camarades plus agressifs, et ont tendance à être solitaires. Et pourtant ils apportent des compétences rares pour préserver et subvenir aux besoins de leur tribu.
  
-Advantages:
-- Moves 2 points faster than other characters.
-- May enter an enraged state, enhancing combat abilities, once per day per six levels.
-- May Charm animals once per day per five levels.
-- Gains 5% physical damage resistance at 11th level, and again at 15th and 19th levels.
+CAPACITÉS :
+- Se déplace 2 points plus rapidement que les autres personnages.
+- Peut entrer dans un état enragé qui augmente ses capacités de combat une fois par jour tous les six niveaux.
+- Peut utiliser Charme animal une fois par jour tous les cinq niveaux.
+- Gagne une résistance aux dégâts physiques de 5 % au niveau 11, puis aux niveaux 15 et 19.
 
-Restrictions:
-- -2 penalty to Charisma.
-- May not wear armor heavier than studded leather or hide armor
-- May not dual-class.~
+INCONVÉNIENTS :
+- Pénalité de -2 au charisme.
+- Ne peut porter d'armures plus lourde que la besantine ou l'armure de peau.
+- Ne peut effectuer de jumelage de classe.
+~
 //
-@95501  = ~elven archer~
-@95502  = ~Elven Archer~
-@95503  = ~ELVEN ARCHER: Elves show particular talent for the use of a bow. Those elves who are trained as elite archers display a prowess in ranged combat that is unmatched. Swift and lightly armored, they can use special Called Shots against enemies which are particularly devastating.
+// see MnG 3221-3223 : difference with crossbows
+@95501  = ~archer elfe~
+@95502  = ~Archer elfe~
+@95503  = ~ARCHER ELFE : Les elfes se montrent particulièrement talentueux dans l'utilisation des arcs. Ceux parmi les elfes qui sont entraînés comme archers d'élite font preuve de prouesses inégalées dans le combat à distance. Rapides et revêtus d'armures légères, ils peuvent utiliser sur leurs ennemis des tirs ajustés particulièrement dévastateurs.
 
-Advantages:
-- +1 to hit and damage rolls with any missile weapon every 3 levels.
-- May achieve Grand Mastery (5 slots) in longbows, shortbows, and crossbows.
-- May use the Called Shot ability once per day. Gains one use at level 4 and an additional use every 4 levels thereafter.
+Avantages :
+- Bonus de +1 aux jets de toucher et de dégâts avec les armes à projectiles tous les 3 niveaux.
+- Peut atteindre la grande maîtrise (5 étoiles) avec les arcs courts, les arcs longs et les arbalètes.
+- Peut utiliser la compétence « Tir ajusté » une fois par jour tous les 4 niveaux à partir du niveau 4.
 
-CALLED SHOT: All successful ranged attacks within the next 10 seconds have the following cumulative effects besides normal damage, according to the level of the Archer:
- 4th level: -1 penalty to target's THAC0.
- 8th level: -1 penalty to target's Saving Throws vs. Spell.
- 12th level: -1 penalty to the target's Strength score.
- 16th level: +2 bonus to damage roll.
+TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes possède les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau de l'Archer :
+Niveau 4 : La cible subit un malus de -1 au TAC0.
+Niveau 8 : La cible subit un malus de -1 aux jets de sauvegarde contre les sorts.
+Niveau 12 : La cible subit un malus de -1 à la Force.
+Niveau 16 : +2 aux jets de dégâts du tir.
 
-Restrictions:
-- May only wear leather, studded leather, and hide armor.
-- May only become Proficient (one slot) with melee weapons.
-- May not use the Charm Animal ability.~
+Inconvénients :
+- Ne peut utiliser que les armures de cuir, les besantines et les amures de peau.
+- Ne peut être que compétent (1 étoile) dans le maniement des armes de mêlée.
+- Ne peut utiliser « Charme-animal ».~
 //
-@95601  = ~halfling slinger~
-@95602  = ~Halfling Slinger~
-@95603  = ~HALFLING SLINGER: The Slinger is the epitome of skill with the sling - the result of halflings' natural aptitude with bows as well as their single-minded dedication to training with the weapon. To become so skilled with the sling, the Slinger has had to sacrifice some proficiency with melee weapons and armor. 
+@95601  = ~frondeur petite-personne~
+@95602  = ~Frondeur petite-personne~
+@95603  = ~FRONDEUR PETITE-PERSONNE : le frondeur est le maître dans le maniement de la fronde, le résultat du talent naturel des petites-personnes avec les frondes et de leur dévouement acharné à s'entraîner avec cette arme. Mais pour devenir aussi efficace avec une fronde, il doit négliger certaines capacités de port d'armure et de maniement des armes de contact.
 
-Advantages:
-- +1 to hit and damage rolls with any missile weapon every 3 levels.
-- May achieve Grand Mastery (5 slots) in longbows, shortbows, and crossbows.
-- May use the Called Shot ability once per day. Gains one use at level 4 and an additional use every 4 levels thereafter.
+Avantages :
+- Bonus de +1 aux jets de toucher et de dégâts avec les armes à projectiles tous les 3 niveaux.
+- Peut atteindre la grande maîtrise (5 étoiles) avec les frondes et les arcs.
+- Peut utiliser la compétence « Tir ajusté » une fois par jour tous les 4 niveaux à partir du niveau 4.
 
-CALLED SHOT: All successful ranged attacks within the next 10 seconds have the following cumulative effects besides normal damage, according to the level of the Archer:
- 4th level: -1 penalty to target's THAC0.
- 8th level: -1 penalty to target's Saving Throws vs. Spell.
- 12th level: -1 penalty to the target's Strength score.
- 16th level: +2 bonus to damage roll.
+TIR AJUSTÉ : Toute attaque à distance effectuée dans les 10 secondes possède les effets cumulatifs suivants (en plus des dégâts normaux) en fonction du niveau de l'Archer :
+Niveau 4 : La cible subit un malus de -1 au TAC0.
+Niveau 8 : La cible subit un malus de -1 aux jets de sauvegarde contre les sorts.
+Niveau 12 : La cible subit un malus de -1 à la Force.
+Niveau 16 : +2 aux jets de dégâts du tir.
 
-Restrictions:
-- May only wear leather, studded leather, and hide armor.
+Inconvénients :
+- Ne peut utiliser que les armures de cuir, les besantines et les amures de peau.
 - May only become Proficient (one slot) with melee weapons.
-- May not use the Charm Animal ability.~
+- Ne peut être que compétent (1 étoile) dans le maniement des armes de mêlée.
+- Ne peut utiliser « Charme-animal ».~
 //
 
 
@@ -5481,3 +5402,91 @@ Restrictions:
 - May not use Lay On Hands ability.
 - May not use Cure Disease ability.
 ~
+@90004  = ~RANGER: fluff about archetype/class, and choose a kit~
+@90011  = ~according to geography~
+@90012  = ~Each variant Ranger kit has combat bonuses (+2 to thac0 and damage) against a range of animals and monsters connected to their geographical or spiritual domain.~
+@90031  = ~dervish~
+@90032  = ~Dervish~
+@90033  = ~DERVISH: fluff about archetype/class, and choose a kit~
+@90041  = ~scout~
+@90042  = ~Scout~
+@90043  = ~SCOUT: fluff about archetype/class, and choose a kit~
+//
+@93301  = ~earth dervish~
+@93302  = ~Earth Dervish~
+@93303  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
+
+Advantages:
+- 2% crushing damage resistance per level, up to a maximum of 40% at 20th level.
+- 20% of all melee hits Stun the target for 1-2 seconds upon a failed save vs. Death.
+
+Restrictions:
+- May not be Chaotic
+~
+@93304  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. ~
+//
+@93401  = ~water dervish~
+@93402  = ~Water Dervish~
+@93403  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
+
+Advantages:
+- 2% acid and cold damage resistance per level, up to a maximum of 40% at 20th level.
+- 20% of all melee hits cause 1d3 points of acid damage if the target fails a save vs. Breath.
+
+Restrictions:
+- May not be Lawful
+~
+@93404  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
+//
+@93501  = ~air dervish~
+@93502  = ~Air Dervish~
+@93503  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
+
+Advantages:
+- 2% electric damage resistance per level, up to a maximum of 40% at 20th level.
+- Immunity to harmful cloud-based spells.
+- 20% of all melee hits cause 1d3 points of electricity damage if the target fails a save vs. Breath.
+
+Restrictions:
+- May not be Lawful
+~
+@93504  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
+//
+@93601  = ~fire dervish~
+@93602  = ~Fire Dervish~
+@93603  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
+
+Advantages:
+- 2% fire damage resistance per level, up to a maximum of 40% at 20th level.
+- 20% of all melee hits cause 1d4 points of fire damage if the target fails a save vs. Breath.
+
+Restrictions:
+- May not be Lawful
+~
+@93604  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
+//
+@93701  = ~light dervish~
+@93702  = ~Light Dervish~
+@93703  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.
+
+Advantages:
+- Immune to blindness, and may dispel low-level illusions (up to 3rd level) 3 times per day.
+- 40% of all melee hits cause the target to be bathed in Faerie Fire for 3 rounds, resulting in a -2 penalty to AC.
+
+Restrictions:
+- May not be Evil
+~
+@93704  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
+//
+@93801  = ~shadow dervish~
+@93802  = ~Shadow Dervish~
+@93803  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks. 
+
+Advantages:
+- Immune to blindness.
+- 20% of all melee hits Blind the target for 5 seconds upon a failed save vs. Breath.
+
+Restrictions:
+- Must be Neutral
+~
+@93804  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
