@@ -45,24 +45,14 @@
 
 @1000  = ~Sélection de sorts~
 @1001  = ~Cette capacité vous permet d'apprendre de nouveaux sorts~
-// start unused
 @1002  = ~- Accès aux sphères de :~
 @1003  = ~- Accès focalisé sur les sphères de :~
 @1004  = ~- Accès majeur aux sphères de :~
 @1005  = ~- Accès mineur aux sphères de :~
-@1006  = ~Avantages :~
+@1006  = ~Avantages[^:]*:~
 @1007  = ~Capacités :~
-@1008  = ~Inconvénients :~
-@1009  = ~Restrictions :~
-// ... cleric
-@1010  = ~Capacités :~
-// ... paladin
-@1016  = ~Capacités :~
-// ... ranger
-@1021  = ~Capacités :~
-// ... druid
-@1025  = ~Capacités :~
-// end unused
+@1008  = ~Inconvénient[^:]*:~
+@1009  = ~Restrictions[^:]*:~
 @1100  = ~Mémoriser des sorts~
 @1101  = ~Après avoir choisi une divinité à servir, vous obtiendrez l'accès à des sorts dans les sphères de magie (les domaines) accessibles à cess divinité. Quand vous aurez choisi les sorts à mémoriser, ce parchemin vous permettra de les mémoriser instantanément, sans avoir besoin de vous reposer. Ceci ne peut être fait qu'une seule fois. Attention, si vous attendez trop longtemps, le parchemin peut disparaître.~
 //
@@ -5340,6 +5330,17 @@ En lançant ce sort, le prêtre ralentit un mort-vivant à portée du sort. Cet 
 @997  = ~Flèche acide~
 @998  = ~Convocation de Limons~
 @999  = ~Enveloppe acide~
+
+
+// ... cleric
+@1010  = ~Capacités :~
+// ... paladin
+@1016  = ~Capacités :~
+// ... ranger
+@1021  = ~Capacités :~
+// ... druid
+@1025  = ~Capacités :~
+
 //
 // ... shadow druid:
 //
