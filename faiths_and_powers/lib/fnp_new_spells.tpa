@@ -707,17 +707,6 @@ LAF RES_NUM_OF_SPELL_NAME
 END
 //bams seem to be messed up (sigh, again!)
 COPY_EXISTING ~%spell_res%.spl~ ~override~
-//add icons and projectile
-//	WRITE_ASCII 0x3a ~d5abundc~ #8
-//	LPF ALTER_SPELL_HEADER INT_VAR location = 2 STR_VAR icon = ~d5abundb~ END
-/*
-  LPF ALTER_SPELL_HEADER STR_VAR icon = EVAL  ~%spell_res%B~ END
-COPY ~%mod_folder%/data/new_spells/ranger_1/B_R101A.bam~ ~override/%spell_res%A.bam~
-COPY ~%mod_folder%/data/new_spells/ranger_1/B_R101B.bam~ ~override/%spell_res%B.bam~
-COPY ~%mod_folder%/data/new_spells/ranger_1/B_R101C.bam~ ~override/%spell_res%C.bam~
-//add bams to spl
-  WRITE_EVALUATED_ASCII 0x003a ~%spell_res%C~ #8
-*/
 
 //COMPATIBILITY: IN FNP WILL BE ADDED TO WAR SPHERE
 
