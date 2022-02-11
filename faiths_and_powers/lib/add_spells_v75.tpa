@@ -72,32 +72,6 @@ OUTER_SET $aoe_spell(~b_Pr501~)=1
 //__________________________________________________________________________________
 //PLANT
 
-/*		no - make this the HLA instead
-ACTION_IF GAME_IS ~iwdee bgee bg2ee eet~ THEN BEGIN    //EE only opcodes
- COPY ~faiths_and_powers/spheres/spells/plant/b_Pr601.spl~ ~override~ // Nature's Wrath
-        SAY NAME1 @51401
-        SAY NAME2 @51401
-        SAY UNIDENTIFIED_DESC @51402
-	SAY DESC @51402
-END
-
- COPY ~faiths_and_powers/spheres/spells/plant/d5Pr601.spl~ ~override~ // Nature's Wrath
-        SAY NAME1 @51401
-        SAY UNIDENTIFIED_DESC @51402
- COPY ~faiths_and_powers/spheres/spells/plant/d5_clsha.itm~ ~override~
- COPY ~faiths_and_powers/spheres/spells/plant/d5_sham.cre~ ~override~
- COPY ~faiths_and_powers/spheres/spells/plant/d5_nfsha.spl~ ~override~
-END
-
-ACTION_IF GAME_IS ~bgt tob~ BEGIN
- COPY ~faiths_and_powers/spheres/spells/plant/NonIWDEE/b_Pr601.spl~ ~override~ // Nature's Wrath
-        SAY NAME1 @51401
-        SAY NAME2 @51401
-        SAY UNIDENTIFIED_DESC @51402
-	SAY DESC @51402
-END
-*/
-
 //Assassin Vines_______________________________________________________________________
 ACTION_IF GAME_IS ~bgee bg2ee eet iwdee~ THEN BEGIN    //Not sure why, but I originally limited this to IWDEE TEST!
  COPY ~faiths_and_powers/spheres/spells/plant/b_c601.spl~ ~override~ //Assassin Vines
@@ -168,29 +142,6 @@ COPY_EXISTING ~SPPR605.spl~ ~override/b_pr602.spl~  // Start with C Fire Element
                   LPF ALTER_EFFECT INT_VAR match_opcode = 177  STR_VAR resource = ~B_PRWA2~ match_resource = ~SPFIR2P~  END //
                   LPF ALTER_EFFECT INT_VAR match_opcode = 177  STR_VAR resource = ~B_PRWA3~ match_resource = ~SPFIR3P~  END //
 IF_EXISTS
-/*  //Not addspelling for the time being...
-ADD_SPELL ~override/b_pr602.spl~ 1 6 ~CLERIC_CONJURE_WATER_ELEMENTAL~ //
-        SAY NAME1 @51701
-        SAY NAME2 @51701
-        SAY UNIDENTIFIED_DESC @51702
-	SAY DESC @51702
-//Now, other spell stuff...
-//to clear earlier versions of the spell
-LAF RES_NUM_OF_SPELL_NAME
-  STR_VAR spell_name = ~CLERIC_CONJURE_WATER_ELEMENTAL~
-  RET spell_res
-END
-
-// NEED TO CREATE UNIQUE SPELL ICON
-COPY_EXISTING ~%spell_res%.spl~ ~override~
-  LPF ALTER_SPELL_HEADER INT_VAR STR_VAR icon = EVAL  ~%spell_res%B~ END
-COPY ~faiths_and_powers/spheres/spells/charm/b_c201a.bam~ ~override/%spell_res%a.bam~
-COPY ~faiths_and_powers/spheres/spells/charm/b_c201b.bam~ ~override/%spell_res%b.bam~
-COPY ~faiths_and_powers/spheres/spells/charm/b_c201c.bam~ ~override/%spell_res%c.bam~
-//add bams to spl
-COPY_EXISTING ~%spell_res%.spl~ ~override~
-  WRITE_EVALUATED_ASCII 0x003a ~%spell_res%C~
-*/
 
 //Add scrolls to stores, etc...
 
@@ -2821,10 +2772,6 @@ COPY ~faiths_and_powers/spheres/iwd_spells/priest_4/sppr420b.spl~ ~override/%spe
 COPY ~faiths_and_powers/spheres/iwd_spells/priest_4/b_p420a.eff~ ~override~   //text notification
   SAY 0x1c @42000004    //Notification
 
-/* this was insane!
-STRING_SET 13107 @42000004
-COPY_EXISTING ~book32.itm~ ~override~
-	SAY NAME2 @42000003   */
 IF_EXISTS
 //must add projectile
 COPY_EXISTING ~%spell_res%B.spl~ ~override~
