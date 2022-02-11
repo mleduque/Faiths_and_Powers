@@ -157,7 +157,6 @@ ACTION_IF !(GAME_IS ~iwdee~) BEGIN
   LAM v75_add_iwd_divine_spells
 END
 
-// LAM v75_add_fnP_new_spells
 LAM v78_add_fnP_new_spells
 
 ACTION_IF (FILE_EXISTS_IN_GAME ~dvsrv4here.mrk~) BEGIN
@@ -214,8 +213,7 @@ ACTION_IF !(GAME_IS ~iwdee~) BEGIN
   LAM v75_add_iwd_divine_spells
 END
 
-// LAM v75_add_fnP_new_spells
- LAM v78_add_fnP_new_spells
+LAM v78_add_fnP_new_spells
 
 ACTION_IF (FILE_EXISTS_IN_GAME ~dvsrv4here.mrk~) BEGIN
   LAM v75_apply_sr_aoe_deflection
@@ -274,7 +272,6 @@ ACTION_IF !(GAME_IS ~iwdee~) BEGIN
   LAM v75_add_iwd_divine_spells
 END
 
-// LAM v75_add_fnP_new_spells
 LAM v78_add_fnP_new_spells
 
 ACTION_IF (FILE_EXISTS_IN_GAME ~dvsrv4here.mrk~) BEGIN
@@ -380,8 +377,7 @@ ACTION_IF !(GAME_IS ~iwdee~) BEGIN
   LAM v75_add_iwd_divine_spells
 END
 
-// LAM v75_add_fnP_new_spells
- LAM v78_add_fnP_new_spells
+LAM v78_add_fnP_new_spells
 
 ACTION_IF (FILE_EXISTS_IN_GAME ~dvsrv4here.mrk~) BEGIN
   LAM v75_apply_sr_aoe_deflection
