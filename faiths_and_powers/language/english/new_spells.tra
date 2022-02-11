@@ -198,19 +198,6 @@ Saving Throw: Spell
 With this spell, the priest commands the target to attack the nearest creature.  If the target doesn't save vs. spell, they will attack the nearest creature--friend or foe--that they can reach in melee combat.~
 
 
-@50805 = ~Murderous Command (focus)
-(Enchantment/Charm)
-
-Level: 2
-Sphere: Thought
-Range: Visual range of the caster
-Duration: 1 round per level (max 10 rounds)
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Spell
-
-With this spell, the priest commands the target to attack the nearest creature.  If the target doesn't save vs. spell, they will attack the nearest creature--friend or foe--that they can reach.~
-
 @50806 = ~Enthrall~
 @50807 = ~Enthrall
 (Enchantment/Charm)
@@ -265,18 +252,6 @@ If the target doesn't save vs. spell, they will enter 'fight or flight' mode, ei
 
 Level: 5
 Sphere: Combat
-Range: Long
-Duration: 1 Round/level
-Casting Time: 1
-Saving Throw: none
-
-When the caster completes this spell, and designates one opponent within sight, that opponent finds it almost impossible to hit with a ranged weapon suffering a -20 to THAC0 for the duration of the spell.~
-
-@50903 = ~Misfire (focus)
-(Alteration)
-
-Level: 4
-Sphere: Dread
 Range: Long
 Duration: 1 Round/level
 Casting Time: 1
@@ -343,21 +318,6 @@ The spell ends after three rounds and does not have any affect against creatures
 
 @51203 = ~Racked with Agony~
 
-@51204 = ~Waves of Agony (Focus)
-(Necromancy)
-Level: 4
-Sphere: Affliction
-Range: 35 feet
-Duration: Special, maximum of 3 rounds
-Casting Time: 5
-Area of Effect: One Creature
-Saving Throw: Poison/Death -5 see below
-
-When the priest casts this spell, <PRO_HESHE> points to a single creature within 35 feet.  That creature is wracked with pain and must make a save vs death at -5 or be unable to move or act for a full round and they will take 2 points of non-lethal damage per level of the priest (max 30 at level 15). If he saves, he takes half damage and shakes off the spell.
-In the second round, any creature that failed their save must save again or be paralyzed for another round and take the same amount of damage as they took in round one.  If they save, they take half damage and shake off the spell.
-In the third round, any creature that has failed both of their previous saves must save again or remain paralyzed for another round and take the same amount of damage again.  A creature that makes a successful save will take half damage and is no longer paralyzed.
-The spell ends after three rounds and does not have any affect against creatures that cannot feel pain like golems or undead.~
-
 //@51400
 @51401 = ~Nature's Wrath~
 
@@ -365,28 +325,6 @@ The spell ends after three rounds and does not have any affect against creatures
 (Alteration)
 
 Level: 6
-Sphere: Plant
-Range: Self
-Duration: 1 Turn
-Casting Time: 6
-Area of Effect: The caster
-
-With this spell, the priest draws on the power of nature to transform <PRO_HIMHER>self into a terrible plant-like creature known as a Shambling Mound.
-
-<PRO_HISHER> body becomes incredibly resistant to damage.  <PRO_HISHER> AC is set at 0, and <PRO_HESHE> is 50% resistant to all physical damage.  <PRO_HESHE> also becomes completely immune to fire and electricity, and only suffers half damage from cold.  Additionally, <PRO_HESHE> regenerates 6 hit points per round.
-
-Additionally, <PRO_HESHE> is infused with the raw power of nature, gaining a strength of 20, and <PRO_HESHE> can make two unarmed attacks per round inflicting 2d8 (+8 from strength) damage, and those struck must make a save vs. breath or be entangled for two rounds.
-
-These unarmed attacks count as +3 weapons.
-
-The wrath of nature will not be restrained.  The priest is protected by freedom of action while transformed.
-
-<PRO_HESHE> loses the ability to cast spells while transformed.~
-
-@51403 = ~Nature's Wrath (Focus)
-(Alteration)
-
-Level: 5
 Sphere: Plant
 Range: Self
 Duration: 1 Turn
@@ -421,41 +359,6 @@ When this spell is cast, grasses, weeds, bushes, and even trees wrap, twist, and
 
 Note: The spell Free Action protects recipients against damage and movement pentalties from this spell.~
 
-@51406 = ~Assassin Vines  (Focus)
-(Alteration)
-
-Level: 5
-Sphere: Plant
-Range: Visual range of the caster
-Duration: 1 turn
-Casting Time: 4
-Area of Effect: 24-ft. radius
-Saving Throw: Special
-
-When this spell is cast, grasses, weeds, bushes, and even trees wrap, twist, and entwine about any creatures within the area of effect, holding them fast for the duration of the spell. Additionally, they try to squeeze the life out of any creature caught in their grasp, causing 4d6 points of crushing damage per round.  A successful Save vs. breath avoids entanglement, and halves the damage inflicted, though creatures in the area are still impeded, and find their movement halved. Entangled creatures can still attack, even though they cannot move.~
-
-@51407 = ~Goodberry
-(Alteration)
-
-Level: 2
-Sphere: Plant 
-Range: Touch 
-Duration: Permanent
-Casting Time: 9 
-Area of Effect: Special 
-Saving Throw: None 
-
-Casting a Goodberry spell creates 1 handful of magical berries that the caster can carry with <PRO_HIMHER> per two levels <PRO_HESHE> posesses (maximum of 10 at level 20). Each handful, when eaten, restores 3 Hit Points, plus 15% of the creature's maximum hit points, and eliminates all fatigue.~
-
-@51408 = ~Created by the Goodberry spell, these simple-looking blueberries will heal damage, and eliminate fatigue for each handful of berries eaten.
-
-STATISTICS:
-
-Special: Heals 3 +15% Hit Points
-Removes Fatigue
-
-Weight: 0~
-
 @51420 = ~Snare~
 @51421 = ~Snare
 (Alteration)
@@ -475,17 +378,6 @@ Much like a thief trap, this spell fails if cast in the presence of enemies.~
 //@51500
 
 @51501 = ~Stone Fist~
-@51502 = ~Stone Fist
-(Alteration)
-
-Level: 3
-Sphere: Elemental Earth
-Range: Self
-Duration: 1 Turn
-Casting Time: 3
-Area of Effect: The caster
-
-When the caster completes this spell, <PRO_HISHER> hands become blocks of stone.  <PRO_HESHE> can make melee attacks with these hands inflicting 2d8 points of damage plus strength.  In addition, <PRO_HESHE> is infused with the power of the earth, and <PRO_HISHER> strength is increased by 2 for the duration of the spell.~
 
 @51504 = ~Stone Fist
 
@@ -513,37 +405,12 @@ Saving Throw: None
 
 This spell invokes a wall of electric energy.  This wall is intangible, requiring no physical anchor, and can easily be passed through. However, all creatures that pass through the wall take 4d6 points of electric damage, and an additional 4d6 damage for every round they stay in the area.~
 
-@51603 = ~Stormwall (focus)
-(Invocation)
-
-Level: 3
-Sphere: Elemental Air
-Range: Visual range of the caster
-Duration: 1 turn
-Casting Time: 7
-Area of Effect: 20 ft. long, 5 ft. wide wall
-Saving Throw: None
-
-This spell invokes a wall of electric energy.  This wall is intangible, requiring no physical anchor, and can easily be passed through. However, all creatures that pass through the wall take 4d6 points of electric damage, and an additional 4d6 damage for every round they stay in the area.~
-
 //@51700
 
 @51701 = ~Conjure Water Elemental~
 @51702 = ~Conjure Water Elemental
 
 Level: 6
-Sphere: Elemental (Water)
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
-
-Upon casting a Conjure Water Elemental spell, the caster opens a special gate to the Elemental Plane of Water, and a water elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears; a 35% chance that a 16-Hit-Dice elemental appears; and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will do the bidding of the caster until it is slain or the duration of the spell runs out. All the commands given to the elemental are done telepathically, so there is no time lost due to miscommunication and no need to know the language of the summoned creature. Unlike Mages, priests do not have to engage in a battle of the minds to control their elemental.~
-
-@51703 = ~Conjure Water Elemental
-
-Level: 5
 Sphere: Elemental (Water)
 Range: Visual range of the caster
 Duration: 1 turn/level
@@ -696,22 +563,6 @@ Saving Throw: None
 This spell infuses the target with shadow, protecting them from both attacks and spells, while also protecting them from prying eyes.  Targets gain a +1 bonus to AC per four levels (maximum of +5), +2 bonus to save vs. spells, and infravision for the duration of this spell.
 
 Additionally, the recipeient hides in shadows at 99%, and automatically blends into the shadows each round if they are not doing anything else.~
-
-@52005 = ~Cloak of Darkness (focus)
-(Abjuration)
-
-Level: 2
-Sphere: Shadow
-Range: Touch
-Duration: 1 Turn
-Casting Time: 6
-Area of Effect: 1 creature
-Saving Throw: None
-
-This spell infuses the target with shadow, protecting them from both attacks and spells, while also protecting them from prying eyes.  Targets gain a +1 bonus to AC per four levels (maximum of +5), +2 bonus to save vs. spells, and infravision for the duration of this spell.
-
-Additionally, the recipeient hides in shadows at 99%, and automatically blends into the shadows each round if they are not doing anything else.~
-
 
 @52007  = ~Summon Shadows~
 @52008  = ~Summon Shadows
