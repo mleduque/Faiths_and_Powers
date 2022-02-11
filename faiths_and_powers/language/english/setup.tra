@@ -45,156 +45,7 @@
 @144  = ~Change a different spell~
 //
 @200  = ~new and revised cleric kits~
-// 
-// INDEX:
-//
-// ... Cleric kits = 201-299
-//
-@201  = ~Add Cleric of Lathander~
-@202  = ~Add Cleric of Torm~
-@205  = ~Add Cleric of Tymora~
-@208  = ~Add Cleric of Helm~
-@209  = ~Add Cleric of Kelemvor~
-@210  = ~Add Cleric of Tempus~
-@212  = ~Add Cleric of Leira~
-@219  = ~Add Cleric of Loviatar~
-@224  = ~Add Cleric of Talos~
-@225  = ~Add Cleric of Cyric~
-@226  = ~Add Cleric of Umberlee~
-//
-// ... Priest kits = 301-350
-//
-@310  = ~Add Priest of Oghma~
-@314  = ~Add Priest of Ilmater~
-@315  = ~Add Priest of Deneir~
-@316  = ~Add Priest of Sune~
-@322  = ~Add Priest of Tempus~
-@325  = ~Add Priest of Azuth~
-@330  = ~Add Priest of Shar~
-@331  = ~Add Priest of Moander~
-@332  = ~Add Priest of Beshaba~
-//
-// ... Demihuman kits = 351-399
-//
-@351  = ~Add Cleric of Corellon Larethian~
-@352  = ~Add Cleric of Sehanine Moonbow~
-@353  = ~Add Cleric of Erevan Ilesere~
-@354  = ~Add Cleric of Hanali Celanil~
-@371  = ~Add Cleric of Moradin~
-@372  = ~Add Cleric of Clangeddin~
-@373  = ~Add Cleric of Marthammor Duin~
-@381  = ~Add Cleric of Garl Glitterlode~
-@382  = ~Add Cleric of Baervan Wildwanderer~
-@383  = ~Add Cleric of Baravar Cloakshadow~
-@384  = ~Add Cleric of Gaerdal Ironhand~
-@385  = ~Add Cleric of Urdlen~
-@391  = ~Add Cleric of Yondalla~
-@392  = ~Add Cleric of Arvoreen~
-@393  = ~Add Cleric of Brandobaris~
-//
-// ... Incarnate kits = 401-449
-//
-@405  = ~Add Incarnate of Mystra~
-//
-// ... multiclass kits = 450-499
-//
-@451  = ~Add Fighter/Druid~
-@452  = ~Add Ranger/Druid~
-@453  = ~Add Druid/Thief~
-@454  = ~Add Druid/Mage~
-@455  = ~Add Sorcerer/Druid~
-@469  = ~Add Priest of Mask~
-@477  = ~Add Cleric of Brandobaris~
-//
-@499  = ~install multiclass kits~
-//
-@700  = ~new and revised druid kits~
-//
-// ... Mystic kits = 701-730
-//
-@701  = ~Add Nature Mystic~
-@702  = ~Add Beast Mystic~
-@703  = ~Add Earth Mystic~
-@704  = ~Add Water Mystic~
-@705  = ~Add Air Mystic~
-@706  = ~Add Fire Mystic~
-@707  = ~Add Light Mystic~
-@708  = ~Add Shadow Mystic~
-@711  = ~Add Fate Mystic~
-//
-// ... Druid kits = 731-760
-//
-@731  = ~Add Forest Druid~
-@732  = ~Add Mountain Druid~
-@733  = ~Add Jungle Druid~
-@734  = ~Add Desert Druid~
-@735  = ~Add Arctic Druid~
-@736  = ~Add Cave Druid~
-//
-// ... Occultist kits = 761-780
-//
-@761  = ~Add Ur-Priest~
-@762  = ~Add Beast Lord~
-@763  = ~Add Elementalist~
-@765  = ~Add Chaos Priest~
-//
-@800  = ~new and revised paladin kits~
-//
-// ... Champion kits = 801-830
-//
-@801  = ~Add Champion of Tyr~
-@802  = ~Add Champion of Kelemvor~
-@803  = ~Add Champion of Tempus~
-@804  = ~Add Champion of Bane~
-@805  = ~Add Champion of Helm~
-@806  = ~Add Champion of Talos~
-@807  = ~Add Champion of Moradin~
-@808  = ~Add Champion of Azuth~
-@809  = ~Add Champion of the Red Knight~
-//
-// ... Inquisitor kits = 831-860
-//
-@831  = ~Add Inquisitor of ~
-//
-// ... Zealot kits = 861-880
-//
-@862  = ~Add Zealot of Gruumsh~
-@863  = ~Add Zealot of Talos~
-@864  = ~Add Zealot of Kossuth~
-@865  = ~Add Zealot of Ilmater~
-@866  = ~Add Zealot of Garagos~
-@867  = ~Add Zealot of Corellon Larethian~
-@868  = ~Add Zealot of Sune~
-@869  = ~Add Zealot of Mystra~
-@870  = ~Add Zealot of Eilistraee~
-//
-//
-@900  = ~new and revised ranger kits~
-//
-// ... ranger kits = 901-929
-//
-@901  = ~Add Forest Ranger~
-@902  = ~Add Mountain Ranger~
-@903  = ~Add Jungle Ranger~
-@904  = ~Add Desert Ranger~
-@905  = ~Add Arctic Ranger~
-//
-// ... dervish kits = 931-949
-//
-@932  = ~Add Beast Master~
-@933  = ~Add Earth Dervish~
-@934  = ~Add Water Dervish~
-@935  = ~Add Air Dervish~
-@936  = ~Add Fire Dervish~
-@937  = ~Add Light Dervish~
-@938  = ~Add Shadow Dervish~
-//
-// ... scout kits = 951-969
-//
-@953  = ~Add Mage Hunter~
-@954  = ~Add Barbarian Ranger~
-@955  = ~Add Elven Archer~
-@956  = ~Add Halfling Slinger~
+
 //
 // ... sphere stuff
 //
@@ -215,14 +66,7 @@
 @1008  = ~Disadvantages:~
 // replacement
 @1009  = ~Restrictions:~
-// ... cleric
-@1010  = ~Abilities:~
-// ... paladin
-@1016  = ~Abilities:~
-// ... ranger
-@1021  = ~Abilities:~
-// ... druid
-@1025  = ~Abilities:~
+
 //
 @1100  = ~Memorize spells~
 @1101  = ~After choosing a deity to follow, you will gain access to spells within the spheres of magic - the domains - available to that deity. Once you choose which spells to memorize, using this scroll will allow you to memorize them instantly, without needing to rest. This may only be done once. Beware, if you wait too long, the scroll may disappear.~
@@ -233,7 +77,6 @@
 //
 @10001 = ~priest~
 @10002 = ~Cleric~
-@10003 = ~CLERIC~
 @10005 = ~CLERIC: The basic Cleric is an adventuring priest who promotes the principles and philosophy dear to <PRO_HISHER> deity. Though <PRO_HESHE> is both protector and healer, <PRO_HESHE> is not purely defensive-when enemies threaten, the Cleric is well suited to challenge them on their own ground and destroy them.
 
 CLASS FEATURES:
@@ -247,81 +90,22 @@ CLASS FEATURES:
 - Hit Die: d8~
 @10011 = ~fighter / priest~
 @10012 = ~Fighter / Priest~
-@10013 = ~FIGHTER/PRIEST~
-@10014 = ~FIGHTER/CLERIC~
 @10015 = ~FIGHTER/PRIEST: This character can use the abilities of a Fighter and a Priest, though weapons are restricted to only those allowed by the Priest's ethos. They may Specialize in, but not Master, any weapon they can use.~
 @10021 = ~mage / priest~
 @10022 = ~Mage / Priest~
-@10023 = ~MAGE/PRIEST~
-@10024 = ~CLERIC/MAGE~
 @10025 = ~MAGE/PRIEST: This character can use the abilities of a Priest and a Mage, though weapons are restricted to only those allowed by the Priest's ethos, and Mage spells cannot be cast while wearing armor.
 
 Gnomes can choose this multi-class, but become Cleric/Illusionists by default. Gnomes are the only race that can combine a specialist Mage class in a multi-class.~
 @10031 = ~thief / priest~
 @10032 = ~Thief / Priest~
-@10033 = ~THIEF/PRIEST~
-@10034 = ~CLERIC/THIEF~
 @10035 = ~THIEF/PRIEST: This character can use the abilities of a Priest and a Thief, though weapons are restricted to only those allowed by the Priest's ethos. Thieving skills cannot be used while wearing more than studded leather armor.~
 @10041 = ~ranger / priest~
 @10042 = ~Ranger / Priest~
-@10043 = ~RANGER/PRIEST~
-@10044 = ~CLERIC/RANGER~
 @10045 = ~RANGER/PRIEST: This character can use the abilities of a Priest and a Ranger, though weapons are restricted to only those allowed by the Priest's ethos. This character may Specialize in, but not Master, any weapon they can use.~
 @10051 = ~mystic warrior~
 @10052 = ~Mystic Warrior~
-@10053 = ~MYSTIC WARRIOR~
-@10054 = ~FIGHTER/DRUID~
 @10055 = ~MYSTIC WARRIOR: This character can use the abilities of a Fighter and a Mystic, though weapons and armor are restricted to only those allowed by the Mystic's ethos. This character may Specialize in, but not Master, any weapon they can use.~
-@10100 = ~CLERIC: The Cleric is an adventuring priest who promotes the principles and philosophy dear to <PRO_HISHER> deity. Though <PRO_HESHE> is both protector and healer, <PRO_HESHE> is not purely defensive-when enemies threaten, the Cleric is well suited to challenge them on their own ground and destroy them.
 
-CLASS FEATURES:
-
-- May wear helmets.
-- May wear up to Chain Mail armor.
-- Deity Selection: All clerics must select a deity.  Deity selection determines sphere access, granted powers, and other bonuses.
-- May become Proficient (one slot) with the short sword, Dagger, War Hammer, Club, Spear, Flail, Mace, Quarterstaff, Crossbow, Dart, Sling, or any fighting style.
-- May Turn Undead.
-- May cast priest spells, but is limited to universal spells until <PRO_HESHE> selects <PRO_HISHER> deity.
-- Hit Die: d8~
-@10101 = ~incarnate~
-@10102 = ~Incarnate~
-@10103 = ~INCARNATE: Often called, "Chosen", Incarnates are 'natural' priests, with little or no connection to any church hierarchy. It is less true to say that they choose their deity than they are 'chosen' by a given deity (whether they like it or not) for their temperament, and natural connection to divine magic. Often peasants, they typically have few skills or other special training.
-
-Advantages:
-- Divine Favor: Incarnates gain special unique abilities that are not available to other clerics, including specialized priests of the same deity.
-
-Disadvantages:
-- Is not proficient with armor, shields or helmets.~
-
-@10104 = ~priest~
-@10105 = ~Priest~
-@10106 = ~PRIEST: Also known as "Archivists" or "Cloisters", Priests are especially pious and studious clerics that rarely venture beyond abbey walls. However, when they do go adventuring, their skills and spells are quite useful, even if they lack combat training typical of most clerics.
-
-CLASS FEATURES:
-
-- Devoted Servant: Priests always get more bonus spells than other clerics of the same deity as the have spent years cultivating a connection with that deity through rigorous ritual and meditation. As such, they gain +1 spell per spell level.
-- Sphere Focus: Priests gain access to spells earlier than other clerics.  They gain access to spells one level earlier to their deity's favored sphere.
-
-Disadvantages:
-- Can only wear leather armors
-- Gains only d6 HD per level.
-
-Restrictions:
-~
-@10107 = ~Select Deity~
-
-@10108 = ~Select Lathander~
-@10109 = ~Select Another Deity~
-@10110 = ~Select Helm~
-@10111 = ~Select Tymora~
-@10112 = ~Select Leira~
-@10113 = ~Select Loviatar~
-@10114 = ~Exit~
-@10115 = ~Select Mystra~
-@10116 = ~Select Ilmater~
-@10117 = ~Select Mask~
-@10118 = ~Select Shar~
-@10119 = ~Select Talos~
 @20001 = ~ur-priest~
 @20002 = ~Ur-Priest~
 @20003 = ~UR-PRIEST: Ur-Priests are heretical practitioners that have found a way to wrest divine power from the gods with the use of ancient and forbidden rituals.  As might be expected, this behavior is frowned upon by the gods, and Ur-Priests have to keep their profession secret or risk persecution or worse.
@@ -366,17 +150,6 @@ BOON OF LATHANDER: This spell lasts 1 round per level of the caster. It gives th
 Restrictions:
 - Alignment: Any good, or lawful neutral.
 ~
-@20104 = ~Hold Undead
-(Necromancy)
-
-Range: 35 ft.
-Duration: 2 rounds/level
-Casting Time: 3
-Area of Effect: 1 creature and any enemies within 10 ft.
-Saving Throw: Neg.
-
-This spell holds 1d4 undead creatures rigidly immobile and in place for 12 or more rounds. The effect is centered on the victim selected by the caster. Any enemies within 10 ft. of the target are also affected. Those who succeed on their Saving Throws are totally unaffected by the spell. Held creatures cannot move or speak, but they remain aware of events around them and can use abilities not requiring motion or speech. Being held does not prevent the worsening of the subject's condition due to wounds.
-~
 @20105 = ~False Dawn
 Range: 0
 Duration: 5 rounds
@@ -386,9 +159,7 @@ Saving Throw: None
 
 False Dawn calls into existence a bright reddish light, as if a sunrise were occurring, within the area of effect. All undead creatures within the area suffer 6d6 points of fire damage and are blinded on the round after the false dawn appears. There is no Saving Throw.
 ~
-@20107  = ~Hold Undead~
 @20108  = ~False Dawn~
-@20106  = ~~
 //
 //    CLERIC OF TORM
 //
@@ -422,7 +193,6 @@ Restrictions:
 ~
 @20504  = ~LUCKRIDER OF TYMORA: Also known as Lady Luck, Tymora is the goddess of good fortune. The sect of her clerics known as Luckriders eat, drink, and sleep luck. Confident to the point of cockiness, they enter battle recklessly, throwing caution to the wind and trusting in fate. Considering how many adventurers perish despite crafting meticulous strategies and plans, this is not a ridiculous position.
 ~
-@20505  = ~~
 @20511  = ~Luck~
 @20513  = ~Tymora's Luck~
 @20514  = ~Tymora's Luck
@@ -447,7 +217,6 @@ SEEKING SWORD: This spell creates a sword in the Cleric's hand that cannot be dr
 Restrictions:
 - Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
 ~
-@20805  = ~~
 @20806 = ~Helm's Eye~
 @20807 = ~Helm's Eye
 
@@ -491,7 +260,6 @@ Restrictions:
 - Alignment: No alignment restrictions.
 ~
 @21004 = ~Incite Rage~
-@21005 = ~~
 @21006 = ~Incite Rage
 
 The character can incite range in <PRO_HIMHER>self or another. While enraged, the character gains a bonus of +2 to <PRO_HISHER> attack and damage rolls as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains 15 temporary Hit Points, which are taken away at the end of the berserk spree (possibly knocking the character unconscious).
@@ -512,7 +280,6 @@ Restrictions:
 - Alignment: may not be Lawful.
 ~ //once per turn or five rounds?
 @21204  = ~MISTWALKER OF LEIRA: Leira is the goddess of deception and illusion. She was supposedly slain under mysterious circumstances during the Avatar crisis, but at least one sect of her worshippers, the Mistwalkers, continue to receive divine power. Lies are their currency, illusion is their tool.~
-@21205  = ~~
 @21211  = ~Leira's Double~
 @21212  = ~Leira's Double~
 //
@@ -538,7 +305,6 @@ When the cleric uses this ability, <PRO_HISHER> hands become instruments of Lovi
 Restrictions:
 - May not be Good.
 ~
-@21905  = ~~
 @21911  = ~Pain Touch~
 @21912  = ~Pain Touch
 Duration: Special
@@ -549,7 +315,6 @@ The penalties and damage occurs over an excruciating period of 10 rounds.
 
 Paingivers have have this touch indefinitely, but they can suppress it as needed.
 ~
-@21913  = ~Writhing in Pain~
 @21914  = ~Loviatar's Caress~
 @21915  = ~Loviatar's Caress
 
@@ -573,7 +338,6 @@ STORM SHIELD: This spell lasts 1 round per level of the caster. It protects the 
 Restrictions:
 - Alignment: any evil or chaotic neutral
 ~
-@22405  = ~~
 @22406 = ~Lightning Bolt
 (Evocation)
 
@@ -658,7 +422,6 @@ ENDURANCE OF ILMATER: When the priest casts this spell, <PRO_HESHE> doubles the 
 Restrictions:
 - Alignment: May not be Evil
 ~
-@31405  = ~~
 @31411  = ~Remove Fear~
 @31412  = ~Remove Fear
 The priest instills courage in the spell's recipients, raising their morale to its highest. The recipients' morale will gradually reset to normal as the spell's duration runs out. If the recipients are affected by magical fear, this is negated.~
@@ -721,7 +484,6 @@ Advantages:
 Restrictions:
 - Alignment: No alignment restrictions
 ~
-@32205  = ~~
 @32206 = ~Chant
 (Conjuration/Summoning)
 
@@ -806,7 +568,6 @@ Restrictions:
 - Alignment: may not be Chaotic or Good
 ~
 @33004  = ~DARKCLOAK OF SHAR: Shar is known as the Mistress of the Night. She is the goddess of darkness, presiding over caverns, darkness, dungeons, forgetfulness, loss, night, and secrets. The Darkcloaks are an unusual sect, who use Shar's influence to give care and comfort to those who are lost or emotionally damaged. While some other followers of Shar spurn these priests for failing to be militant enough, Darkcloaks still possess powerful abilities to strive against their enemies.~
-@33005  = ~~
 //
 // ... priest of moander:
 //
@@ -926,10 +687,6 @@ Advantages:
 Restrictions:
 - Alignment: may not be Evil.
 ~
-@37323  = ~Tracking~
-@37334  = ~Tracking
-
-With an intimate knowledge of <PRO_HISHER> surroundings and the creatures that live within them, a Volamtar of Marthammor Duin can use the Tracking ability to give <PRO_HIMHER>self a general idea of what creatures are in an area and which direction they are. Red arrows at the edge of the screen will point in the general direction of the creatures in the area.~
 //
 // ... priest of haela:
 //
@@ -966,11 +723,6 @@ SHADOWSTEP: The character steps into the Shadow Plane and may move for 7 seconds
 Restrictions:
 - Alignment: may not be Lawful.
 ~
-// 38204 38211 and  38212 probably unused
-@38204  = ~CLOAKED ONE OF BARAVAR: ~
-
-@38211  = ~Baravar's Double~
-@38212  = ~Baravar's Double: Often used in emergencies, this causes an illusionary double of the cleric to spring into existence. If the cleric is being attacked, the double will absorb the first blow that lands, and disappear. At 6th level two doubles are created, and at 12th level one of the two doubles can actually wander away from the cleric to distract enemies. Hoodwinkers may use this ability once per turn.~
 //
 // ... priest of baervan:
 //
@@ -991,29 +743,6 @@ Restrictions:
 ~
 @38304 = ~FASTPAWS OF BAERVAN WILDWANDERER: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
 ~
-//
-// ... cleric of baervan:
-//
-@22301 = ~fastpaws of baervan~ //Lower Case Kit Name: No Divine Remix
-@22302 = ~Fastpaws of Baervan~ //Mixed Case Kit Name: No Divine Remix
-@22303 = ~PRIEST OF BAERVAN: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
-
-Advantages:
-- May cast Call Woodland Beings once per day every 5 levels of the caster (starts at 1st level with one use).
-- May cast Naturewalk once per day every 10 levels of the caster (starts at 1st level with one use).
-
-NATUREWALK: This spell grants one person protection from ground and nature based movement impairing effects such as webs, entangling, and grease. This spell lasts 1 round per level of the caster.
-
-Restrictions:
-- Race restricted to gnome.
-- Alignment restricted to good.
-~
-@22304 = ~PRIEST OF BAERVAN: Usually found far abreast from heavily urban areas, followers of Baervan Wildwanderer seek to protect nature from evil creatures. They have a particular affinity for forest plants and creatures, especially raccoons.
-~
-@22305  = ~~
-@22311 = ~Naturewalk~
-@22312 = ~Naturewalk
-This spell grants one person protection from ground and nature based movement impairing effects such as webs, entangling, and grease. This spell lasts 1 round per level of the caster.~
 //
 // ... priest of urdlen:
 //
@@ -1114,40 +843,6 @@ RESTRICTIONS:
 @45502  = ~Sorcerer/Druid~
 @45601  = ~druid/monk~
 @45602  = ~Druid/Monk~
-@74100  = ~Fighter/Druid~
-@74300  = ~Druid/Mage~
-@74500  = ~Druid/Ranger~
-@74700  = ~Druid/Thief~
-@74101  = ~druid~
-@74102  = ~Druid~
-@74103  = ~DRUID: Most druids reside in the regions where soil is nutritious, plant life is abundant and animals thrive.  These regions are in many ways the epitome of harmonious ecosystems, and druids often charge themselves with nurturing and defending them.  Tall forests are a paradise in many ways: they provide shade from the sun, food and homes for animals and people, and wood for tools.  Forests are incessantly under threat of being torn down and subjugated by careless humans and demihumans. Forest druids therefore often live with a constant low-grade paranoia, which informs the stereotype of druids being hostile to civilization.
-
-Advantages:
-- At 1st level, may summon a Spirit Bear. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 3rd level, may shapeshift into the form of a wolf or a ferret at will.
-- At 5th level, may shapeshift into the form of a black bear.
-- At 7th level, may shapeshift into the form of a python or a mountain lion.
-- At 9th level, may shapeshift into a larger dire wolf instead of a wolf.
-- At 9th level, the druid become immune to poison.
-- At 11th level, may shapeshift into a larger grizzly bear instead of a black bear.
-- At 13th level, may shapeshift into a large wyvern.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
-
-WOLF: in wolf form the druid can detect hidden enemies. He can attack 1.5 times per round for 2d4 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
-
-FERRET: in ferret form the druid is hidden from view for up to two rounds. <PRO_HESHE> can use this to escape enemies or move undetected, and can attack once per round for 1d2 piercing damage.
-
-BLACK BEAR: in black bear form, the druid has 19 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage.
-
-PYTHON: in snake form, the druid can attack with a bite that causes 1d3 damage and poisons the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can attempt to constrict around an opponent, briefly paralyzing them if they fail a saving throw.
-
-MOUNTAIN LION: in mountain lion form, the druid can attack twice per round for 2d4 slashing damage. Successful attacks can knock the target to the ground if they fail a saving throw. 
-
-DIRE WOLF: in dire wolf form the druid has 19 STR. He can attack 1.5 times per round for 2d6 piercing damage. Successful attacks have a chance to grapple the target, briefly Slowing them; they must make a saving throw to avoid this.
-
-GRIZZLY BEAR: in grizzly bear form, the druid has 20 strength. <PRO_HESHE> can attack twice per round with claws that cause 2d6 slashing damage and, if the target fails a saving throw, and additional 2d4 crushing damage.
-
-WYVERN: in wyvern form the druid can fly over ground-based obstacles like Entangle and Web spells. <PRO_HISHER> powerful claws can rake victims for 2d6 damage and <PRO_HISHER> attacks can poison the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can create a powerful gust of wind that acts like a smaller version of a dragon's "Wing Buffet" ability.~
 //
 // ... abjurist of mystra 
 //
@@ -1180,17 +875,6 @@ Restrictions:
 //
 // ... spellbender 
 //
-@46601  = ~spellbender~
-@46602  = ~Spellbender~
-@46603  = ~SPELLBENDER: The goddess Mystra rules all magic, and mandates that spellcasters must formulate known spells, and must memorize the patterns of those spells in order to successfully release them. But as with any system, the are gaps and shortcuts that may be used to circumvent the rules. Sorcerers are born with the ability to shape magic directly, though only into a limited number of effects; and wild mages shape spells without discipline, achieving powerful results at the risk of disastrous side-effects. Spellbenders make a science of mapping the ways to bypass Mystra's restrictions. Practicing as generalist clerics as well as studying arcane wizardry, they learn to manipulate the intersection of those two areas of magic.
-
-Advantages:
-- May use the 'Arcane Weaving' ability in place of memorizing priest spells. This ability allows the Spellbender to spontaneously cast one of several wizard spells of one level lower than the sacrificed priest spell.
-- May use the 'Divine Weaving' ability in place of memorizing wizard spells. This ability allows the Spellbender to spontaneously cast one of several priest spells of one level lower than the sacrificed wizard spell.
-
-Restrictions:
-- None.
-~
 @46605  = ~Arcane Weaving I~
 @46606  = ~Arcane Weaving
 
@@ -1263,78 +947,6 @@ This magic will allow the Spellbender to cast one of the following spells:
 - Pierce Magic
 - Improved Haste
 - Chain Lightning~
-@46617  = ~Divine Weaving I~
-@46618  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Light Wounds
-- Bless
-- Remove Fear
-- Protection from Evil
-- Armor of Faith
-- Sanctuary
-- Command
-- Magic Stone~
-@46619  = ~Divine Weaving II~
-@46620  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Find Traps
-- Chant
-- Resist Fire and Cold
-- Slow Poison
-- Draw Upon Holy Might
-- Silence
-- Hold Person
-- Spiritual Hammer~
-@46621  = ~Divine Weaving III~
-@46622  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Medium Wounds
-- Remove Curse
-- Cure Disease
-- Remove Paralysis
-- Dispel Magic
-- Invisibility Purge
-- Strength of One
-- Holy Smite~
-@46623  = ~Divine Weaving IV~
-@46624  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Serious Wounds
-- Lesser Restoration
-- Protection from Evil 10' Radius
-- Defensive Harmony
-- Death Ward
-- Protection from Lightning
-- Free Action
-- Holy Power~
-@46625  = ~Divine Weaving V~
-@46626  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Cure Critical Wounds
-- Mass Cure
-- Chaotic Commands
-- Magic Resistance
-- Righteous Magic
-- Greater Command
-- Repulse Undead
-- Flame Strike~
-@46627  = ~Divine Weaving VI~
-@46628  = ~Divine Weaving
-
-This magic will allow the Spellbender to cast one of the following spells:
-- Heal
-- Wondrous Recall
-- Aerial Servant
-- Physical mirror
-- Blade Barrier
-- Sol's Searing Orb
-- False Dawn
-- Bolt of Glory~
 //
 // ... cleric/thief of mask:
 //
@@ -1350,8 +962,6 @@ Advantages:
 Restrictions:
 - Alignment: may not Lawful or Good.
 ~
-@46904  = ~NIGHTRUNNER OF MASK: Mask is the god of shadow and intrigue. His goals are always hidden, and his actions are motivated by many layers of schemes and plans. His sect of Nightrunners includes both priests and cleric/thieves who travel the land advancing Mask's agenda.~
-@46905  = ~~
 @46911  = ~Shadow Eye~
 @46912  = ~The Nightrunner creates an shadowy sensory organ that can move away and sends back visual information to the Nightrunner's mind. The Shadow Eye eye can see with normal vision up to 60 feet away in brightly lit areas, and travel in any direction as long as the spell lasts.~
 @46913  = ~Shadow Door~
@@ -1410,23 +1020,7 @@ Restrictions:
 @49212  = ~Wind Walk
 
 The Windrider alters the substance of their body to a cloudlike vapor and then summons a magical wind to rapidly blow their intangible form where they wish to go.~
-//
-// ... spells for sphere system: 2nd+3rd digits = sphere # 
-//
-@49301 = ~watcher of helm~
-@49302 = ~Watcher of Helm~
-@49303 = ~WATCHER OF HELM: Followers of the lawful neutral god of watchers and protectors are warriors in their own right and are often seen as defenders of the innocent.
 
-Advantages:
-- Heightened Awareness: +1 bonus to AC and +2 bonus to save vs breath
-- Can cast Helm's eye as a special ability once per day at 9th level.  The watcher gains an additional use at levels 11, 13, 15, 17 and 19. Helm's eye is equivalent to the wizard spell, wizard eye.
-- Can cast Seeking Sword as a special ablity once per day.  The Watcher gains an additional use at levels 4, 8, 12, 16 and 20.
-
-SEEKING SWORD: This spell creates a sword in the Cleric's hand that cannot be dropped or unequipped. The sword is enchanted as a +4 weapon and provides a +4 THAC0 bonus, but no damage bonus. It deals 2d4 damage to any target it hits. The weapon sets the Cleric's number of attacks per round to 3 and lasts for 1 round per level. While it is equipped, the wielder cannot cast further spells.
-
-Restrictions:
-- Alignment: May be Lawful Good, Lawful Neutral, or True Neutral.
-~
 //
 // multi shamans
 //
@@ -1497,10 +1091,8 @@ This ability allows you to select your spells known for each spell level.~
 
 This ability allows you to choose whether to learn and cast spells intuitively, like a sorcerer/shaman, or by the normal mechanism.~
 @49921  = ~Shamanic Dance~
-@49922  = ~Shamanic Dance: ~
 @49923  = ~Stop Shamanic Dance~
 @49924  = ~Detect Illusions~
-@49925  = ~Detect Illusions: ~
 @49926  = ~Stop detecting illusions~
 @49950  = ~Initialize Shamanic spell learning~
 
@@ -1523,58 +1115,11 @@ CLASS FEATURES:
 – May only become Proficient (one slot) in any fighting style.
 – Hit Die: d8
 
-Prime Requisites For Dual-Classing: Wisdom, Charisma 
+Prime Requisites For Dual-Classing: Wisdom, Charisma
 ~
-@70004  = ~MYSTIC: fluff about archetype/class, and choose a kit~
-@70021  = ~druid~ 
-@70022  = ~Druid~
-@70023  = ~DRUID: fluff about archetype/class, and choose a kit~
-@70031  = ~occultist~ 
-@70032  = ~Occultist~
-@70033  = ~OCCULTIST: fluff about archetype/class, and choose a kit~
-//
-// ... nature mystic:
-//
-@70101  = ~nature mystic~
-@70102  = ~Nature Mystic~
-@70103  = ~NATURE MYSTIC: The Nature Mystic taps the inherent energies of life that exists wherever there are thriving ecosystems of plants and animals. Once, these were the most common kind of mystic in human communities. Now, practitioners of this magic are very rare now, having been supplanted by the ordered ranks of Druids under the supervision of Sylvanus. Most Druids now consider Nature Mystics to be heretics, practicing a dangerous and less refined version of their art. Druids nevertheless respect the source of these Mystics' power, and in the rare case they cross paths, grudgingly allow Mystics to participate in their magic rituals.
-
-Advantages:
-- May cast one extra spell per level
-- Casts spells as if one level of experience higher
-- Immune to poison and disease
-- May cast a short, single-target Entanglement spell at will. This keeps the target from moving for one round and, on a failed save vs. Breath, Holds the target still and causes 1d4 points of piercing damage.
-- 15% of all melee hits Entangle the target as described above
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
-
-Restrictions:
-- Must be Neutral
-~
-@70104  = ~NATURE MYSTIC: The Nature Mystic taps the inherent energies of life that exists wherever there are thriving ecosystems of plants and animals. Once, these were the most common kind of mystic in human communities. Now, practitioners of this magic are very rare, having been supplanted by the ordered ranks of Druids under the supervision of Sylvanus. Most Druids now consider Nature Mystics to be heretics, practicing a dangerous and less refined version of their art. Druids nevertheless respect the source of these Mystics' power, and in the rare case they cross paths, grudgingly allow Mystics to participate in their magic rituals.~
-@70105  = ~~
-@70111  = ~Entangle target~
-@70112  = ~Entangle target~
 //
 // ... beast mystic:
 //
-@70201  = ~beast mystic~
-@70202  = ~Beast Mystic~
-@70203  = ~BEAST MYSTIC: these individuals long ago split from the more typical Nature Mystics to focus on the raw power of the predatory nature of the animal kingdom. Beast Mystics are completely in tune with the inner bestial nature that resides deep within even the most civilized races. They can tap that deep instinct to change their bodies into more savage forms, and they can summon and control other predatory animals more easily than other Mystics and Druids.
-
-Advantages:
-- May cast "Beast Claw" as an innate ability, at will.
-- 20% of all Beast Claw attacks cause infection upon a failed save vs. Death, weakening the target and causing a 10% chance of spell failure.
-- At 6th level, may shapeshift into a hybrid werewolf form once per day. This form increases in power to that of a greater werewolf at 12th level, and a werewolf lord at 15th level.
-- Casts spells as if one level of experience higher
-- May allocate 2 points (++) to Single-Weapon Style.
-
-Restrictions:
-- May not be Lawful
-~
-@70204  = ~BEAST MYSTIC: these individuals long ago split from the more typical Nature Mystics to focus on the raw power of the predatory nature of the animal kingdom. Beast Mystics are completely in tune with the inner bestial nature that resides deep within even the most civilized races. They can tap that deep instinct to change their bodies into more savage forms, and they can summon and control other predatory animals more easily than other Mystics and Druids.~
-@70205  = ~~
-@70211  = ~Beast Claw~
-@70212  = ~Dispel Claws~
 @70213  = ~Shapeshift: werewolf~
 @70214  = ~Shapeshift: natural form~
 @70215  = ~werewolf claw~
@@ -1599,7 +1144,6 @@ Restrictions:
 - May not be Chaotic
 ~
 @70304  = ~EARTH MYSTIC: the earth that forms planetary bodies is one of the most fundamental forces in the multiverse; without it, there is nowhere life could flourish. Earth Mystics form deep bonds with the powerful stone of tall mountains and the nourishing soil of low valleys. Over time their bodies adopt some of the hardy characteristics of rock, helping them resist blunt impacts and landing blows with stunning power.~
-@70305  = ~~
 @70311  = ~crushing damage resistance~
 //
 // ... water mystic:
@@ -1619,7 +1163,6 @@ Restrictions:
 - May not be Lawful
 ~
 @70404  = ~WATER MYSTIC: water is implacable. It flows throughout the world, it moves mountains at the polar caps, it seeps into the deepest crevasses, and it infuses the bodies of every plant and animal. It is truly the foundation of life, and Water Mystics learn to direct its ebbs and flows. They understand that water cannot be contained or controlled, only influenced. This wisdom grants them the ability to resist the worst ravages of water-based harm, and to use liquid and ice attacks against their enemies to devastating effect.~
-@70405  = ~~
 @70411  = ~cold resistance~
 @70412  = ~acid resistance~
 //
@@ -1641,7 +1184,6 @@ Restrictions:
 - May not be Lawful
 ~
 @70504  = ~AIR MYSTIC: the wind suffuses the breath of every creature. It can whip up into savage storms, or be sweet and warm. It carries water in clouds and rain to fertilize the earth, and some say it also carries secrets long forgotten by sages. Air Mystics adapt to the capricious nature of the wind, emulating its ability to quickly vary between immense gusts and healing breezes. They also learn to control the way air currents can build up static charges and electrical currents.~
-@70505  = ~~
 @70511  = ~electricity resistance~
 @70512  = ~cloud effect immunity~
 //
@@ -1662,7 +1204,6 @@ Restrictions:
 - May not be Lawful
 ~
 @70604  = ~FIRE MYSTIC: fire is the destructive force that threatens all of the other elements - removing air, boiling water, and scorching earth. But the wise know that fire rejuvenates as well, releasing energy locked away for ages to help new life grow. Fire Mystics embrace this duality, the importance of creation and destruction; but many other people feel threatened by it. Most view Fire Mystics with fear and distrust.~
-@70605  = ~~
 @70611  = ~fire resistance~
 //
 // ... light mystic:
@@ -1682,7 +1223,6 @@ Restrictions:
 - May not be Evil
 ~
 @70704  = ~LIGHT MYSTIC: light is an essential ingredient of life, and essential to the survival of most animals, who operate largely by sense of sight. Light can nourish plants and illuminate truths, but it can also parch throats and create mirages and illusions. Light Mystics spend most of their time meditating under the burning sun in deserts or beaches, or similar environments. They are often potent allies of Desert Druids. With some regularity, however, they succumb to wanderlust and travel to other locales to bring aid to those suffering in darkness.~
-@70705  = ~~
 @70711  = ~blindness immunity~
 //
 // ... shadow mystic:
@@ -1702,34 +1242,6 @@ Restrictions:
 - Must be Neutral
 ~
 @70804  = ~SHADOW MYSTIC: wherever something is illuminated, Shadow always lurks behind. And the brighter the light, the deeper is the corresponding darkness. Shadow Mystics understand that this is simply the nature of the universe. Shadows are not necessarily malevolent... but they do touch a primal area of fear in the minds of all animals. How this force is harnessed depends on the practitioner; some use shadows to cool and soothe, while others blind and terrify their enemies.~
-@70805  = ~~
-//
-// ... fate mystic:
-//
-@71101  = ~fate mystic~
-@71102  = ~Fate Mystic~
-@71103  = ~FATE MYSTIC: fate is a very subtle force that runs throughout the multiverse. Everyone has a fate, from the lowliest insect to the most powerful deity. No one can escape their fate, but free-willed beings may direct its course. Recognition and understanding of this is what most cultures call "wisdom," but even they fail to understand just how magical and powerful an act it can be to exercise decisional control over oneself and one's environment. Fate Mystics are among the few who do not take this for granted. They are in tune with the themselves, their histories and their futures, and can use that to great tactical advantage.
-
-Advantages:
-- May cast one extra spell per level.
-- Casts spells as if one level of experience higher.
-- Immune to backstabs.
-- 1 point AC bonus every 10 levels.
-- May cast Contingency as an innate ability.
-- May allocate 2 points (++) to Single-Weapon Style and Two-Handed Style, and 3 points (+++) to Two-Weapon Style.
-
-Restrictions:
-- Must be Neutral
-- May not dual-class
-~
-@71104  = ~FATE MYSTIC: fate is a very subtle force that runs throughout the multiverse. Everyone has a fate, from the lowliest insect to the most powerful deity. No one can escape their fate, but free-willed beings may direct its course. Recognition and understanding of this is what most cultures call "wisdom," but even they fail to understand just how magical and powerful an act it can be to exercise decisional control over oneself and one's environment. Fate Mystics are among the few who do not take this for granted. They are in tune with the themselves, their histories and their futures, and can use that to great tactical advantage.~
-@71105  = ~~
-@71111  = ~backstab immunity~
-@71112  = ~armor class bonus~
-@71113  = ~Contingency~
-@71114  = ~Contingency
-
-Upon using this ability, the Mystic is allowed to choose a spell from his repertoire of known spells. One spell level every 3 levels of the caster is allowed (rounded up), up to 7th-level spells at 19th level. Once the spell is chosen, the caster can choose a condition of some kind from the list provided, such as "an enemy being sighted." Once this starting condition is satisfied, the spell that was chosen will be cast. This requires no action by the caster, but happens automatically and instantaneously.~
 //
 // ... druid shapeshifting:
 //
@@ -1815,19 +1327,8 @@ GRIZZLY BEAR: in grizzly bear form, the druid has 20 strength. <PRO_HESHE> can a
 WYVERN: in wyvern form the druid can fly over ground-based obstacles like Entangle and Web spells. <PRO_HISHER> powerful claws can rake victims for 2d6 damage and <PRO_HISHER> attacks can poison the target with similar effects to the Assassin's "Poison Weapon" ability. Additionally, the druid can create a powerful gust of wind that acts like a smaller version of a dragon's "Wing Buffet" ability.
 ~
 @73104  = ~FOREST DRUID: Most druids reside in the regions where soil is nutritious, plant life is abundant and animals thrive.  These regions are in many ways the epitome of harmonious ecosystems, and druids often charge themselves with nurturing and defending them.  Tall forests are a paradise in many ways: they provide shade from the sun, food and homes for animals and people, and wood for tools.  Forests are incessantly under threat of being torn down and subjugated by careless humans and demihumans. Forest druids therefore often live with a constant low-grade paranoia, which informs the stereotype of druids being hostile to civilization.~
-@73105  = ~~
 @73111  = ~Druid Shapechange~
 @73112  = ~Shapechange into various animal forms~
-@73113  = ~Shapechange: Wolf~
-@73114  = ~Shapechange into wolf form~
-@73115  = ~Shapechange: Dire Wolf~
-@73116  = ~Shapechange into dire wolf form~
-@73117  = ~Shapechange: Ferret~
-@73118  = ~Shapechange into ferret form~
-@73119  = ~Shapechange: Black Bear~
-@73120  = ~Shapechange into black bear form~
-@73121  = ~Shapechange: Shambling Mound~
-@73122  = ~Shapechange into a powerful shambling mound~
 //
 // ... totemic druid:
 //
@@ -1878,7 +1379,6 @@ CARRION CRAWLER: in this form the druid can attack twice per round for 2d4 pierc
 RHINOCEROS BEETLE: in this massive form, the druid has 22 strength. <PRO_HESHE> can attack twice per round with incredibly powerful pincers, for 3d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
 ~
 @73411  = ~Summon Spirit Spider~
-@73412  = ~~
 @73413  = ~Spirit Spider~
 @73421  = ~Beetle Swarm~
 @73422  = ~Beetle Swarm
@@ -1957,30 +1457,6 @@ POLAR BEAR: in this form, the druid has 21 strength. <PRO_HESHE> can attack twic
 REMORHAZ: in this powerful form, the druid has 21 strength and 100% resistance to cold damage. <PRO_HESHE> can attack 3 times per round with powerful pincers, for 2d6 piercing damage. <PRO_HISHER> hard armor gives a 4-point armor class bonus against slashing, crushing, and missile attacks, and 50% resistance to physical damage generally.
 ~
 //
-// ... shadow druid:
-//
-@73801  = ~shadow druid~
-@73802  = ~Shadow Druid~
-@73803  = ~SHADOW DRUID: Shadow druids are a militant sect of druids who believe that there is a long and endless struggle between civilization and nature and that their role is to even the odds for nature.  They have been known to use extreme methods and violence to drive away civilization, using the ferocious powers of nature they are capable of summoning.
-
-Advantages:
-- At 1st level, may summon a Shadow Wolf. The HD of the spirit animal increases to match the druid's level at 3rd, 5th, 7th and 10th level.
-- At 5th level, may shapeshift into the form of a shadow wolf.
-- At 9th level, may shapeshift into a panther.
-- At 9th level, the druid becomes immune to poison.
-- At 15th level, gains 10% resistance to damage from cold, fire, electricity, and acid.  These resistances increase by another 10% at levels 18 and 21.
-
-SHADOW WOLF: in this form ...
-
-PANTHER: in this form ...
-
-Disadvantages:
-- No access to spells from the sphere of Light.
-~
-@73811  = ~Summon Shadow Wolf~
-@73812  = ~~
-@73813  = ~Shadow Wolf~
-//
 // ... lost druid:
 //
 @73901  = ~lost druid~
@@ -2020,7 +1496,6 @@ Restrictions:
 ~
 @76204  = ~BEAST LORD: these individuals have come to understand that within even the most rational and civilized man or woman lies an animal driven by primal needs and desires. (Often, this understanding is developed from horrifying experiments performed on subjects who are very rarely willing.) Through the application of a serum derived from a strain of lycanthropy, the Beast Lord can all forth <PRO_HISHER> own bestial nature, causing <PRO_HISHER> very body to take on lupine qualities. This also gives the Beast Lord a deep insight into magic relating to summoning and controlling animals.
 ~
-@76205  = ~~
 @76211  = ~Claws of Malar~
 @76212  = ~Dispel Claws~
 @76213  = ~Shapeshift: werewolf~
@@ -2059,119 +1534,9 @@ The damage types relating to each element are as follows:
 The targeted elemental creature is under the control of the elementalist for 3 turns.  No save is allowed.~
 
 //
-// ... chaos priest:
-//
-@76501  = ~chaos priest~
-@76502  = ~Chaos Priest~
-@76503  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages. Scholars debate whether their magic is granted by a manipulative deity, or whether they have possibly hit upon some deep structural secret of the multiverse. Whatever the truth, most people view these Occultists with fear and wariness.
-
-Advantages:
-- A Chaos Priest's spellcasting is affected by wild magic. With every spell cast, there is a chance for a Wild Surge to occur.
-- Chaos Priests may cast Wild Magic spells, including Reckless Dweomer and Chaos Shield.
-
-Restrictions:
-- Must be Chaotic
-~
-@76504  = ~CHAOS PRIEST: These seekers of enlightenment take a turn toward what many view as nihilistic: pure chaos.  Chaos Priests claim that all existence - even order itself - can spring from a minute vibration in a simple particle, blossoming into the unexpected: a universe. They indulge and encourage chaos wherever they go, and there must be something to their actions, because by some unknown mechanism, they are granted access to powerful magic. The magic is fickle though, suffering the same uncertainty that plagues Wild Mages.~
-
-
-//
 // ... Pally--> Champion:
 //
-@80001  = ~champion~
-@80002  = ~Champion~
-@80003  = ~CHAMPION: Like the Fighter, the Champion is a person of action and combat. However, the Champion lives for the ideals of their patron deity, and strives to be a living example of the tenants of the faith.
 
-CLASS FEATURES:
-
-- May wear helmets.
-- May wear any armor and use any weapon.
-- May not exceed Specialization (two slots) in any weapon class.
-- May achieve Specialization (two slots) in any fighting style and allocate three slots in Two-Weapon Style.
-- May Turn Undead as a Cleric two levels lower, starting at level 3.
-- May cast priest spells beginning at level 6.
-- May use SMITE once per day at level 1.  The Champion can use this abiltiy an additional time per day every 4 levels.
-
-SMITE:  When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
-Typically, smite inflicts additional damage or effects on certain kinds of creatures depending on the Champion's patron deity
-
-- Other abilities based on patron deity.
-- Hit Die: d10~
-
-@80004  = ~Smite~
-@80005  = ~Smite
-When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an additional 1d6 points of magic damage, (+1d6 points of damage at levels 4, 10 and 18) over the next 2 rounds.  This ability lasts an additional round at level 2, 8 and 14.
-Typically, smite inflicts additional damage or effects on certain kinds of creatures depending on the Champion's patron deity.
-
-An opponent can only be affected by smite once per round.~
-
-@80006  = ~Greater Power Attack~
-@80007  = ~Greater Power Attack
-With the Greater Power Attack ability, the warrior gains the ability to strike a mighty blow, knocking an opponent back for a considerable distance and stunning the opponent for 1 round. All attacks made in the first round are critical hits. The ability lasts for 2 rounds.
-
-Large creatures such as a dragons or giants will not be knocked back or stunned.
-
-Requires: Power Attack, Critical Strike~
-
-@80008  = ~zealot~
-@80009  = ~Zealot~
-
-@80010  = ~ZEALOT: Zealots are such devotees to a particular god, without actually being an official part of the church hierarchy.  They consider this an advantage, however, as they hold themselves accountable only to their god, and so are less likely to lose sight of the grander scheme.
-Zealots often strike out on their own, infiltrating a rival church, and then unleashing the power of their god where their enemies expect it least.
-
-Advantages:
-- Moves 2 points faster than other characters
-- Zealots Hide in Shadows as Rangers of the same level
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
-
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects.
-
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.
-
-Disadvantages:
-- May only wear leather or studded leather armor.~
-
-@80011 = ~INQUISITOR: The Inquisitor has dedicated <PRO_HISHER> life to finding and eliminating infiltrators of <PRO_HISHER> faith; <PRO_HISHER> god has provided <PRO_HIMHER> with special abilities toward that end.
-
-Advantages:
-- May cast Dispel Magic once per day. Gains one use at level 1 and an additional use every 4 levels thereafter. The spell is cast at Speed Factor 1 and acts at twice the Inquisitor's character level. 
-- May cast True Sight once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
-
-Disadvantages:
-- May not turn undead.
-- May not use the Lay On Hands ability. 
-- May not cast priest spells.~
-
-@80012  = ~Frenzy~
-@80013  = ~Frenzy
-
-The character is frenzied for 1 turn.  While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves vs. spell, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.~
-
-@80014  = ~ZEALOT: Zealots are such devotees to a particular god, without actually being an official part of the church hierarchy.  They consider this an advantage, however, as they considering themselves beholden only to their god, and so do not lose sight of the grander scheme.
-Zealots often strike out on their own, infiltrating a rival church, and then unleashing the power of their god where their enemies expect it least.
-
-Advantages:
-- Moves 2 points faster than other characters
-- Zealots Hide in Shadows as Rangers of the same level
-- May use the frenzy ability once per day.  The zealot gains an additional use of this ability at levels 10, 15 and 20.
-
-FRENZY: The character becomes frenzied for 1 turn. While in this state, the character gains a +2 bonus to <PRO_HISHER> melee attack rolls and saves, as well as to <PRO_HISHER> Armor Class, and becomes immune to charm, confusion, fear, feeblemind, hold, imprisonment, level drain, maze, stun, and sleep. The character also gains an additional attack per round.
-Frenzy is further modified depending upon the patron deity of the zealot.
-
-Frenzy does not stack with haste or similar effects.
-
-After the effects end, the character becomes winded, suffering a -2 penalty to Armor Class, to-hit rolls, and damage rolls.
-
-Restrictions:
-- May only wear leather or studded leather armor.
-- Alignment: Cannot be evil
-~
 //CHAMPION KITS
 //Paladin of Tyr
 @80101  = ~paladin of tyr~
@@ -2195,32 +1560,7 @@ When the Champion uses this ability, <PRO_HISHER> melee attacks inflict an addit
 Additionally, evil creatures are stunned for 1 round if they do not save vs. death.  This save receives a -1 penalty at levels 4, 10 and 18
 
 An opponent can only be affected by smite evil once per round.~
-@80106  = ~cavalier of tyr~
-@80107  = ~Cavalier of Tyr~
 
-@80108  = ~CAVALIER OF TYR: This class represents the most common picture of the knight: the chivalrous warrior who epitomizes honor, courage, and loyalty. The cavalier is specialized in battling "classical" evil monsters such as demons and dragons.
-
-Abilities: 
-- +3 bonus to hit and damage rolls against demons, devils, dragons and wyverns.
-- May cast Remove Fear 1 time per day per level.
-- Immune to charm, fear, poison, and morale failure.
-- 20% resistance to fire and acid.
-
-Restrictions:
-- May not use ranged weapons (both missile and thrown).
-~
-@80109  = ~undead hunter of tyr~
-@80110  = ~Undead Hunter of Tyr~
-@80111  = ~UNDEAD HUNTER OF TYR: This holy avenger has honed <PRO_HISHER> abilities toward the destruction of the undead and other unnatural creatures and is immune to many of their most devastating abilities.
-
-Abilities: 
-- +3 bonus to hit and damage rolls against undead creatures.
-- Immune to hold and level drain.
-
-Restrictions:
-- May not use Lay On Hands ability.
-- May not use Cure Disease ability.
-~
 @80201  = ~knight of eternal order~
 @80202  = ~Knight of Eternal Order~
 @80203  = ~KNIGHT OF ETERNAL ORDER: Undead creatures are anathema to Kelemvor.  Death is a natural part of life, and undead creatures try to escape that cycle.  They are abominations, and must be put to rest.
@@ -2754,15 +2094,8 @@ SCOUTS are warriors who may not be particularly spiritual, but tend to share cer
 
 "TRUE RANGERS" are masters of their local geography, learning skills that allow them to survive in the harsh wilderness where few others could. They have access to spheres of magic relating to the environment in which they specialize, similar to druids. Rangers are generally good-natured and protective of their fellow men, using their skills to support and provide for communities in wild frontiers.
 ~
-@90004  = ~RANGER: fluff about archetype/class, and choose a kit~
 @90011  = ~according to geography~
 @90012  = ~Each variant Ranger kit has combat bonuses (+2 to thac0 and damage) against a range of animals and monsters connected to their geographical or spiritual domain.~
-@90031  = ~dervish~
-@90032  = ~Dervish~
-@90033  = ~DERVISH: fluff about archetype/class, and choose a kit~
-@90041  = ~scout~
-@90042  = ~Scout~
-@90043  = ~SCOUT: fluff about archetype/class, and choose a kit~
 @90101  = ~forest ranger~
 @90102  = ~Forest ranger~
 @90103  = ~FOREST RANGER: the most common, or at least commonly visible, type of ranger, forest rangers are knowledgeable woodsmen and able warriors. Fiercely protective by nature, they are often called upon to fulfill a dual role: sometimes guiding travelers through areas with hostile wildlife, and at other times protecting that very wildlife from those who would carelessly exploit Toril's resource-rich woodlands.
@@ -2854,85 +2187,6 @@ Disadvantages:
 @93207  = ~Werewolf~
 @93208  = ~Wolfwere~
 @93209  = ~Greater Wolfwere~
-//
-@93301  = ~earth dervish~
-@93302  = ~Earth Dervish~
-@93303  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% crushing damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits Stun the target for 1-2 seconds upon a failed save vs. Death.
-
-Restrictions:
-- May not be Chaotic
-~
-@93304  = ~EARTH DERVISH: Earth Dervishes are the earth element imbued ranger counterpart to the druidic earth mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. ~
-//
-@93401  = ~water dervish~
-@93402  = ~Water Dervish~
-@93403  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% acid and cold damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits cause 1d3 points of acid damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93404  = ~WATER DERVISH: Water Dervishes are the water element imbued ranger counterpart to the druidic water mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93501  = ~air dervish~
-@93502  = ~Air Dervish~
-@93503  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% electric damage resistance per level, up to a maximum of 40% at 20th level.
-- Immunity to harmful cloud-based spells.
-- 20% of all melee hits cause 1d3 points of electricity damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93504  = ~AIR DERVISH: Air Dervishes are the air element imbued ranger counterpart to the druidic air mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93601  = ~fire dervish~
-@93602  = ~Fire Dervish~
-@93603  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks. 
-
-Advantages:
-- 2% fire damage resistance per level, up to a maximum of 40% at 20th level.
-- 20% of all melee hits cause 1d4 points of fire damage if the target fails a save vs. Breath.
-
-Restrictions:
-- May not be Lawful
-~
-@93604  = ~FIRE DERVISH: Fire Dervishes are the fire element imbued ranger counterpart to the druidic fire mystic.  They are capable of calling on their chosen element to bolster their defenses and empower their attacks.~
-//
-@93701  = ~light dervish~
-@93702  = ~Light Dervish~
-@93703  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.
-
-Advantages:
-- Immune to blindness, and may dispel low-level illusions (up to 3rd level) 3 times per day.
-- 40% of all melee hits cause the target to be bathed in Faerie Fire for 3 rounds, resulting in a -2 penalty to AC.
-
-Restrictions:
-- May not be Evil
-~
-@93704  = ~LIGHT DERVISH: Light Dervishes are the light empowered ranger counterpart to the druidic light mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
-//
-@93801  = ~shadow dervish~
-@93802  = ~Shadow Dervish~
-@93803  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks. 
-
-Advantages:
-- Immune to blindness.
-- 20% of all melee hits Blind the target for 5 seconds upon a failed save vs. Breath.
-
-Restrictions:
-- Must be Neutral
-~
-@93804  = ~SHADOW DERVISH: Shadow Dervishes are the shadow empowered ranger counterpart to the druidic shadow mystic.  They are capable of calling on their chosen specialty to bolster their defenses and empower their attacks.~
 //
 // ... scouts:
 //
