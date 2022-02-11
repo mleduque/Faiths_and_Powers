@@ -514,19 +514,6 @@ Saving Throw: 1/2
 
 By casting this spell and touching a creature, the priest deals 11 points of damage (save vs. Spell for half) to the creature's body. This spell has no effect on undead, constructs, or extraplanar creatures. It cannot be cast by good-aligned characters.~
 
-@22000002 = ~Cause Moderate Wounds
-(Necromancy)
-
-Level: 2
-Sphere: Healing
-Range: Touch
-Duration: Instant
-Casting Time: 5
-Area of Effect: 1 creature
-Saving Throw: 1/2
-
-By casting this spell and touching a creature, the priest deals 11 points of damage (save vs. Spell for half) to the creature's body. This spell has no effect on undead, constructs, or extraplanar creatures. It cannot be cast by good-aligned characters.~
-
 @31100000 = ~Rigid Thinking~
 @31100001 = ~Rigid Thinking
 (Enchantment/Charm)
@@ -761,8 +748,6 @@ Area of Effect: Visual range of the caster
 Saving Throw: 1/2
 
 Static Charge is similar to Call Lightning, except it can be used indoors. This spell allows the caster to generate a static charge around any creature within the area of effect, dealing 2d8 points of electrical damage plus an additional 1d8 points per level of the caster (save vs. Spell for half). The charge keeps going off once every turn for the duration of the spell.~
-
-@42000003 = ~History of Tethyr~
 
 @42000004 = ~Discharge of static electricity~
 
@@ -1033,8 +1018,6 @@ Area of Effect: 30-ft. radius
 Saving Throw: Neg.
 
 All enemies within 30 ft. of the symbol of pain at the moment it is invoked must make a Save vs. Spell. Those who fail their Saving Throws are overwhelmed by pain, suffering a -4 penalty to their attack rolls, a -2 penalty to their Dexterity scores, and a -2 penalty to their Armor Class.~
-
-@71400002 = ~In Pain~
 
 @71600000 = ~Symbol, Hopelessness~
 
