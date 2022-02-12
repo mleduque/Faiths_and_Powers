@@ -40,23 +40,6 @@ Special: Restores 1d4 Hit Points to living creatures.
 
 Weight: 0~
 
-@50004 = ~Storm Bow~
-@50005 = ~Storm Bow
-(Alteration)
-
-Level: 1
-Sphere: Weather 
-Range: 0 ft.
-Duration: 1 minute +1 minute/2 levels
-Casting Time: 3
-Area of Effect: The caster
-Saving Throw: None
-
-This spell charges projectiles fired by the caster with the power of storm, inflicting an additional 1d8 points of electrical damage per hit.  
-
-This spell lasts for 1 minute at first level, and increases by 1 minute per 2 additional levels (max 5 minutes at level 9).~
-
-
 //@50300
 
 @50301 = ~Pacify the Dead~
@@ -73,6 +56,7 @@ Area of Effect: one undead creature
 Saving Throw: None.
 
 Upon casting this spell, the priest causes one undead within range to be slowed.  This effect negates Haste, but does not otherwise affect magically sped-up or slowed creatures. Slowed creatures suffer -4 penalties to attack and Armor Class.~
+// version from setup.tra contains Spehre: Death + "To make matters worse, creatures save at -4 against this spell."
 
 @50304 = ~Eyes of the Dead~
 
@@ -121,33 +105,6 @@ Casting Time: 0
 Saving Throw: None
 This spell imbues the caster with pure force that <PRO_HESHE> can use against <PRO_HISHER> enemies. <PRO_HISHER> melee attacks inflict an additional 2d6 points of magic damage for 1 round per level (max 5 rounds).~
 
-@50405  = ~Shout~
-
-@50406  = ~Shout
-(Invocation)
-
-Level: 4
-Sphere: Destruction
-Range: 0
-Duration: Instant
-Casting Time: 1
-Area of Effect: 35-ft. cone with 15-deg. arc
-Saving Throw: Special
-
-Shout grants the priest tremendous vocal powers, allowing <PRO_HIMHER> to emit an earsplitting roar from <PRO_HISHER> mouth in a cone-shaped area of effect. Any creature within this area is deafened for 9 rounds and suffers 4d6 points of magic damage. A successful Save vs. Spell negates the deafness and reduces the damage by half.~
-
-@50407  = ~Shout (Focus)
-(Invocation)
-
-Level: 3
-Sphere: Destruction
-Range: 0
-Duration: Instant
-Casting Time: 1
-Area of Effect: 35-ft. cone with 15-deg. arc
-Saving Throw: Special
-
-Shout grants the priest tremendous vocal powers, allowing <PRO_HIMHER> to emit an earsplitting roar from <PRO_HISHER> mouth in a cone-shaped area of effect. Any creature within this area is deafened for 9 rounds and suffers 4d6 points of magic damage. A successful Save vs. Spell negates the deafness and reduces the damage by half.~
 
 @50408  = ~Shatter~
 
@@ -280,22 +237,6 @@ When the caster completes this spell and touches an allied animal, <PRO_HESHE> g
 
 While this spell is in effect, the caster's body is helpless, as <PRO_HESHE> is helpless, and blind.~
 
-@51104 = ~Hold Beast~
-@51105 = ~Hold Beast
-(Enchantment/Charm)
-
-Level: 3
-Sphere: Animal
-Range: Visual range of the caster
-Duration: 2 rounds/level
-Casting Time: 5
-Area of Effect: Special
-Saving Throw: Neg.
-
-This spell holds 1d4 hostile non humanoid, low intelligence animals or mosters rigidly immobile. Specifically, it affects the targeted enemy and up to 3 hostile creatures within 20 ft. of it. A successful Save vs. Spell negates the effect.
-
-Paralyzed creatures are helpless and cannot dodge or defend themselves from attacks. Being held does not prevent the worsening of the subject's condition due to wounds, disease, or poison.~
-
 //@51200
 
 
@@ -357,7 +298,7 @@ Saving Throw: Special
 
 When this spell is cast, grasses, weeds, bushes, and even trees wrap, twist, and entwine about any creatures within the area of effect, holding them fast for the duration of the spell. Additionally, they try to squeeze the life out of any creature caught in their grasp, causing 4d6 points of crushing damage per round.  A successful Save vs. breath avoids entanglement, and halves the damage inflicted, though creatures in the area are still impeded, and find their movement halved. Entangled creatures can still attack, even though they cannot move.
 
-Note: The spell Free Action protects recipients against damage and movement pentalties from this spell.~
+Note: The spell Free Action protects recipients against damage and movement penalties from this spell.~
 
 @51420 = ~Snare~
 @51421 = ~Snare
@@ -378,6 +319,18 @@ Much like a thief trap, this spell fails if cast in the presence of enemies.~
 //@51500
 
 @51501 = ~Stone Fist~
+
+@51503 = ~Stone Fist
+(Alteration)
+
+Level: 2
+Sphere: Elemental (Earth)
+Range: Self
+Duration: 1 Turn
+Casting Time: 3
+Area of Effect: The caster
+
+When the caster completes this spell, <PRO_HISHER> hands become blocks of stone.  <PRO_HESHE> can make melee attacks with these hands inflicting 2d8 points of damage plus strength.  In addition, <PRO_HESHE> is infused with the power of the earth, and <PRO_HISHER> strenght is increased by 4 for the duration of the spell.~
 
 @51504 = ~Stone Fist
 
@@ -562,7 +515,7 @@ Saving Throw: None
 
 This spell infuses the target with shadow, protecting them from both attacks and spells, while also protecting them from prying eyes.  Targets gain a +1 bonus to AC per four levels (maximum of +5), +2 bonus to save vs. spells, and infravision for the duration of this spell.
 
-Additionally, the recipeient hides in shadows at 99%, and automatically blends into the shadows each round if they are not doing anything else.~
+Additionally, the recipient hides in shadows at 99%, and automatically blends into the shadows each round if they are not doing anything else.~
 
 @52007  = ~Summon Shadows~
 @52008  = ~Summon Shadows
@@ -863,339 +816,3 @@ Area of Effect: 1 creature
 Saving Throw: Neg.
 
 With this spell, you point at a single creature and rebuke them, filling them with terror for 1 round if they fail their save vs. spell.~
-
-@53033 = ~Minor Creation~
-@53034 = ~Minor Creation
-(Conjuration/Summoning)
-
-Level: 2  
-Sphere: Creation  
-Range: 0  
-Duration: 8 hours
-Casting Time: 4  
-Area of Effect: The Caster  
-Saving Throw: None  
-
-This spell allows the caster to conjure non-magical weapons, armor and items.  This spell allows the priest to conjure up to 10 lbs of material per 3 levels (max 50 lbs at level 13).  Each item counts as weighing a minimum of 1 lb.
-
-These items last for 8 hours before vanishing.~
-
-@53035 = ~Expeditious Retreat
-(Alteration)
-
-Level: 1
-Sphere: Travelers
-Range: 0
-Duration: 3 rounds
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
-
-This spell doubles the caster's normal speed for a short period of time... usually long enough to escape. Other movement-altering effects, such as Haste and Slow, cannot affect the caster while this spell is in effect. While Expeditious Retreat is active, the caster cannot attack, cast spells, or use any items or special abilities... <PRO_HESHE> can only run.~
-
-//ARCANE SPELLS
-
-//@65001 to @70000
-//A few random 1st level spells
-
-@65001 = ~Protective Shell~
-@65002 = ~Protective Shell
-(Abjuration)
-
-Level: 1
-Range: 0
-Casting Time: 6
-Duration: 3 turns
-Area of Effect: The caster
-Saving Throw: None
-
-This spell creates a thin magical shell that harmlessly absorbs the first physical strike that hits the caster.~
-
-@65101   = ~Anticipation~
-@65102   = ~Anticipation
-(Divination)
-
-Level: 1
-Range: 0
-Casting Time: 0
-Duration: 3 rounds
-Area of Effect: The caster
-Saving Throw: None
-
-This spell gives the caster a temporary, intuitive foreknowledge of the immediate future, resulting in improved reaction time granting a +5 bonus to AC, and +1 to weapon and casting speed for 3 rounds.~
-
-@65201 = ~Alarm~
-@65202 = ~Alarm
-(Divination)
-
-Level: 1
-Range: 0
-Duration: Special
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
-
-
-When alarm is cast, the caster and <PRO_HISHER> allies are alerted if any creature, visible or invisible, with hostile intent comes within 30' of <PRO_HIMHER> by a mental or audible alarm.
-
-This alarm awakens the caster and <PRO_HISHER> allies, and makes them alert to all enemies, giving them a +2 bonus to weapon and casting speed for a single round.  This spell cannot be cast in the presence of enemies.  
-
-Once the ward is set, it protects the caster and <PRO_HISHER> allies as long as they stay within the general area.  The ward lasts for 8 hours or until triggered.~
-
-@65203 = ~Hypnotism~
-@65204 = ~Hypnotism
-(Enchantment/Charm)
-
-Level: 1
-Range: Visual range of the caster
-Duration: 1 round
-Casting Time: 1
-Area of Effect: Special
-Saving Throw: Neg.
-
-This spell entrances up to 1d4 creatures, causing them to stand mystified for 1 round if they do not save vs. spell. Specifically, it affects the targeted enemy and up to 3 hostile creatures within 20 ft. of it.  Hypnotized creatures stand where they are, and fail to notice creatures around them.
-
-Affected creatures shake off this effect if they are attacked.~
-
-@65205 = ~Hypnotized~
-@65206 = ~No longer Hypnotized~
-
-@66001 = ~Detect Traps and Portals~
-@66002 = ~Detect Traps and Portals
-(Divination)
-
-Level: 1
-Range: 0
-Duration: 1 hour
-Casting Time: 9
-Area of Effect: Special  
-Saving Throw: None
-
-With this spell, the mage can detect traps and secret doors, as if <PRO_HESHE> were a Thief.  When <PRO_HESHE> casts this spell, <PRO_HESHE> has a chance to detect traps equal to 30%, +5% for each additional level after first (max 75% at level 10) for one hour.  <PRO_HESHE> need not take a special action, <PRO_HESHE> will automatically look for traps for the duration as long as this spell is in effect, and <PRO_HESHE> is not doing anything else.
-
-This chance to detect spells stacks with any preexisting skill the mage might otherwise have with detect traps, and if <PRO_HESHE> has levels in thief, this spell will give <PRO_HIMHER> a bonus to disarm traps as well.~
-
-@66011 = ~Reprieve~
-@66012 = ~Reprieve
-(Alteration)
-
-Range: Visual range of the caster
-Duration: 1 round +1 round/2 levels
-Target: 1 Ally
-Casting Time: 1
-Saving Throw: None
-
-This spell causes a single ally to vanish in a flash of light. After one round that ally will reappear at the location you were when you cast this spell.
-
-Lasts for 1 round at first level, +1 round for every two levels after that (max 5 rounds at level 9).~
-
-@66013 = ~Accelerate Metabolism~
-@66014 = ~Accelerate Metabolism
-(Necromancy)
-
-Level: 1
-Range: Touch
-Duration: 8 Hours
-Casting Time: 9
-Area of Effect: 1 creature
-Saving Throw: None
-
-This spell stimulates the body, boosting the recipient's natural defenses against death and poison, and allowing them to heal at an increased rate.
-
-At first level, recipients heal 1 hit point per hour, and gain a +1 bonus to save vs. death and polymorph.  For each 5 levels, the recipient heals an additional hit point per hour, and gains an additional +1 to save vs. death (max 5 hp/hour and +5 vs. death and polymorph at 20th level).
-
-Multiple castings of this spell are not cumulative.~
-
-@61015 = ~Accelerated Metabolism~
-
-@66016 = ~Vanish~
-@66017 = ~Vanish
-(Illusion/Phantasm)
-
-Level: 1
-Range: 0
-Duration: 1 round, +1 round per 2 levels
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
-
-This spell turns the caster invisible and makes <PRO_HIMHER> undetectable by normal vision or infravision. The spell remains in effect for 1 round, +1 round per 2 levels after 1st, level (max 5 rounds at levl 9), until it is magically broken or dispelled, or until the recipient talks to or attacks any creature. Thus, the invisible being can open doors, eat, climb stairs, etc., but if <PRO_HESHE> attacks or casts a spell, <PRO_HESHE> immediately becomes visible (although the invisibility enables <PRO_HIMHER> to attack first).~
-
-@66101 = ~Enervating Ray~
-@66102 = ~Enervating Ray
-(Necromancy)
-
-Level: 1
-Range: 40 ft.
-Duration: 1 round/level
-Casting Time: 2
-Area of Effect: 1 creature
-Saving Throw: Special
-
-When this spell is cast, a ray slams into the target chosen by the caster, sapping their energy and knocking the wind out of them.  At first level, this spell does 2d4 non-lethal damage to the target, and, if they do not save vs. death, penalizes their AC, THAC0 and Saves by -1.
-
-Damage increases by 2d4 at 3rd level, and every 2 levels thereafter (max 10d4 at 9th level).  The penalties are increased by -1 at 5th level, and every 5 levels thereafter (max -5 at 20th level).
-
-Undead and creatures without a biological anatomy are immune to Enervating Ray.~
-
-@66103 = ~Drained~
-
-@66110 = ~Farseer~
-@66111 = ~Farseer
-(Divination)
-
-Level: 1
-Range: Touch
-Duration: 1 hour
-Casting Time: 2
-Area of Effect: 1 creature
-Saving Throw: None
-
-The recipient of this spell gains extraordinary vision, able to see twice as far as before with clarity.  Additionally, they gain a +2 bonus to THAC0 with ranged weapons.~
-
-@66112 = ~Farsighted~
-
-@67000 = ~Bolt of Paralysis~
-
-@67001 = ~Bolt of Paralysis
-(Evocation)
-
-Level: 2
-Range: 60 ft
-Duration: 1 round/level
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
-
-When the mage casts this spell, a bolt of pure energy lances at <PRO_HISHER> target, unerringly hitting them.  If they do not successfully save vs. poison/death, they are paralyzed for 1 round per level.
-
-Even if the target makes their save, they are instead slowed for the duration. 
-
-This spell does not affect undead or constructs, such as golems.~
-
-@67002 = ~Paralyzed~
-
-
-@67301 = ~Solvent of Corrosion~
-@67302 = ~Solvent of Corrosion
-(Conjuration)
-
-Level: 3
-Range: 10'
-Duration: 3 rounds
-Casting Time: 3
-Area of Effect: 1 creature
-Saving Throw: Special
-
-This spell conjures a corrosive, acidic slime of horrid strength on one creature.  The acid persists, burning the creature over 3 rounds.  The first round, the creature suffers 1d3 points of acid damage per level (max 15d3). On the second round, the creature suffers 1d2 points of acid damage (max 15d2).  On the third round, the creature suffers 1 point of damage per level (max 15).
-
-Additionally, the target suffers a -2 penalty to attacks while the acid is in effect.  The affected creature can save vs. poison/death to reduce the damage by 1/2 and to avoid the to hit penalty.
-
-This spell is effective against constructs and other creatures normally resistant to magic.~
-
-@67303 = ~Iron Mind~
-@67304 = ~Iron Mind
-(Abjuration)
-
-Level: 3
-Range: Touch
-Duration: 1 hour
-Casting Time: 3
-Area of Effect: 1 creature
-Saving Throw: None
-
-When the mage casts this spell, and touches a creature, that creature becomes immune to charm or fear effects for the next hour.  Additionally, recipients gain a +2 bonus to save vs. spell for the duration.
-
-This spell does not protect against domination affects (except though the bonus to save vs. spell).~
-
-@67401 = ~Charm Monster~
-@67402 = ~Charm Monster
-(Enchantment/Charm)
-
-Level: 4
-Range: Visual range of the caster
-Duration: 5 rounds
-Casting Time: 1
-Area of Effect: 1 person
-Saving Throw: Neg.
-
-This spell affects any single person or monster it is cast upon. The term monster includes any non-undead, non-construct, non-extraplanar creature, such as an ogre or even a dragon.  The target is allowed a Saving Throw vs. Spell to negate the effect (a person, as described by charm person, saves at -4).
-
-If the spell's recipient fails <PRO_HISHER> Saving Throw, <PRO_HESHE> regards the caster as a trusted friend and ally to be heeded and protected. The caster may give him orders, and the charmed individual will carry them out as quickly as possible.
-
-If the caster harm or attempts to harm the charmed creature by some overt action, or if a Dispel Magic spell is cast upon the charmed creature, the Charm spell is broken. If two or more Charms simultaneously affect a creature, the most recent Charm takes precedence. Note that the subject has full memory of the events that took place while he was charmed. Also note that you cannot have a charmed creature leave the area where he is charmed.~
-
-@67410 = ~Mindsight~
-@67411 = ~Mindsight
-(Divination)
-
-Level: 4
-Range: 0
-Duration: 1 hour
-Casting Time: 1
-Area of Effect: the caster
-Saving Throw: None
-
-When this spell is cast, the caster is able to "see" and "hear" everything in <PRO_HISHER> immediate area, as though the environmental conditions are ideal for sight and sound, and <PRO_HESHE> can effectively "see" twice as far as before.  <PRO_HESHE> needs no sensory organs for this detection, and, as such, effects that blind or deafen are effectively dispelled.  Additionally, <PRO_HESHE> need not fear such effects as long as this spell is in place.
-
-<PRO_HESHE> effectively gains infravision while this spell is in effect, and <PRO_HISHER> preternatural awareness of <PRO_HISHER> surroundings grants a -2 bonus to <PRO_HISHER> armor class.
-
-This spell does not grant any special benefits against illusions.~
-
-
-@67501 = ~Snilloc's Major Missile~
-@67502 = ~Snilloc's Major Missile
-(Evocation)
-
-Level: 5
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
-
-Major Missile is much like Magic Missile, creating a single missile of magical energy that darts forth from the wizard's fingertip and unerringly strike their target, which must be a creature of some sort. This missile inflicts 1d4+1 points of damage, plus 1d4+1 for every two levels thereafter, to a maximum of 15d4 +15.~
-
-@67503 = ~Usurp Shell~
-@67504 = ~Usurp Shell
-(Necromancy)
-
-Level: 5
-Range: 60 ft.
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
-
-With this spell the caster attempts to bypass the targets mind, taking direct control of their body instead if they do not make a save vs. death -2.  Unlike a dominate spell, this spell does not touch the mind, and can even be used to usurp the body of an undead creature, or any creature with biological anatomy.
-
-If this spell is sucessful, the caster gains control of the targets body, allowing <PRO_HIMHER> to make the body attack or move as <PRO_HESHE> pleases. <PRO_HESHE> does not gain fine motor control of the tergets body, however, nor does <PRO_HESHE> gain control of the targets mind. Thus, <PRO_HESHE> cannot force the target to cast spells or use special abilities on <PRO_HISHER> behalf.
-
-Additionally, the targets movements are jerky and predicable, and they move at 80% their normal speed and suffer a -2 to all attack rolls. 
-
-If the target resists the spell, they suffer 3d8 points of magic damage.~
-
-@67505 = ~Body Controlled!~
-
-
-@68000 = ~Siphon Vitality~
-@68001 = ~Siphon Vitality
-(Necromancy)
-
-Level: 6
-Range: 15 ft.
-Duration: 1 hour
-Casting Time: 3
-Area of Effect: 1 creature
-Saving Throw: None
-
-When the caster casts this spell and points to a creature within 15', that creature is drained for 1d8 points of magic damage per 3 levels (maximum 6d8 at 18th level). These Hit Points are added to the caster's total as a temporary bonus that lasts for 1 hour.  The caster is also revitalized, gaining a +1 bonus to attack rolls, damage rolls, and moral.  This spell has no effect on constructs or undead.
-
-A caster cannot benefit from multiple castings of Siphon Vitality.~
-
-@68002 = ~A siphon vitality spell is already active!~
-
-
-
-
-

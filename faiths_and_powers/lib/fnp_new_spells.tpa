@@ -697,8 +697,8 @@ COPY ~%mod_folder%/data/new_spells/ranger_1/B_R101A.SPL~ ~override/B_R101F.SPL~ 
 COPY ~%mod_folder%/data/new_spells/ranger_1/B_BUT03.itm~ ~override~   //Eggshell Bullet
         SAY NAME1 @53021
         SAY NAME2 @53021
-        SAY UNIDENTIFIED_DESC @53022
-	SAY DESC @53022   //B_INK01
+        SAY UNIDENTIFIED_DESC @53024
+	SAY DESC @53024   //B_INK01
 
 //to clear earlier versions of the spell
 LAF RES_NUM_OF_SPELL_NAME
