@@ -5,12 +5,12 @@
 @50001 = ~Bless Water
 (Alteration)
 
-Level: 1  
+Level: 1
 Sphere: Creation
 Range: 0
-Duration: 8 hours  
+Duration: 8 hours
 Casting Time: 9
-Area of Effect: The Caster  
+Area of Effect: The Caster
 Saving Throw: None
 
 With this spell, the caster performs a short, but sacred ritual, creating holy water which <PRO_HESHE> can use <PRO_HIMHER>self or give to <PRO_HISHER> companions.  Holy water is harmful against evil outsiders and undead creatures, and mildly beneficial to living creatures.  Vials can be thrown or drunk, healing 1d4 points of damage to a living creature, or causing 2d4+2 magic damage to an undead creature or demonic outsider.
@@ -103,6 +103,7 @@ Range: Self
 Duration: 1 round/level (max 5)
 Casting Time: 0
 Saving Throw: None
+
 This spell imbues the caster with pure force that <PRO_HESHE> can use against <PRO_HISHER> enemies. <PRO_HISHER> melee attacks inflict an additional 2d6 points of magic damage for 1 round per level (max 5 rounds).~
 
 
@@ -174,13 +175,16 @@ Affected creatures shake off this effect if they are attacked.~
 @50808 = ~Enthralled~
 @50809 = ~No longer Enthralled~
 
+// Dictate spell, a modified version of Command that lasts 5 rounds
 @50810 = ~Dictate~
-@50811 = ~Duration: 1 round~
+@50811 = ~Duration: 1 round~ // must be extracted from spell description for Command, to be replaced by @50812
 @50812 = ~Duration: 5 rounds~
-@50813 = ~a single round~
+@50813 = ~a single round~ // must be extracted from spell description for Command, to be replaced by @50814
 @50814 = ~five rounds~
-@50815 = ~At the end of the round~
+@50815 = ~At the end of the round~ // must be extracted from spell description for Command, to be replaced by @50816
 @50816 = ~After 5 rounds~
+
+// this is for Feral Instinct
 @50817 = ~Flight~
 @50818 = ~Fight~
 @50819 = ~Feral Instinct~
@@ -195,7 +199,7 @@ Casting Time: 1
 Area of Effect: 1 creature
 Saving Throw: Spell
 
-With this spell, the druid causes the targetted creature to revert to a primitive state if they do not save vs. spell.  
+With this spell, the druid causes the targeted creature to revert to a primitive state if they do not save vs. spell.  
 
 If the target doesn't save vs. spell, they will enter 'fight or flight' mode, either attacking the nearest creature--friend or foe--in melee, or fleeing the battlefield.~
 
@@ -244,12 +248,13 @@ While this spell is in effect, the caster's body is helpless, as <PRO_HESHE> is 
 
 @51202 = ~Waves of Agony
 (Necromancy)
+
 Level: 5
 Sphere: Affliction
 Range: 35 feet
 Duration: Special, maximum of 3 rounds
 Casting Time: 5
-Area of Effect: One Creature
+Area of Effect: 1 creature
 Saving Throw: Poison/Death -5 see below
 
 When the priest casts this spell, <PRO_HESHE> points to a single creature within 35 feet.  That creature is wracked with pain and must make a save vs death at -5 or be unable to move or act for a full round and they will take 2 points of non-lethal damage per level of the priest (max 30 at level 15). If he saves, he takes half damage and shakes off the spell.
@@ -312,7 +317,7 @@ Casting Time: 6
 Area of Effect: 10-ft. radius
 Saving Throw: none
 
-When the druid casts this spell, <PRO_HESHE> selects an area within range.  The plant life in the area reconfigue to construct a deadly trap that does 1d8 points of piercing damage per level (max 10d8). 
+When the druid casts this spell, <PRO_HESHE> selects an area within range.  The plant life in the area reconfigure to construct a deadly trap that does 1d8 points of piercing damage per level (max 10d8). 
 
 Much like a thief trap, this spell fails if cast in the presence of enemies.~
 
@@ -330,7 +335,7 @@ Duration: 1 Turn
 Casting Time: 3
 Area of Effect: The caster
 
-When the caster completes this spell, <PRO_HISHER> hands become blocks of stone.  <PRO_HESHE> can make melee attacks with these hands inflicting 2d8 points of damage plus strength.  In addition, <PRO_HESHE> is infused with the power of the earth, and <PRO_HISHER> strenght is increased by 4 for the duration of the spell.~
+When the caster completes this spell, <PRO_HISHER> hands become blocks of stone.  <PRO_HESHE> can make melee attacks with these hands inflicting 2d8 points of damage plus strength.  In addition, <PRO_HESHE> is infused with the power of the earth, and <PRO_HISHER> strength is increased by 4 for the duration of the spell.~
 
 @51504 = ~Stone Fist
 
@@ -339,7 +344,7 @@ STATISTICS:
 Damage: 2d8 (blunt)
 Speed Factor: 0
 Special:
-+2 to Strength~
++4 to Strength~
 
 //@51600
 
@@ -488,7 +493,7 @@ Casting Time: 5
 Area of Effect: 1 creature 
 Saving Throw: None
 
-Upon completion of this spell the caster calls into being a huge disembodied fist formed purely of water. This fist will remain in existance for 1 round per 2 caster levels, up to maximum of 5 rounds at level 9. The first will attack the chosen target once per round and cause cold damage as listed below:
+Upon completion of this spell the caster calls into being a huge disembodied fist formed purely of water. This fist will remain in existence for 1 round per 2 caster levels, up to maximum of 5 rounds at level 9. The first will attack the chosen target once per round and cause cold damage as listed below:
 
 Caster level 3-4: 1d6 damage per round
 Caster level 5-8: 1d10 damage per round
@@ -553,7 +558,7 @@ HP 60, AC 4, THAC0 12, Saving Throws 10/13/10/13/13
 1 Attack Per Round, 1d8+1 Cold Damage (Touch +1)
 
 Combat Abilities:
-Life Drain: each successeful hit raises wraith hit points by 5 for 1 turn, and the target must save vs. death or lose 1 level
+Life Drain: each successful hit raises wraith hit points by 5 for 1 turn, and the target must save vs. death or lose 1 level
 
 Special Qualities:
 Immune to normal weapons
@@ -589,7 +594,7 @@ This spell creates special ammunition in the caster's inventory.  This spell can
 
 All ammunition types strike as +1 weapons (though, they do not necessarily gain a +1 bonus to strike or damage).
 
-- Hunting Arrows or Bolts: Targets struck gain the 'bleed' condition for up to 6 rounds if they do not save vs. wands.  Bleeding targets suffer 1 point of slashing damage each round they are affected by bleed.  If they recieve any kind of cure effect, the bleed condition is removed.
+- Hunting Arrows or Bolts: Targets struck gain the 'bleed' condition for up to 6 rounds if they do not save vs. wands.  Bleeding targets suffer 1 point of slashing damage each round they are affected by bleed.  If they receive any kind of cure effect, the bleed condition is removed.
 
 - Weighted Bullets: Weighted bullets do an additional +4 points of blunt damage upon impact, are -1 to hit, and 30% knock down (save vs. Wand negates).
 
@@ -621,7 +626,7 @@ Weight: 0~
 @53006 = ~Bleeding~
 @53007 = ~Hunting Bolts~
 
-@53008 = ~This bolt is sharp and jagged, capable of causing grievous persistent wounds to targets.  When this arrow strikes a target, they must save vs. wands or take 1 point of slashing damage/round for 6 rounds.  This effect is removed if the target receives healing of any kind.
+@53008 = ~This bolt is sharp and jagged, capable of causing grievous persistent wounds to targets.  When this bolt strikes a target, they must save vs. wands or take 1 point of slashing damage/round for 6 rounds.  This effect is removed if the target receives healing of any kind.
 
 This bolt strikes as a +1 weapon.
 
@@ -680,13 +685,13 @@ THAC0: +1
 Damage: 1d8
 Special: 15% of doing an additional 1d8 missile damage.
 Damage type: Missile
-Launcher: Bow
+Launcher: Crossbow
 
 Weight: 0~
 
 @53015 = ~Balanced Bullets~
 
-@53016 = ~This bullet is very well balanced and aerodynamic, making it especially accurate, granting a +3 to all attack roles.
+@53016 = ~This bullet is very well balanced and aerodynamic, making it especially accurate, granting a +3 to all attack rolls.
 
 This bullet strikes as a +1 weapon.
 
@@ -713,9 +718,9 @@ Launcher: Bow
 Weight: 0~
 
 @53019 = ~Piercing Bolt~
-@53020 = ~This arrow seems perfectly normal, if particularly sharp. However, when it hits its target, it pierces flesh with ease, doing substantial damage.
+@53020 = ~This bolt seems perfectly normal, if particularly sharp. However, when it hits its target, it pierces flesh with ease, doing substantial damage.
 
-This arrow strikes as a +1 weapon.
+This bolt strikes as a +1 weapon.
 
 STATISTICS:
 
@@ -734,7 +739,7 @@ Weight: 0~
 Level: 1  
 Sphere: Elemental Earth
 Range: Personal
-Duration: Instant: 2 turns
+Duration: 2 turns
 Casting Time: 0
 Saving Throw: None  
 
@@ -766,7 +771,7 @@ Weight: 0~
 Level: 1  
 Sphere: Combat
 Range: Personal
-Duration: Instant: 1 turn
+Duration: 1 turn
 Casting Time: 1
 Area of Effect: The caster
 Saving Throw: None

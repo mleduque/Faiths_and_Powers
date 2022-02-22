@@ -2104,7 +2104,7 @@ SCOUTS are warriors who may not be particularly spiritual, but tend to share cer
 @90103  = ~FOREST RANGER: the most common, or at least commonly visible, type of ranger, forest rangers are knowledgeable woodsmen and able warriors. Fiercely protective by nature, they are often called upon to fulfill a dual role: sometimes guiding travelers through areas with hostile wildlife, and at other times protecting that very wildlife from those who would carelessly exploit Toril's resource-rich woodlands.
 
 Advantages:
-- Innate ability to Charm animals and beats, once per day per 5 levels of experience.
+- Innate ability to Charm animals and beasts, once per day per 5 levels of experience.
 - Innate ability to cast the Goodberry spell once per day.
 - +2 bonus to hit and damage against (non-humanoid) mammals, gibberlings, and lycanthropes.
 
@@ -2579,7 +2579,7 @@ Saving Throw: None
 
 Upon casting this spell, the priest places <PRO_HISHER>self under a meditative trance.  As long as <PRO_HESHE> continues to meditate, <PRO_HESHE> receives a +1 bonus to all saves.  However, while <PRO_HESHE> can fight normally, <PRO_HESHE> cannot cast spells, nor turn undead.
 
-Meditation has no effect if the priest is under the effects of bless, aid, prayer or chant spell, and if <PRO_HESHE> is affected by one of these spells while under the effects of this Orison, Canticle is immediately dispelled.~
+Meditation has no effect if the priest is under the effects of bless, aid, prayer or chant spell, and if <PRO_HESHE> is affected by one of these spells while under the effects of this Orison, Meditation is immediately dispelled.~
 
 @104000005 = ~Meditation
 (Conjuration/Summoning)
@@ -2593,4 +2593,4 @@ Saving Throw: None
 
 Upon casting this spell, the priest places <PRO_HISHER>self under a meditative trance.  As long as <PRO_HESHE> continues to meditate, <PRO_HESHE> receives a +1 bonus to all saves.  However, while <PRO_HESHE> can fight normally, <PRO_HESHE> cannot cast spells, nor turn undead.
 
-Meditation has no effect if the priest is under the effects of bless, aid, prayer or chant spell, and if <PRO_HESHE> is affected by one of these spells while under the effects of this Orison, Canticle is immediately dispelled.~
+Meditation has no effect if the priest is under the effects of bless, aid, prayer or chant spell, and if <PRO_HESHE> is affected by one of these spells while under the effects of this Orison, Meditation is immediately dispelled.~
