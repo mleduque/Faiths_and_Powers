@@ -53,7 +53,7 @@ Requires: Enlightenment
 @60071  = ~Spiritual Attunement~
 @60072  = ~Spiritual Attunement
 
-Exceptionally enlightened priests and mystics are able to create a much stronger connection between their soul and their magical abilities. By choosing this ability, they can cast more high level spells without resting. Spiritual Attunrment will allow an additional 6th and 7th level spell to be cast each day.
+Exceptionally enlightened priests and mystics are able to create a much stronger connection between their soul and their magical abilities. By choosing this ability, they can cast more high level spells without resting. Spiritual Attunement will allow an additional 6th and 7th level spell to be cast each day.
 
 Requires: Enlightenment
 ~
@@ -209,7 +209,7 @@ Casting Time: 10
 Area of Effect: Special
 Saving Throw: None
 
-This spell initially summons a horde of enchanted animals ready to fight for the caster.  These creatures have 50% more hit die than normal, they are immune to all sleep, feeblemind, confusion, fear, hold, stun and beserk effects, they move twice as fast as normal, and their movement is unimpeded by any magical effects.  Additionally, the caster is able to see through their eyes, and can send them ahead to scout or fight.  These special summons do not count against the normal limit of summoned creatures.
+This spell initially summons a horde of enchanted animals ready to fight for the caster.  These creatures have 50% more hit die than normal, they are immune to all sleep, feeblemind, confusion, fear, hold, stun and berserk effects, they move twice as fast as normal, and their movement is unimpeded by any magical effects.  Additionally, the caster is able to see through their eyes, and can send them ahead to scout or fight.  These special summons do not count against the normal limit of summoned creatures.
 ~
 @61401  = ~Shapechange Shambling Mound~
 @61402  = ~Shambling Mound Transformation
