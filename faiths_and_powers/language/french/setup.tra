@@ -8,6 +8,7 @@
 @21  = ~FnP : le système de sphères original de Faiths & Powers~
 @22  = ~AD&D : un système de sphères PnP plus traditionnel (expérimental/non terminé)~
 @23  = ~Original Plus : tout le monde a les sorts de base et les kits ont un accès focus sur deux sphères~
+@24  = ~Nouveau FnP : un nouveau système de sphères (moins de sphère, plus équilibré globalement)~
 @28  = ~Personnalisé : un système de sphères fourni par le joueur~
 @29  = ~Aucun : pas de système de sphères, seulement les kits de style originels~
 //
@@ -17,7 +18,7 @@
 @35  = ~Installer les kits de paladin~
 @37  = ~Installer les kits de rôdeur~
 @75  = ~Modifier l'utilisabilité des armes et les compétences d'armes des prêtres~
-@80  = ~Appliquer le système de sphères~
+@80  = ~Appliquer le système de sphères (REQUIS pour que le système de sphères fonctionne)~
 @85  = ~Appliquer les kits de FnP aux PNJ~
 @91  = ~Druides multiclassés~
 @92  = ~Chamans multiclassés~
@@ -1405,8 +1406,10 @@ Jet de sauvegarde : aucun
 
 Le lanceur de sort peut convoquer 3d2 petites araignées pour attaquer ses ennemis. Les araignées sont des créatures ordinaires et naturelles, mais grandes pour leur espèce. Individuellement, elles ne représenteraient une menace que pour les adversaires les plus faibles, mais leur morsure porte un poison douloureux et néfaste et, en grand nombre, elles peuvent être dangereuses pour un ennemi non préparé.
 ~
-@73425  = ~Convocation de scarabée rhinocéros~
-@73426  = ~Convocation de scarabée rhinocéros
+@73425  = ~Convocation d'araignées géantes~
+@73426  = ~Convocation d'araignées géantes~
+@73427  = ~Convocation de scarabée rhinocéros~
+@73428  = ~Convocation de scarabée rhinocéros
 (Conjuration)
 
 Niveau : 7
