@@ -8,7 +8,7 @@
 @21  = ~FnP : le système de sphères original de Faiths & Powers~
 @22  = ~AD&D : un système de sphères PnP plus traditionnel (expérimental/non terminé)~
 @23  = ~Original Plus : tout le monde a les sorts de base et les kits ont un accès focus sur deux sphères~
-@24  = ~Nouveau FnP : un nouveau système de sphères (moins de sphère, plus équilibré globalement)~
+@24  = ~Nouveau FnP : un nouveau système de sphères (moins de sphères, plus équilibré globalement)~
 @28  = ~Personnalisé : un système de sphères fourni par le joueur~
 @29  = ~Aucun : pas de système de sphères, seulement les kits de style originels~
 //
@@ -526,6 +526,7 @@ Restrictions :
 - Illumination : la cible subit un malus de 1 point au TAC0 et à la classe d'armure pendant 1 round. Si elle échoue à un jet de sauvegarde contre les souffles, les pénalités sont doublées, durent 2 rounds et la cible est aveuglée le premier round.
 - Raidissement des os : la cible souffre de raideurs douloureuses. Elle subit une pénalité de 1 point au TAC0 et aux dégâts pendant un round. Si elle échoue à un jet de sauvegarde contre la mort, les pénalités sont doublées, durent deux rounds et la cible est ralentie pendant le premier round.
 - Poigne terreuse : la cible est enchevêtrée, incapable de se déplacer pendant 2 rounds si elle échoue à un jet de sauvegarde contre la pétrification.~
+@32415  = ~Lapin~
 //
 // ... priest of azuth:
 //
