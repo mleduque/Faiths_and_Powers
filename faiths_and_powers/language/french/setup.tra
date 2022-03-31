@@ -7,8 +7,9 @@
 @20  = ~Créer un système de sphères~
 @21  = ~FnP : le système de sphères original de Faiths & Powers~
 @22  = ~AD&D : un système de sphères PnP plus traditionnel (expérimental/non terminé)~
-@23  = ~Original Plus : tout le monde a les sorts de base et les kits ont un accès focus sur deux sphères~
-@24  = ~Nouveau FnP : un nouveau système de sphères (moins de sphères, plus équilibré globalement)~
+@23  = ~Vanilla : listes de sorts traditionnelles, les kits peuvent traverser la division clerc/druide~
+@24  = ~VPlus : tout le monde a les sorts de base et les kits ont un accès focus sur deux sphères~
+@25  = ~Nouveau FnP(nuFnP) : un nouveau système de sphères (moins de sphères, plus équilibré globalement)~
 @28  = ~Personnalisé : un système de sphères fourni par le joueur~
 @29  = ~Aucun : pas de système de sphères, seulement les kits de style originels~
 //
@@ -346,7 +347,23 @@ Durée : instantanée
 Temps d'incantation : 3
 Zone d'effet : spéciale
 Jet de sauvegarde : divise par deux
-En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau du lanceur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.- touchant le même ennemi plusieurs fois, ou parfois les membres du groupe du lanceur.~
+En lançant ce sort, le magicien libère une décharge électrique puissante qui inflige 1d6 points de dégâts par niveau du lanceur de sorts (dégâts maximum de 10d6) à chaque créature située dans la zone d'effet. Un jet de sauvegarde contre les sorts réussi permet de n'encaisser que la moitié des dégâts (arrondis à la fraction inférieure). Si l'éclair rencontre un mur, il rebondit jusqu'à ce qu'il atteigne sa longueur complète.- touchant le même ennemi plusieurs fois, ou parfois les membres du groupe du lanceur.
+~
+//
+// ... scion of Bhaal:
+//
+@22001 = ~rejeton de Bhaal~
+@22002 = ~Rejeton de Bhaal~
+@22003 = ~REJETON DE BHAAL : Il est dit qu'avant que Bhaal soit tué par Cyric pendant le temps des troubles, il avait prédi sa propre fin et s'était préparé pour la contourner. Après tout, le pouvoir d'un dieu, surtout celui du dieu de la mort, ne s'estompe pas si rapidement. Même si beaucoup de prêtres de Bhaal ont perdu leur accès à la magie, il semble que quelques uns ont réussit à converser une partie de son pouvoir. Nul ne sait si c'est grâce à leur adoration, comme d'autres prêtres de divinités portées disparues comme Leïra qui ont continué de recevoir des bénédictions, ou si c'est par d'autres mécanismes. Quant à savoir quoi faire de ce pouvoir et où il peut mener, c'est encore à déterminer.
+
+Avantages :
+- Au niveau 3, peut lancer Horreur de façon innée une fois par jour.
+- Au niveau 7, peut lancer Mise à mort de façon innée une fois par jour.
+- Au niveau 12, peut convoquer un Serviteur aérien une fois par jour.
+
+Inconvénients :
+- Aucun
+~
 
 //
 // ... cleric of Cyric:
