@@ -6,10 +6,10 @@
 //
 @20  = ~Créer un système de sphères~
 @21  = ~FnP : le système de sphères original de Faiths & Powers~
-@22  = ~AD&D : un système de sphères PnP plus traditionnel (expérimental/non terminé)~
+@22  = ~AD&D/DR : inspiré par le PnP et Divine Remix~
 @23  = ~Vanilla : listes de sorts traditionnelles, les kits peuvent traverser la division clerc/druide~
 @24  = ~VPlus : tout le monde a les sorts de base et les kits ont un accès focus sur deux sphères~
-@25  = ~Nouveau FnP(nuFnP) : un nouveau système de sphères (moins de sphères, plus équilibré globalement)~
+@25  = ~Nouveau FnP(nuFnP) : un nouveau système de sphères (moins de sphères, plus équilibré globalement, plus proche du PnP)~
 @28  = ~Personnalisé : un système de sphères fourni par le joueur~
 @29  = ~Aucun : pas de système de sphères, seulement les kits de style originels~
 //
@@ -45,6 +45,9 @@
 @142  = ~Ne changer aucun sort~
 @143  = ~Changer ce sort~
 @144  = ~Changer un autre sort~
+@151  = ~Choisir une sphère~
+@152  = ~Apprendre des sorts de cette sphère~
+@153  = ~Choisir une autre sphère~
 //
 @200  = ~kits de clerc nouveaux et revisités~
 
@@ -107,6 +110,117 @@ Les gnomes peuvent choisir cette multi-classe, mais deviennent clercs/illusionni
 @10051 = ~guerrier mystique~
 @10052 = ~Guerrier mystique~
 @10055 = ~GUERRIER MYSTIQUE : Ce personnage peut utiliser les capacités d'un guerrier et d'un mystique, mais l'usage des armes est limité à celles autorisées par l'éthique du prêtre. Il peut atteindre la spécialisation, mais pas la maîtrise dans le maniement des armes.~
+
+//
+// first FnP sphere system
+//
+@12101 = ~Générale~
+@12102 = ~Vie~
+@12103 = ~Mort~
+@12104 = ~Vermine~
+@12105 = ~Destruction~
+@12106 = ~Protection~
+@12107 = ~Guerre~
+@12108 = ~Exploration~
+@12109 = ~Connaissance~
+@12110 = ~Duperie~
+@12111 = ~Pensée~
+@12112 = ~Effroi~
+@12113 = ~Vigueur~
+@12114 = ~Affliction~
+@12115 = ~Faune~
+@12116 = ~Flore~
+@12117 = ~Terre~
+@12118 = ~Air~
+@12119 = ~Eau~
+@12120 = ~Feu~
+@12121 = ~Lumière~
+@12122 = ~Ombre~
+@12123 = ~Magie~
+@12124 = ~Astrale~
+//
+// PnP sphere system
+//
+@12201 = ~Générale~
+@12202 = ~Guérison~
+@12203 = ~Nécromancie~
+@12204 = ~Loi~
+@12205 = ~Chaos~
+@12206 = ~Protection~
+@12207 = ~Combat~
+@12208 = ~Voyage~
+@12209 = ~Divination~
+@12210 = ~Garde~
+@12211 = ~Pensée~
+@12212 = ~Charme~
+@12213 = ~Création~
+@12214 = ~Convocation~
+@12215 = ~Faune~
+@12216 = ~Flore~
+@12217 = ~Terre~
+@12218 = ~Air~
+@12219 = ~Eau~
+@12220 = ~Feu~
+@12221 = ~Soleil~
+@12222 = ~Climat~
+@12223 = ~Nombres~
+@12224 = ~Astrale~
+//
+// vanilla non-sphere system
+//
+@12301 = ~Générale~
+@12302 = ~Clerc~
+@12303 = ~Mort~
+@12304 = ~Vermine~
+@12305 = ~Destruction~
+@12306 = ~Protection~
+@12307 = ~Guerre~
+@12308 = ~Exploration~
+@12309 = ~Connaissance~
+@12310 = ~Duperie~
+@12311 = ~Pensée~
+@12312 = ~Effroi~
+@12313 = ~Druide~
+@12314 = ~Affliction~
+@12315 = ~Faune~
+@12316 = ~Flore~
+@12317 = ~Terre~
+@12318 = ~Air~
+@12319 = ~Eau~
+@12320 = ~Feu~
+@12321 = ~Lumière~
+@12322 = ~Ombre~
+@12323 = ~Magie~
+@12324 = ~Astrale~
+//
+// new better balanced FnP system
+//
+@12501 = ~Générale~
+@12502 = ~Universelle~
+@12503 = ~Mort~
+@12504 = ~Loi~
+@12505 = ~Chaos~
+@12506 = ~Protection~
+@12507 = ~Guerre~
+@12508 = ~no_sphere_1~
+@12509 = ~Perception~
+@12510 = ~Duperie~
+@12511 = ~Pensée~
+@12512 = ~Insectes~
+@12513 = ~Vigueur~
+@12514 = ~Décomposition~
+@12515 = ~Faune~
+@12516 = ~Flore~
+@12517 = ~Terre~
+@12518 = ~Air~
+@12519 = ~Eau~
+@12520 = ~Feu~
+@12521 = ~Rayonnement~
+@12522 = ~Ombre~
+@12523 = ~no_sphere_2~
+@12524 = ~Esprit~
+//
+//
 
 @20001 = ~prêtre-ur~
 @20002 = ~Prêtre-ur~

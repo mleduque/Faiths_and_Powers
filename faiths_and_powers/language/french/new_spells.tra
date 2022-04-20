@@ -499,7 +499,6 @@ Le lanceur marche dans le plan de l'ombre et peut s'y déplacer pendant 7 secon
 
 @52003 = ~Manteau de Ténèbres~
 @52004 = ~Manteau de Ténèbres
-(Abjuration)
 
 Niveau : 3
 Sphère : Soleil
@@ -556,6 +555,19 @@ Caractéristiques spéciales :
 Immunisée contre les armes normales.
 Immunisée à l'attaque sournoise, à la cécité, au charme, à la confusion, à l'immobilisation, au poison, au sommeil, à l'étourdissement et aux effets de mort.
 Résistance au froid 100 %, résistance aux dégâts physiques 50 %~
+
+@52009  = ~Lueurs dansantes~
+@52010  = ~Lueurs dansantes
+
+Niveau : 1
+Portée : champ visuel du lanceur
+Durée : 2 rounds par niveau
+Temps d'incantation : 1
+Zone d'effet : spécial
+Jet de sauvegarde : aucun
+
+Ce sort crée jusqu'à quatre sphères lumineuses (feu follet) ou une forme vaguement humanoïde et faiblement luisante ressemblant à un élémentaire de feu. Les lueurs dansantes se déplacent de façon aléatoire sans que le lanceur ait besoin de se concentrer. Même si les lueurs n'infligent aucun dégât physique, elles peuvent distraire les ennemis jusqu'à ce que le sort expire ou qu'elles soient dispersées par les armes ou la magie.
+~
 
 @59999  = ~Protection de l'esprit
 (Abjuration)
